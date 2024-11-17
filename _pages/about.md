@@ -18,8 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I'm currently a Lecturer/Assistant Professor at School of Electronic Information and Communications, Huazhong University of Science and Technology, Wuhan, China. Before that, I worked as a [Research Fellow / Postdoc](https://www.ntu.edu.sg/ciss/about-us/our-people#Content_C004_Col00) from 2022 to 2024, and a visiting PhD. student from 2021 to 2022 at [School of Electrical and Electronic Engineering](https://www.ntu.edu.sg/eee), [Nanyang Technological University](https://www.ntu.edu.sg/). 
+
 My research interest includes Multimodal Large Language Models, Generactive Signal/Image Processing, Computational Imaging & Photography and Learned Video Compression. I have published more than 40 papers in the past 5 years. 
-#My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+
+{% My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+%}
 
 
 # 🔥 News
