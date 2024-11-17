@@ -54,7 +54,7 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 + 09/2022, 1 paper on Metaverse survey has been <font color=Tomato>accepted</font> by *Artificial Intelligence View*.   
 + 08/2022, I get Letter of Appreciation from **University of Oxford**.  
 + 04/2022, 1 paper has been <font color=Tomato>accepted</font> by **IEEE Transactions on Multimedia**.  
-+ 03/2021, 1 paper has been <font color=Tomato>accepted</font> by **IEEE Transactions on Circuits and Systems for Video Technology**.  
++ 03/2022, 1 paper has been <font color=Tomato>published</font> in **IEEE Transactions on Circuits and Systems for Video Technology**.  
 
 
 
