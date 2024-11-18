@@ -130,7 +130,8 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 
 
 <span class='anchor' id='invited-talks'></span>
-# 💬 Talks/Presentations
+# 💡 Talks/Presentations
+[//]: 💬
 [//]: - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 [//]: - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 - *2023.12*, Annual Conference on Neural Information Processing Systems (NeurIPS 2023), New Orleans, Louisiana, USA.
