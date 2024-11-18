@@ -29,7 +29,7 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 
 <!-- 段落注释 -->
 [//]: 段落注释
-<!-- 文字颜色$\color{RoyalBlue} {Editorial Board}$  RoyalBlue, DarkBlue, NavyBlue-->
+<!-- 文字颜色$\color{RoyalBlue} {Editorial Board}$  RoyalBlue, DarkBlue, Navy-->
 <!-- 文字颜色<font color=lightgrey>Editorial Board</font> -->
 [//]: 文字颜色 <font color=Blue>Editorial Board</font>  <font color=Tomato>accepted</font>
 [//]: 背景颜色 $\colorbox{options}{text}$
@@ -45,20 +45,20 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 
 # 🔥 News 
 - *2024.11*: &nbsp; I am serving as $\color{Navy} {Editorial &ensp;Board}$ member of *Applied Soft Computing(中科院一区TOP，JCR Q1)* 
-- *2024.07*: &nbsp; I am serving as $\color{DarkBlue} {Lead &ensp;Guest &ensp;Editor}$ of *Journal of Visual Communication and Image Representation*(JCR Q2)
+- *2024.07*: &nbsp; I am serving as $\color{Navy} {Lead &ensp;Guest &ensp;Editor}$ of *Journal of Visual Communication and Image Representation*(JCR Q2)
 - *2024.11*: &nbsp;🎉🎉 3 papers have been accepted by *ACM Transactions on Multimedia Computing Communications and Applications* (JCR Q1)
 - *2024.11*: &nbsp;🎉🎉 1 paper has been accepted by **Computer Vision and Image Understanding**(JCR Q1)
 - *2024.08*: &nbsp;🎉🎉 1 paper has been accepted by **IEEE Transactions on Multimedia**
-- *2024.11*: &nbsp; I am serving as $\color{DarkBlue} {Special &ensp;Session &ensp;Organizer}$ by *ISCAS 2025*, see you in UK 2025.
+- *2024.11*: &nbsp; I am serving as $\color{Navy} {Special &ensp;Session &ensp;Organizer}$ by *ISCAS 2025*, see you in UK 2025.
 - *2024.03*: &nbsp; I joined school of EIC, HUST
-- *2023.12*: &nbsp; I am appointed as $\color{DarkBlue} {Special &ensp;Session &ensp;Chair}$ by *ISCAS 2024*, Singapore
+- *2023.12*: &nbsp; I am appointed as $\color{Navy} {Special &ensp;Session &ensp;Chair}$ by *ISCAS 2024*, Singapore
 - *2023.11*: &nbsp; We are granted $\color{Tomato} {Silver &ensp; Awards}$ in 2024 *IET Excellence and Innovation Awards*
 - *2023.12*: &nbsp;🎉🎉 2 papers have been accepted by **Optics Express** and **Optics Letters**.
-- *2023.12*: &nbsp;🎉🎉 I was awarded the $\color{DarkBlue} {全国金奖}$ in *中国国际大学生创新大赛* 
-- *2023.11*: &nbsp;🎉🎉 I was awarded the $\color{DarkBlue} {全国铜奖}$ in *中国博士后创新创业大赛* 
-- *2023.10*: &nbsp;🎉🎉 I was awarded the $\color{DarkBlue} {优胜奖}$ in *春晖杯中国留学人员创新创业大赛* 
+- *2023.12*: &nbsp;🎉🎉 I was awarded the $\color{Navy} {全国金奖}$ in *中国国际大学生创新大赛* 
+- *2023.11*: &nbsp;🎉🎉 I was awarded the $\color{Navy} {全国铜奖}$ in *中国博士后创新创业大赛* 
+- *2023.10*: &nbsp;🎉🎉 I was awarded the $\color{Navy} {优胜奖}$ in *春晖杯中国留学人员创新创业大赛* 
 - *2023.10*: &nbsp;🎉🎉 I am elected as 中国科协决策咨询专家团队-青年研究员
-- *2023.09*: &nbsp; I am serving as $\color{DarkBlue} {Lead &ensp;Guest &ensp;Editor}$ of *Multimedia Tools and Applications*
+- *2023.09*: &nbsp; I am serving as $\color{Navy} {Lead &ensp;Guest &ensp;Editor}$ of *Multimedia Tools and Applications*
 - *2023.09*: &nbsp;🎉🎉 1 paper has been accepted by **NeurIPS 2023**, New Orleans, USA.
 - *2023.09*: &nbsp;🎉🎉 1 paper has been accepted by **Applied Intelligence**. 
 - *2023.05*: &nbsp;🎉🎉 1 paper has been accepted by **IEEE Transactions on Multimedia**.   
@@ -89,7 +89,7 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 
 [//]: - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
   
-- Kejun Wu, You Yang, Gangyi Jiang, and Xiaoping Zhang, “Hierarchical Independent Coding Scheme for Varifocal Multiview Images based on Angular-focal Joint Prediction,” IEEE Transactions on Multimedia, 26:2993-3006, 2024. $\color{Tomato} {ESI-Highly &ensp; Cited &ensp; Papers}$
+- Kejun Wu, You Yang, Gangyi Jiang, and Xiaoping Zhang, “Hierarchical Independent Coding Scheme for Varifocal Multiview Images based on Angular-focal Joint Prediction,” IEEE Transactions on Multimedia, 26:2993-3006, 2024. $\color{Tomato} {ESI-Highly Cited Papers}$
 - Kejun Wu, Qiong Liu, and Xiaoping Zhang, “Focal Stack Image Compression Based on Basis-Quadtree Representation,” in IEEE Transactions on Multimedia, 25:3975-3988, 2022.
 - Kejun Wu, Qiong Liu, You Yang, and Xiaoping Zhang, “Gaussian-Wiener Representation and Hierarchical Coding Scheme for Focal Stack Images,” in IEEE Transactions on Circuits and Systems for Video Technology, 32(2):523-537, 2022.
 - Kejun Wu, Zhenxing Li, You Yang, Qiong Liu, and Xiaoping Zhang, “End-to-end Deep Video Compression Based on Hierarchical Temporal Context Learning,” in IEEE Transactions on Multimedia, 2024. (Accepted)
