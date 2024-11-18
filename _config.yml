@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Kejun Wu(吴科君)"
-description              : "Lecturer at Huazhong University of Science and Technology, focus on Multimodal Large Language Models, Generactive Signal/Image Processing,."
+description              : "Lecturer at HUST, focus on Multimodal Large Language Models, Generactive Signal/Image Processing."
 repository               : "Kejun-WU/Kejun-WU.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Kejun Wu(吴科君)"
   avatar           : "images/AAAAA.png"
-  bio              : "Huazhong University of Science and Technology"
+  bio              : "Huazhong University of Science and Technology (HUST)"
   location         : "Wuhan, China"
   employer         :
   pubmed           : 
