@@ -43,7 +43,6 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 + 12/2023, I am appointed as **Special Session Chair** by *ISCAS 2024*, see you in May in Singapore. 
 + 11/2023, We are granted **Silver Awards** in 2024 **IET Excellence and Innovation Awards**
 + 11/2023, 2 papers have been <font color=Tomato>accepted</font> by *Optics Express* and *Optics Letters*.
-
 - *2023.12*: &nbsp;🎉🎉 I was awarded the *中国国际大学生创新大赛* **全国金奖**
 - *2023.11*: &nbsp;🎉🎉 I was awarded the *中国博士后创新创业大赛* **全国铜奖**
 - *2023.10*: &nbsp;🎉🎉 I was awarded the *春晖杯中国留学人员创新创业大赛* **优胜奖**
