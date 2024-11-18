@@ -37,10 +37,11 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 # 💻 Academic Service
 - *2024.11 - Present*, Editorial Board Member/Associated Editor, Applied Soft Computing.
 - *2024.07 - Present*, Lead Guest Editor, Journal of Visual Communication and Image Representation.
-- *2024.10 - Present*, Special Session Organizer, ISCAS 2025.
-- *2024.05*, Special Session Chair}, ISCAS 2024.
-- *2024.04*, Special Session Chair, ICASSP 2024.
-- *2023.09*, Special Session Chair}, MMSP 2023.
+- *2024.10 - Present*, Special Session Organizer, ISCAS 2025, UK.
+- *2024.05*, Special Session Chair, ISCAS 2024, Singapore.
+- *2024.04*, Special Session Chair, ICASSP 2024, Korea.
+- *2023.09*, Special Session Chair, MMSP 2023, France.
+- *2018.09 - Present*, Reviewer of IEEE TIP, IEEE TMM, IEEE TCSVT, IEEE TBc, NeurIPS, ICASSP, ISCAS, MICCAI, MMSP, PR, OE, OL, CVIU, TVCJ, Measurement, etc.
 
 # 🔥 News 
 - *2024.11*: &nbsp; I am serving as $\color{NavyBlue} {Editorial &ensp;Board}$ member of *Applied Soft Computing(中科院一区TOP，JCR Q1)* 
