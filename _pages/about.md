@@ -78,23 +78,22 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- [1]IEEE Senior Member,
-[2]IET Excellence and Innovation Awards International Awards (Silver Award, 2023),
-[3]IET Impact in Society Awards (Shortlist, 2023),
-[4]"Chunhui Cup" Innovation and Entrepreneurship Competition for Chinese Overseas Students (ranked first, 2023),
-[5]National Postdoctoral Innovation and Entrepreneurship Competition (Bronze Award, ranked first, 2023),
-[6]China International College Students' Innovation Competition (formerly Internet +, Gold Award, 2023),
-[7]China International College Students' Innovation Competition Hubei Province (Gold Award, ranked second, 2023),
+[//]: - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[//]: - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2024.05* IEEE Senior Member
+- *2023.12* China International College Students' Innovation Competition (formerly Internet +, Gold Award)
+- *2023.12* IET Excellence and Innovation Awards International Awards (Silver Award)
+- *2023.11* National Postdoctoral Innovation and Entrepreneurship Competition (Bronze Award, ranked first)
+- *2023.10* "Chunhui Cup" Innovation and Entrepreneurship Competition for Chinese Overseas Students (ranked first)
+- *2023.03* IET Impact in Society Awards (Shortlist)
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[//]: - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[//]: - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+[//]: # 💬 Invited Talks
+[//]: - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[//]: - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
