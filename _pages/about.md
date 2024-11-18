@@ -73,8 +73,8 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 
 
 
-
-# 📝 Publications 
+<span class='anchor' id='publications'></span>
+# 📝 Selected Publications 
 
 <!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
