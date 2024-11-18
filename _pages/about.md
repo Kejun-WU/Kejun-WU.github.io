@@ -44,11 +44,12 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 - *2018.09 - Present*, Reviewer of IEEE TIP, IEEE TMM, IEEE TCSVT, IEEE TBc, NeurIPS, ICASSP, ISCAS, MICCAI, MMSP, PR, OE, OL, CVIU, TVCJ, Measurement, etc.
 
 # 🔥 News 
-- *2024.11*: &nbsp; I am serving as $\color{Navy} {Editorial &thinsp;Board}$ member of *Applied Soft Computing(中科院一区TOP，JCR Q1)* 
-- *2024.07*: &nbsp; I am serving as $\color{Navy} {Lead &thinsp;Guest &thinsp;Editor}$ of *Journal of Visual Communication and Image Representation*(JCR Q2)
+- *2024.11*: &nbsp; I am serving as $\color{Navy} {Editorial &thinsp;Board}$ member of *Applied Soft Computing* (中科院一区TOP，JCR Q1)
+- *2024.07*: &nbsp; I am serving as $\color{Navy} {Lead &thinsp;Guest &thinsp;Editor}$ of *Journal of Visual Communication and Image Representation* (JCR Q2)
 - *2024.11*: &nbsp;🎉🎉 3 papers have been accepted by *ACM Transactions on Multimedia Computing Communications and Applications* (JCR Q1)
-- *2024.11*: &nbsp;🎉🎉 1 paper has been accepted by **Computer Vision and Image Understanding**(JCR Q1)
-- *2024.08*: &nbsp;🎉🎉 1 paper has been accepted by **IEEE Transactions on Multimedia**
+- *2024.11*: &nbsp;🎉🎉 1 paper has been accepted by **IEEE Transactions on Multimedia** (中科院一区TOP，JCR Q1)
+- *2024.08*: &nbsp;🎉🎉 1 paper has been accepted by **IEEE Transactions on Multimedia** (中科院一区TOP，JCR Q1)
+- *2024.08*: &nbsp;🎉🎉 1 paper has been accepted by **Computer Vision and Image Understanding**(JCR Q1)
 - *2024.11*: &nbsp; I am serving as $\color{Navy} {Special &thinsp;Session &thinsp;Organizer}$ by *ISCAS 2025*, see you in UK 2025.
 - *2024.03*: &nbsp; I joined school of EIC, HUST
 - *2023.12*: &nbsp; I am appointed as $\color{Navy} {Special &thinsp;Session &thinsp;Chair}$ by *ISCAS 2024*, Singapore
