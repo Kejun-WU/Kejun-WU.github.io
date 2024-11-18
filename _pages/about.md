@@ -31,26 +31,25 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2024.11*: &nbsp;🎉🎉 , I am invited to be an **Editorial Board** of *Applied Soft Computing*
-- *2024.07*: &nbsp;🎉🎉 , I am serving as **Lead Guest Editor** of *Journal of Visual Communication and Image Representation*
-+ + 03/2024, 2 papers have been <font color=Tomato>accepted</font> by *ACM Transactions on Multimedia Computing Communications and Applications*.
+- *2024.11*: &nbsp;🎉🎉 I am serving as **Editorial Board** of *Applied Soft Computing*
+- *2024.07*: &nbsp;🎉🎉 I am serving as **Lead Guest Editor** of *Journal of Visual Communication and Image Representation*
+- *2024.11*, 3 papers have been <font color=Tomato>accepted</font> by *ACM Transactions on Multimedia Computing Communications and Applications* this year.
+- *2024.11*, I am serving as **Special Session Organizer** by *ISCAS 2025*, see you in UK 2025. 
 + 03/2024, I join school of EIC, HUST. 
-+ 12/2023, I am appointed as **Special Session Chair** by *ISCAS 2024*, see you in May in Singapore 
-+ 12/2022, 1 paper has been <font color=Tomato>accepted</font> by *DCC 2024*, Snowbird, UT, USA.
++ 12/2023, I am appointed as **Special Session Chair** by *ISCAS 2024*, see you in May in Singapore. 
 + 11/2023, We are granted **Silver Awards** in 2024 **IET Excellence and Innovation Awards**
-+ 11/2023, I am serving as **Review Committee Member** of *ISCAS 2024*
 + 11/2023, 2 papers have been <font color=Tomato>accepted</font> by *Optics Express* and *Optics Letters*.
-+ 10/2023, I am elected as **中国科协**决策咨询专家团队-**青年研究员**
-+ 10/2023, I was awarded the *中国博士后创新创业大赛* **铜奖**
-+ 10/2023, I was awarded the *春晖杯中国留学人员创新创业大赛* **优胜奖**
+
+- *2023.12*: &nbsp;🎉🎉 I was awarded the *中国国际大学生创新大赛* **全国金奖**
+- *2023.11*: &nbsp;🎉🎉 I was awarded the *中国博士后创新创业大赛* **全国铜奖**
+- *2023.10*: &nbsp;🎉🎉 I was awarded the *春晖杯中国留学人员创新创业大赛* **优胜奖**
+- *2023.10*: &nbsp;🎉🎉 I am elected as **中国科协**决策咨询专家团队-**青年研究员**
 + 10/2023, I am serving as **Lead Guest Editor** of *Multimedia Tools and Applications*
 + 09/2023, 1 paper has been <font color=Tomato>accepted</font> by **NeurIPS 2023**, New Orleans, USA.
 + 09/2023, 1 paper has been <font color=Tomato>accepted</font> by *Applied Intelligence*. 
 + 05/2023, 1 paper has been <font color=Tomato>accepted</font> by **IEEE Transactions on Multimedia**.   
 + 03/2023, 1 paper has been <font color=Tomato>accepted</font> by *Optics Express*.   
-+ 02/2023, I am nominated for **IET Impact in Society Awards**.
++ 02/2023, We are nominated for **IET Impact in Society Awards**.
 + 09/2022, 1 paper on Metaverse survey has been <font color=Tomato>accepted</font> by *Artificial Intelligence View*.   
 + 08/2022, I get Letter of Appreciation from **University of Oxford**.  
 + 04/2022, 1 paper has been <font color=Tomato>accepted</font> by **IEEE Transactions on Multimedia**.  
