@@ -92,9 +92,8 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
   
 - Kejun Wu, You Yang, Gangyi Jiang, and Xiaoping Zhang, “Hierarchical Independent Coding Scheme for Varifocal Multiview Images based on Angular-focal Joint Prediction,” IEEE Transactions on Multimedia, 26:2993-3006, 2024. (ESI-Highly Cited Papers)
 - Kejun Wu, Qiong Liu, and Xiaoping Zhang, “Focal Stack Image Compression Based on Basis-Quadtree Representation,” in IEEE Transactions on Multimedia, 25:3975-3988, 2022.
-
-<!-- 
 [3] Kejun Wu, Qiong Liu, You Yang, and Xiaoping Zhang, “Gaussian-Wiener Representation and Hierarchical Coding Scheme for Focal Stack Images,” in IEEE Transactions on Circuits and Systems for Video Technology, 32(2):523-537, 2022.
+<!-- 
 [4] Kejun Wu, Zhenxing Li, You Yang, Qiong Liu, and Xiaoping Zhang, “End-to-end Deep Video Compression Based on Hierarchical Temporal Context Learning,” in IEEE Transactions on Multimedia, 2024. (Accepted)
 [5] Wenyang Liu, Kejun Wu*, Tianyi Liu, Yi Wang, Kim Hui Yap, and Lap-Pui Chau, “ByteNet: Rethinking Multimedia File Fragment Classification through Visual Perspectives,” in IEEE Transactions on Multimedia, 2024. (Corresponding Author)
 [6] Kejun Wu, Zhenxing Li, You Yang, and Qiong Liu, “Deep Video Compression based on Long-range Temporal Context Learning,” in Computer Vision and Image Understanding, 248(2024): 104127.
