@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-# 🧑‍🎨 Biography
+# 👦 Biography
 Dr. Kejun Wu obtained his Ph.D. degree from Huazhong University of Science and Technology in 2022. He is currently a Lecturer/Assistant Professor at School of Electronic Information and Communications, Huazhong University of Science and Technology, Wuhan, China. Before that, he worked as a Research Fellow from 2022 to 2024 at School of Electrical and Electronic Engineering Nanyang Technological University. 
 
 His research interest includes Multimodal Large Language Models, Generactive Signal/Image Processing, Computational Imaging & Photography and Learned Video Compression. He has published more than 40 papers in the past 5 years. 
