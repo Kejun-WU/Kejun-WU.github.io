@@ -9,8 +9,8 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Selected Publications"
-    url: "/#-selected-publications"
+  - title: "Publications"
+    url: "/#-publications"
 
   - title: "Honors & Awards"
     url: "/#-honors-&-awards"
