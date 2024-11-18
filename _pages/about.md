@@ -54,9 +54,9 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 - *2023.12*: &nbsp; I am appointed as $\color{Navy} {Special &ensp;Session &ensp;Chair}$ by *ISCAS 2024*, Singapore
 - *2023.11*: &nbsp; We are granted $\color{Tomato} {Silver &ensp; Awards}$ in 2024 *IET Excellence and Innovation Awards*
 - *2023.12*: &nbsp;🎉🎉 2 papers have been accepted by **Optics Express** and **Optics Letters**.
-- *2023.12*: &nbsp;🎉🎉 I was awarded the $\color{Navy} {全国金奖}$ in *中国国际大学生创新大赛* 
-- *2023.11*: &nbsp;🎉🎉 I was awarded the $\color{Navy} {全国铜奖}$ in *中国博士后创新创业大赛* 
-- *2023.10*: &nbsp;🎉🎉 I was awarded the $\color{Navy} {优胜奖}$ in *春晖杯中国留学人员创新创业大赛* 
+- *2023.12*: &nbsp; I was awarded the $\color{Tomato} {全国金奖}$ in *中国国际大学生创新大赛* 
+- *2023.11*: &nbsp; I was awarded the $\color{Tomato} {全国铜奖}$ in *中国博士后创新创业大赛* 
+- *2023.10*: &nbsp; I was awarded the $\color{Tomato} {优胜奖}$ in *春晖杯中国留学人员创新创业大赛* 
 - *2023.10*: &nbsp;🎉🎉 I am elected as 中国科协决策咨询专家团队-青年研究员
 - *2023.09*: &nbsp; I am serving as $\color{Navy} {Lead &ensp;Guest &ensp;Editor}$ of *Multimedia Tools and Applications*
 - *2023.09*: &nbsp;🎉🎉 1 paper has been accepted by **NeurIPS 2023**, New Orleans, USA.
@@ -110,20 +110,20 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 # 🎖 Honors and Awards
 [//]: - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 [//]: - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2024.05* IEEE Senior Member
-- *2023.12* China International College Students' Innovation Competition (formerly Internet +, Gold Award)
-- *2023.12* IET Excellence and Innovation Awards International Awards (Silver Award)
-- *2023.11* National Postdoctoral Innovation and Entrepreneurship Competition (Bronze Award, ranked first)
-- *2023.10* "Chunhui Cup" Innovation and Entrepreneurship Competition for Chinese Overseas Students (ranked first)
-- *2023.03* IET Impact in Society Awards (Shortlist)
+- *2024.05*: &nbsp; IEEE Senior Member
+- *2023.12*: &nbsp; China International College Students' Innovation Competition (formerly Internet +, Gold Award)
+- *2023.12*: &nbsp; IET Excellence and Innovation Awards International Awards (Silver Award)
+- *2023.11*: &nbsp; National Postdoctoral Innovation and Entrepreneurship Competition (Bronze Award, ranked first)
+- *2023.10*: &nbsp; "Chunhui Cup" Innovation and Entrepreneurship Competition for Chinese Overseas Students (ranked first)
+- *2023.03*: &nbsp; IET Impact in Society Awards (Shortlist)
 
 # 📖 Educations
 [//]: - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 [//]: - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.10 - 2022.05*, Exchange Ph.d Student, School of Electrical and Electronic Engineering, Nanyang Technological University. 
-- *2018.09 - 2022.06*, Ph.d Student, School of Electronic Information and Communications, Huazhong University of Science and Technology.
-- *2016.09 - 2018.06*, Master Student, College of Intelligent Science and Engineering, Harbin Engineering University.
-- *2011.09 - 2015.07*, Undergraduate Student, School of Mechatronic Engineering and Automation, Shanghai University.
+- *2021.10 - 2022.05*: &nbsp; Exchange Ph.d Student, School of Electrical and Electronic Engineering, Nanyang Technological University. 
+- *2018.09 - 2022.06*: &nbsp; Ph.d Student, School of Electronic Information and Communications, Huazhong University of Science and Technology.
+- *2016.09 - 2018.06*: &nbsp; Master Student, College of Intelligent Science and Engineering, Harbin Engineering University.
+- *2011.09 - 2015.07*: &nbsp; Undergraduate Student, School of Mechatronic Engineering and Automation, Shanghai University.
 
 
 [//]: # 💬 Invited Talks
