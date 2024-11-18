@@ -129,9 +129,13 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 - *2011.09 - 2015.07*: &nbsp; Undergraduate Student, School of Mechatronic Engineering and Automation, Shanghai University.
 
 
-[//]: # 💬 Invited Talks
+# 💬 Talks/Presentations
 [//]: - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 [//]: - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2023.12*, Annual Conference on Neural Information Processing Systems (NeurIPS 2023), New Orleans, Louisiana, USA.
+- *2023.03*, 2023 Data Compression Conference (DCC), Snowbird, UT, USA.
+- *2020.03*, 2023 Data Compression Conference (DCC), Snowbird, UT, USA.  
+
 
 [//]: # 💻 Internships
 [//]: - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
