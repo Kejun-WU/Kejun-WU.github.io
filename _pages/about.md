@@ -34,10 +34,10 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 
 # 🔥 News 
 - *2024.11*: &nbsp;🎉🎉 I am serving as $\color{blue} {Editorial &nbsp; Board}$ member of *Applied Soft Computing(中科院一区TOP，JCR Q1)* 
-- *2024.07*: &nbsp;🎉🎉 I am serving as $\color{blue} {Lead &ensp; Guest &ensp; Editor}$ of **Journal of Visual Communication and Image Representation**(JCR Q2)
-- *2024.11*: &nbsp;🎉🎉 3 papers have been <font color=Tomato>accepted</font> by **ACM Transactions on Multimedia Computing Communications and Applications** (JCR Q1) this year.
-- - *2024.11*: &nbsp;🎉🎉 1 paper has been <font color=Tomato>accepted</font> by **Computer Vision and Image Understanding**(JCR Q1).
-  - - *2024.08*: &nbsp;🎉🎉 1 paper has been <font color=Tomato>accepted</font> by **IEEE Transactions on Multimedia**.
+- *2024.07*: &nbsp;🎉🎉 I am serving as $\color{blue} {Lead &ensp; Guest &ensp; Editor}$ of *Journal of Visual Communication and Image Representation*(JCR Q2)
+- *2024.11*: &nbsp;🎉🎉 3 papers have been <font color=Tomato>accepted</font> by *ACM Transactions on Multimedia Computing Communications and Applications* (JCR Q1) this year.
+  - *2024.11*: &nbsp;🎉🎉 1 paper has been <font color=Tomato>accepted</font> by *Computer Vision and Image Understanding*(JCR Q1).
+    - *2024.08*: &nbsp;🎉🎉 1 paper has been <font color=Tomato>accepted</font> by *IEEE Transactions on Multimedia*.
 - *2024.11: &nbsp;🎉🎉 I am serving as **Special Session Organizer** by *ISCAS 2025*, see you in UK 2025. 
 + 03/2024: &nbsp;🎉🎉 I join school of EIC, HUST. 
 + 12/2023, I am appointed as **Special Session Chair** by *ISCAS 2024*, see you in May in Singapore. 
