@@ -44,7 +44,7 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 - *2018.09 - Present*, Reviewer of IEEE TIP, IEEE TMM, IEEE TCSVT, IEEE TBc, NeurIPS, ICASSP, ISCAS, MICCAI, MMSP, PR, OE, OL, CVIU, TVCJ, Measurement, etc.
 
 # 🔥 News 
-- *2024.11*: &nbsp; I am serving as $\color{NavyBlue} {Editorial &ensp;Board}$ member of *Applied Soft Computing(中科院一区TOP，JCR Q1)* 
+- *2024.11*: &nbsp; I am serving as $\color{Navy} {Editorial &ensp;Board}$ member of *Applied Soft Computing(中科院一区TOP，JCR Q1)* 
 - *2024.07*: &nbsp; I am serving as $\color{DarkBlue} {Lead &ensp;Guest &ensp;Editor}$ of *Journal of Visual Communication and Image Representation*(JCR Q2)
 - *2024.11*: &nbsp;🎉🎉 3 papers have been accepted by *ACM Transactions on Multimedia Computing Communications and Applications* (JCR Q1)
 - *2024.11*: &nbsp;🎉🎉 1 paper has been accepted by **Computer Vision and Image Understanding**(JCR Q1)
@@ -54,9 +54,9 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 - *2023.12: &nbsp; I am appointed as $\color{DarkBlue} {Special &ensp;Session &ensp;Chair}$ by *ISCAS 2024*, Singapore
 - *2023.11: &nbsp; We are granted $\color{Tomato} {Silver &ensp; Awards}$ in 2024 *IET Excellence and Innovation Awards*
 - *2023.12: &nbsp;🎉🎉 2 papers have been accepted by **Optics Express** and **Optics Letters**.
-- *2023.12*: &nbsp;🎉🎉 I was awarded the $\color{NavyBlue} {全国金奖}$ in *中国国际大学生创新大赛* 
-- *2023.11*: &nbsp;🎉🎉 I was awarded the $\color{NavyBlue} {全国铜奖}$ in *中国博士后创新创业大赛* 
-- *2023.10*: &nbsp;🎉🎉 I was awarded the $\color{NavyBlue} {优胜奖}$ in *春晖杯中国留学人员创新创业大赛* 
+- *2023.12*: &nbsp;🎉🎉 I was awarded the $\color{DarkBlue} {全国金奖}$ in *中国国际大学生创新大赛* 
+- *2023.11*: &nbsp;🎉🎉 I was awarded the $\color{DarkBlue} {全国铜奖}$ in *中国博士后创新创业大赛* 
+- *2023.10*: &nbsp;🎉🎉 I was awarded the $\color{DarkBlue} {优胜奖}$ in *春晖杯中国留学人员创新创业大赛* 
 - *2023.10*: &nbsp;🎉🎉 I am elected as 中国科协决策咨询专家团队-青年研究员
 - *2023.09: &nbsp; I am serving as $\color{DarkBlue} {Lead &ensp;Guest &ensp;Editor}$ of *Multimedia Tools and Applications*
 - *2023.09: &nbsp;🎉🎉 1 paper has been accepted by **NeurIPS 2023**, New Orleans, USA.
@@ -88,26 +88,23 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 -->
 
 [//]: - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
   
-- Kejun Wu, You Yang, Gangyi Jiang, and Xiaoping Zhang, “Hierarchical Independent Coding Scheme for Varifocal Multiview Images based on Angular-focal Joint Prediction,” IEEE Transactions on Multimedia, 26:2993-3006, 2024. (ESI-Highly Cited Papers)
+- Kejun Wu, You Yang, Gangyi Jiang, and Xiaoping Zhang, “Hierarchical Independent Coding Scheme for Varifocal Multiview Images based on Angular-focal Joint Prediction,” IEEE Transactions on Multimedia, 26:2993-3006, 2024. $\color{Tomato} {ESI-Highly &ensp; Cited &ensp; Papers}$
 - Kejun Wu, Qiong Liu, and Xiaoping Zhang, “Focal Stack Image Compression Based on Basis-Quadtree Representation,” in IEEE Transactions on Multimedia, 25:3975-3988, 2022.
-[3] Kejun Wu, Qiong Liu, You Yang, and Xiaoping Zhang, “Gaussian-Wiener Representation and Hierarchical Coding Scheme for Focal Stack Images,” in IEEE Transactions on Circuits and Systems for Video Technology, 32(2):523-537, 2022.
-[4] Kejun Wu, Zhenxing Li, You Yang, Qiong Liu, and Xiaoping Zhang, “End-to-end Deep Video Compression Based on Hierarchical Temporal Context Learning,” in IEEE Transactions on Multimedia, 2024. (Accepted)
-<!-- 
-[5] Wenyang Liu, Kejun Wu*, Tianyi Liu, Yi Wang, Kim Hui Yap, and Lap-Pui Chau, “ByteNet: Rethinking Multimedia File Fragment Classification through Visual Perspectives,” in IEEE Transactions on Multimedia, 2024. (Corresponding Author)
-[6] Kejun Wu, Zhenxing Li, You Yang, and Qiong Liu, “Deep Video Compression based on Long-range Temporal Context Learning,” in Computer Vision and Image Understanding, 248(2024): 104127.
-[7] Tianyi Liu*, Kejun Wu*, Yi Wang, Wenyang Liu, Kim Hui Yap, and Lap-Pui Chau, “Bitstream corrupted Video Recovery: A Novel Benchmark Dataset and Method,” NeurIPS 2023 (Equal Contribution)
-[8] Kejun Wu, Qiong Liu, Kim Hui Yap, and You Yang, “Multifocal Multiview Imaging and Data Compression based on Angular-Focal-Spatial Representation,” in Optics Letters, 2024
-[9] Kejun Wu, Qiong Liu, Kim Hui Yap, and You Yang, “High Dimensional Optical Data Varifocal Multiview Imaging, Compression and Evaluation,” in Optics Express, 2023.
-[10] Kejun Wu, Qiong Liu, Yi Wang, and You Yang, “End-to-end Varifocal Multiview Images Coding Framework from Data Acquisition End to Vision Application End,” in Optics Express, 31(7): 11659-11679, 2023.
-[11] Kejun Wu, You Yang, Mei Yu, and Qiong Liu, “Block-wise Focal Stack Image Representation for End-to-end Applications,” in Optics Express, 28(26): 40024-40043, 2020.
-[12] Xiaoya Yu*, Kejun Wu*, You Yang, and Qiong Liu, “WaRENet: A Novel Urban Waterlogging Risk Evaluation Network,” in ACM Transactions on Multimedia Computing,
-Communications, and Applications, 2024, 20(7):1–28. (Equal Contribution)
-[13] Chenming Li, Chengtao Cai, Wentao Zhou, Kejun Wu*, “A sea-sky-line detection method for long wave infrared image based on improved Swin Transformer,” in Infrared Physics and Technology, 2024. (Corresponding Author)
-[14] Kejun Wu, Yi Wang, Wenyang Liu, Kim Hui Yap, and Lap-Pui Chau, “A Spatial-Focal Error Concealment Scheme for Corrupted Focal Stack Video,” 2023 Data Compression Conference (DCC), Snowbird, UT, USA, Mar 2023.
-[15] Kejun Wu, Qiong Liu, Yaguang Yin, and You Yang, “Gaussian Guided Inter Prediction for Focal Stack Images Compression,” in 2020 Data Compression Conference, Snowbird, UT, USA, Mar 2020.
--->
+- Kejun Wu, Qiong Liu, You Yang, and Xiaoping Zhang, “Gaussian-Wiener Representation and Hierarchical Coding Scheme for Focal Stack Images,” in IEEE Transactions on Circuits and Systems for Video Technology, 32(2):523-537, 2022.
+- Kejun Wu, Zhenxing Li, You Yang, Qiong Liu, and Xiaoping Zhang, “End-to-end Deep Video Compression Based on Hierarchical Temporal Context Learning,” in IEEE Transactions on Multimedia, 2024. (Accepted)
+- Wenyang Liu, Kejun Wu*, Tianyi Liu, Yi Wang, Kim Hui Yap, and Lap-Pui Chau, “ByteNet: Rethinking Multimedia File Fragment Classification through Visual Perspectives,” in IEEE Transactions on Multimedia, 2024. (Corresponding Author)
+- Kejun Wu, Zhenxing Li, You Yang, and Qiong Liu, “Deep Video Compression based on Long-range Temporal Context Learning,” in Computer Vision and Image Understanding, 248(2024): 104127.
+- Tianyi Liu*, Kejun Wu*, Yi Wang, Wenyang Liu, Kim Hui Yap, and Lap-Pui Chau, “Bitstream corrupted Video Recovery: A Novel Benchmark Dataset and Method,” NeurIPS 2023 (Equal Contribution)
+- Kejun Wu, Qiong Liu, Kim-Hui Yap, and You Yang, “Multifocal Multiview Imaging and Data Compression based on Angular-Focal-Spatial Representation,” in Optics Letters, 2024
+- Kejun Wu, Qiong Liu, Kim-Hui Yap, and You Yang, “High Dimensional Optical Data Varifocal Multiview Imaging, Compression and Evaluation,” in Optics Express, 2023.
+- Kejun Wu, Qiong Liu, Yi Wang, and You Yang, “End-to-end Varifocal Multiview Images Coding Framework from Data Acquisition End to Vision Application End,” in Optics Express, 31(7): 11659-11679, 2023.
+- Kejun Wu, You Yang, Mei Yu, and Qiong Liu, “Block-wise Focal Stack Image Representation for End-to-end Applications,” in Optics Express, 28(26): 40024-40043, 2020.
+- Xiaoya Yu*, Kejun Wu*, You Yang, and Qiong Liu, “WaRENet: A Novel Urban Waterlogging Risk Evaluation Network,” in ACM Transactions on Multimedia Computing, Communications, and Applications, 2024, 20(7):1–28. (Equal Contribution)
+- Chenming Li, Chengtao Cai, Wentao Zhou, Kejun Wu*, “A sea-sky-line detection method for long wave infrared image based on improved Swin Transformer,” in Infrared Physics and Technology, 2024. (Co-corresponding Author)
+- Kejun Wu, Yi Wang, Wenyang Liu, Kim Hui Yap, and Lap-Pui Chau, “A Spatial-Focal Error Concealment Scheme for Corrupted Focal Stack Video,” 2023 Data Compression Conference (DCC), Snowbird, UT, USA, Mar 2023.
+
+
 
 
 # 🎖 Honors and Awards
