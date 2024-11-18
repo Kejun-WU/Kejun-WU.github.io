@@ -31,7 +31,7 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 
 
 # 🔥 News
-- *2024.11*: &nbsp;🎉🎉 I am serving as  <font color=Blue>Editorial Board</font> **Editorial Board** of *Applied Soft Computing(中科院一区TOP，JCR Q1)* 
+- *2024.11*: &nbsp;🎉🎉 I am serving as $\color{blue} {Editorial Board}$ <font color=Blue>Editorial Board</font> **Editorial Board** of *Applied Soft Computing(中科院一区TOP，JCR Q1)* 
 - *2024.07*: &nbsp;🎉🎉 I am serving as **Lead Guest Editor** of **Journal of Visual Communication and Image Representation**(JCR Q2)
 - *2024.11*: &nbsp;🎉🎉 3 papers have been <font color=Tomato>accepted</font> by **ACM Transactions on Multimedia Computing Communications and Applications** (JCR Q1) this year.
 - - *2024.11*: &nbsp;🎉🎉 1 paper has been <font color=Tomato>accepted</font> by **Computer Vision and Image Understanding**(JCR Q1).
