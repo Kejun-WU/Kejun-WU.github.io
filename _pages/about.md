@@ -108,7 +108,7 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 - Kejun Wu, Yi Wang, Wenyang Liu, Kim Hui Yap, and Lap-Pui Chau, “A Spatial-Focal Error Concealment Scheme for Corrupted Focal Stack Video,” 2023 Data Compression Conference (DCC), Snowbird, UT, USA, Mar 2023.
 
 
-<span class='anchor' id='-honors-and-awards'></span>
+<span class='anchor' id='-honors-&-awards'></span>
 # 🎖 Honors and Awards
 [//]: - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 [//]: - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
