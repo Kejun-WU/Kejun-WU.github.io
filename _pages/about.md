@@ -32,7 +32,7 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 <!-- 文字颜色$\color{RoyalBlue} {Editorial Board}$  RoyalBlue, DarkBlue, Navy-->
 <!-- 文字颜色<font color=lightgrey>Editorial Board</font> -->
 [//]: 文字颜色 <font color=Blue>Editorial Board</font>  <font color=Tomato>accepted</font>
-[//]: 背景颜色 $\colorbox{options}{text}$
+
 
 # 💻 Academic Service
 - *2024.11 - Present*, Editorial Board Member/Associated Editor, Applied Soft Computing.
