@@ -29,36 +29,36 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 
 <!-- 段落注释 -->
 [//]: 段落注释
-<!-- 文字颜色$\color{RoyalBlue} {Editorial Board}$ -->
+<!-- 文字颜色$\color{RoyalBlue} {Editorial Board}$  $\color{DarkBlue} {Editorial Board}$ -->
 <!-- 文字颜色<font color=lightgrey>Editorial Board</font> -->
-[//]: 文字颜色 <font color=Blue>Editorial Board</font>  
+[//]: 文字颜色 <font color=Blue>Editorial Board</font>  <font color=Tomato>accepted</font>
 [//]: 背景颜色 $\colorbox{options}{text}$
 
 # 🔥 News 
-- *2024.11*: &nbsp;🎉🎉 I am serving as $\color{blue} {Editorial &ensp;Board}$ member of *Applied Soft Computing(中科院一区TOP，JCR Q1)* 
-- *2024.07*: &nbsp;🎉🎉 I am serving as $\color{RoyalBlue} {Lead &ensp;Guest &ensp;Editor}$ of *Journal of Visual Communication and Image Representation*(JCR Q2)
-- *2024.11*: &nbsp; 3 papers have been <font color=Tomato>accepted</font> by *ACM Transactions on Multimedia Computing Communications and Applications* (JCR Q1) this year.
-- *2024.11*: &nbsp;🎉🎉 1 paper has been <font color=Tomato>accepted</font> by *Computer Vision and Image Understanding*(JCR Q1).
-- *2024.08*: &nbsp;🎉🎉 1 paper has been <font color=Tomato>accepted</font> by *IEEE Transactions on Multimedia*.
-- *2024.11: &nbsp;🎉🎉 I am serving as $\color{DarkBlue} {Special &ensp;Session &ensp;Organizer}$ by *ISCAS 2025*, see you in UK 2025. 
-+ 03/2024: &nbsp;🎉🎉 I join school of EIC, HUST. 
-+ 12/2023, I am appointed as **Special Session Chair** by *ISCAS 2024*, see you in May in Singapore. 
-+ 11/2023, We are granted **Silver Awards** in 2024 **IET Excellence and Innovation Awards**
-+ 11/2023, 2 papers have been <font color=Tomato>accepted</font> by *Optics Express* and *Optics Letters*.
+- *2024.11*: &nbsp; I am serving as $\color{DarkBlue} {Editorial &ensp;Board}$ member of *Applied Soft Computing(中科院一区TOP，JCR Q1)* 
+- *2024.07*: &nbsp; I am serving as $\color{DarkBlue} {Lead &ensp;Guest &ensp;Editor}$ of *Journal of Visual Communication and Image Representation*(JCR Q2)
+- *2024.11*: &nbsp;🎉🎉 3 papers have been <font color=Tomato>accepted</font> by *ACM Transactions on Multimedia Computing Communications and Applications* (JCR Q1) this year.
+- *2024.11*: &nbsp;🎉🎉 1 paper has been accepted by *Computer Vision and Image Understanding*(JCR Q1).
+- *2024.08*: &nbsp;🎉🎉 1 paper has been accepted by *IEEE Transactions on Multimedia*.
+- *2024.11: &nbsp; I am serving as $\color{DarkBlue} {Special &ensp;Session &ensp;Organizer}$ by *ISCAS 2025*, see you in UK 2025. 
+- *2024.03: &nbsp; I joined school of EIC, HUST. 
+- *2023.12: &nbsp; I am appointed as $\color{DarkBlue} {Special &ensp;Session &ensp;Chair}$ by *ISCAS 2024*, Singapore. 
+- *2023.11: &nbsp; We are granted $\color{Tomato} {Silver &ensp; Awards}$ in 2024 **IET Excellence and Innovation Awards**
+- *2023.12: &nbsp;🎉🎉 2 papers have been <font color=Tomato>accepted</font> by *Optics Express* and *Optics Letters*.
 - *2023.12*: &nbsp;🎉🎉 I was awarded the *中国国际大学生创新大赛* **全国金奖**
 - *2023.11*: &nbsp;🎉🎉 I was awarded the *中国博士后创新创业大赛* **全国铜奖**
 - *2023.10*: &nbsp;🎉🎉 I was awarded the *春晖杯中国留学人员创新创业大赛* **优胜奖**
 - *2023.10*: &nbsp;🎉🎉 I am elected as **中国科协**决策咨询专家团队-**青年研究员**
-+ 10/2023, I am serving as **Lead Guest Editor** of *Multimedia Tools and Applications*
-+ 09/2023, 1 paper has been <font color=Tomato>accepted</font> by **NeurIPS 2023**, New Orleans, USA.
-+ 09/2023, 1 paper has been <font color=Tomato>accepted</font> by *Applied Intelligence*. 
-+ 05/2023, 1 paper has been <font color=Tomato>accepted</font> by **IEEE Transactions on Multimedia**.   
-+ 03/2023, 1 paper has been <font color=Tomato>accepted</font> by *Optics Express*.   
-+ 02/2023, We are nominated for **IET Impact in Society Awards**.
-+ 09/2022, 1 paper on Metaverse survey has been <font color=Tomato>accepted</font> by *Artificial Intelligence View*.   
-+ 08/2022, I get Letter of Appreciation from **University of Oxford**.  
-+ 04/2022, 1 paper has been <font color=Tomato>accepted</font> by **IEEE Transactions on Multimedia**.  
-+ 03/2022, 1 paper has been <font color=Tomato>published</font> in **IEEE Transactions on Circuits and Systems for Video Technology**.  
+- *2023.09: &nbsp; I am serving as **Lead Guest Editor** of *Multimedia Tools and Applications*
+- *2023.09: &nbsp;🎉🎉 1 paper has been accepted by **NeurIPS 2023**, New Orleans, USA.
+- *2023.09: &nbsp;🎉🎉 1 paper has been accepted by *Applied Intelligence*. 
+- *2023.05: &nbsp;🎉🎉 1 paper has been accepted by **IEEE Transactions on Multimedia**.   
+- *2023.03: &nbsp;🎉🎉 1 paper has been accepted by *Optics Express*.   
+- *2023.03: &nbsp; We are nominated for **IET Impact in Society Awards**.
+- *2022.09: &nbsp;🎉🎉 1 paper on Metaverse survey has been accepted by *Artificial Intelligence View*.   
+- *2022.08: &nbsp; I get Letter of Appreciation from **University of Oxford**.  
+- *2022.04: &nbsp;🎉🎉 1 paper has been accepted by **IEEE Transactions on Multimedia**.  
+- *2022.03: &nbsp;🎉🎉 1 paper has been published in **IEEE Transactions on Circuits and Systems for Video Technology**.  
 
 
 
