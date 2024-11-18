@@ -28,17 +28,18 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 [//]: My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 <!-- 段落注释 -->
+[//]: 段落注释
 <!-- 文字颜色$\color{red} {Editorial Board}$ -->
 <!-- 文字颜色<font color=lightgrey>Editorial Board</font> -->
-[//]: <font color=Blue>Editorial Board</font> 
+[//]: <font color=Blue>Editorial Board</font>  
 
 # 🔥 News 
-- *2024.11*: &nbsp;🎉🎉 I am serving as $\color{blue} {Editorial &nbsp; &nbsp; Board}$ member of *Applied Soft Computing(中科院一区TOP，JCR Q1)* 
+- *2024.11*: &nbsp;🎉🎉 I am serving as $\color{blue} {Editorial &emsp; Board}$ member of *Applied Soft Computing(中科院一区TOP，JCR Q1)* 
 - *2024.07*: &nbsp;🎉🎉 I am serving as $\color{blue} {Lead &ensp; Guest &ensp; Editor}$ of *Journal of Visual Communication and Image Representation*(JCR Q2)
 - *2024.11*: &nbsp; 3 papers have been <font color=Tomato>accepted</font> by *ACM Transactions on Multimedia Computing Communications and Applications* (JCR Q1) this year.
 - *2024.11*: &nbsp;🎉🎉 1 paper has been <font color=Tomato>accepted</font> by *Computer Vision and Image Understanding*(JCR Q1).
 - *2024.08*: &nbsp;🎉🎉 1 paper has been <font color=Tomato>accepted</font> by *IEEE Transactions on Multimedia*.
-- *2024.11: &nbsp;🎉🎉 I am serving as **Special Session Organizer** by *ISCAS 2025*, see you in UK 2025. 
+- *2024.11: &nbsp;🎉🎉 I am serving as $\color{blue} {Special &emsp; Session &emsp; Organizer}$ by *ISCAS 2025*, see you in UK 2025. 
 + 03/2024: &nbsp;🎉🎉 I join school of EIC, HUST. 
 + 12/2023, I am appointed as **Special Session Chair** by *ISCAS 2024*, see you in May in Singapore. 
 + 11/2023, We are granted **Silver Awards** in 2024 **IET Excellence and Innovation Awards**
