@@ -53,6 +53,7 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 - *2024.08*: &nbsp;🎉🎉 1 paper has been accepted by **IEEE Transactions on Multimedia** (中科院一区TOP，JCR Q1)
 - *2024.08*: &nbsp;🎉🎉 1 paper has been accepted by **Computer Vision and Image Understanding**(JCR Q1)
 - *2024.11*: &nbsp; I am serving as $\color{Navy} {Special &thinsp;Session &thinsp;Organizer}$ by *ISCAS 2025*, see you in UK 2025.
+- *2024.03*: &nbsp;🎉🎉 I am serving as 中国科协决策咨询专家团队-青年研究员
 - *2024.03*: &nbsp; I joined school of EIC, HUST
 - *2023.12*: &nbsp; I am appointed as $\color{Navy} {Special &thinsp;Session &thinsp;Chair}$ by *ISCAS 2024*, Singapore
 - *2023.11*: &nbsp; We are granted $\color{Tomato} {Silver &thinsp;Awards}$ in 2024 *IET Excellence and Innovation Awards*
@@ -60,14 +61,13 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 - *2023.12*: &nbsp; I was awarded the $\color{Tomato} {全国金奖}$ in *中国国际大学生创新大赛* 
 - *2023.11*: &nbsp; I was awarded the $\color{Tomato} {全国铜奖}$ in *中国博士后创新创业大赛* 
 - *2023.10*: &nbsp; I was awarded the $\color{Tomato} {优胜奖}$ in *春晖杯中国留学人员创新创业大赛* 
-- *2023.10*: &nbsp;🎉🎉 I am elected as 中国科协决策咨询专家团队-青年研究员
-- *2023.09*: &nbsp; I am serving as $\color{Navy} {Lead &thinsp;Guest &thinsp;Editor}$ of *Multimedia Tools and Applications*
+[//]: - *2023.09*: &nbsp; I am serving as $\color{Navy} {Lead &thinsp;Guest &thinsp;Editor}$ of *Multimedia Tools and Applications*
 - *2023.09*: &nbsp;🎉🎉 1 paper has been accepted by **NeurIPS 2023**, New Orleans, USA.
 - *2023.09*: &nbsp;🎉🎉 1 paper has been accepted by **Applied Intelligence**. 
 - *2023.05*: &nbsp;🎉🎉 1 paper has been accepted by **IEEE Transactions on Multimedia**.   
 - *2023.03*: &nbsp;🎉🎉 1 paper has been accepted by **Optics Express**.   
 - *2023.03*: &nbsp; We are nominated for **IET Impact in Society Awards**.
-- *2022.09*: &nbsp;🎉🎉 1 paper on Metaverse survey has been accepted by **Artificial Intelligence View**.   
+[//]: - *2022.09*: &nbsp;🎉🎉 1 paper on Metaverse survey has been accepted by **Artificial Intelligence View**.   
 - *2022.08*: &nbsp; I get Letter of Appreciation from **University of Oxford**.  
 - *2022.04*: &nbsp;🎉🎉 1 paper has been accepted by **IEEE Transactions on Multimedia**.  
 - *2022.03*: &nbsp;🎉🎉 1 paper has been published in **IEEE Transactions on Circuits and Systems for Video Technology**.  
