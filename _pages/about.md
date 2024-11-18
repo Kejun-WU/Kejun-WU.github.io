@@ -61,13 +61,12 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 - *2023.12*: &nbsp; I was awarded the $\color{Tomato} {全国金奖}$ in *中国国际大学生创新大赛* 
 - *2023.11*: &nbsp; I was awarded the $\color{Tomato} {全国铜奖}$ in *中国博士后创新创业大赛* 
 - *2023.10*: &nbsp; I was awarded the $\color{Tomato} {优胜奖}$ in *春晖杯中国留学人员创新创业大赛*
-
-[//]: - *2023.09*: &nbsp; I am serving as $\color{Navy} {Lead &thinsp;Guest &thinsp;Editor}$ of *Multimedia Tools and Applications*
 - *2023.09*: &nbsp;🎉🎉 1 paper has been accepted by **NeurIPS 2023**, New Orleans, USA.
 - *2023.09*: &nbsp;🎉🎉 1 paper has been accepted by **Applied Intelligence**. 
 - *2023.05*: &nbsp;🎉🎉 1 paper has been accepted by **IEEE Transactions on Multimedia**.   
 - *2023.03*: &nbsp;🎉🎉 1 paper has been accepted by **Optics Express**.   
 - *2023.03*: &nbsp; We are nominated for **IET Impact in Society Awards**.
+
 [//]: 
 - *2022.09*: &nbsp;🎉🎉 1 paper on Metaverse survey has been accepted by **Artificial Intelligence View**.
 - *2022.08*: &nbsp; I get Letter of Appreciation from **University of Oxford**.  
