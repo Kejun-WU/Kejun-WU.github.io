@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently a Lecturer/Assistant Professor at School of Electronic Information and Communications, Huazhong University of Science and Technology, Wuhan, China. Before that, I worked as a [Research Fellow / Postdoc](https://www.ntu.edu.sg/ciss/about-us/our-people#Content_C004_Col00) from 2022 to 2024, and a visiting PhD. student from 2021 to 2022 at [School of Electrical and Electronic Engineering](https://www.ntu.edu.sg/eee), [Nanyang Technological University](https://www.ntu.edu.sg/). 
+Dr. Kejun Wu obtained his Ph.D. degree from Huazhong University of Science and Technology in 2022. He is currently a Lecturer/Assistant Professor at School of Electronic Information and Communications, Huazhong University of Science and Technology, Wuhan, China. Before that, he worked as a Research Fellow from 2022 to 2024 at School of Electrical and Electronic Engineering Nanyang Technological University. 
 
 My research interest includes Multimodal Large Language Models, Generactive Signal/Image Processing, Computational Imaging & Photography and Learned Video Compression. I have published more than 40 papers in the past 5 years. 
 
@@ -33,6 +33,14 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 <!-- 文字颜色<font color=lightgrey>Editorial Board</font> -->
 [//]: 文字颜色 <font color=Blue>Editorial Board</font>  <font color=Tomato>accepted</font>
 [//]: 背景颜色 $\colorbox{options}{text}$
+
+# 💻 Academic Service
+- *2024.11 - Present*, Editorial Board Member/Associated Editor, Applied Soft Computing.
+- *2024.07 - Present*, Lead Guest Editor, Journal of Visual Communication and Image Representation.
+- *2024.10 - Present*, Special Session Organizer, ISCAS 2025.
+- *2024.05*, Special Session Chair}, ISCAS 2024.
+- *2024.04*, Special Session Chair, ICASSP 2024.
+- *2023.09*, Special Session Chair}, MMSP 2023.
 
 # 🔥 News 
 - *2024.11*: &nbsp; I am serving as $\color{NavyBlue} {Editorial &ensp;Board}$ member of *Applied Soft Computing(中科院一区TOP，JCR Q1)* 
@@ -91,10 +99,15 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 # 📖 Educations
 [//]: - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 [//]: - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.10 - 2022.05*, Exchange Ph.d Student, School of Electrical and Electronic Engineering, Nanyang Technological University. 
+- *2018.09 - 2022.06*, Ph.d Student, School of Electronic Information and Communications, Huazhong University of Science and Technology.
+- *2016.09 - 2018.06*, Master Student, College of Intelligent Science and Engineering, Harbin Engineering University.
+- *2011.09 - 2015.07*, Undergraduate Student, School of Mechatronic Engineering and Automation, Shanghai University.
+
 
 [//]: # 💬 Invited Talks
 [//]: - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 [//]: - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+[//]: # 💻 Internships
+[//]: - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
