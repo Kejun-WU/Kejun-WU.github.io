@@ -97,12 +97,12 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 - Kejun Wu, Zhenxing Li, You Yang, Qiong Liu, and Xiaoping Zhang, “End-to-end Deep Video Compression Based on Hierarchical Temporal Context Learning,” in IEEE Transactions on Multimedia, 2024. (Accepted)
 - Wenyang Liu, Kejun Wu*, Tianyi Liu, Yi Wang, Kim Hui Yap, and Lap-Pui Chau, “ByteNet: Rethinking Multimedia File Fragment Classification through Visual Perspectives,” in IEEE Transactions on Multimedia, 2024. (Corresponding Author)
 - Kejun Wu, Zhenxing Li, You Yang, and Qiong Liu, “Deep Video Compression based on Long-range Temporal Context Learning,” in Computer Vision and Image Understanding, 248(2024): 104127.
-- Tianyi Liu*, Kejun Wu*, Yi Wang, Wenyang Liu, Kim Hui Yap, and Lap-Pui Chau, “Bitstream corrupted Video Recovery: A Novel Benchmark Dataset and Method,” NeurIPS 2023 (Equal Contribution)
+- Tianyi Liu, Kejun Wu*, Yi Wang, Wenyang Liu, Kim Hui Yap, and Lap-Pui Chau, “Bitstream corrupted Video Recovery: A Novel Benchmark Dataset and Method,” NeurIPS 2023 (Equal Contribution)
 - Kejun Wu, Qiong Liu, Kim-Hui Yap, and You Yang, “Multifocal Multiview Imaging and Data Compression based on Angular-Focal-Spatial Representation,” in Optics Letters, 2024
 - Kejun Wu, Qiong Liu, Kim-Hui Yap, and You Yang, “High Dimensional Optical Data Varifocal Multiview Imaging, Compression and Evaluation,” in Optics Express, 2023.
 - Kejun Wu, Qiong Liu, Yi Wang, and You Yang, “End-to-end Varifocal Multiview Images Coding Framework from Data Acquisition End to Vision Application End,” in Optics Express, 31(7): 11659-11679, 2023.
 - Kejun Wu, You Yang, Mei Yu, and Qiong Liu, “Block-wise Focal Stack Image Representation for End-to-end Applications,” in Optics Express, 28(26): 40024-40043, 2020.
-- Xiaoya Yu*, Kejun Wu*, You Yang, and Qiong Liu, “WaRENet: A Novel Urban Waterlogging Risk Evaluation Network,” in ACM Transactions on Multimedia Computing, Communications, and Applications, 2024, 20(7):1–28. (Equal Contribution)
+- Xiaoya Yu, Kejun Wu*, You Yang, and Qiong Liu, “WaRENet: A Novel Urban Waterlogging Risk Evaluation Network,” in ACM Transactions on Multimedia Computing, Communications, and Applications, 2024, 20(7):1–28. (Equal Contribution)
 - Chenming Li, Chengtao Cai, Wentao Zhou, Kejun Wu*, “A sea-sky-line detection method for long wave infrared image based on improved Swin Transformer,” in Infrared Physics and Technology, 2024. (Co-corresponding Author)
 - Kejun Wu, Yi Wang, Wenyang Liu, Kim Hui Yap, and Lap-Pui Chau, “A Spatial-Focal Error Concealment Scheme for Corrupted Focal Stack Video,” 2023 Data Compression Conference (DCC), Snowbird, UT, USA, Mar 2023.
 
