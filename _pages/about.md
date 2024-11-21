@@ -42,7 +42,7 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 - *2024.05*, Special Session Chair, ISCAS 2024, Singapore.
 - *2024.04*, Special Session Chair, ICASSP 2024, Korea.
 - *2023.09*, Special Session Chair, MMSP 2023, France.
-- *2018.09 - Present*, Reviewer of IEEE TIP, IEEE TMM, IEEE TCSVT, IEEE TBc, NeurIPS, ICASSP, ISCAS, MICCAI, PR, OE, OL, Measurement, etc.
+- *2018.09 - Present*, Reviewer of IEEE TIP, IEEE TMM, IEEE TCSVT, IEEE TBc, Pattern Recognition, Optics Letters, Optics Express, Visual Computer, Measurement, Climate Risk Management, NeurIPS, ICASSP, ISCAS, MICCAI, MMSP, etc.
 
 # 🔥 News 
 [//]: - *2024.12*: &nbsp; 4 papers have been submitted to *Nature Communications*, *TPAMI*, *Measurement*, and *ICME 2025*
