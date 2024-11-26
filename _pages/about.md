@@ -19,7 +19,7 @@ redirect_from:
 # 👦 Biography
 Dr. Kejun Wu is currently a Lecturer/Assistant Professor at School of Electronic Information and Communications, Huazhong University of Science and Technology, Wuhan, China. Before that, he worked as a Research Fellow researcher from 2022 to 2024 at School of Electrical and Electronic Engineering, Nanyang Technological University (work with Prof. Yap Kim-Hui and Chau Lap-Pui). His research interest includes Multimodal Large Language Models, Generactive Signal/Image Processing, Computational Imaging, and Learned Video Compression. He has published more than 30 papers in the past 3 years. He serves as an Associate Editor/ Executive Guest Editor/ Editorial Board of MTAP, JVCIR, and ASOC, etc., a Session Chair in IEEE ISCAS2025, ICASSP2024, ISCAS2024, and MMSP2023. He is an IEEE Senior Member.
 
-Recruiting intern/ visiting/ Master PhD students interested in MLLM and Gen-AI. contact $\boxed{k}$$\boxed{j}$$\boxed{wu@hust.edu.cn}$
+Recruiting intern/ visiting/ Master PhD students interested in MLLM and Gen-AI. contact <kjwu@hust.edu.cn>
 
 招收兴趣从事多模态大模型、生成式人工智能研究的实习生/联培生/研究生，欢迎联系k~~e~~j~~un~~wu@hust.edu.cn
 <!-- 
