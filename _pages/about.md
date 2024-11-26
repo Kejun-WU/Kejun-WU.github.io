@@ -95,13 +95,13 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 - Kejun Wu, Zhenxing Li, You Yang, and Qiong Liu, “Deep Video Compression based on Long-range Temporal Context Learning,” in Computer Vision and Image Understanding, 248(2024): 104127.
 - Kejun Wu, Qiong Liu, and Xiaoping Zhang, “Focal Stack Image Compression Based on Basis-Quadtree Representation,” in IEEE Transactions on Multimedia, 25:3975-3988, 2023.
 - Kejun Wu, Qiong Liu, You Yang, and Xiaoping Zhang, “Gaussian-Wiener Representation and Hierarchical Coding Scheme for Focal Stack Images,” in IEEE Transactions on Circuits and Systems for Video Technology, 32(2):523-537, 2022.
-- Xiaoya Yu, Kejun Wu*, You Yang, and Qiong Liu, “WaRENet: A Novel Urban Waterlogging Risk Evaluation Network,” in ACM Transactions on Multimedia Computing, Communications, and Applications, 2024, 20(7):1–28. (Equal Contribution)
+- Xiaoya Yu, Kejun Wu<font color=Red>*</font>, You Yang, and Qiong Liu, “WaRENet: A Novel Urban Waterlogging Risk Evaluation Network,” in ACM Transactions on Multimedia Computing, Communications, and Applications, 2024, 20(7):1–28. (Equal Contribution)
 - Kejun Wu, Qiong Liu, Kim-Hui Yap, and You Yang, “Multifocal Multiview Imaging and Data Compression based on Angular-Focal-Spatial Representation,” in Optics Letters, 2024.
-- Tianyi Liu, Kejun Wu*, Yi Wang, Wenyang Liu, Kim Hui Yap, and Lap-Pui Chau, “Bitstream corrupted Video Recovery: A Novel Benchmark Dataset and Method,” NeurIPS 2023. (Equal Contribution)
+- Tianyi Liu, Kejun Wu<font color=Blue>*</font>, Yi Wang, Wenyang Liu, Kim Hui Yap, and Lap-Pui Chau, “Bitstream corrupted Video Recovery: A Novel Benchmark Dataset and Method,” NeurIPS 2023. (Equal Contribution)
 - Kejun Wu, Qiong Liu, Kim-Hui Yap, and You Yang, “High Dimensional Optical Data Varifocal Multiview Imaging, Compression and Evaluation,” in Optics Express, 2023.
 - Kejun Wu, Qiong Liu, Yi Wang, and You Yang, “End-to-end Varifocal Multiview Images Coding Framework from Data Acquisition End to Vision Application End,” in Optics Express, 31(7): 11659-11679, 2023.
 - Kejun Wu, You Yang, Mei Yu, and Qiong Liu, “Block-wise Focal Stack Image Representation for End-to-end Applications,” in Optics Express, 28(26): 40024-40043, 2020.
-- Chenming Li, Chengtao Cai, Wentao Zhou, Kejun Wu*, “A sea-sky-line detection method for long wave infrared image based on improved Swin Transformer,” in Infrared Physics and Technology, 2024. (Co-corresponding Author)
+- Chenming Li, Chengtao Cai, Wentao Zhou, Kejun Wu<font color=Blue>*</font>, “A sea-sky-line detection method for long wave infrared image based on improved Swin Transformer,” in Infrared Physics and Technology, 2024. (Co-corresponding Author)
 - Kejun Wu, Yi Wang, Wenyang Liu, Kim Hui Yap, and Lap-Pui Chau, “A Spatial-Focal Error Concealment Scheme for Corrupted Focal Stack Video,” 2023 Data Compression Conference (DCC), Snowbird, UT, USA, Mar 2023.
 
 
