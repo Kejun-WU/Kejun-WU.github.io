@@ -51,10 +51,10 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 - *2018.09 - Present*, Reviewer of IEEE TIP, IEEE TMM, IEEE TCSVT, IEEE TBc, Pattern Recognition, Optics Letters, Optics Express, Visual Computer, Measurement, Climate Risk Management, NeurIPS, ICASSP, ISCAS, MICCAI, MMSP, etc.
 
 # 🔥 News 
-[//]: - *2024.12*: &nbsp; 4 papers have been submitted to *Nature Communications*, *TPAMI*, *Measurement*, and *ICME 2025*
 [//]: - *2024.11*: &nbsp; I am serving as $\color{Navy} {Editorial &thinsp;Board}$ member of *Applied Soft Computing* (中科院一区TOP，JCR Q1)
-- *2024.11*: &nbsp; 3 papers on LLMs are submitted
 [//]: - *2024.07*: &nbsp; I am serving as $\color{Navy} {Lead &thinsp;Guest &thinsp;Editor}$ of *Journal of Visual Communication and Image Representation* (JCR Q2)
+[//]: - *2024.12*: &nbsp; 4 papers have been submitted to *Nature Communications*, *TPAMI*, *Measurement*, and *ICME 2025*
+- *2024.11*: &nbsp; 3 papers on LLMs are submitted
 - *2024.11*: &nbsp;🎉🎉 3 papers have been accepted by *ACM Transactions on Multimedia Computing Communications and Applications* (JCR Q1)
 - *2024.11*: &nbsp;🎉🎉 1 paper has been accepted by **IEEE Transactions on Multimedia** (中科院一区TOP，JCR Q1)
 - *2024.08*: &nbsp;🎉🎉 1 paper has been accepted by **IEEE Transactions on Multimedia** (中科院一区TOP，JCR Q1)
