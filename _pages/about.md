@@ -56,7 +56,7 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 - *2023.09*, Special Session Chair, MMSP 2023, France.
 - *2018.09 - Present*, Reviewer of IEEE TIP, IEEE TMM, IEEE TCSVT, IEEE TBc, Pattern Recognition, Optics Letters, Optics Express, Visual Computer, Measurement, Climate Risk Management, NeurIPS, ICASSP, ISCAS, MICCAI, MMSP, etc.
 
-<span class='anchor' id='News'></span>
+<span class='anchor' id='news'></span>
 # News 
 [//]: # 🔥 News 
 [//]: - *2024.11*: &nbsp; I am serving as $\color{Navy} {Editorial &thinsp;Board}$ member of *Applied Soft Computing* (中科院一区TOP，JCR Q1)
@@ -135,7 +135,7 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 - *2022.08*: &nbsp; Letter of Appreciation from University of Oxford
 
 
-<span class='anchor' id='Educations'></span>
+<span class='anchor' id='educations'></span>
 # Educations
 [//]: # 📖 Educations
 [//]: - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
