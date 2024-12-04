@@ -45,7 +45,8 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 - *2024 - Present*, Editorial Board, Journal of Real-Time Image Processing (JCR Q2) 
 - *2024 - Present*, Lead Guest Editor, [Journal of Visual Communication and Image Representation](https://www.sciencedirect.com/special-issue/312779/generative-media-processing-computing-and-evaluation) (JCR Q2) 
 <!-- - *2024 - Present*, Associated Editor, Multimedia Tools and Applications. -->
-- *2024 - Present*, Experts of the UWA Technical Planning Expert Group, UHD (Ultra-High-Definition) World Association (UWA)  
+- *2024 - Present*, Experts of the UWA Technical Planning Expert Group, UHD (Ultra-High-Definition) World Association (UWA, 世界超高清视频产业联盟)
+- *2024 - Present*, 成员, 中国科协决"应急态势感知与应急通信技术决策咨询专家团队"
 - *2024.10 - Present*, Special Session Organizer, ISCAS 2025, UK.
 - *2024.05*, Special Session Chair, ISCAS 2024, Singapore.
 - *2024.04*, Special Session Chair, ICASSP 2024, Korea.
@@ -62,7 +63,6 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 - *2024.08*: &nbsp;🎉🎉 1 paper has been accepted by **IEEE Transactions on Multimedia** (中科院一区TOP，JCR Q1)
 - *2024.08*: &nbsp;🎉🎉 1 paper has been accepted by **Computer Vision and Image Understanding**(JCR Q1)
 - *2024.11*: &nbsp; I am serving as $\color{Navy} {Special &thinsp;Session &thinsp;Organizer}$ by *ISCAS 2025*, see you in UK 2025.
-- *2024.03*: &nbsp;🎉🎉 I am serving as 中国科协决策咨询专家团队-青年研究员
 - *2024.03*: &nbsp; I joined school of EIC, HUST
 - *2023.12*: &nbsp; I am appointed as $\color{Navy} {Special &thinsp;Session &thinsp;Chair}$ by *ISCAS 2024*, Singapore
 - *2023.11*: &nbsp; We are granted $\color{Tomato} {Silver &thinsp;Awards}$ in 2024 *IET Excellence and Innovation Awards*
