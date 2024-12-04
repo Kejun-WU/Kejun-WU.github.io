@@ -74,9 +74,9 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 - *2023.05*: &nbsp;🎉🎉 1 paper has been accepted by **IEEE Transactions on Multimedia**.   
 - *2023.03*: &nbsp;🎉🎉 1 paper has been accepted by **Optics Express**.   
 - *2023.03*: &nbsp; We are nominated for **IET Impact in Society Awards**.
-<!-- - *2022.08*: &nbsp; I get Letter of Appreciation from **University of Oxford**.  
-- *2022.04*: &nbsp;🎉🎉 1 paper has been accepted by **IEEE Transactions on Multimedia**.  
-- *2022.03*: &nbsp;🎉🎉 1 paper has been published in **IEEE Transactions on Circuits and Systems for Video Technology**.  
+<!-- *2022.08*: &nbsp; I get Letter of Appreciation from **University of Oxford**.  
+*2022.04*: &nbsp;🎉🎉 1 paper has been accepted by **IEEE Transactions on Multimedia**.  
+*2022.03*: &nbsp;🎉🎉 1 paper has been published in **IEEE Transactions on Circuits and Systems for Video Technology**.  
  -->
 
 <span class='anchor' id='publications'></span>
