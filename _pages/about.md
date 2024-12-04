@@ -16,15 +16,17 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-# 👦 Biography
+# Biography
+[//]: # 👦 Biography
+# Biography
 Dr. Kejun Wu is currently a Lecturer/Assistant Professor at School of Electronic Information and Communications, Huazhong University of Science and Technology, Wuhan, China. Before that, he worked as a Research Fellow researcher from 2022 to 2024 at School of Electrical and Electronic Engineering, Nanyang Technological University (work with Prof. Yap Kim-Hui and Chau Lap-Pui). His research interest includes Multimodal Large Language Models, Generactive Signal/Image Processing, Computational Imaging, and Learned Video Compression. He has published more than 30 papers in the past 3 years. He serves as an Associate Editor/ Executive Guest Editor/ Editorial Board of MTAP, JVCIR, JRTIP, and ASOC, etc., a Session Chair in IEEE ISCAS2025, ICASSP2024, ISCAS2024, and MMSP2023. He is an IEEE Senior Member.
 
-<!-- 
+
 🚀 &nbsp; Recruiting intern/ visiting/ Master/ PhD students interested in MLLM and Gen-AI. Flexible remote learning is welcome. 
-Contact via <kjwu@hust.edu.cn> 
+[//]: Contact via <kjwu@hust.edu.cn> 
 
 🚀 &nbsp; 招收兴趣从事多模态大模型、生成式AI研究的实习生/ 访问学生/ 硕博研究生, 欢迎线下或远程学习，欢迎联系.
--->
+
 
 <!-- 
 Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communications, Huazhong University of Science and Technology, Wuhan, China. He was a visiting Phd student at Nanyang Technological University (Supervised by Prof. Chau Lap-Pui), Singapore from 2021 to 2022. He obtained his Ph.D. degree from Huazhong University of Science and Technology in 2022. From 2022 to 2024, Dr. Wu worked as a Research Fellow at the School of Electrical and Electronic Engineering, Nanyang Technological University (work with Prof. Yap Kim-Hui and Chau Lap-Pui). His research interests include Generative Artificial Intelligence, Computational Photography, and Vision Large Language Models, etc. He has published over 40 papers at top venues including IEEE TMM, TCSVT, TOMM, OE, NeurIPS, ICASSP, ICME, etc. His research achievements have significant academic impact and rewarded national and international honorary awards, including the National Postdoctoral Innovation and Entrepreneurship Competition (ranked first), “Chunhui Cup” Innovation and Entrepreneurship Competition for Chinese Overseas Students (ranked first), China International College Students’ Innovation Competition and other awards. He has taught the undergraduate students of Oxford University computational photography internship course in 2022 and received Letter of Appreciation from Oxford University; He was granted the Silver Award in the IET Excellence and Innovation Awards and IET Impact in Society Awards Shortlist by IET (Institute of Engineering and Technology); He has served as Young Researcher of the Decision-making Consulting Expert Team of the China Association for Science and Technology. He has served as Session Chairs/Organizers in international conferences IEEE ICASSP 2024, IEEE ISCAS 2024, IEEE MMSP 2023, Associate Editor in MTAP journal, and Lead Guest Editor in JVCI (Journal of Visual Communication and Image Representation). He is an IEEE Senior Member.
@@ -40,7 +42,8 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 
 
 <span class='anchor' id='-professional-services'></span>
-# 📢 Professional Services 
+# Professional Services 
+[//]: # 📢 Professional Services 
 - *2024 - Present*, Editorial Board, [Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing/about/editorial-board) (JCR Q1, 中科院一区TOP)
 - *2024 - Present*, Editorial Board, Journal of Real-Time Image Processing (JCR Q2) 
 - *2024 - Present*, Lead Guest Editor, [Journal of Visual Communication and Image Representation](https://www.sciencedirect.com/special-issue/312779/generative-media-processing-computing-and-evaluation) (JCR Q2) 
@@ -53,7 +56,9 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 - *2023.09*, Special Session Chair, MMSP 2023, France.
 - *2018.09 - Present*, Reviewer of IEEE TIP, IEEE TMM, IEEE TCSVT, IEEE TBc, Pattern Recognition, Optics Letters, Optics Express, Visual Computer, Measurement, Climate Risk Management, NeurIPS, ICASSP, ISCAS, MICCAI, MMSP, etc.
 
-# 🔥 News 
+
+# News 
+[//]: # 🔥 News 
 [//]: - *2024.11*: &nbsp; I am serving as $\color{Navy} {Editorial &thinsp;Board}$ member of *Applied Soft Computing* (中科院一区TOP，JCR Q1)
 [//]: - *2024.07*: &nbsp; I am serving as $\color{Navy} {Lead &thinsp;Guest &thinsp;Editor}$ of *Journal of Visual Communication and Image Representation* (JCR Q2)
 [//]: - *2024.12*: &nbsp; 4 papers have been submitted to *Nature Communications*, *TPAMI*, *Measurement*, and *ICME 2025*
@@ -80,7 +85,8 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
  -->
 
 <span class='anchor' id='publications'></span>
-# 📝 Selected Publications 
+# Selected Publications 
+[//]: # 📝 Selected Publications 
 
 <!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -116,7 +122,8 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 
 
 <span class='anchor' id='honors-awards'></span>
-# 🏆 Honors & Awards
+# Honors & Awards
+[//]: # 🏆 Honors & Awards
 [//]: - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 [//]: - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 - *2024.05*: &nbsp; IEEE Senior Member
@@ -127,7 +134,9 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 - *2023.03*: &nbsp; IET Impact in Society Awards (Shortlist)
 - *2022.08*: &nbsp; Letter of Appreciation from University of Oxford
 
-# 📖 Educations
+
+# Educations
+[//]: # 📖 Educations
 [//]: - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 [//]: - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.10 - 2022.05*: &nbsp; Exchange Ph.d Student, School of Electrical and Electronic Engineering, Nanyang Technological University. 
@@ -137,7 +146,8 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 
 
 <span class='anchor' id='invited-talks'></span>
-# 💡 Talks/Presentations
+# Talks/Presentations
+[//]: # 💡 Talks/Presentations
 [//]: 💬
 [//]: - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 [//]: - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
