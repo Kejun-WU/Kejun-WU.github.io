@@ -24,7 +24,7 @@ Dr. Kejun Wu is currently a Lecturer/Assistant Professor at School of Electronic
 🚀 &nbsp; Recruiting intern/ visiting/ Master/ PhD students interested in MLLM and Gen-AI. Flexible remote learning is welcome. 
 [//]: Contact via <kjwu@hust.edu.cn> 
 
-🚀 &nbsp; 招收兴趣从事多模态大模型、生成式AI研究的实习生/ 访问学生/ 硕博研究生, 欢迎线下或远程学习，欢迎联系.
+🚀 &nbsp; 招收兴趣从事多模态大模型、生成式AI研究的实习生/ 访问学生/ 硕博研究生, 欢迎线下或远程学习, 欢迎联系.
 
 
 <!-- 
