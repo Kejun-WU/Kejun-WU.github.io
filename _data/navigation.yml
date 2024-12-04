@@ -7,7 +7,7 @@ main:
     url: "/#-professional-services"
 
   - title: "News"
-    url: "/#-news"
+    url: "/#news"
 
   - title: "Selected Publications"
     url: "/#publications"
@@ -16,7 +16,7 @@ main:
     url: "/#honors-awards"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/#educations"
 
   - title: "Invited Talks"
     url: "/#invited-talks"
