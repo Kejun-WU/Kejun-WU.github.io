@@ -156,6 +156,17 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 - *2023.03*, 2023 Data Compression Conference (DCC), Snowbird, UT, USA.
 - *2020.03*, 2023 Data Compression Conference (DCC), Snowbird, UT, USA.  
 
-
+<span class='anchor' id='students'></span>
+# Students
 [//]: # 💻 Internships
 [//]: - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+I am honored to worked with
+- Fangcheng Li, Master, Huazhong University of Science and Technology (LLMs on fine-grained recognition)
+- Zhenxing Li, Master, Huazhong University of Science and Technology (Alibaba, Beijing)
+- Runtian Wang, PhD, Harbin Engineering University (LLMs on fine-grained recognition)
+- Shen Wang, PhD, Harbin Engineering University (LLMs on SAR images)
+- Jianjun Gao, PhD, Nanyang Technological University (LLMs on HOI)
+- Wenyang Liu, PhD, Nanyang Technological University (Gen-AI on image restoration)
+- Tianyi Liu, PhD, Nanyang Technological University (Gen-AI on image restoration)
+- Chen Cai, Scientist, National University of Singapore (LLMs on remote sensing)
+[//]: Ruiying Li, Master, National University of Singapore (LLMs on embodied agents)
