@@ -169,4 +169,6 @@ I am honored to worked with
 - Wenyang Liu, PhD, Nanyang Technological University (Gen-AI on image restoration)
 - Tianyi Liu, PhD, Nanyang Technological University (Gen-AI on image restoration)
 - Chen Cai, Scientist, National University of Singapore (LLMs on remote sensing)
-[//]: Ruiying Li, Master, National University of Singapore (LLMs on embodied agents)
+  
+[//]: - Ruiying Li, Master, National University of Singapore (LLMs on embodied agents)
+
