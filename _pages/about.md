@@ -163,6 +163,7 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 I'm honored to have worked with
 - Fangcheng Li, Master, Huazhong University of Science and Technology (LLMs on fine-grained recognition)
 - Zhenxing Li, Master, Huazhong University of Science and Technology (Alibaba, Beijing)
+- Chunming Zhang, PhD, Huazhong University of Science and Technology (LLMs on signal processing)
 - Runtian Wang, PhD, Harbin Engineering University (LLMs on fine-grained recognition)
 - Shen Wang, PhD, Harbin Engineering University (LLMs on SAR images)
 - Jianjun Gao, PhD, Nanyang Technological University (LLMs on HOI)
