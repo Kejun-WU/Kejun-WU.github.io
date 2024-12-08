@@ -160,7 +160,7 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 # Students
 [//]: # 💻 Internships
 [//]: - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-I'm honored to have worked with
+I'm honored to have participated in the supervision of these excellent students: 
 - Fangcheng Li, Master, Huazhong University of Science and Technology (LLMs on fine-grained recognition)
 - Zhenxing Li, Master, Huazhong University of Science and Technology (Alibaba, Beijing)
 - Chunming Zhang, PhD, Huazhong University of Science and Technology (LLMs on signal processing)
