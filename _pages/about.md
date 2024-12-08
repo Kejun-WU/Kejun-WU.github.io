@@ -65,93 +65,39 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 
 <div style="height:300px;overflow-y:auto">
 - *2024.11*: &nbsp; Research on LLMs Signal Fault Diagnosis and SAR Image Anomaly Detection are submitted
+
 - *2024.11*: &nbsp;🎉🎉 3 papers have been accepted by *ACM Transactions on Multimedia Computing Communications and Applications* (JCR Q1)
+  
 - *2024.11*: &nbsp;🎉🎉 1 paper has been accepted by **IEEE Transactions on Multimedia** (中科院一区TOP，JCR Q1)
+  
 - *2024.08*: &nbsp;🎉🎉 1 paper has been accepted by **IEEE Transactions on Multimedia** (中科院一区TOP，JCR Q1)
+  
 - *2024.08*: &nbsp;🎉🎉 1 paper has been accepted by **Computer Vision and Image Understanding**(JCR Q1)
+  
 - *2024.11*: &nbsp; I am serving as $\color{Navy} {Special &thinsp;Session &thinsp;Organizer}$ by *ISCAS 2025*, see you in UK 2025.
+  
 - *2024.03*: &nbsp; I joined school of EIC, HUST
+  
 - *2023.12*: &nbsp; I am appointed as $\color{Navy} {Special &thinsp;Session &thinsp;Chair}$ by *ISCAS 2024*, Singapore
+  
 - *2023.11*: &nbsp; We are granted $\color{Tomato} {Silver &thinsp;Awards}$ in 2024 *IET Excellence and Innovation Awards*
+  
 - *2023.12*: &nbsp;🎉🎉 2 papers have been accepted by **Optics Express** and **Optics Letters**.
-- *2023.12*: &nbsp; I was awarded the $\color{Tomato} {全国金奖}$ in *中国国际大学生创新大赛* 
-- *2023.11*: &nbsp; I was awarded the $\color{Tomato} {全国铜奖}$ in *中国博士后创新创业大赛* 
+  
+- *2023.12*: &nbsp; I was awarded the $\color{Tomato} {全国金奖}$ in *中国国际大学生创新大赛*
+  
+- *2023.11*: &nbsp; I was awarded the $\color{Tomato} {全国铜奖}$ in *中国博士后创新创业大赛*
+  
 - *2023.10*: &nbsp; I was awarded the $\color{Tomato} {优胜奖}$ in *春晖杯中国留学人员创新创业大赛*
+  
 - *2023.09*: &nbsp;🎉🎉 1 paper has been accepted by **NeurIPS 2023**, New Orleans, USA.
-- *2023.05*: &nbsp;🎉🎉 1 paper has been accepted by **IEEE Transactions on Multimedia**.   
-- *2023.03*: &nbsp;🎉🎉 1 paper has been accepted by **Optics Express**.   
+  
+- *2023.05*: &nbsp;🎉🎉 1 paper has been accepted by **IEEE Transactions on Multimedia**.
+  
+- *2023.03*: &nbsp;🎉🎉 1 paper has been accepted by **Optics Express**.
+  
 - *2023.03*: &nbsp; We are nominated for **IET Impact in Society Awards**.
 </div>
-
-
-<style>
-pre {
-  - *2024.11*: &nbsp; Research on LLMs Signal Fault Diagnosis and SAR Image Anomaly Detection are submitted
-}
-pre {
-  - *2024.11*: &nbsp; Research on LLMs Signal Fault Diagnosis and SAR Image Anomaly Detection are submitted
-}
-pre {
-  - *2024.11*: &nbsp; Research on LLMs Signal Fault Diagnosis and SAR Image Anomaly Detection are submitted
-}
-pre {
-  - *2024.11*: &nbsp; Research on LLMs Signal Fault Diagnosis and SAR Image Anomaly Detection are submitted
-}
-pre {
-  - *2024.11*: &nbsp; Research on LLMs Signal Fault Diagnosis and SAR Image Anomaly Detection are submitted
-}
-pre {
-  - *2024.11*: &nbsp; Research on LLMs Signal Fault Diagnosis and SAR Image Anomaly Detection are submitted
-}
-pre {
-  - *2024.11*: &nbsp; Research on LLMs Signal Fault Diagnosis and SAR Image Anomaly Detection are submitted
-}
-pre {
-  - *2024.11*: &nbsp; Research on LLMs Signal Fault Diagnosis and SAR Image Anomaly Detection are submitted
-}
-pre {
-  - *2024.11*: &nbsp; Research on LLMs Signal Fault Diagnosis and SAR Image Anomaly Detection are submitted
-}
-pre {
-  - *2024.11*: &nbsp; Research on LLMs Signal Fault Diagnosis and SAR Image Anomaly Detection are submitted
-}
-pre {
-  - *2024.11*: &nbsp; Research on LLMs Signal Fault Diagnosis and SAR Image Anomaly Detection are submitted
-}
-pre {
-  - *2024.11*: &nbsp; Research on LLMs Signal Fault Diagnosis and SAR Image Anomaly Detection are submitted
-}
-pre {
-  - *2024.11*: &nbsp; Research on LLMs Signal Fault Diagnosis and SAR Image Anomaly Detection are submitted
-}
-pre {
-  - *2024.11*: &nbsp; Research on LLMs Signal Fault Diagnosis and SAR Image Anomaly Detection are submitted
-}
-pre {
-  - *2024.11*: &nbsp; Research on LLMs Signal Fault Diagnosis and SAR Image Anomaly Detection are submitted
-}
-pre {
-  - *2024.11*: &nbsp; Research on LLMs Signal Fault Diagnosis and SAR Image Anomaly Detection are submitted
-}
-pre {
-  - *2024.11*: &nbsp; Research on LLMs Signal Fault Diagnosis and SAR Image Anomaly Detection are submitted
-}
-pre {
-  - *2024.11*: &nbsp; Research on LLMs Signal Fault Diagnosis and SAR Image Anomaly Detection are submitted
-}
-pre {
-  - *2024.11*: &nbsp; Research on LLMs Signal Fault Diagnosis and SAR Image Anomaly Detection are submitted
-}
-pre {
-  - *2024.11*: &nbsp; Research on LLMs Signal Fault Diagnosis and SAR Image Anomaly Detection are submitted
-}
-pre {
-  - *2024.11*: &nbsp; Research on LLMs Signal Fault Diagnosis and SAR Image Anomaly Detection are submitted
-}
-pre {
-  - *2024.11*: &nbsp; Research on LLMs Signal Fault Diagnosis and SAR Image Anomaly Detection are submitted
-}  
-</style>
 
 
 - *2024.11*: &nbsp; Research on LLMs Signal Fault Diagnosis and SAR Image Anomaly Detection are submitted
