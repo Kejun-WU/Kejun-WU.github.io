@@ -140,8 +140,8 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 [//]: # 📖 Educations
 [//]: - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 [//]: - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.10 - 2022.05*: &nbsp; Exchange Ph.d Student, School of Electrical and Electronic Engineering, Nanyang Technological University. 
-- *2018.09 - 2022.06*: &nbsp; Ph.d Student, School of Electronic Information and Communications, Huazhong University of Science and Technology.
+- *2021.10 - 2022.05*: &nbsp; Exchange Ph.D Student, School of Electrical and Electronic Engineering, Nanyang Technological University. 
+- *2018.09 - 2022.06*: &nbsp; Ph.D Student, School of Electronic Information and Communications, Huazhong University of Science and Technology.
 - *2016.09 - 2018.06*: &nbsp; Master Student, College of Intelligent Science and Engineering, Harbin Engineering University.
 - *2011.09 - 2015.07*: &nbsp; Undergraduate Student, School of Mechatronic Engineering and Automation, Shanghai University.
 
@@ -161,15 +161,15 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 [//]: # 💻 Internships
 [//]: - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 I'm honored to have participated in the supervision of these excellent students: 
-- Fangcheng Li, Master, Huazhong University of Science and Technology (LLMs on fine-grained recognition)
-- Zhenxing Li, Master, Huazhong University of Science and Technology (Alibaba, Beijing)
-- Chunming Zhang, PhD, Huazhong University of Science and Technology (LLMs on signal processing)
-- Runtian Wang, PhD, Harbin Engineering University (LLMs on fine-grained recognition)
-- Shen Wang, PhD, Harbin Engineering University (LLMs on SAR images)
-- Jianjun Gao, PhD, Nanyang Technological University (LLMs on HOI)
-- Wenyang Liu, PhD, Nanyang Technological University (Gen-AI on image restoration)
-- Tianyi Liu, PhD, Nanyang Technological University (Gen-AI on image restoration)
-- Chen Cai, PhD, National University of Singapore (Scientist, NUS, LLMs on remote sensing)
+- Fangcheng Li, Master Student, Huazhong University of Science and Technology (LLMs on fine-grained recognition)
+- Zhenxing Li, Master Student, Huazhong University of Science and Technology (Alibaba, Beijing)
+- Chunming Zhang, Ph.D Student, Huazhong University of Science and Technology (LLMs on signal processing)
+- Runtian Wang, Ph.D Student, Harbin Engineering University (LLMs on fine-grained recognition)
+- Shen Wang, Ph.D Student, Harbin Engineering University (LLMs on SAR images)
+- Jianjun Gao, Ph.D Student, Nanyang Technological University (LLMs on HOI)
+- Wenyang Liu, Ph.D Student, Nanyang Technological University (Gen-AI on image restoration)
+- Tianyi Liu, Ph.D Student, Nanyang Technological University (Gen-AI on image restoration)
+- Chen Cai, Ph.D, National University of Singapore (Scientist, NUS, LLMs on remote sensing)
   
-[//]: - Ruiying Li, Master, National University of Singapore (LLMs on embodied agents)
+[//]: - Ruiying Li, Master Student, National University of Singapore (LLMs on embodied agents)
 
