@@ -85,7 +85,7 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 </div>
 -->
 
-- *2024.11*: &nbsp; I am elected as Experts of the UWA Technical Planning Expert Group, UHD World Association
+- *2024.12*: &nbsp; I am elected as Experts of the UWA Technical Planning Expert Group, UHD World Association
 - *2024.12*: &nbsp; Research on LLMs Signal Fault Diagnosis and SAR Image Anomaly Detection are submitted
 - *2024.11*: &nbsp; 3 papers have been accepted by **ACM Transactions on Multimedia Computing Communications and Applications** (JCR Q1)
 - *2024.11*: &nbsp; 1 paper has been accepted by **IEEE Transactions on Multimedia** (中科院一区TOP，JCR Q1)
