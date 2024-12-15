@@ -51,9 +51,9 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 - *2024 - Present*: &nbsp; Experts of the UWA Technical Planning Expert Group, UHD World Association (UWA, 世界超高清视频产业联盟)
 - *2024 - Present*: &nbsp; 专家成员, 中国科协决应急态势感知与应急通信技术决策咨询专家团队
 - *2024.10 - Present*: &nbsp; Special Session Organizer, ISCAS 2025, UK
-- *2024.05*: &nbsp; Special Session Chair, ISCAS 2024, Singapore
-- *2024.04*: &nbsp; Special Session Chair, ICASSP 2024, Korea
-- *2023.09*: &nbsp; Special Session Chair, MMSP 2023, France
+- *2024.05*: &nbsp; Special Session Chair, IEEE ISCAS 2024, Singapore
+- *2024.04*: &nbsp; Special Session Chair, IEEE ICASSP 2024, Korea
+- *2023.09*: &nbsp; Special Session Chair, IEEE MMSP 2023, France
 - *2018.09 - Present*: &nbsp; Reviewer of IEEE TIP, IEEE TMM, IEEE TCSVT, IEEE TBc, Pattern Recognition, Optics Letters, Optics Express, Visual Computer, Measurement, Climate Risk Management, NeurIPS, ICASSP, ISCAS, MICCAI, MMSP, etc
 
 <span class='anchor' id='news'></span>
@@ -100,7 +100,7 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 - *2023.12*: &nbsp; I was awarded the $\color{Tomato} {全国金奖}$ in 中国国际大学生创新大赛*
 - *2023.11*: &nbsp; I was awarded the $\color{Tomato} {全国铜奖}$ in 中国博士后创新创业大赛*
 - *2023.10*: &nbsp; I was awarded the $\color{Tomato} {优胜奖}$ in 春晖杯中国留学人员创新创业大赛
-- *2023.09*: &nbsp; I am appointed as $\color{Navy} {Special &thinsp;Session &thinsp;Chair}$ by MMSP 2023, France
+- *2023.09*: &nbsp; I am appointed as $\color{Navy} {Special &thinsp;Session &thinsp;Chair}$ by IEEE MMSP 2023, France
 - *2023.09*: &nbsp; 1 paper has been accepted by **NeurIPS 2023**, New Orleans, USA
 - *2023.05*: &nbsp; 1 paper has been accepted by **IEEE Transactions on Multimedia**
 - *2023.03*: &nbsp; 1 paper has been accepted by **Optics Express**
