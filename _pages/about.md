@@ -198,7 +198,6 @@ I'm honored to have participated in the supervision of these excellent students:
 - Jianjun Gao, Ph.D Student, Nanyang Technological University (LLMs on HOI)
 - Wenyang Liu, Ph.D Student, Nanyang Technological University (Gen-AI on image restoration)
 - Tianyi Liu, Ph.D Student, Nanyang Technological University (Gen-AI on image restoration)
+- Ruiying Li, Master Student, National University of Singapore (LLMs on embodied agents)
 - Chen Cai, Ph.D, National University of Singapore (Scientist, NUS, LLMs on remote sensing)
-  
-[//]: - Ruiying Li, Master Student, National University of Singapore (LLMs on embodied agents)
 
