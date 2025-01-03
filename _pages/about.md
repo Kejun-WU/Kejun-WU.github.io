@@ -95,7 +95,7 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 - *2023.09*: &nbsp; 1 paper has been accepted by **NeurIPS 2023**, New Orleans, USA
 - *2023.05*: &nbsp; 1 paper has been accepted by **IEEE Transactions on Multimedia**
 - *2023.03*: &nbsp; We are nominated for **IET Impact in Society Awards**
-[//]: - *2023.03*: &nbsp; 1 paper has been accepted by **Optics Express**
+<!--  - *2023.03*: &nbsp; 1 paper has been accepted by **Optics Express** -->
 
 
 <span class='anchor' id='publications'></span>
