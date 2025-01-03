@@ -12,6 +12,8 @@ layout: compress
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Your Website</title>
     <style>
+       
+      <!-- I am a comment! 
         /* Center the widget at the bottom */
         #clustrmaps-widget {
             position: fixed;
@@ -20,8 +22,17 @@ layout: compress
             transform: translateX(-50%);
             text-align: center;
             z-index: 1000; /* Ensure it stays on top of other content */
-
         }
+      -->
+
+        /* Ensure the widget stays at the end of the page */
+        #clustrmaps-widget {
+            text-align: center;
+            margin-top: 20px; /* Add some space above the widget */
+            margin-bottom: 20px; /* Add some space below the widget */
+        }
+
+      
     </style>
   </head>
 
@@ -54,7 +65,7 @@ layout: compress
   -->
     
     <div id="clustrmaps-widget">
-      <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=hdAUAclaryUOAzncTmg-AxY2nZANJ5sZpO1iIx5zE5E&cl=ffffff&w=300"></script>
+      <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=hdAUAclaryUOAzncTmg-AxY2nZANJ5sZpO1iIx5zE5E&cl=ffffff&w=200"></script>
     </div>
     
   </body>
