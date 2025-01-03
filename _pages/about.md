@@ -72,19 +72,10 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 - *2024.08*: &nbsp; 1 paper has been accepted by **Computer Vision and Image Understanding**(JCR Q1)<br>
 - *2024.11*: &nbsp; I am serving as $\color{Navy} {Special &thinsp;Session &thinsp;Organizer}$ by *ISCAS 2025*, see you in UK 2025.<br>
 - *2024.03*: &nbsp; I joined school of EIC, HUST<br>
-- *2023.12*: &nbsp; I am appointed as $\color{Navy} {Special &thinsp;Session &thinsp;Chair}$ by *ISCAS 2024*, Singapore<br>
-- *2023.11*: &nbsp; We are granted $\color{Tomato} {Silver &thinsp;Awards}$ in 2024 *IET Excellence and Innovation Awards*<br>
-- *2023.12*: &nbsp; 2 papers have been accepted by **Optics Express** and **Optics Letters**.<br>
-- *2023.12*: &nbsp; I am awarded the $\color{Tomato} {全国金奖}$ in *中国国际大学生创新大赛*<br>
-- *2023.11*: &nbsp; I am awarded the $\color{Tomato} {全国铜奖}$ in *中国博士后创新创业大赛*<br>
-- *2023.10*: &nbsp; I am awarded the $\color{Tomato} {优胜奖}$ in *春晖杯中国留学人员创新创业大赛*<br>
-- *2023.09*: &nbsp; 1 paper has been accepted by **NeurIPS 2023**, New Orleans, USA.<br>
-- *2023.05*: &nbsp; 1 paper has been accepted by **IEEE Transactions on Multimedia**.<br>
-- *2023.03*: &nbsp; 1 paper has been accepted by **Optics Express**.<br>
-- *2023.03*: &nbsp; We are nominated for **IET Impact in Society Awards**.<br>
 </div>
 -->
 
+- *2025.01*: &nbsp; Deadline extended to 1st March 2025: Journal of Visual Communication and Image Representation Special Issue on [Generative Media Processing, Computing, and Evaluation](https://www.sciencedirect.com/special-issue/312779/generative-media-processing-computing-and-evaluation)
 - *2024.12*: &nbsp; Research on Gen-AI based image restoration is submitted to IEEE TPAMI
 - *2024.12*: &nbsp; Research on LLMs Signal Fault Diagnosis and Image Anomaly Detection are submitted
 - *2024.12*: &nbsp; 3 papers have been accepted by **ACM Transactions on Multimedia Computing Communications and Applications** (JCR Q1)
@@ -103,8 +94,8 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 - *2023.09*: &nbsp; I am appointed as $\color{Navy} {Special &thinsp;Session &thinsp;Chair}$ by IEEE MMSP 2023, France
 - *2023.09*: &nbsp; 1 paper has been accepted by **NeurIPS 2023**, New Orleans, USA
 - *2023.05*: &nbsp; 1 paper has been accepted by **IEEE Transactions on Multimedia**
-- *2023.03*: &nbsp; 1 paper has been accepted by **Optics Express**
 - *2023.03*: &nbsp; We are nominated for **IET Impact in Society Awards**
+[//]: - *2023.03*: &nbsp; 1 paper has been accepted by **Optics Express**
 
 
 <span class='anchor' id='publications'></span>
