@@ -1,18 +1,58 @@
 ---
 layout: compress
----
+---    
+
+<!-- I am a comment! 原始模版  --> 
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+
+  <body>
+
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
+
+    <div id="main" role="main">
+      {% include sidebar.html %}
+    
+      <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+        {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+        <div class="page__inner-wrap">
+          <section class="page__content" itemprop="text">
+            {{ content }}
+          </section>
+        </div>
+      </article>
+    </div>
+
+    {% include scripts.html %}
+
+    <div id="clustrmaps-widget">
+      <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=hdAUAclaryUOAzncTmg-AxY2nZANJ5sZpO1iIx5zE5E&cl=ffffff&w=300"></script>
+    </div>
+    
+  </body>
+</html>
+
+
+
+
+<!-- I am a comment! 改造模版，支持3D地球
 
 <!doctype html>
 <html lang="en" class="no-js">
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+    
   <!-- I am a comment! 新增，为了底部居中3维地图-->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Your Website</title>
     <style>
-       
         /* Center the widget at the bottom */
         #clustrmaps-widget {
             /* position: fixed;*/
@@ -22,17 +62,8 @@ layout: compress
             text-align: center;
             z-index: 1000; /* Ensure it stays on top of other content */
         }
-
-      <!-- I am a comment! 
-        /* Ensure the widget stays at the end of the page */
-        #clustrmaps-widget {
-            text-align: center;
-            margin-top: 20px; /* Add some space above the widget */
-            margin-bottom: 20px; /* Add some space below the widget */
-        }
-      -->
-      
     </style>
+    
   </head>
 
   <body>
@@ -70,12 +101,5 @@ layout: compress
   </body>
 </html>
 
-
+-->
     
-
-  <!-- I am a comment! 以下为简单静态2维地图        
-    <div id="clustrmaps-widget">
-      <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=hdAUAclaryUOAzncTmg-AxY2nZANJ5sZpO1iIx5zE5E&cl=ffffff&w=300"></script>
-    </div>
-    
-  -->
