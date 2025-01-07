@@ -180,10 +180,9 @@ Chenming Li, Chengtao Cai, Wentao Zhou, Kejun Wu<font color=Blue>**</font>, “A
 
 <span class='anchor' id='students'></span>
 # Students
-[//]: # 💻 Internships
-[//]: - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 I'm honored to have participated in the supervision of these excellent students: 
-<!--
+
+<!-- 段落注释
 - Fangcheng Li, Master Student, Huazhong University of Science and Technology (LLMs on fine-grained recognition)
 - Zhenxing Li, Master Student, Huazhong University of Science and Technology (Alibaba, Beijing)
 - Chunming Zhang, Ph.D Student, Huazhong University of Science and Technology (LLMs on signal processing)
@@ -196,6 +195,7 @@ I'm honored to have participated in the supervision of these excellent students:
 - Ruiying Li, Master Student, National University of Singapore (LLMs on embodied agents)
 - Chen Cai, Ph.D, National University of Singapore (Scientist, NUS, LLMs on remote sensing)
 -->
+
 - F. Li, Master Student, Huazhong University of Science and Technology (LLMs on fine-grained recognition)
 - Z. Li, Master Student, Huazhong University of Science and Technology (Alibaba, Beijing)
 - C. Zhang, Ph.D Student, Huazhong University of Science and Technology (LLMs on signal processing)
