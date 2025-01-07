@@ -177,12 +177,13 @@ Chenming Li, Chengtao Cai, Wentao Zhou, Kejun Wu<font color=Blue>**</font>, “A
 - *2020.03*, 2023 Data Compression Conference (DCC), Snowbird, UT, USA
 
 
-<!--
+
 <span class='anchor' id='students'></span>
 # Students
 [//]: # 💻 Internships
 [//]: - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 I'm honored to have participated in the supervision of these excellent students: 
+<!--
 - Fangcheng Li, Master Student, Huazhong University of Science and Technology (LLMs on fine-grained recognition)
 - Zhenxing Li, Master Student, Huazhong University of Science and Technology (Alibaba, Beijing)
 - Chunming Zhang, Ph.D Student, Huazhong University of Science and Technology (LLMs on signal processing)
@@ -191,6 +192,19 @@ I'm honored to have participated in the supervision of these excellent students:
 - Jianjun Gao, Ph.D Student, Nanyang Technological University (LLMs on HOI)
 - Wenyang Liu, Ph.D Student, Nanyang Technological University (Gen-AI on image restoration)
 - Tianyi Liu, Ph.D Student, Nanyang Technological University (Gen-AI on image restoration)
+- Wuhui, Master Student, National University of Singapore (LLMs on vital signal analytics)
 - Ruiying Li, Master Student, National University of Singapore (LLMs on embodied agents)
 - Chen Cai, Ph.D, National University of Singapore (Scientist, NUS, LLMs on remote sensing)
 -->
+- F. Li, Master Student, Huazhong University of Science and Technology (LLMs on fine-grained recognition)
+- Z. Li, Master Student, Huazhong University of Science and Technology (Alibaba, Beijing)
+- C. Zhang, Ph.D Student, Huazhong University of Science and Technology (LLMs on signal processing)
+- R. Wang, Ph.D Student, Harbin Engineering University (LLMs on fine-grained recognition)
+- S. Wang, Ph.D Student, Harbin Engineering University (LLMs on SAR images)
+- J. Gao, Ph.D Student, Nanyang Technological University (LLMs on HOI)
+- W. Liu, Ph.D Student, Nanyang Technological University (Gen-AI on image restoration)
+- T. Liu, Ph.D Student, Nanyang Technological University (Gen-AI on image restoration)
+- W. Zhang, Master Student, National University of Singapore (LLMs on vital signal analytics)
+- R. Li, Master Student, National University of Singapore (LLMs on embodied agents)
+- C. Cai, Ph.D, National University of Singapore (Scientist, NUS, LLMs on remote sensing)
+  
