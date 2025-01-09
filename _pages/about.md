@@ -183,7 +183,7 @@ Chenming Li, Chengtao Cai, Wentao Zhou, Kejun Wu<font color=Blue>**</font>, “A
 I'm honored to have participated in the supervision of these excellent students: 
 
 <!-- 段落注释
-- Fangcheng Li, Master Student, Huazhong University of Science and Technology (LLMs on fine-grained recognition)
+- Fangcheng Li, Master Student, Huazhong University of Science and Technology (LLMs on Byte-level semantics understanding)
 - Zhenxing Li, Master Student, Huazhong University of Science and Technology (Alibaba, Beijing)
 - Chunming Zhang, Ph.D Student, Huazhong University of Science and Technology (LLMs on signal processing)
 - Runtian Wang, Ph.D Student, Harbin Engineering University (LLMs on fine-grained recognition)
@@ -196,7 +196,7 @@ I'm honored to have participated in the supervision of these excellent students:
 - Chen Cai, Ph.D, National University of Singapore (Scientist, NUS, LLMs on remote sensing)
 -->
 
-- F. Li, Master Student, Huazhong University of Science and Technology (LLMs on fine-grained recognition)
+- F. Li, Master Student, Huazhong University of Science and Technology (LLMs on Byte semantics understanding)
 - Z. Li, Master Student, Huazhong University of Science and Technology (Alibaba, Beijing)
 - C. Zhang, Ph.D Student, Huazhong University of Science and Technology (LLMs on signal processing)
 - R. Wang, Ph.D Student, Harbin Engineering University (LLMs on fine-grained recognition)
