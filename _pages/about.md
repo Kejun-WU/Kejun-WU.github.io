@@ -48,14 +48,13 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 - *2024 - Present*: &nbsp; Editorial Board, [Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing/about/editorial-board) (JCR Q1, 中科院一区TOP)
 - *2024 - Present*: &nbsp; Editorial Board, Journal of Real-Time Image Processing (JCR Q2) 
 - *2024 - Present*: &nbsp; Lead Guest Editor, [Journal of Visual Communication and Image Representation](https://www.sciencedirect.com/special-issue/312779/generative-media-processing-computing-and-evaluation) (JCR Q2) 
-<!-- - *2024 - Present*, Associated Editor, Multimedia Tools and Applications. -->
 - *2024 - Present*: &nbsp; Experts of the UWA Technical Planning Expert Group, UHD World Association (UWA, 世界超高清视频产业联盟)
 - *2024 - Present*: &nbsp; 专家成员, 中国科协决应急态势感知与应急通信技术决策咨询专家团队
-- *2024.10 - Present*: &nbsp; Special Session Organizer, ISCAS 2025, UK
+<!-- - *2024.10 - Present*: &nbsp; Special Session Organizer, ISCAS 2025, UK -->
 - *2024.05*: &nbsp; Special Session Chair, IEEE ISCAS 2024, Singapore
 - *2024.04*: &nbsp; Special Session Chair, IEEE ICASSP 2024, Korea
 - *2023.09*: &nbsp; Special Session Chair, IEEE MMSP 2023, France
-- *2018.09 - Present*: &nbsp; Reviewer of IEEE TIP, IEEE TMM, IEEE TCSVT, IEEE TBc, Pattern Recognition, Optics Letters, Optics Express, Visual Computer, Measurement, Climate Risk Management, NeurIPS, ICASSP, ISCAS, MICCAI, MMSP, etc
+- *2018.09 - Present*: &nbsp; Reviewer of IEEE TMM, IEEE TCSVT, IEEE TBc, Pattern Recognition, Measurement, OL, OE, NeurIPS, ICASSP, MICCAI, etc
 
 <span class='anchor' id='news'></span>
 # News 
