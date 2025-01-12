@@ -93,9 +93,9 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 - *2023.10*: &nbsp; I was awarded the $\color{Tomato} {优胜奖}$ in 春晖杯中国留学人员创新创业大赛
 - *2023.09*: &nbsp; I am appointed as $\color{Navy} {Special &thinsp;Session &thinsp;Chair}$ by IEEE MMSP 2023, France
 - *2023.09*: &nbsp; 1 paper has been accepted by **NeurIPS 2023**, New Orleans, USA
-- *2023.05*: &nbsp; 1 paper has been accepted by **IEEE Transactions on Multimedia**
+<!--  - *2023.05*: &nbsp; 1 paper has been accepted by **IEEE Transactions on Multimedia**
 - *2023.03*: &nbsp; We are nominated for **IET Impact in Society Awards**
-<!--  - *2023.03*: &nbsp; 1 paper has been accepted by **Optics Express** -->
+- *2023.03*: &nbsp; 1 paper has been accepted by **Optics Express** -->
 
 
 <span class='anchor' id='publications'></span>
@@ -148,7 +148,7 @@ Chenming Li, Chengtao Cai, Wentao Zhou, Kejun Wu<font color=Blue>**</font>, “A
 [//]: - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 [//]: - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 - *2024.10*: &nbsp;  Experts of the UWA Technical Planning Expert Group, UHD World Association
-- *2024.05*: &nbsp; IEEE Senior Member
+<!--  - *2024.05*: &nbsp; IEEE Senior Member -->
 - *2023.12*: &nbsp; China International College Students' Innovation Competition (formerly Internet +, Gold Award)
 - *2023.12*: &nbsp; IET Excellence and Innovation Awards International Awards (Silver Award)
 - *2023.11*: &nbsp; National Postdoctoral Innovation and Entrepreneurship Competition (Bronze Award, ranked first)
