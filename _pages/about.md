@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # Biography
 [//]: # 👦 Biography
-Dr. Kejun Wu ([Faculty HomePage](http://faculty.hust.edu.cn/WuKejun/en/index.htm)) is currently a Lecturer/Assistant Professor at School of Electronic Information and Communications, Huazhong University of Science and Technology, Wuhan, China. Before that, he worked as a Research Fellow researcher from 2022 to 2024 at School of Electrical and Electronic Engineering, Nanyang Technological University (work with Prof. Yap Kim-Hui and Chau Lap-Pui). His research interest includes Multimodal Large Language Models, Generactive Signal/Image Processing, Computational Imaging, and Learned Video Compression. He has published more than 30 papers in the past 3 years. He serves as an Associate Editor/ Executive Guest Editor/ Editorial Board of MTAP, JVCIR, JRTIP, and ASOC, etc., an Area Chair in IJCNN 2025, a Session Chair in IEEE ICASSP2024, ISCAS2024, and MMSP2023. He is an IEEE Senior Member.
+Dr. Kejun Wu ([Faculty HomePage](http://faculty.hust.edu.cn/WuKejun/en/index.htm)) is currently a Lecturer/Assistant Professor at School of Electronic Information and Communications, Huazhong University of Science and Technology, Wuhan, China. Before that, he worked as a Research Fellow researcher from 2022 to 2024 at School of Electrical and Electronic Engineering, Nanyang Technological University (work with Prof. Yap Kim-Hui and Chau Lap-Pui). His research interest includes Multimodal Large Language Models, Generactive Signal/Image Processing, Computational Imaging, and Learned Video Compression. He has published more than 30 papers in the past 3 years. He serves as an Associate Editor/ Executive Guest Editor/ Editorial Board of MTAP, JVCIR, and ASOC, etc., an Area Chair in IJCNN 2025, a Session Chair in IEEE ICASSP2024, ISCAS2024, and MMSP2023. He is an IEEE Senior Member.
 
 
 🚀 &nbsp; Recruiting intern/ visiting/ Master/ PhD students interested in MLLM and Gen-AI. Flexible remote learning is welcome. 
@@ -46,7 +46,7 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 [//]: # 📢 Professional Services 
 - *2025.01*: &nbsp; Area Chair, IJCNN 2025, Rome, Italy
 - *2024 - Present*: &nbsp; Editorial Board, [Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing/about/editorial-board) (JCR Q1, 中科院一区TOP)
-- *2024 - Present*: &nbsp; Editorial Board, Journal of Real-Time Image Processing (JCR Q2) 
+<!-- - *2024 - Present*: &nbsp; Editorial Board, Journal of Real-Time Image Processing (JCR Q2) -->
 - *2024 - Present*: &nbsp; Lead Guest Editor, [Journal of Visual Communication and Image Representation](https://www.sciencedirect.com/special-issue/312779/generative-media-processing-computing-and-evaluation) (JCR Q2) 
 - *2024 - Present*: &nbsp; Experts of the UWA Technical Planning Expert Group, UHD World Association (UWA, 世界超高清视频产业联盟)
 - *2024 - Present*: &nbsp; 专家成员, 中国科协决应急态势感知与应急通信技术决策咨询专家团队
