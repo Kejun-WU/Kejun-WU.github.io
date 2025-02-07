@@ -44,6 +44,7 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 <span class='anchor' id='-professional-activities'></span>
 # Professional Activities
 [//]: # 📢 Professional Services 
+- IEEE Senior Member
 - Area Chair, IJCNN 2025, Rome, Italy
 - Editorial Board, [Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing/about/editorial-board) (JCR Q1, 中科院一区TOP)
 <!-- - *2024 - Present*: &nbsp; Editorial Board, Journal of Real-Time Image Processing (JCR Q2) -->
