@@ -3,8 +3,8 @@ main:
   - title: "Biography"
     url: "/#about-me"
 
-  - title: "Professional Services"
-    url: "/#-professional-services"
+  - title: "Professional Activities"
+    url: "/#-professional-activities"
 
   - title: "News"
     url: "/#news"
