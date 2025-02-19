@@ -61,7 +61,6 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 [//]: # 🔥 News 
 [//]: - *2024.11*: &nbsp; I am serving as $\color{Navy} {Editorial &thinsp;Board}$ member of *Applied Soft Computing* (中科院一区TOP，JCR Q1)
 [//]: - *2024.07*: &nbsp; I am serving as $\color{Navy} {Lead &thinsp;Guest &thinsp;Editor}$ of *Journal of Visual Communication and Image Representation* (JCR Q2)
-[//]: - *2024.12*: &nbsp; 🎉🎉 4 papers have been submitted to *Nature Communications*, *TPAMI*, *Measurement*, and *ICME 2025*
 
 <!-- 段落注释 
 <div style="height:300px;width:1000px;overflow:auto;background:#EEEEEE;">
@@ -75,9 +74,10 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 </div>
 -->
 
+- *2025.02*: &nbsp; Research on MLLM Flood Risk Assessment and Rescue is submitted to *Nature Communications*
 - *2025.01*: &nbsp; Deadline extended to 1st March 2025: Journal of Visual Communication and Image Representation Special Issue on [Generative Media Processing, Computing, and Evaluation](https://www.sciencedirect.com/special-issue/312779/generative-media-processing-computing-and-evaluation)
 - *2024.12*: &nbsp; Research on Gen-AI based image restoration is submitted to IEEE TPAMI
-- *2024.12*: &nbsp; Research on LLMs Signal Fault Diagnosis and Image Anomaly Detection are submitted
+- *2024.12*: &nbsp; Research on LLM Signal Fault Diagnosis and Image Anomaly Detection are submitted
 - *2024.12*: &nbsp; 3 papers have been accepted by **ACM Transactions on Multimedia Computing Communications and Applications** (JCR Q1)
 - *2024.11*: &nbsp; I am appointed as $\color{Navy} {Special &thinsp;Session &thinsp;Organizer}$ by IEEE ISCAS 2025, see you in UK 2025
 - *2024.11*: &nbsp; 2 papers have been accepted by **IEEE Transactions on Multimedia** (中科院一区TOP，JCR Q1)
