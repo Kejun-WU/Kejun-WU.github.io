@@ -27,6 +27,8 @@ Dr. Kejun Wu ([Faculty HomePage](http://faculty.hust.edu.cn/WuKejun/en/index.htm
 
 🚀 &nbsp; 招收兴趣从事多模态大模型、生成式AI研究的实习生/ 访问学生/ 硕博研究生, 欢迎线下或远程学习, 欢迎联系.
 
+🚀 &nbsp; Deadline extended to 1st March 2025: Journal of Visual Communication and Image Representation Special Issue on [Generative Media Processing, Computing, and Evaluation](https://www.sciencedirect.com/special-issue/312779/generative-media-processing-computing-and-evaluation)
+
 
 <!-- 
 Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communications, Huazhong University of Science and Technology, Wuhan, China. He was a visiting Phd student at Nanyang Technological University (Supervised by Prof. Chau Lap-Pui), Singapore from 2021 to 2022. He obtained his Ph.D. degree from Huazhong University of Science and Technology in 2022. From 2022 to 2024, Dr. Wu worked as a Research Fellow at the School of Electrical and Electronic Engineering, Nanyang Technological University (work with Prof. Yap Kim-Hui and Chau Lap-Pui). His research interests include Generative Artificial Intelligence, Computational Photography, and Vision Large Language Models, etc. He has published over 40 papers at top venues including IEEE TMM, TCSVT, TOMM, OE, NeurIPS, ICASSP, ICME, etc. His research achievements have significant academic impact and rewarded national and international honorary awards, including the National Postdoctoral Innovation and Entrepreneurship Competition (ranked first), “Chunhui Cup” Innovation and Entrepreneurship Competition for Chinese Overseas Students (ranked first), China International College Students’ Innovation Competition and other awards. He has taught the undergraduate students of Oxford University computational photography internship course in 2022 and received Letter of Appreciation from Oxford University; He was granted the Silver Award in the IET Excellence and Innovation Awards and IET Impact in Society Awards Shortlist by IET (Institute of Engineering and Technology); He has served as Young Researcher of the Decision-making Consulting Expert Team of the China Association for Science and Technology. He has served as Session Chairs/Organizers in international conferences IEEE ICASSP 2024, IEEE ISCAS 2024, IEEE MMSP 2023, Associate Editor in MTAP journal, and Lead Guest Editor in JVCI (Journal of Visual Communication and Image Representation). He is an IEEE Senior Member.
@@ -64,7 +66,6 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 
 <!-- 段落注释 
 <div style="height:300px;width:1000px;overflow:auto;background:#EEEEEE;">
-- *2024.11*: &nbsp; Research on LLMs Signal Fault Diagnosis and Image Anomaly Detection are submitted<br>
 - *2024.11*: &nbsp; 3 papers have been accepted by *ACM Transactions on Multimedia Computing Communications and Applications* (JCR Q1)<br>
 - *2024.11*: &nbsp; 1 paper has been accepted by **IEEE Transactions on Multimedia** (中科院一区TOP，JCR Q1)<br>
 - *2024.08*: &nbsp; 1 paper has been accepted by **IEEE Transactions on Multimedia** (中科院一区TOP，JCR Q1)<br>
@@ -74,14 +75,11 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 </div>
 -->
 
-- *2025.02*: &nbsp; Research on MLLM Flood Risk Assessment and Rescue is submitted to *Nature Communications*
-- *2025.01*: &nbsp; Deadline extended to 1st March 2025: Journal of Visual Communication and Image Representation Special Issue on [Generative Media Processing, Computing, and Evaluation](https://www.sciencedirect.com/special-issue/312779/generative-media-processing-computing-and-evaluation)
-- *2024.12*: &nbsp; Research on Gen-AI based image restoration is submitted to IEEE TPAMI
+- *2025.02*: &nbsp; Research on MLLM Flood Risk Assessment and Rescue is submitted to **Nature Communications**
+- *2024.12*: &nbsp; Research on Gen-AI based image restoration is submitted to **IEEE TPAMI**
 - *2024.12*: &nbsp; Research on LLM Signal Fault Diagnosis and Image Anomaly Detection are submitted
 - *2024.12*: &nbsp; 3 papers have been accepted by **ACM Transactions on Multimedia Computing Communications and Applications** (JCR Q1)
-- *2024.11*: &nbsp; I am appointed as $\color{Navy} {Special &thinsp;Session &thinsp;Organizer}$ by IEEE ISCAS 2025, see you in UK 2025
 - *2024.11*: &nbsp; 2 papers have been accepted by **IEEE Transactions on Multimedia** (中科院一区TOP，JCR Q1)
-- *2024.10*: &nbsp; I am elected as Experts of the UWA Technical Planning Expert Group, UHD World Association
 - *2024.08*: &nbsp; 1 paper has been accepted by **Computer Vision and Image Understanding**(JCR Q1)
 - *2024.05*: &nbsp; I am appointed as $\color{Navy} {Special &thinsp;Session &thinsp;Chair}$ by IEEE ISCAS 2024, Singapore
 - *2024.04*: &nbsp; I am appointed as $\color{Navy} {Special &thinsp;Session &thinsp;Chair}$ by IEEE ICASSP 2024, Korea
@@ -97,7 +95,6 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 - *2023.11*: &nbsp; We are granted $\color{Tomato} {Silver &thinsp;Awards}$ in 2024 IET Excellence and Innovation Awards 
 - *2023.05*: &nbsp; 1 paper has been accepted by **IEEE Transactions on Multimedia**
 - *2023.03*: &nbsp; We are nominated for **IET Impact in Society Awards**
-- *2023.03*: &nbsp; 1 paper has been accepted by **Optics Express** 
 -->
 
 
