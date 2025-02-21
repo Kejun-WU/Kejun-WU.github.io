@@ -65,7 +65,7 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
   
 <div style="height: 300px; overflow-y: auto; border: 1px solid #ccc;">
   <ul>
-<li>2025.02:&thinsp; Research on MLLM Flood Risk Assessment and Rescue is submitted to Nature Communications Research on MLLM Flood Risk Assessment and Rescue is submitted to Nature Communications</li>
+<li>2025.02:&thinsp; Research on MLLM Flood Risk Assessment and Rescue is submitted to Nature Communications</li>
 <li>2024.12:&thinsp; Research on Gen-AI based image restoration is submitted to IEEE TPAMI</li>
 <li>2024.01:&thinsp; Research on LLM Signal Fault Diagnosis and Image Anomaly Detection are submitted</li>
 <li>2024.12:&thinsp; 3 papers have been accepted by ACM Transactions on Multimedia Computing Communications and Applications (JCR Q1)</li>
@@ -106,7 +106,7 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 # Selected Publications 
 [//]: # 📝 Selected Publications 
 
-<!-- 
+<!-- 段落注释 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -121,7 +121,30 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 -->
 
 [//]: - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-  
+
+
+<div style="height: 300px; overflow-y: auto; border: 1px solid #ccc;">
+  <ul>
+<li>2025.02:&thinsp; Research on MLLM Flood Risk Assessment and Rescue is submitted to Nature Communications</li>
+<li>&thinsp;Kejun Wu, You Yang, Gangyi Jiang, and Xiaoping Zhang, “Hierarchical Independent Coding Scheme for Varifocal Multiview Images based on Angular-focal Joint Prediction,” IEEE Transactions on Multimedia, 26:2993-3006, 2024. $\color{Tomato} {ESI &thinsp;Highly &thinsp;Cited &thinsp;Papers}$</li>
+<li>&thinsp;Kejun Wu, Zhenxing Li, You Yang, Qiong Liu, and Xiaoping Zhang, “End-to-end Deep Video Compression Based on Hierarchical Temporal Context Learning,” in IEEE Transactions on Multimedia, 2024.</li>
+<li>&thinsp;Wenyang Liu, Kejun Wu<font color=Blue>**</font>, Tianyi Liu, Yi Wang, Kim Hui Yap, and Lap-Pui Chau, “ByteNet: Rethinking Multimedia File Fragment Classification through Visual Perspectives,” in IEEE Transactions on Multimedia, 2024. (Corresponding Author)</li>
+<li>&thinsp;Kejun Wu, Zhenxing Li, You Yang, and Qiong Liu, “Deep Video Compression based on Long-range Temporal Context Learning,” in Computer Vision and Image Understanding, 248(2024): 104127.</li>
+<li>&thinsp;Kejun Wu, Qiong Liu, and Xiaoping Zhang, “Focal Stack Image Compression Based on Basis-Quadtree Representation,” in IEEE Transactions on Multimedia, 25:3975-3988, 2023.</li>
+<li>&thinsp;Kejun Wu, Qiong Liu, You Yang, and Xiaoping Zhang, “Gaussian-Wiener Representation and Hierarchical Coding Scheme for Focal Stack Images,” in IEEE Transactions on Circuits and Systems for Video Technology, 32(2):523-537, 2022.</li>
+<li>&thinsp;Xiaoya Yu, Kejun Wu<font color=Blue>**</font>, You Yang, and Qiong Liu, “WaRENet: A Novel Urban Waterlogging Risk Evaluation Network,” in ACM Transactions on Multimedia Computing, Communications, and Applications, 2024, 20(7):1–28. (Equal Contribution)</li>
+<li>&thinsp;Kejun Wu, Qiong Liu, Kim-Hui Yap, and You Yang, “Multifocal Multiview Imaging and Data Compression based on Angular-Focal-Spatial Representation,” in Optics Letters, 2024.</li>
+<li>&thinsp;Kejun Wu, Qiong Liu, Kim-Hui Yap, and You Yang, “High Dimensional Optical Data Varifocal Multiview Imaging, Compression and Evaluation,” in Optics Express, 2023.</li>
+<li>&thinsp;Kejun Wu, Qiong Liu, Yi Wang, and You Yang, “End-to-end Varifocal Multiview Images Coding Framework from Data Acquisition End to Vision Application End,” in Optics Express, 31(7): 11659-11679, 2023.</li>
+<li>&thinsp;Tianyi Liu, Kejun Wu<font color=Blue>**</font>, Yi Wang, Wenyang Liu, Kim Hui Yap, and Lap-Pui Chau, “Bitstream corrupted Video Recovery: A Novel Benchmark Dataset and Method,” NeurIPS 2023. (Equal Contribution)</li>
+<li>&thinsp;Jianjun Gao, Kim-Hui Yap, Kejun Wu, Duc Tri Phan, and Kratika Garg, "Contextual Human Object Interaction Understanding from Pre-Trained Large Language Model," 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Seoul, Korea</li>
+<li>&thinsp;Chen Cai, Runzhong Zhang, Jianjun Gao, Kejun Wu, Kim-Hui Yap, Yi Wang, "Temporal Sentence Grounding with Temporally Global Textual Knowledge," 2024 IEEE International Conference on Multimedia and Expo (ICME), Niagra Falls, Canada</li>
+<li>&thinsp;Kejun Wu, Yi Wang, Wenyang Liu, Kim Hui Yap, and Lap-Pui Chau, “A Spatial-Focal Error Concealment Scheme for Corrupted Focal Stack Video,” 2023 Data Compression Conference (DCC), Snowbird, UT, USA, Mar 2023.</li>
+  </ul>
+</div>
+
+
+<!-- 段落注释 
 - Kejun Wu, You Yang, Gangyi Jiang, and Xiaoping Zhang, “Hierarchical Independent Coding Scheme for Varifocal Multiview Images based on Angular-focal Joint Prediction,” IEEE Transactions on Multimedia, 26:2993-3006, 2024. $\color{Tomato} {ESI &thinsp;Highly &thinsp;Cited &thinsp;Papers}$
 - Kejun Wu, Zhenxing Li, You Yang, Qiong Liu, and Xiaoping Zhang, “End-to-end Deep Video Compression Based on Hierarchical Temporal Context Learning,” in IEEE Transactions on Multimedia, 2024.
 - Wenyang Liu, Kejun Wu<font color=Blue>**</font>, Tianyi Liu, Yi Wang, Kim Hui Yap, and Lap-Pui Chau, “ByteNet: Rethinking Multimedia File Fragment Classification through Visual Perspectives,” in IEEE Transactions on Multimedia, 2024. (Corresponding Author)
@@ -136,6 +159,7 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 - Jianjun Gao, Kim-Hui Yap, Kejun Wu, Duc Tri Phan, and Kratika Garg, "Contextual Human Object Interaction Understanding from Pre-Trained Large Language Model," 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Seoul, Korea
 - Chen Cai, Runzhong Zhang, Jianjun Gao, Kejun Wu, Kim-Hui Yap, Yi Wang, "Temporal Sentence Grounding with Temporally Global Textual Knowledge," 2024 IEEE International Conference on Multimedia and Expo (ICME), Niagra Falls, Canada
 - Kejun Wu, Yi Wang, Wenyang Liu, Kim Hui Yap, and Lap-Pui Chau, “A Spatial-Focal Error Concealment Scheme for Corrupted Focal Stack Video,” 2023 Data Compression Conference (DCC), Snowbird, UT, USA, Mar 2023.
+-->
 
 <!-- 
 Kejun Wu, You Yang, Mei Yu, and Qiong Liu, “Block-wise Focal Stack Image Representation for End-to-end Applications,” in Optics Express, 28(26): 40024-40043, 2020.
