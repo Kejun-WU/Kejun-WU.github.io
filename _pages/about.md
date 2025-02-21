@@ -62,9 +62,12 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 # News 
 [//]: # 🔥 News 
 
-<div class="news-container">
-<div class="news-item">I will be co-organizing the special session on the second International Conference on Artificial Intelligence in Healthcare (AIiH 2025), Sep. 2025, Cambridge, UK!</div>
-<div class="news-item">Invited to be an Area Chair for MICCAI 2025.</div>
+<div class="parent">
+  <div class="child">
+    <p>这里有很多内容，这段文本应该会产生滚动。</p>
+    <p>这里有很多内容，这段文本应该会产生滚动。</p>
+    <p>这里有很多内容，这段文本应该会产生滚动。</p>
+  </div>
 </div>
 
 
