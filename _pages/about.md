@@ -77,8 +77,7 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
   <p>- *2023.10*: &nbsp; I was awarded the $\color{Tomato} {优胜奖}$ in 春晖杯中国留学人员创新创业大赛<p>
   <p>- *2023.09*: &nbsp; I am appointed as $\color{Navy} {Special &thinsp;Session &thinsp;Chair}$ by IEEE MMSP 2023, France<p>
   <p>- *2023.09*: &nbsp; 1 paper has been accepted by **NeurIPS 2023**, New Orleans, USA<p>
-</div>
-</div>
+
 
 
 
