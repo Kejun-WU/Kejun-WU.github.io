@@ -77,31 +77,10 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 <p>- *2023.10*: &nbsp; I was awarded the $\color{Tomato} {优胜奖}$ in 春晖杯中国留学人员创新创业大赛<p>
 <p>- *2023.09*: &nbsp; I am appointed as $\color{Navy} {Special &thinsp;Session &thinsp;Chair}$ by IEEE MMSP 2023, France<p>
 <p>- *2023.09*: &nbsp; 1 paper has been accepted by **NeurIPS 2023**, New Orleans, USA<p>
-  <p>这里是内容...</p>
-  <p>这里是内容...</p>
-  <p>这里是内容...</p>
-  <p>这里是内容...</p>
-  <p>这里是内容...</p>
-  <p>这里是内容...</p>
-  <p>这里是内容...</p>
-  <p>这里是内容...</p>
-  <p>这里是内容...</p>
-  <p>这里是内容...</p>
 </div>
 
 
 
-
-<!-- 段落注释 
-<div style="height:300px;width:1000px;overflow:auto;background:#EEEEEE;">
-- *2024.11*: &nbsp; 3 papers have been accepted by *ACM Transactions on Multimedia Computing Communications and Applications* (JCR Q1)<br>
-- *2024.11*: &nbsp; 1 paper has been accepted by **IEEE Transactions on Multimedia** (中科院一区TOP，JCR Q1)<br>
-- *2024.08*: &nbsp; 1 paper has been accepted by **IEEE Transactions on Multimedia** (中科院一区TOP，JCR Q1)<br>
-- *2024.08*: &nbsp; 1 paper has been accepted by **Computer Vision and Image Understanding**(JCR Q1)<br>
-- *2024.11*: &nbsp; I am serving as $\color{Navy} {Special &thinsp;Session &thinsp;Organizer}$ by *ISCAS 2025*, see you in UK 2025.<br>
-- *2024.03*: &nbsp; I joined school of EIC, HUST<br>
-</div>
--->
 
 
 
