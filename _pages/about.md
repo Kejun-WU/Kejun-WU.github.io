@@ -58,27 +58,28 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 - Special Session Chair, IEEE MMSP 2023, France
 - Reviewer of IEEE TMM, IEEE TCSVT, IEEE TBc, Pattern Recognition, Measurement, OL, OE, NeurIPS, ICASSP, MICCAI, etc
 
+
 <span class='anchor' id='news'></span>
 # News 
 [//]: # 🔥 News 
 
 <div style="height: 200px; overflow-y: auto; border: 1px solid #ccc;">
-<p>- *2025.02*: &nbsp; Research on MLLM Flood Risk Assessment and Rescue is submitted to **Nature Communications**<p>
-<p>- *2024.12*: &nbsp; Research on Gen-AI based image restoration is submitted to **IEEE TPAMI**<p>
-<p>- *2024.12*: &nbsp; Research on LLM Signal Fault Diagnosis and Image Anomaly Detection are submitted<p>
-<p>- *2024.12*: &nbsp; 3 papers have been accepted by **ACM Transactions on Multimedia Computing Communications and Applications** (JCR Q1)<p>
-<p>- *2024.11*: &nbsp; 2 papers have been accepted by **IEEE Transactions on Multimedia** (中科院一区TOP，JCR Q1)<p>
-<p>- *2024.08*: &nbsp; 1 paper has been accepted by **Computer Vision and Image Understanding**(JCR Q1)<p>
-<p>- *2024.05*: &nbsp; I am appointed as $\color{Navy} {Special &thinsp;Session &thinsp;Chair}$ by IEEE ISCAS 2024, Singapore<p>
-<p>- *2024.04*: &nbsp; I am appointed as $\color{Navy} {Special &thinsp;Session &thinsp;Chair}$ by IEEE ICASSP 2024, Korea<p>
-<p>- *2024.01*: &nbsp; 2 papers have been accepted by **Optics Express** and **Optics Letters**<p>
-<p>- *2023.12*: &nbsp; I was awarded the $\color{Tomato} {全国金奖}$ in 中国国际大学生创新大赛<p>
-<p>- *2023.11*: &nbsp; I was awarded the $\color{Tomato} {全国铜奖}$ in 中国博士后创新创业大赛<p>
-<p>- *2023.10*: &nbsp; I was awarded the $\color{Tomato} {优胜奖}$ in 春晖杯中国留学人员创新创业大赛<p>
-<p>- *2023.09*: &nbsp; I am appointed as $\color{Navy} {Special &thinsp;Session &thinsp;Chair}$ by IEEE MMSP 2023, France<p>
-<p>- *2023.09*: &nbsp; 1 paper has been accepted by **NeurIPS 2023**, New Orleans, USA<p>
+  <p>- *2025.02*: &nbsp; Research on MLLM Flood Risk Assessment and Rescue is submitted to **Nature Communications**<p>
+  <p>- *2024.12*: &nbsp; Research on Gen-AI based image restoration is submitted to **IEEE TPAMI**<p>
+  <p>- *2024.12*: &nbsp; Research on LLM Signal Fault Diagnosis and Image Anomaly Detection are submitted<p>
+  <p>- *2024.12*: &nbsp; 3 papers have been accepted by **ACM Transactions on Multimedia Computing Communications and Applications** (JCR Q1)<p>
+  <p>- *2024.11*: &nbsp; 2 papers have been accepted by **IEEE Transactions on Multimedia** (中科院一区TOP，JCR Q1)<p>
+  <p>- *2024.08*: &nbsp; 1 paper has been accepted by **Computer Vision and Image Understanding**(JCR Q1)<p>
+  <p>- *2024.05*: &nbsp; I am appointed as $\color{Navy} {Special &thinsp;Session &thinsp;Chair}$ by IEEE ISCAS 2024, Singapore<p>
+  <p>- *2024.04*: &nbsp; I am appointed as $\color{Navy} {Special &thinsp;Session &thinsp;Chair}$ by IEEE ICASSP 2024, Korea<p>
+  <p>- *2024.01*: &nbsp; 2 papers have been accepted by **Optics Express** and **Optics Letters**<p>
+  <p>- *2023.12*: &nbsp; I was awarded the $\color{Tomato} {全国金奖}$ in 中国国际大学生创新大赛<p>
+  <p>- *2023.11*: &nbsp; I was awarded the $\color{Tomato} {全国铜奖}$ in 中国博士后创新创业大赛<p>
+  <p>- *2023.10*: &nbsp; I was awarded the $\color{Tomato} {优胜奖}$ in 春晖杯中国留学人员创新创业大赛<p>
+  <p>- *2023.09*: &nbsp; I am appointed as $\color{Navy} {Special &thinsp;Session &thinsp;Chair}$ by IEEE MMSP 2023, France<p>
+  <p>- *2023.09*: &nbsp; 1 paper has been accepted by **NeurIPS 2023**, New Orleans, USA<p>
 </div>
-
+</div>
 
 
 
