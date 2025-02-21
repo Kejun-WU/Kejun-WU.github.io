@@ -70,15 +70,15 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 - 2024.01:&nbsp; Research on LLM Signal Fault Diagnosis and Image Anomaly Detection are submitted<br>
 - 2024.12:&nbsp; 3 papers have been accepted by **ACM Transactions on Multimedia Computing Communications and Applications** (JCR Q1)<br>
 - 2024.11:&nbsp; 2 papers have been accepted by **IEEE Transactions on Multimedia** (中科院一区TOP，JCR Q1)<br>
-- 2024.08: &nbsp; 1 paper has been accepted by **Computer Vision and Image Understanding**(JCR Q1)<br>
-- 2024.05: &nbsp; I am appointed as $\color{Navy} {Special &thinsp;Session &thinsp;Chair}$ by IEEE ISCAS 2024, Singapore<br>
-- 2024.04: &nbsp; I am appointed as $\color{Navy} {Special &thinsp;Session &thinsp;Chair}$ by IEEE ICASSP 2024, Korea<br>
-- 2024.01: &nbsp; 2 papers have been accepted by **Optics Express** and **Optics Letters**<br>
-- 2023.12: &nbsp; I was awarded the $\color{Tomato} {全国金奖}$ in 中国国际大学生创新大赛<br>
-- 2023.11: &nbsp; I was awarded the $\color{Tomato} {全国铜奖}$ in 中国博士后创新创业大赛<br>
-- 2023.10: &nbsp; I was awarded the $\color{Tomato} {优胜奖}$ in 春晖杯中国留学人员创新创业大赛<br>
-- 2023.09: &nbsp; I am appointed as $\color{Navy} {Special &thinsp;Session &thinsp;Chair}$ by IEEE MMSP 2023, France<br>
-- 2023.09: &nbsp; 1 paper has been accepted by **NeurIPS 2023**, New Orleans, USA
+- 2024.08: 1 paper has been accepted by **Computer Vision and Image Understanding**(JCR Q1)<br>
+- 2024.05: I am appointed as $\color{Navy} {Special &thinsp;Session &thinsp;Chair}$ by IEEE ISCAS 2024, Singapore<br>
+- 2024.04: I am appointed as $\color{Navy} {Special &thinsp;Session &thinsp;Chair}$ by IEEE ICASSP 2024, Korea<br>
+- 2024.01: 2 papers have been accepted by **Optics Express** and **Optics Letters**<br>
+- 2023.12: I was awarded the $\color{Tomato} {全国金奖}$ in 中国国际大学生创新大赛<br>
+- 2023.11: I was awarded the $\color{Tomato} {全国铜奖}$ in 中国博士后创新创业大赛<br>
+- 2023.10: I was awarded the $\color{Tomato} {优胜奖}$ in 春晖杯中国留学人员创新创业大赛<br>
+- 2023.09: I am appointed as $\color{Navy} {Special &thinsp;Session &thinsp;Chair}$ by IEEE MMSP 2023, France<br>
+- 2023.09: 1 paper has been accepted by **NeurIPS 2023**, New Orleans, USA
 </div>
 
 
