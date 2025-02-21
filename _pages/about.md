@@ -62,6 +62,8 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 <span class='anchor' id='news'></span>
 # News 
 [//]: # 🔥 News 
+
+<!-- 段落注释 
 <div style="height: 500px; overflow-y: auto; border: 1px solid #ccc;">
   <p>- *2025.02*: &nbsp; Research on MLLM Flood Risk Assessment and Rescue is submitted to **Nature Communications**<p>
   <p>- *2024.12*: &nbsp; Research on Gen-AI based image restoration is submitted to **IEEE TPAMI**<p>
@@ -77,9 +79,15 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
   <p>- *2023.10*: &nbsp; I was awarded the $\color{Tomato} {优胜奖}$ in 春晖杯中国留学人员创新创业大赛<p>
   <p>- *2023.09*: &nbsp; I am appointed as $\color{Navy} {Special &thinsp;Session &thinsp;Chair}$ by IEEE MMSP 2023, France<p>
   <p>- *2023.09*: &nbsp; 1 paper has been accepted by **NeurIPS 2023**, New Orleans, USA<p>
+-->
 
 
-
+<div style="height:300px;width:70px;overflow:auto;background:#EEEEEE;">
+菜鸟教程 -- 学的不仅是技术，更是梦想！！！
+菜鸟教程 -- 学的不仅是技术，更是梦想！！！
+菜鸟教程 -- 学的不仅是技术，更是梦想！！！
+菜鸟教程 -- 学的不仅是技术，更是梦想！！！
+</div>
 
 
 
