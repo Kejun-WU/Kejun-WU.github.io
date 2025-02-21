@@ -62,8 +62,7 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 <span class='anchor' id='news'></span>
 # News 
 [//]: # 🔥 News 
-
-<div style="height: 200px; overflow-y: auto; border: 1px solid #ccc;">
+<div style="height: 500px; overflow-y: auto; border: 1px solid #ccc;">
   <p>- *2025.02*: &nbsp; Research on MLLM Flood Risk Assessment and Rescue is submitted to **Nature Communications**<p>
   <p>- *2024.12*: &nbsp; Research on Gen-AI based image restoration is submitted to **IEEE TPAMI**<p>
   <p>- *2024.12*: &nbsp; Research on LLM Signal Fault Diagnosis and Image Anomaly Detection are submitted<p>
