@@ -68,15 +68,15 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 <li>2025.02:&thinsp; Research on MLLM Flood Risk Assessment and Rescue is submitted to Nature Communications</li>
 <li>2024.12:&thinsp; Research on Gen-AI based image restoration is submitted to IEEE TPAMI</li>
 <li>2024.01:&thinsp; Research on LLM Signal Fault Diagnosis and Image Anomaly Detection are submitted</li>
-<li>2024.12:&thinsp; 3 papers have been accepted by ACM Transactions on Multimedia Computing Communications and Applications (JCR Q1)</li>
-<li>2024.11:&thinsp; 2 papers have been accepted by IEEE Transactions on Multimedia (中科院一区TOP，JCR Q1)</li>
-<li>2024.08:&thinsp; 1 paper has been accepted by Computer Vision and Image Understanding(JCR Q1)</li>
+<li>2024.12:&thinsp; 3 papers are accepted by ACM Transactions on Multimedia Computing Communications and Applications (JCR Q1)</li>
+<li>2024.11:&thinsp; 2 papers are accepted by IEEE Transactions on Multimedia (中科院一区TOP，JCR Q1)</li>
+<li>2024.08:&thinsp; 1 paper is accepted by Computer Vision and Image Understanding(JCR Q1)</li>
 <li>2024.05:&thinsp; I am appointed as Special Session Chair by IEEE ISCAS 2024, Singapore</li>
 <li>2024.04:&thinsp; I am appointed as Special Session Chair by IEEE ICASSP 2024, Korea</li>
-<li>2024.01:&thinsp; 2 papers have been accepted by Optics Express and Optics Letters</li>
-<li>2023.12:&thinsp; I was awarded the 全国金奖 in 中国国际大学生创新大赛</li>
-<li>2023.11:&thinsp; I was awarded the 全国铜奖 in 中国博士后创新创业大赛</li>
-<li>2023.10:&thinsp; I was awarded the 优胜奖 in 春晖杯中国留学人员创新创业大赛</li>
+<li>2024.01:&thinsp; 2 papers are accepted by Optics Express and Optics Letters</li>
+<li>2023.12:&thinsp; I am awarded the 全国金奖 in 中国国际大学生创新大赛</li>
+<li>2023.11:&thinsp; I am awarded the 全国铜奖 in 中国博士后创新创业大赛</li>
+<li>2023.10:&thinsp; I am awarded the 优胜奖 in 春晖杯中国留学人员创新创业大赛</li>
 <li>2023.09:&thinsp; I am appointed as Special Session Chair by IEEE MMSP 2023, France</li>
 <li>2023.09:&thinsp; 1 paper has been accepted by NeurIPS 2023, New Orleans, USA</li>
   </ul>
@@ -87,15 +87,15 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 - *2025.02*: &nbsp; Research on MLLM Flood Risk Assessment and Rescue is submitted to **Nature Communications**
 - *2024.12*: &nbsp; Research on Gen-AI based image restoration is submitted to **IEEE TPAMI**
 - *2024.12*: &nbsp; Research on LLM Signal Fault Diagnosis and Image Anomaly Detection are submitted
-- *2024.12*: &nbsp; 3 papers have been accepted by **ACM Transactions on Multimedia Computing Communications and Applications** (JCR Q1)
-- *2024.11*: &nbsp; 2 papers have been accepted by **IEEE Transactions on Multimedia** (中科院一区TOP，JCR Q1)
-- *2024.08*: &nbsp; 1 paper has been accepted by **Computer Vision and Image Understanding**(JCR Q1)
+- *2024.12*: &nbsp; 3 papers are accepted by **ACM Transactions on Multimedia Computing Communications and Applications** (JCR Q1)
+- *2024.11*: &nbsp; 2 papers are accepted by **IEEE Transactions on Multimedia** (中科院一区TOP，JCR Q1)
+- *2024.08*: &nbsp; 1 paper is accepted by **Computer Vision and Image Understanding**(JCR Q1)
 - *2024.05*: &nbsp; I am appointed as $\color{Navy} {Special &thinsp;Session &thinsp;Chair}$ by IEEE ISCAS 2024, Singapore
 - *2024.04*: &nbsp; I am appointed as $\color{Navy} {Special &thinsp;Session &thinsp;Chair}$ by IEEE ICASSP 2024, Korea
-- *2024.01*: &nbsp; 2 papers have been accepted by **Optics Express** and **Optics Letters**
-- *2023.12*: &nbsp; I was awarded the $\color{Tomato} {全国金奖}$ in 中国国际大学生创新大赛
-- *2023.11*: &nbsp; I was awarded the $\color{Tomato} {全国铜奖}$ in 中国博士后创新创业大赛
-- *2023.10*: &nbsp; I was awarded the $\color{Tomato} {优胜奖}$ in 春晖杯中国留学人员创新创业大赛
+- *2024.01*: &nbsp; 2 papers are accepted by **Optics Express** and **Optics Letters**
+- *2023.12*: &nbsp; I am awarded the $\color{Tomato} {全国金奖}$ in 中国国际大学生创新大赛
+- *2023.11*: &nbsp; I am awarded the $\color{Tomato} {全国铜奖}$ in 中国博士后创新创业大赛
+- *2023.10*: &nbsp; I am awarded the $\color{Tomato} {优胜奖}$ in 春晖杯中国留学人员创新创业大赛
 - *2023.09*: &nbsp; I am appointed as $\color{Navy} {Special &thinsp;Session &thinsp;Chair}$ by IEEE MMSP 2023, France
 - *2023.09*: &nbsp; 1 paper has been accepted by **NeurIPS 2023**, New Orleans, USA
 -->
@@ -125,7 +125,6 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 
 <div style="height: 300px; overflow-y: auto; border: 1px solid #ccc;">
   <ul>
-<li>2025.02:&thinsp; Research on MLLM Flood Risk Assessment and Rescue is submitted to Nature Communications</li>
 <li>&thinsp;Kejun Wu, You Yang, Gangyi Jiang, and Xiaoping Zhang, “Hierarchical Independent Coding Scheme for Varifocal Multiview Images based on Angular-focal Joint Prediction,” IEEE Transactions on Multimedia, 26:2993-3006, 2024. $\color{Tomato} {ESI &thinsp;Highly &thinsp;Cited &thinsp;Papers}$</li>
 <li>&thinsp;Kejun Wu, Zhenxing Li, You Yang, Qiong Liu, and Xiaoping Zhang, “End-to-end Deep Video Compression Based on Hierarchical Temporal Context Learning,” in IEEE Transactions on Multimedia, 2024.</li>
 <li>&thinsp;Wenyang Liu, Kejun Wu<font color=Blue>**</font>, Tianyi Liu, Yi Wang, Kim Hui Yap, and Lap-Pui Chau, “ByteNet: Rethinking Multimedia File Fragment Classification through Visual Perspectives,” in IEEE Transactions on Multimedia, 2024. (Corresponding Author)</li>
