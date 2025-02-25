@@ -64,7 +64,7 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 # News 
 [//]: # 🔥 News   
   
-<div style="height: 300px; overflow-y: auto; border: 1px solid #ccc;">
+<div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
   <ul>
 <li>2025.02:&thinsp; Research on MLLM Flood Risk Assessment and Rescue is submitted to <b>Nature Communications</b></li>
 <li>2024.12:&thinsp; Research on Gen-AI based image restoration is submitted to <b>IEEE TPAMI</b></li>
@@ -124,7 +124,7 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 [//]: - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 
-<div style="height: 300px; overflow-y: auto; border: 1px solid #ccc;">
+<div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
   <ul>
   <li>&thinsp;<b>Kejun Wu</b>, Zhenxing Li, You Yang, Qiong Liu, and Xiaoping Zhang, “End-to-end Deep Video Compression Based on Hierarchical Temporal Context Learning,” in <b>IEEE Transactions on Multimedia</b>, 2025.</li>
   <li>&thinsp;<b>Kejun Wu</b>, You Yang, Gangyi Jiang, and Xiaoping Zhang, “Hierarchical Independent Coding Scheme for Varifocal Multiview Images based on Angular-focal Joint Prediction,” <b>IEEE Transactions on Multimedia</b>, 26:2993-3006, 2024. $\color{Tomato} {ESI &thinsp;Highly &thinsp;Cited &thinsp;Papers}$</li>
@@ -222,7 +222,7 @@ I'm honored to have participated in the supervision of these excellent students:
 - C. Zhang, Ph.D Student, Huazhong University of Science and Technology (LLMs on signal processing)
 - R. Wang, Ph.D Student, Harbin Engineering University (LLMs on fine-grained recognition)
 - S. Wang, Ph.D Student, Harbin Engineering University (LLMs on SAR image anomaly detection)
-- R. Yan, Undergraduste Student, Xiamen University (LLMs on signal analytics)
+- R. Yan, Undergraduate Student, Xiamen University (LLMs on signal analytics)
 - J. Gao, Ph.D Student, Nanyang Technological University (LLMs on HOI)
 - W. Liu, Ph.D Student, Nanyang Technological University (Gen-AI on image restoration)
 - T. Liu, Ph.D Student, Nanyang Technological University (Gen-AI on image restoration)
