@@ -54,9 +54,9 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 - Lead Guest Editor, [Journal of Visual Communication and Image Representation](https://www.sciencedirect.com/special-issue/312779/generative-media-processing-computing-and-evaluation) (JCR Q2) 
 - Experts of the UWA Technical Planning Expert Group, UHD World Association (UWA, 世界超高清视频产业联盟)
 - 专家成员, 中国科协决应急态势感知与应急通信技术决策咨询专家团队
-- Special Session Chair, IEEE ISCAS 2024, Singapore
-- Special Session Chair, IEEE ICASSP 2024, Korea
-- Special Session Chair, IEEE MMSP 2023, France
+- Session Chair, IEEE ISCAS 2024, Singapore
+- Session Chair, IEEE ICASSP 2024, Korea
+- Session Chair, IEEE MMSP 2023, France
 - Reviewer of IEEE TMM, IEEE TCSVT, IEEE TBc, Pattern Recognition, Measurement, OL, OE, NeurIPS, ICASSP, MICCAI, etc
 
 
@@ -201,7 +201,7 @@ Chenming Li, Chengtao Cai, Wentao Zhou, Kejun Wu<font color=Blue>**</font>, “A
 - Ph.D Student, School of Electronic Information and Communications, Huazhong University of Science and Technology
 - Master Student, College of Intelligent Science and Engineering, Harbin Engineering University
 - Undergraduate Student, School of Mechatronic Engineering and Automation, Shanghai University
-- 
+
 
 <span class='anchor' id='invited-talks'></span>
 # Talks/Presentations
