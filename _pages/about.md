@@ -31,7 +31,7 @@ Dr. Kejun Wu ([Faculty HomePage](http://faculty.hust.edu.cn/WuKejun/en/index.htm
 
 
 <!-- 
-Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communications, Huazhong University of Science and Technology, Wuhan, China. He was a visiting Phd student at Nanyang Technological University (Supervised by Prof. Chau Lap-Pui), Singapore from 2021 to 2022. He obtained his Ph.D. degree from Huazhong University of Science and Technology in 2022. From 2022 to 2024, Dr. Wu worked as a Research Fellow at the School of Electrical and Electronic Engineering, Nanyang Technological University (work with Prof. Yap Kim-Hui and Chau Lap-Pui). His research interests include Generative Artificial Intelligence, Computational Photography, and Vision Large Language Models, etc. He has published over 40 papers at top venues including IEEE TMM, TCSVT, TOMM, OE, NeurIPS, ICASSP, ICME, etc. His research achievements have significant academic impact and rewarded national and international honorary awards, including the National Postdoctoral Innovation and Entrepreneurship Competition (ranked first), “Chunhui Cup” Innovation and Entrepreneurship Competition for Chinese Overseas Students (ranked first), China International College Students’ Innovation Competition and other awards. He has taught the undergraduate students of Oxford University computational photography internship course in 2022 and received Letter of Appreciation from Oxford University; He was granted the Silver Award in the IET Excellence and Innovation Awards and IET Impact in Society Awards Shortlist by IET (Institute of Engineering and Technology); He has served as Young Researcher of the Decision-making Consulting Expert Team of the China Association for Science and Technology. He has served as Session Chairs/Organizers in international conferences IEEE ICASSP 2024, IEEE ISCAS 2024, IEEE MMSP 2023, Associate Editor in MTAP journal, and Lead Guest Editor in JVCI (Journal of Visual Communication and Image Representation). He is an IEEE Senior Member.
+Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communications, Huazhong University of Science and Technology, Wuhan, China. He was a visiting Phd student at Nanyang Technological University (Supervised by Prof. Chau Lap-Pui), Singapore from 2021 to 2022. He obtained his Ph.D. degree from Huazhong University of Science and Technology in 2022. From 2022 to 2024, Dr. Wu worked as a Research Fellow researcher at the School of Electrical and Electronic Engineering, Nanyang Technological University (work with Prof. Yap Kim-Hui and Chau Lap-Pui). His research interests include Generative Artificial Intelligence, Computational Photography, and Vision Large Language Models, etc. He has published over 40 papers at top venues including IEEE TMM, TCSVT, TOMM, OE, NeurIPS, ICASSP, ICME, etc. His research achievements have significant academic impact and rewarded national and international honorary awards, including the National Postdoctoral Innovation and Entrepreneurship Competition (ranked first), “Chunhui Cup” Innovation and Entrepreneurship Competition for Chinese Overseas Students (ranked first), China International College Students’ Innovation Competition and other awards. He has taught the undergraduate students of Oxford University computational photography internship course in 2022 and received Letter of Appreciation from Oxford University; He was granted the Silver Award in the IET Excellence and Innovation Awards and IET Impact in Society Awards Shortlist by IET (Institute of Engineering and Technology); He has served as Young Researcher of the Decision-making Consulting Expert Team of the China Association for Science and Technology. He has served as Session Chairs/Organizers in international conferences IEEE ICASSP 2024, IEEE ISCAS 2024, IEEE MMSP 2023, Associate Editor in MTAP journal, and Lead Guest Editor in JVCI (Journal of Visual Communication and Image Representation). He is an IEEE Senior Member.
 -->
 
 [//]: My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
@@ -50,6 +50,7 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 - Area Chair, IJCNN 2025, Rome, Italy
 - Editorial Board, [Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing/about/editorial-board) (JCR Q1, 中科院一区TOP)
 <!-- - *2024 - Present*: &nbsp; Editorial Board, Journal of Real-Time Image Processing (JCR Q2) -->
+- Lead Guest Editor, [Journal of Real-Time Image Processing](https://link.springer.com/collections/jijehcjcbd) (JCR Q2) 
 - Lead Guest Editor, [Journal of Visual Communication and Image Representation](https://www.sciencedirect.com/special-issue/312779/generative-media-processing-computing-and-evaluation) (JCR Q2) 
 - Experts of the UWA Technical Planning Expert Group, UHD World Association (UWA, 世界超高清视频产业联盟)
 - 专家成员, 中国科协决应急态势感知与应急通信技术决策咨询专家团队
@@ -176,24 +177,29 @@ Chenming Li, Chengtao Cai, Wentao Zhou, Kejun Wu<font color=Blue>**</font>, “A
 [//]: - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 - *2024.10*: &nbsp;  Experts of the UWA Technical Planning Expert Group, UHD World Association
 <!--  - *2024.05*: &nbsp; IEEE Senior Member -->
-- *2023.12*: &nbsp; China International College Students' Innovation Competition (formerly Internet +, Gold Award)
-- *2023.12*: &nbsp; IET Excellence and Innovation Awards International Awards (Silver Award)
-- *2023.11*: &nbsp; National Postdoctoral Innovation and Entrepreneurship Competition (Bronze Award, ranked first)
-- *2023.10*: &nbsp; Chunhui Cup Innovation and Entrepreneurship Competition for Chinese Overseas Students (ranked first)
-- *2023.03*: &nbsp; IET Impact in Society Awards (Shortlist)
-- *2022.08*: &nbsp; Letter of Appreciation from University of Oxford
+- China International College Students' Innovation Competition (formerly Internet +, Gold Award)
+- IET Excellence and Innovation Awards International Awards (Silver Award)
+- National Postdoctoral Innovation and Entrepreneurship Competition (Bronze Award, ranked first)
+- Chunhui Cup Innovation and Entrepreneurship Competition for Chinese Overseas Students (ranked first)
+- IET Impact in Society Awards (Shortlist)
+- Letter of Appreciation from University of Oxford
 
 
 <span class='anchor' id='educations'></span>
 # Educations
 [//]: # 📖 Educations
 [//]: - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-[//]: - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+<!-- 段落注释 
 - *2021.10 - 2022.05*: &nbsp; Exchange Ph.D Student, School of Electrical and Electronic Engineering, Nanyang Technological University
 - *2018.09 - 2022.06*: &nbsp; Ph.D Student, School of Electronic Information and Communications, Huazhong University of Science and Technology
 - *2016.09 - 2018.06*: &nbsp; Master Student, College of Intelligent Science and Engineering, Harbin Engineering University
 - *2011.09 - 2015.07*: &nbsp; Undergraduate Student, School of Mechatronic Engineering and Automation, Shanghai University
-
+-->
+- Exchange Ph.D Student, School of Electrical and Electronic Engineering, Nanyang Technological University
+- Ph.D Student, School of Electronic Information and Communications, Huazhong University of Science and Technology
+- Master Student, College of Intelligent Science and Engineering, Harbin Engineering University
+- Undergraduate Student, School of Mechatronic Engineering and Automation, Shanghai University
+- 
 
 <span class='anchor' id='invited-talks'></span>
 # Talks/Presentations
@@ -201,9 +207,9 @@ Chenming Li, Chengtao Cai, Wentao Zhou, Kejun Wu<font color=Blue>**</font>, “A
 [//]: 💬
 [//]: - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 [//]: - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-- *2023.12*, Annual Conference on Neural Information Processing Systems (NeurIPS 2023), New Orleans, Louisiana, USA
-- *2023.03*, 2023 Data Compression Conference (DCC), Snowbird, UT, USA
-- *2020.03*, 2023 Data Compression Conference (DCC), Snowbird, UT, USA
+- Annual Conference on Neural Information Processing Systems (NeurIPS 2023), New Orleans, Louisiana, USA
+- 2023 Data Compression Conference (DCC), Snowbird, UT, USA
+- 2019 Data Compression Conference (DCC), Snowbird, UT, USA
 
 
 
@@ -215,7 +221,8 @@ I'm honored to have participated in the supervision of these excellent students:
 - Z. Li, Master Student, Huazhong University of Science and Technology (Alibaba, Beijing)
 - C. Zhang, Ph.D Student, Huazhong University of Science and Technology (LLMs on signal processing)
 - R. Wang, Ph.D Student, Harbin Engineering University (LLMs on fine-grained recognition)
-- S. Wang, Ph.D Student, Harbin Engineering University (LLMs on SAR images)
+- S. Wang, Ph.D Student, Harbin Engineering University (LLMs on SAR image anomaly detection)
+- R. Yan, Undergraduste Student, Xiamen University (LLMs on signal analytics)
 - J. Gao, Ph.D Student, Nanyang Technological University (LLMs on HOI)
 - W. Liu, Ph.D Student, Nanyang Technological University (Gen-AI on image restoration)
 - T. Liu, Ph.D Student, Nanyang Technological University (Gen-AI on image restoration)
