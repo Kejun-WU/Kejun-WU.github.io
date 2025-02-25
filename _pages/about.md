@@ -177,8 +177,7 @@ Chenming Li, Chengtao Cai, Wentao Zhou, Kejun Wu<font color=Blue>**</font>, “A
 [//]: # 🏆 Honors & Awards
 [//]: - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 [//]: - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2024.10*: &nbsp;  Experts of the UWA Technical Planning Expert Group, UHD World Association
-<!--  - *2024.05*: &nbsp; IEEE Senior Member -->
+
 - China International College Students' Innovation Competition (formerly Internet +, Gold Award)
 - IET Excellence and Innovation Awards International Awards (Silver Award)
 - National Postdoctoral Innovation and Entrepreneurship Competition (Bronze Award, ranked first)
