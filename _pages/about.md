@@ -27,8 +27,8 @@ Dr. Kejun Wu ([Faculty HomePage](http://faculty.hust.edu.cn/WuKejun/en/index.htm
 
 🚀 &nbsp; 招收兴趣从事多模态大模型、生成式AI研究的实习生/ 访问学生/ 硕博研究生, 欢迎线下或远程学习, 欢迎联系.
 
-🚀 &nbsp; Deadline extended to 1st March 2025: Journal of Visual Communication and Image Representation Special Issue on [Generative Media Processing, Computing, and Evaluation](https://www.sciencedirect.com/special-issue/312779/generative-media-processing-computing-and-evaluation)
-
+<!-- 🚀 &nbsp; Deadline extended to 1st March 2025: Journal of Visual Communication and Image Representation Special Issue on [Generative Media Processing, Computing, and Evaluation](https://www.sciencedirect.com/special-issue/312779/generative-media-processing-computing-and-evaluation)
+-->
 
 <!-- 
 Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communications, Huazhong University of Science and Technology, Wuhan, China. He was a visiting Phd student at Nanyang Technological University (Supervised by Prof. Chau Lap-Pui), Singapore from 2021 to 2022. He obtained his Ph.D. degree from Huazhong University of Science and Technology in 2022. From 2022 to 2024, Dr. Wu worked as a Research Fellow researcher at the School of Electrical and Electronic Engineering, Nanyang Technological University (work with Prof. Yap Kim-Hui and Chau Lap-Pui). His research interests include Generative Artificial Intelligence, Computational Photography, and Vision Large Language Models, etc. He has published over 40 papers at top venues including IEEE TMM, TCSVT, TOMM, OE, NeurIPS, ICASSP, ICME, etc. His research achievements have significant academic impact and rewarded national and international honorary awards, including the National Postdoctoral Innovation and Entrepreneurship Competition (ranked first), “Chunhui Cup” Innovation and Entrepreneurship Competition for Chinese Overseas Students (ranked first), China International College Students’ Innovation Competition and other awards. He has taught the undergraduate students of Oxford University computational photography internship course in 2022 and received Letter of Appreciation from Oxford University; He was granted the Silver Award in the IET Excellence and Innovation Awards and IET Impact in Society Awards Shortlist by IET (Institute of Engineering and Technology); He has served as Young Researcher of the Decision-making Consulting Expert Team of the China Association for Science and Technology. He has served as Session Chairs/Organizers in international conferences IEEE ICASSP 2024, IEEE ISCAS 2024, IEEE MMSP 2023, Associate Editor in MTAP journal, and Lead Guest Editor in JVCI (Journal of Visual Communication and Image Representation). He is an IEEE Senior Member.
@@ -66,6 +66,7 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
   
 <div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
   <ul>
+<li>2025.03:&thinsp; Call for papers, Journal of Real-Time Image Processing Special Issue on [Real-Time Image Processing for Marine and Underwater Applications](https://link.springer.com/collections/jijehcjcbd)
 <li>2025.02:&thinsp; Research on MLLM Flood Risk Assessment and Rescue is submitted to <b>Nature Communications</b></li>
 <li>2024.12:&thinsp; Research on Gen-AI based image restoration is submitted to <b>IEEE TPAMI</b></li>
 <li>2024.12:&thinsp; Research on LLM Signal Fault Diagnosis and Image Anomaly Detection are submitted</li>
