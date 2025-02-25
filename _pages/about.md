@@ -66,7 +66,8 @@ Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communica
 [//]: <li>2025.02:&thinsp; XXX</b></li>
 <div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
   <ul>
-<li>2025.03:&thinsp; Call for papers, Journal of Real-Time Image Processing Special Issue on [Real-Time Image Processing for Marine and Underwater Applications](https://link.springer.com/collections/jijehcjcbd)</b></li>
+<li>2025.03:&thinsp; Call for papers, Journal of Real-Time Image Processing Special Issue on Real-Time Image Processing for Marine and Underwater Applications (Submission deadline
+31 July 2025)</b></li>
 <li>2025.02:&thinsp; Research on MLLM Flood Risk Assessment and Rescue is submitted to <b>Nature Communications</b></li>
 <li>2024.12:&thinsp; Research on Gen-AI based image restoration is submitted to <b>IEEE TPAMI</b></li>
 <li>2024.12:&thinsp; Research on LLM Signal Fault Diagnosis and Image Anomaly Detection are submitted</li>
