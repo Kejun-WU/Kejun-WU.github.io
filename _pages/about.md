@@ -20,7 +20,7 @@ redirect_from:
 [//]: # 👦 Biography
 Dr. Kejun Wu ([Faculty HomePage](http://faculty.hust.edu.cn/WuKejun/en/index.htm)) is currently a Lecturer/Assistant Professor at School of Electronic Information and Communications, Huazhong University of Science and Technology, Wuhan, China. Before that, he worked as a Research Fellow researcher from 2022 to 2024 at School of Electrical and Electronic Engineering, Nanyang Technological University (work with Prof. Yap Kim-Hui and Chau Lap-Pui). 
 He obtained his Ph.D. degree from Huazhong University of Science and Technology supervised by You Yang (杨铀), Master degree from Harbin Engineering University supervised by Chengtao Cai (蔡成涛), and Bachelor degree from Shanghai University.
-His research interest includes Multimodal Large Language Models, Generactive Signal/Image Processing, and Learned Video Compression. He has published more than 30 papers in the past 3 years. He serves as an Editorial Board Member / Executive Guest Editor of ASOC, JVCIR, and JRTIP, etc., an Area Chair in IJCNN 2025, a Session Chair in IEEE ICASSP2024, ISCAS2024, and MMSP2023. He is an IEEE Senior Member.
+His research interest includes Multimodal Large Language Models, Generactive Signal/Image Processing, and Learned Video Compression. He has published more than 30 papers in the past 3 years. He serves as an Editorial Board Member / Executive Guest Editor of ASOC, JVCIR, and JRTIP, etc., an Area / Session Chair in IJCNN 2025, IEEE ICASSP2024, ISCAS2024, and MMSP2023. He is an IEEE Senior Member.
 
 
 🚀 &nbsp; Recruiting intern/ visiting/ Master/ PhD students interested in MLLM and Gen-AI. Flexible remote learning is welcome. 
@@ -49,14 +49,13 @@ He was a visiting Phd student at Nanyang Technological University, Singapore fro
 <span class='anchor' id='-professional-activities'></span>
 # Professional Activities
 [//]: # 📢 Professional Services 
-- IEEE Senior Member
-- Area Chair, IJCNN 2025, Rome, Italy
 - Lead Guest Editor, [Journal of Real-Time Image Processing](https://link.springer.com/collections/jijehcjcbd) (Co-Guest Editor, 蔡成涛，程明明，王亮)
-- Editorial Board, [Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing/about/editorial-board) (JCR Q1, 中科院一区TOP)
+- Editorial Board, [Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing/about/editorial-board) (JCR Q1)
 <!-- - *2024 - Present*: &nbsp; Editorial Board, Journal of Real-Time Image Processing (JCR Q2) -->
 - Lead Guest Editor, [Journal of Visual Communication and Image Representation](https://www.sciencedirect.com/special-issue/312779/generative-media-processing-computing-and-evaluation) (JCR Q2) 
 - Experts of the UWA Technical Planning Expert Group, UHD World Association (UWA, 世界超高清视频产业联盟)
 - 专家成员, 中国科协决应急态势感知与应急通信技术决策咨询专家团队
+- Area Chair, IJCNN 2025, Rome, Italy
 - Session Chair, IEEE ISCAS 2024, Singapore
 - Session Chair, IEEE ICASSP 2024, Korea
 - Session Chair, IEEE MMSP 2023, France
@@ -71,7 +70,7 @@ He was a visiting Phd student at Nanyang Technological University, Singapore fro
   <ul>
 <li>2025.03:&thinsp; Call for papers, Journal of Real-Time Image Processing Special Issue on Real-Time Image Processing for Marine and Underwater Applications (Submission deadline
 31 July 2025)</li>
-<li>2025.02:&thinsp; Research on MLLM Flood Risk Assessment and Rescue is submitted to <b>Nature Communications</b></li>
+[//]: <li>2025.02:&thinsp; Research on MLLM Flood Risk Assessment and Rescue is submitted to <b>Nature Communications</b></li>
 <li>2024.12:&thinsp; Research on Gen-AI based image restoration is submitted to <b>IEEE TPAMI</b></li>
 <li>2024.12:&thinsp; Research on LLM Signal Fault Diagnosis and Image Anomaly Detection are submitted</li>
 <li>2024.12:&thinsp; 3 papers are accepted by ACM Transactions on Multimedia Computing Communications and Applications (JCR Q1)</li>
