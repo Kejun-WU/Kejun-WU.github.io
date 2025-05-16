@@ -70,7 +70,6 @@ He was a visiting Phd student at Nanyang Technological University, Singapore fro
   <ul>
 <li>2025.03:&thinsp; Call for papers, Journal of Real-Time Image Processing Special Issue on Real-Time Image Processing for Marine and Underwater Applications (Submission deadline
 31 July 2025)</li>
-[//]: <li>2025.02:&thinsp; Research on MLLM Flood Risk Assessment and Rescue is submitted to <b>Nature Communications</b></li>
 <li>2024.12:&thinsp; Research on Gen-AI based image restoration is submitted to <b>IEEE TPAMI</b></li>
 <li>2024.12:&thinsp; Research on LLM Signal Fault Diagnosis and Image Anomaly Detection are submitted</li>
 <li>2024.12:&thinsp; 3 papers are accepted by ACM Transactions on Multimedia Computing Communications and Applications (JCR Q1)</li>
