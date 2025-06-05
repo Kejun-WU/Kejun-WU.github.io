@@ -50,9 +50,9 @@ He was a visiting Phd student at Nanyang Technological University, Singapore fro
 # Professional Activities
 [//]: # 📢 Professional Services 
 - Lead Guest Editor, [Journal of Real-Time Image Processing](https://link.springer.com/collections/jijehcjcbd) (Co-Guest Editor, 蔡成涛，程明明，王亮)
-- Editorial Board, [Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing/about/editorial-board) (JCR Q1)
+- Editorial Board, Applied Soft Computing (JCR Q1)
 <!-- - *2024 - Present*: &nbsp; Editorial Board, Journal of Real-Time Image Processing (JCR Q2) -->
-- Lead Guest Editor, [Journal of Visual Communication and Image Representation](https://www.sciencedirect.com/special-issue/312779/generative-media-processing-computing-and-evaluation) (JCR Q2) 
+- Lead Guest Editor, Journal of Visual Communication and Image Representation (JCR Q2) 
 - Experts of the UWA Technical Planning Expert Group, UHD World Association (UWA, 世界超高清视频产业联盟)
 - 专家成员, 中国科协决应急态势感知与应急通信技术决策咨询专家团队
 - Program Committee, AIGC 2025, Hangzhou, China
