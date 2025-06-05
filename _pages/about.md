@@ -55,6 +55,7 @@ He was a visiting Phd student at Nanyang Technological University, Singapore fro
 - Lead Guest Editor, [Journal of Visual Communication and Image Representation](https://www.sciencedirect.com/special-issue/312779/generative-media-processing-computing-and-evaluation) (JCR Q2) 
 - Experts of the UWA Technical Planning Expert Group, UHD World Association (UWA, 世界超高清视频产业联盟)
 - 专家成员, 中国科协决应急态势感知与应急通信技术决策咨询专家团队
+- Program Committee, AIGC 2025, Hangzhou, China
 - Area Chair, IJCNN 2025, Rome, Italy
 - Session Chair, IEEE ISCAS 2024, Singapore
 - Session Chair, IEEE ICASSP 2024, Korea
@@ -68,8 +69,8 @@ He was a visiting Phd student at Nanyang Technological University, Singapore fro
 [//]: <li>2025.02:&thinsp; XXX</li>
 <div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
   <ul>
-<li>2025.03:&thinsp; Call for papers, Journal of Real-Time Image Processing Special Issue on Real-Time Image Processing for Marine and Underwater Applications (Submission deadline
-31 July 2025)</li>
+<li>2025.06:&thinsp; Invited to serve as Program Committee for the 3rd International Conference on AI-Generated Content (AIGC 2025), to be held in Hangzhou</li>    
+<li>2025.03:&thinsp; Call for papers, Journal of Real-Time Image Processing Special Issue on Real-Time Image Processing for Marine and Underwater Applications (Submission deadline 31 July 2025)</li>
 <li>2024.12:&thinsp; Research on Gen-AI based image restoration is submitted to <b>IEEE TPAMI</b></li>
 <li>2024.12:&thinsp; 3 papers are accepted by ACM Transactions on Multimedia Computing Communications and Applications (JCR Q1)</li>
 <li>2024.11:&thinsp; 2 papers are accepted by IEEE Transactions on Multimedia (中科院一区TOP，JCR Q1)</li>
