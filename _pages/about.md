@@ -69,7 +69,7 @@ He was a visiting Phd student at Nanyang Technological University, Singapore fro
 [//]: <li>2025.02:&thinsp; XXX</li>
 <div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
   <ul>
-<li>2025.06:&thinsp; Invited to serve as Program Committee for the 3rd International Conference on AI-Generated Content (AIGC 2025), to be held in Hangzhou</li>    
+<li>2025.06:&thinsp; Program Committee for International Conference on AI-Generated Content (AIGC 2025), Hangzhou</li>    
 <li>2025.03:&thinsp; Call for papers, Journal of Real-Time Image Processing Special Issue on Real-Time Image Processing for Marine and Underwater Applications (Submission deadline 31 July 2025)</li>
 <li>2024.12:&thinsp; Research on Gen-AI based image restoration is submitted to <b>IEEE TPAMI</b></li>
 <li>2024.12:&thinsp; 3 papers are accepted by ACM Transactions on Multimedia Computing Communications and Applications (JCR Q1)</li>
