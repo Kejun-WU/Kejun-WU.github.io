@@ -60,7 +60,7 @@ He was a visiting Phd student at Nanyang Technological University, Singapore fro
 - Session Chair, IEEE ISCAS 2024, Singapore
 - Session Chair, IEEE ICASSP 2024, Korea
 - Session Chair, IEEE MMSP 2023, France
-[//]: - Reviewer of IEEE TMM, IEEE TCSVT, IEEE TBc, Pattern Recognition, Information Fusion, NeurIPS, ICASSP, MICCAI, etc
+- Reviewer of IEEE TMM, IEEE TCSVT, IEEE TBc, Pattern Recognition, Information Fusion, NeurIPS, ICASSP, etc
 
 
 <span class='anchor' id='news'></span>
@@ -222,7 +222,9 @@ Chenming Li, Chengtao Cai, Wentao Zhou, Kejun Wu<font color=Blue>**</font>, “A
 # Students
 I'm honored to have participated in the supervision of these excellent students: 
 
-- F. Li, Master Student, Huazhong University of Science and Technology (LLMs on Byte-domain semantics understanding)
+- J. Liang, Intern Student, Huazhong University of Science and Technology (LLMs on multimedia understanding)
+- Q. Zeng, Intern Student, Huazhong University of Science and Technology (MLLMs on Medical Radiology/Pathology)
+- F. Li, Master Student, Huazhong University of Science and Technology (LLMs on Byte-domain  understanding)
 - C. Zhang, Ph.D Student, Huazhong University of Science and Technology (LLMs on signal processing)
 - R. Wang, Ph.D Student, Harbin Engineering University (LLMs on fine-grained recognition)
 - S. Wang, Ph.D Student, Harbin Engineering University (LLMs on SAR image anomaly detection)
@@ -230,7 +232,5 @@ I'm honored to have participated in the supervision of these excellent students:
 - J. Gao, Ph.D Student, Nanyang Technological University (LLMs on HOI)
 - W. Liu, Ph.D Student, Nanyang Technological University (Gen-AI on image restoration)
 - T. Liu, Ph.D Student, Nanyang Technological University (Gen-AI on image restoration)
-- W. Zhang, Master Student, National University of Singapore (LLMs on vital signal analytics)
-- R. Li, Master Student, National University of Singapore (LLMs on embodied agents)
 - C. Cai, Ph.D, National University of Singapore (Scientist, NUS, LLMs on remote sensing)
   
