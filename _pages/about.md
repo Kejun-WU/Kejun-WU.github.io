@@ -60,7 +60,7 @@ He was a visiting Phd student at Nanyang Technological University, Singapore fro
 - Session Chair, IEEE ISCAS 2024, Singapore
 - Session Chair, IEEE ICASSP 2024, Korea
 - Session Chair, IEEE MMSP 2023, France
-- Reviewer of IEEE TMM, IEEE TCSVT, IEEE TBc, Pattern Recognition, Information Fusion, NeurIPS, ICASSP, MICCAI, etc
+[//]: - Reviewer of IEEE TMM, IEEE TCSVT, IEEE TBc, Pattern Recognition, Information Fusion, NeurIPS, ICASSP, MICCAI, etc
 
 
 <span class='anchor' id='news'></span>
