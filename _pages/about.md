@@ -117,8 +117,17 @@ He was a visiting Phd student at Nanyang Technological University, Singapore fro
 [//]: - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 
+
 <div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
   <ul>
+    
+<!-- 段落注释 
+    <li>&thinsp;Tianyi Liu, <b>Kejun Wu</b>, Chen Cai, Yi Wang, Kim-Hui Yap, Lap-Pui Chau, "Towards Blind Bitstream-corrupted Video Recovery: A Visual Foundation Model-driven Framework," in <b>ACM MM 2025</b></li>
+    <li>&thinsp;Chen Cai, Tianyi Liu, Jianjun Gao, Wenyang Liu, <b>Kejun Wu</b>, Ruoyu Wang, Yi Wang, Soo Chin Liew, "From Semantics, Scene to Instance-awareness: Distilling Foundation Model for Open-vocabulary Grounded Situation Recognition," in <b>ACM MM 2025</b></li>
+    <li>&thinsp;Tianyi Liu, <b>Kejun Wu</b>, Yi Wang, Wenyang Liu, Kim-Hui Yap, Lap-Pui Chau, "BitsCV: Restoration of Artifacts Decoded in Bitstream-Corrupted Videos," in <b>IEEE Transactions on Pattern Analysis and Machine Intelligence</b></li>
+    <li>&thinsp;Wenyang Liu, Tianyi Liu, Chen Cai, Jianjun Gao, Kejun Wu, Kim-Hui Yap, "AsTaSR: Adaptive Superpixel Token Aggregation for Lightweight Image Super-Resolution,"
+-->
+
   <li>&thinsp;<b>Kejun Wu</b>, Zhenxing Li, You Yang, Qiong Liu, and Xiaoping Zhang, “End-to-end Deep Video Compression Based on Hierarchical Temporal Context Learning,” in <b>IEEE Transactions on Multimedia</b>, 2025.</li>
   <li>&thinsp;Wenyang Liu, Chen Cai, Jianjun Gao, <b>Kejun Wu</b><font color=Blue>**</font>, Yi Wang, Kim-Hui Yap, and Lap-Pui Chau, “PromptSR: Cascade Prompting for Lightweight Image Super-Resolution,” in <b>IEEE Transactions on Multimedia</b>, 2025. (Corresponding Author)</li>
   <li>&thinsp;<b>Kejun Wu</b>, You Yang, Gangyi Jiang, and Xiaoping Zhang, “Hierarchical Independent Coding Scheme for Varifocal Multiview Images based on Angular-focal Joint Prediction,” <b>IEEE Transactions on Multimedia</b>, 26:2993-3006, 2024. $\color{Tomato} {ESI &thinsp;Highly &thinsp;Cited &thinsp;Papers}$</li>
@@ -158,12 +167,7 @@ He was a visiting Phd student at Nanyang Technological University, Singapore fro
 # Educations
 [//]: # 📖 Educations
 [//]: - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-<!-- 段落注释 
-- *2021.10 - 2022.05*: &nbsp; Exchange Ph.D Student, School of Electrical and Electronic Engineering, Nanyang Technological University
-- *2018.09 - 2022.06*: &nbsp; Ph.D Student, School of Electronic Information and Communications, Huazhong University of Science and Technology
-- *2016.09 - 2018.06*: &nbsp; Master Student, College of Intelligent Science and Engineering, Harbin Engineering University
-- *2011.09 - 2015.07*: &nbsp; Undergraduate Student, School of Mechatronic Engineering and Automation, Shanghai University
--->
+
 - Exchange Ph.D Student, School of Electrical and Electronic Engineering, Nanyang Technological University
 - Ph.D Student, School of Electronic Information and Communications, Huazhong University of Science and Technology
 - Master Student, College of Intelligent Science and Engineering, Harbin Engineering University
