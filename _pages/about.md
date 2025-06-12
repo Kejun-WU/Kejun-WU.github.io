@@ -66,12 +66,10 @@ He was a visiting Phd student at Nanyang Technological University, Singapore fro
 <span class='anchor' id='news'></span>
 # News 
 [//]: # 🔥 News   
-[//]: <li>2025.02:&thinsp; XXX</li>
 <div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
   <ul>
     <li>2025.06:&thinsp; Research on MLLM is submitted to <b>Cell. Patterns</b>, a Cell Press journal focuses on data science</li>
     <li>2025.06:&thinsp; Invited to be Program Committee for International Conference on AI-Generated Content (AIGC 2025), Hangzhou</li>    
-    <li>2025.04:&thinsp; Call for papers, Journal of Real-Time Image Processing Special Issue on Real-Time Image Processing for Marine and Underwater Applications (Submission deadline 31 July 2025)</li>
     <li>2024.04:&thinsp; Research on Gen-AI based image restoration is Under Revision at <b>IEEE TPAMI</b></li>
     <li>2024.12:&thinsp; 3 papers are accepted by ACM Transactions on Multimedia Computing Communications and Applications (JCR Q1)</li>
     <li>2024.11:&thinsp; 2 papers are accepted by IEEE Transactions on Multimedia (中科院一区TOP，JCR Q1)</li>
