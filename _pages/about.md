@@ -53,8 +53,8 @@ He was a visiting Phd student at Nanyang Technological University, Singapore fro
 - Editorial Board, Applied Soft Computing (JCR Q1)
 <!-- - *2024 - Present*: &nbsp; Editorial Board, Journal of Real-Time Image Processing (JCR Q2) -->
 - Lead Guest Editor, Journal of Visual Communication and Image Representation (JCR Q2) 
-- Experts of the UWA Technical Planning Expert Group, UHD World Association (UWA, 世界超高清视频产业联盟)
-- 专家成员, 中国科协决应急态势感知与应急通信技术决策咨询专家团队
+- Experts, UWA Technical Planning Expert Group, UHD World Association (UWA, 世界超高清视频产业联盟)
+- Member, 应急态势感知与应急通信技术决策咨询专家团队, 中国科协
 - Program Committee, AIGC 2025, Hangzhou, China
 - Area Chair, IJCNN 2025, Rome, Italy
 - Session Chair, IEEE ISCAS 2024, Singapore
