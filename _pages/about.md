@@ -49,7 +49,8 @@ He was a visiting Phd student at Nanyang Technological University, Singapore fro
 <span class='anchor' id='-professional-activities'></span>
 # Professional Activities
 [//]: # 📢 Professional Services 
-- Lead Guest Editor, [Journal of Real-Time Image Processing](https://link.springer.com/collections/jijehcjcbd) (Co-Guest Editor, 蔡成涛，程明明，王亮)
+- Lead Guest Editor, Journal of Real-Time Image Processing (Co-Guest Editor, 蔡成涛，程明明，王亮)
+<!-- - Lead Guest Editor, [Journal of Real-Time Image Processing](https://link.springer.com/collections/jijehcjcbd) (Co-Guest Editor, 蔡成涛，程明明，王亮) -->
 - Editorial Board, Applied Soft Computing 
 <!-- Editorial Board, Journal of Real-Time Image Processing -->
 - Lead Guest Editor, Journal of Visual Communication and Image Representation 
