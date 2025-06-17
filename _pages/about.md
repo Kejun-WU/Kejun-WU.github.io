@@ -73,7 +73,7 @@ He was a visiting Phd student at Nanyang Technological University, Singapore fro
     <li>2025.06:&thinsp; Research on MLLM is submitted to <b>Cell. Patterns</b>, a Cell Press journal focuses on data science</li>
     <li>2025.06:&thinsp; Invited to be Program Committee for International Conference on AI-Generated Content (AIGC 2025), Hangzhou</li>    
     <li>2024.04:&thinsp; Research on Gen-AI based image restoration is Under Revision at <b>IEEE TPAMI</b></li>
-    <li>2024.12:&thinsp; 3 papers are accepted by ACM Transactions on Multimed. Comput. Commun. Appl. (JCR Q1)</li>
+    <li>2024.12:&thinsp; 1 paper is accepted by ACM Transactions on Multim. Comput. Commun. Appl. (JCR Q1)</li>
     <li>2024.11:&thinsp; 2 papers are accepted by IEEE Transactions on Multimedia (中科院一区TOP，JCR Q1)</li>
     <li>2024.08:&thinsp; 1 paper is accepted by Computer Vision and Image Understanding(JCR Q1)</li>
     <li>2024.05:&thinsp; I am appointed as Special Session Chair by IEEE ISCAS 2024, Singapore</li>
