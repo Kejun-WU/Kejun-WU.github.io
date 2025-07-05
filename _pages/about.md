@@ -192,12 +192,12 @@ He was a visiting Phd student at Nanyang Technological University, Singapore fro
 I'm honored to have participated in the supervision of these excellent students: 
 
 - J. Liang, Intern Student, Huazhong University of Science and Technology (LLMs on multimedia understanding)
-- Q. Zeng, Intern Student, Huazhong University of Science and Technology (MLLMs on Medical Radiology/Pathology)
+<!-- 段落注释 - Q. Zeng, Intern Student, Huazhong University of Science and Technology (MLLMs on Medical Radiology/Pathology) -->
 - F. Li, Master Student, Huazhong University of Science and Technology (LLMs on Byte-domain  understanding)
 - C. Zhang, Ph.D Student, Huazhong University of Science and Technology (LLMs on signal processing)
 - R. Wang, Ph.D Student, Harbin Engineering University (LLMs on fine-grained recognition)
 - S. Wang, Ph.D Student, Harbin Engineering University (LLMs on SAR image anomaly detection)
-- R. Yan, Undergraduate Student, Xiamen University (LLMs on signal analytics)
+<!-- 段落注释 - R. Yan, Undergraduate Student, Xiamen University (LLMs on signal analytics)  -->
 - J. Gao, Ph.D Student, Nanyang Technological University (LLMs on HOI)
 - W. Liu, Ph.D Student, Nanyang Technological University (Gen-AI on image restoration)
 - T. Liu, Ph.D Student, Nanyang Technological University (Gen-AI on image restoration)
