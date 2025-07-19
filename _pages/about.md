@@ -51,13 +51,10 @@ He was a visiting Phd student at Nanyang Technological University, Singapore fro
 
 <h1 style="color: blue;">Professional Activities</h1>
 
-<font color=Blue>Professional Activities</font>
-
 # <font color=Blue>Professional Activities</font>
 
 # <span style="color: blue;">Professional Activities</span>
 
-# \color{RoyalBlue} {Professional Activities}
 
 [//]: # 📢 Professional Services 
 - Editorial Board, Applied Soft Computing
