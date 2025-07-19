@@ -23,14 +23,14 @@ redirect_from:
 -->
 Dr. Kejun Wu ([Faculty HomePage](http://faculty.hust.edu.cn/WuKejun/en/index.htm)) is currently a Lecturer/Assistant Professor at School of Electronic Information and Communications, Huazhong University of Science and Technology, Wuhan, China. Before that, he worked as a Research Fellow researcher from 2022 to 2024 at School of Electrical and Electronic Engineering, Nanyang Technological University (work with Prof. Yap Kim-Hui and Chau Lap-Pui周立培). 
 He obtained his Ph.D. degree from Huazhong University of Science and Technology supervised by You Yang (杨铀), Master degree from Harbin Engineering University supervised by Chengtao Cai (蔡成涛), and Bachelor degree from Shanghai University.
-His research interest includes Multimodal Large Language Models, Generative Signal/Image Processing, and Learned Video Compression. He has published more than 40 papers in the past 3 years. He serves as an Editorial Board Member / Executive Guest Editor of ASOC, JVCIR, and JRTIP, etc., an Area Chair / Session Chair / Program Committee in IJCNN 2025, AIGC 2025, IEEE ICASSP2024, ISCAS2024, and MMSP2023. He is an <b>IEEE Senior Member</b>.
+His research interest includes Multimodal Large Language Models, Generative Signal/Image Processing, and High-dimensional Vision, Learned Video Compression. He has published more than 40 papers in the past 3 years. He serves as an Editorial Board Member / Executive Guest Editor of ASOC, JVCIR, and JRTIP, etc., an Area Chair / Session Chair / Program Committee in IJCNN 2025, AIGC 2025, IEEE ICASSP2024, ISCAS2024, and MMSP2023. He is an <b>IEEE Senior Member</b>.
 
 
-🚀 &nbsp; Recruiting intern/ visiting/ Master/ PhD students interested in MLLM and Gen-AI. Flexible remote learning is welcome. 
+🚀 &nbsp; Recruiting intern/ visiting students, Master students interested in MLLM and Gen-AI. Flexible remote learning is welcome. 
 <!--  Contact via <kjwu@hust.edu.cn> 
 -->
 
-🚀 &nbsp; 招收兴趣从事多模态大模型、生成式AI研究的实习生/ 访问学生/ 研究生, 欢迎线下或远程学习, 欢迎联系.
+🚀 &nbsp; 招收兴趣从事多模态大模型、生成式AI、高维视觉研究的实习生/ 访问学生/ 研究生, 欢迎线下或远程学习.
 
  
 <!-- 详细版
