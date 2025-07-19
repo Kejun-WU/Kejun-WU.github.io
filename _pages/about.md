@@ -16,8 +16,11 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+# <span style="color:rgb(17,85,160)">Biography</span>
+<!--  
 # Biography
-[//]: # 👦 Biography
+# 👦 Biography
+-->
 Dr. Kejun Wu ([Faculty HomePage](http://faculty.hust.edu.cn/WuKejun/en/index.htm)) is currently a Lecturer/Assistant Professor at School of Electronic Information and Communications, Huazhong University of Science and Technology, Wuhan, China. Before that, he worked as a Research Fellow researcher from 2022 to 2024 at School of Electrical and Electronic Engineering, Nanyang Technological University (work with Prof. <b>Yap Kim-Hui and Chau Lap-Pui周立培</b>). 
 He obtained his Ph.D. degree from Huazhong University of Science and Technology supervised by <b>You Yang (杨铀)</b>, Master degree from Harbin Engineering University supervised by <b>Chengtao Cai (蔡成涛)</b>, and Bachelor degree from Shanghai University.
 His research interest includes Multimodal Large Language Models, Generative Signal/Image Processing, and Learned Video Compression. He has published more than 40 papers in the past 3 years. He serves as an Editorial Board Member / Executive Guest Editor of ASOC, JVCIR, and JRTIP, etc., an Area Chair / Session Chair / Program Committee in IJCNN 2025, AIGC 2025, IEEE ICASSP2024, ISCAS2024, and MMSP2023. He is an <b>IEEE Senior Member</b>.
@@ -29,12 +32,10 @@ His research interest includes Multimodal Large Language Models, Generative Sign
 
 🚀 &nbsp; 招收兴趣从事多模态大模型、生成式AI研究的实习生/ 访问学生/ 研究生, 欢迎线下或远程学习, 欢迎联系.
 
-<!-- 🚀 &nbsp; Deadline extended to 1st March 2025: Journal of Visual Communication and Image Representation Special Issue on [Generative Media Processing, Computing, and Evaluation](https://www.sciencedirect.com/special-issue/312779/generative-media-processing-computing-and-evaluation)
--->
 
-<!-- 
+<!-- 详细版
 Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communications, Huazhong University of Science and Technology, Wuhan, China. He obtained his Ph.D. degree from Huazhong University of Science and Technology supervised by You Yang (杨铀), and Master degree from Harbin Engineering University supervised by Chengtao Cai (蔡成涛).
-He was a visiting Phd student at Nanyang Technological University, Singapore from 2021 to 2022 supervised by Prof. Chau Lap-Pui (周立培). From 2022 to 2024, Dr. Wu worked as a Research Fellow researcher at the School of Electrical and Electronic Engineering, Nanyang Technological University (work with Prof. Yap Kim-Hui and Chau Lap-Pui). His research interests include Generative AI, Large Language Models and their applications. He has published over 40 papers at top venues including IEEE TMM, TCSVT, TOMM, OE, NeurIPS, ICASSP, ICME, etc. His research achievements have significant academic impact and was rewarded the National Postdoctoral Innovation and Entrepreneurship Competition (ranked first), “Chunhui Cup” Innovation and Entrepreneurship Competition for Chinese Overseas Students (ranked first), China International College Students’ Innovation Competition and other awards. He has taught the undergraduate students of Oxford University computational photography internship course in 2022 and received Letter of Appreciation from Oxford University; He was granted the Silver Award in the IET Excellence and Innovation Awards and IET Impact in Society Awards Shortlist by IET (Institute of Engineering and Technology); He has served as Young Researcher of the Decision-making Consulting Expert Team of the China Association for Science and Technology. He has served as Session Chairs/Organizers in international conferences IEEE ICASSP 2024, IEEE ISCAS 2024, IEEE MMSP 2023, Associate Editor in MTAP journal, and Lead Guest Editor in JVCI (Journal of Visual Communication and Image Representation). He is an IEEE Senior Member.
+He was a visiting Phd student at Nanyang Technological University, Singapore from 2021 to 2022 supervised by Prof. Chau Lap-Pui (周立培). From 2022 to 2024, Dr. Wu worked as a Research Fellow researcher at the School of Electrical and Electronic Engineering, Nanyang Technological University (work with Prof. Yap Kim-Hui and Chau Lap-Pui). His research interests include Generative AI, Large Language Models and their applications. He has published over 40 papers at top venues including IEEE TPAMI / TMM / TCSVT, NeurIPS, ACM MM, etc. His research achievements have significant academic impact and was rewarded the National Postdoctoral Innovation and Entrepreneurship Competition (ranked first), “Chunhui Cup” Innovation and Entrepreneurship Competition for Chinese Overseas Students (ranked first), China International College Students’ Innovation Competition and other awards. He has taught the undergraduate students of Oxford University computational photography internship course in 2022 and received Letter of Appreciation from Oxford University; He was granted the Silver Award in the IET Excellence and Innovation Awards and IET Impact in Society Awards Shortlist by IET (Institute of Engineering and Technology); He has served as Young Researcher of the Decision-making Consulting Expert Team of the China Association for Science and Technology. He has served as Session Chairs/Organizers in international conferences IEEE ICASSP 2024, IEEE ISCAS 2024, IEEE MMSP 2023, Associate Editor in MTAP journal, and Lead Guest Editor in JVCI (Journal of Visual Communication and Image Representation). He is an IEEE Senior Member.
 -->
 
 [//]: My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
@@ -43,8 +44,8 @@ He was a visiting Phd student at Nanyang Technological University, Singapore fro
 [//]: 段落注释
 <!-- 文字颜色$\color{RoyalBlue} {Editorial Board}$  RoyalBlue, DarkBlue, Navy-->
 <!-- 文字颜色<font color=lightgrey>Editorial Board</font> -->
-[//]: 文字颜色 <font color=Blue>Editorial Board</font>  <font color=Tomato>accepted</font>
-
+<!--  文字颜色 <font color=Blue>Editorial Board</font>  <font color=Tomato>accepted</font> -->
+<!--  <span style="color:rgb(17,85,160)">Professional Activities</span> -->
 
 <span class='anchor' id='-professional-activities'></span>
 # <span style="color:rgb(17,85,160)">Professional Activities</span>
@@ -69,8 +70,12 @@ He was a visiting Phd student at Nanyang Technological University, Singapore fro
 
 
 <span class='anchor' id='news'></span>
+# <span style="color:rgb(17,85,160)">News</span>
+<!-- 
 # News 
 [//]: # 🔥 News   
+-->
+
 <div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
   <ul>
     <li>2025.07:&thinsp; 2 papers are accepted by 33rd ACM International Conference on Multimedia (ACM Multimedia 2025), Dublin, Ireland </li>
@@ -101,8 +106,11 @@ He was a visiting Phd student at Nanyang Technological University, Singapore fro
 
 
 <span class='anchor' id='publications'></span>
+# <span style="color:rgb(17,85,160)">Selected Publications</span>
+<!-- 
 # Selected Publications 
 [//]: # 📝 Selected Publications 
+-->
 
 <!-- 段落注释 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -154,10 +162,11 @@ He was a visiting Phd student at Nanyang Technological University, Singapore fro
 
 
 <span class='anchor' id='honors-awards'></span>
+# <span style="color:rgb(17,85,160)">Honors & Awards</span>
+<!-- 
 # Honors & Awards
 [//]: # 🏆 Honors & Awards
-[//]: - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-[//]: - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+-->
 
 - China International College Students' Innovation Competition (formerly Internet +, Gold Award)
 - IET Excellence and Innovation Awards International Awards (Silver Award)
@@ -168,9 +177,11 @@ He was a visiting Phd student at Nanyang Technological University, Singapore fro
 
 
 <span class='anchor' id='educations'></span>
+# <span style="color:rgb(17,85,160)">Educations</span>
+<!-- 
 # Educations
-[//]: # 📖 Educations
-[//]: - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 Educations
+-->
 
 - Exchange Ph.D Student, School of Electrical and Electronic Engineering, Nanyang Technological University
 - Ph.D Student, School of Electronic Information and Communications, Huazhong University of Science and Technology
@@ -192,11 +203,13 @@ He was a visiting Phd student at Nanyang Technological University, Singapore fro
 
 
 <span class='anchor' id='students'></span>
+# <span style="color:rgb(17,85,160)">Students</span>
+<!-- 
 # Students
-I'm honored to have participated in the supervision of these excellent students: 
+-->
 
+I'm honored to have participated in the supervision of these excellent students: 
 - J. Liang, Intern Student, Huazhong University of Science and Technology (LLMs on multimedia understanding)
-<!-- 段落注释 - Q. Zeng, Intern Student, Huazhong University of Science and Technology (MLLMs on Medical Radiology/Pathology) -->
 - F. Li, Master Student, Huazhong University of Science and Technology (LLMs on Byte-domain  understanding)
 - C. Zhang, Ph.D Student, Huazhong University of Science and Technology (LLMs on signal processing)
 - R. Wang, Ph.D Student, Harbin Engineering University (LLMs on fine-grained recognition)
