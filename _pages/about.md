@@ -79,9 +79,9 @@ He was a visiting Phd student at Nanyang Technological University, Singapore fro
 <div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
   <ul>
     <li>2025.07:&thinsp; 2 papers are accepted by 33rd ACM International Conference on Multimedia (ACM Multimedia 2025), Dublin, Ireland </li>
+    <li>2024.06:&thinsp; Research on Gen-AI based image restoration is Under Revision at IEEE TPAMI</li>
     <li>2025.06:&thinsp; 1 paper is accepted by IEEE Transactions on Multimedia (Corresponding Author)</li>
     <li>2025.06:&thinsp; Invited to be Program Committee for International Conference on AI-Generated Content (AIGC 2025), Hangzhou</li>    
-    <li>2024.04:&thinsp; Research on Gen-AI based image restoration is Under Revision at <b>IEEE TPAMI</b></li>
     <li>2024.12:&thinsp; 1 paper is accepted by ACM Transactions on Multim. Comput. Commun. Appl. (JCR Q1)</li>
     <li>2024.11:&thinsp; 2 papers are accepted by IEEE Transactions on Multimedia (中科院一区TOP，JCR Q1)</li>
     <li>2024.08:&thinsp; 1 paper is accepted by Computer Vision and Image Understanding(JCR Q1)</li>
@@ -95,13 +95,6 @@ He was a visiting Phd student at Nanyang Technological University, Singapore fro
     <li>2023.09:&thinsp; 1 paper has been accepted by NeurIPS 2023, New Orleans, USA</li>
   </ul>
 </div>
-
-
-<!-- 段落注释 
-- *2025.02*: &nbsp; Research on MLLM Flood Risk Assessment and Rescue is submitted to **Nature Communications**
-- *2024.12*: &nbsp; Research on Gen-AI based image restoration is submitted to **IEEE TPAMI**
-- *2024.12*: &nbsp; Research on LLM Signal Fault Diagnosis and Image Anomaly Detection are submitted
--->
 
 
 
@@ -139,7 +132,7 @@ He was a visiting Phd student at Nanyang Technological University, Singapore fro
 -->
 
   <li>&thinsp;T. Liu, <b>K. Wu</b>, C. Cai, Y. Wang, K. Yap, L. Chau, "Towards Blind Bitstream-corrupted Video Recovery: A Visual Foundation Model-driven Framework," in <b>ACM MM 2025</b></li>
-  <li>&thinsp;C. Cai, T. Liu, J. Gao, W. Liu, <b>K. Wu</b><font color=Blue>**</font>, R. Wang, Y. Wang, S. Liew, "From Semantics, Scene to Instance-awareness: Distilling Foundation Model for Open-vocabulary Grounded Situation Recognition," in <b>ACM MM 2025</b> (Corresponding Author) </li>    
+  <li>&thinsp;C. Cai, T. Liu, J. Gao, W. Liu, <b>K. Wu</b><font color=Blue>*</font>, R. Wang, Y. Wang, S. Liew, "From Semantics, Scene to Instance-awareness: Distilling Foundation Model for Open-vocabulary Grounded Situation Recognition," in <b>ACM MM 2025</b> (Corresponding Author) </li>    
   <li>&thinsp;<b>K. Wu</b>, Z. Li, Y. Yang, Q. Liu, and X. Zhang, “End-to-end Deep Video Compression Based on Hierarchical Temporal Context Learning,” in <b>IEEE Transactions on Multimedia</b>, 2025.</li>
   <li>&thinsp;W. Liu, C. Cai, J. Gao, <b>K. Wu</b><font color=Blue>*</font>, Y. Wang, K. Yap, and L. Chau, “PromptSR: Cascade Prompting for Lightweight Image Super-Resolution,” in <b>IEEE Transactions on Multimedia</b>, 2025. (Corresponding Author)</li>
   <li>&thinsp;<b>K. Wu</b>, Y. Yang, G. Jiang, and X. Zhang, “Hierarchical Independent Coding Scheme for Varifocal Multiview Images based on Angular-focal Joint Prediction,” <b>IEEE Transactions on Multimedia</b>, 26:2993-3006, 2024. $\color{Tomato} {ESI &thinsp;Highly &thinsp;Cited &thinsp;Papers}$</li>
