@@ -49,6 +49,12 @@ He was a visiting Phd student at Nanyang Technological University, Singapore fro
 <span class='anchor' id='-professional-activities'></span>
 # Professional Activities
 
+<font color=Blue>Professional Activities</font>
+
+# <font color=Blue>Professional Activities</font>
+
+# <span style="color: blue;">Professional Activities</span>
+
 \color{RoyalBlue} {# Professional Activities}
 
 # \color{RoyalBlue} {Professional Activities}
