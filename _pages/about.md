@@ -64,13 +64,14 @@ He was a visiting Phd student at Nanyang Technological University, Singapore fro
 - Associate Editor, IEEE Open Journal of Signal Processing
 - Lead Guest Editor, Journal of Real-Time Image Processing
 - Lead Guest Editor, Journal of Visual Communication and Image Representation 
-- Experts, UWA Technical Planning Expert Group, UHD World Association (UWA, 世界超高清视频产业联盟)
-- Member, 应急态势感知与应急通信技术决策咨询专家团队, 中国科协
 - Program Committee, AIGC 2025, Hangzhou, China
-- Area Chair, IJCNN 2025, Rome, Italy
+- Area Chair, IJCNN 2025, Italy
 - Session Chair, IEEE ISCAS 2024, Singapore
 - Session Chair, IEEE ICASSP 2024, Korea
 - Session Chair, IEEE MMSP 2023, France
+- Member, 应急态势感知与应急通信技术决策咨询专家团队, 中国科协
+- Experts, UWA Technical Planning Expert Group, UHD World Association (UWA, 世界超高清视频产业联盟)
+
 <!-- - Reviewer of IEEE TMM, IEEE TCSVT, IEEE TBc, Pattern Recognition, Information Fusion, NeurIPS, ICASSP, etc  -->
 
 
