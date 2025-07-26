@@ -24,7 +24,9 @@ redirect_from:
 
 Dr. Kejun Wu ([Faculty HomePage](http://faculty.hust.edu.cn/WuKejun/en/index.htm)) is currently a Lecturer/Assistant Professor at School of Electronic Information and Communications, Huazhong University of Science and Technology, Wuhan, China. Before that, he worked as a Research Fellow researcher at School of Electrical and Electronic Engineering, Nanyang Technological University (work with Prof. Yap Kim-Hui and [Chau Lap-Pui](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-chau-lap-pui/?sc_lang=en)). 
 He obtained his Ph.D. degree from Huazhong University of Science and Technology (supervised by You Yang), Master degree from Harbin Engineering University (supervised by [Chengtao Cai](http://cisse.hrbeu.edu.cn/info/1088/3385.htm)), and Bachelor degree from Shanghai University.
-His research interest includes Multimodal Large Language Models, Generative AI, High-dimensional Vision, and Learned Video Compression. He has published more than 40 papers in the past 5 years. He serves as an Associate Editor / Editorial Board Member / Executive Guest Editor of ASOC, OJSP, JVCI, and JRTIP, etc., an Area Chair / Session Chair / Program Committee in IJCNN 2025, AIGC 2025, IEEE ICASSP2024, ISCAS2024, and MMSP2023. He is an IEEE Senior Member.
+His research interest includes Multimodal Large Language Models, Generative AI, High-dimensional Vision, and Learned Video Compression. He has published more than 40 papers in the past 5 years. He is a Technical Committee Affiliate of IEEE SPS IVMSP and IEEE SPS MMSP.
+He serves as an Associate Editor / Editorial Board Member / Executive Guest Editor of ASOC, OJSP, JVCI, and JRTIP, etc., an Area Chair / Session Chair / Program Committee in IJCNN 2025, AIGC 2025, IEEE ICASSP2024, ISCAS2024, and MMSP2023. He is an IEEE Senior Member.
+
 
 
 🚀 &nbsp; Recruiting intern/ visiting/ Master students interested in MLLM and Gen-AI. Flexible remote learning is welcome. 
@@ -71,6 +73,8 @@ He was a visiting Phd student at Nanyang Technological University, Singapore fro
 - Session Chair, IEEE MMSP 2023, France
 - Member, 应急态势感知与应急通信技术决策咨询专家团队, 中国科协
 - Experts, UWA Technical Planning Expert Group, UHD World Association (UWA, 世界超高清视频产业联盟)
+- Technical Committee Affiliate, Image, Video, and Multidimensional Signal Processing (IVMSP), IEEE Signal Processing Society (SPS)
+- Technical Committee Affiliate, Multimedia Signal Processing (MMSP), IEEE Signal Processing Society (SPS)
 
 <!-- - Reviewer of IEEE TMM, IEEE TCSVT, IEEE TBc, Pattern Recognition, Information Fusion, NeurIPS, ICASSP, etc  -->
 
