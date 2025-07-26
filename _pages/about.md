@@ -74,7 +74,7 @@ He was a visiting Phd student at Nanyang Technological University, Singapore fro
 - Member, 应急态势感知与应急通信技术决策咨询专家团队, 中国科协
 - Experts, UWA Technical Planning Expert Group, UHD World Association (UWA, 世界超高清视频产业联盟)
 - Technical Committee Affiliate, Image, Video, and Multidimensional Signal Processing (IVMSP), IEEE Signal Processing Society (SPS)
-- Technical Committee Affiliate, Multimedia Signal Processing (MMSP), IEEE Signal Processing Society (SPS)
+- Technical Committee Affiliate, Multimedia Signal Processing (MMSP), IEEE SPS
 
 <!-- - Reviewer of IEEE TMM, IEEE TCSVT, IEEE TBc, Pattern Recognition, Information Fusion, NeurIPS, ICASSP, etc  -->
 
