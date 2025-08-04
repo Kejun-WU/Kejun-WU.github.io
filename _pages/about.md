@@ -88,6 +88,7 @@ He was a visiting Phd student at Nanyang Technological University, Singapore fro
 
 <div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
   <ul>
+    <li>2025.07:&thinsp; Invited to lecture the 2025 Discover At HUST--"Metavers" International Summer School </li>    
     <li>2025.07:&thinsp; 2 papers are accepted by 33rd ACM International Conference on Multimedia (ACM Multimedia 2025), Dublin, Ireland </li>
     <li>2024.06:&thinsp; Research on Gen-AI based image restoration is Under Revision at IEEE TPAMI</li>
     <li>2025.06:&thinsp; 1 paper is accepted by IEEE Transactions on Multimedia (Corresponding Author)</li>
