@@ -89,11 +89,12 @@ He was a visiting Phd student at Nanyang Technological University, Singapore fro
 
 <div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
   <ul>
+    <li>2025.07:&thinsp; Serve as Program Committee in AAAI 2026 conference, Singapore </li>  
     <li>2025.07:&thinsp; Invited to lecture (in English) the 2025 Discover At HUST--"Metavers" International Summer School </li>    
     <li>2025.07:&thinsp; 2 papers are accepted by 33rd ACM International Conference on Multimedia (ACM Multimedia 2025), Dublin, Ireland </li>
     <li>2024.06:&thinsp; Research on Gen-AI based image restoration is Under Revision at IEEE TPAMI</li>
     <li>2025.06:&thinsp; 1 paper is accepted by IEEE Transactions on Multimedia (Corresponding Author)</li>
-    <li>2025.06:&thinsp; Invited to be Program Committee for International Conference on AI-Generated Content (AIGC 2025), Hangzhou</li>    
+    <li>2025.06:&thinsp; Serve as Program Committee for International Conference on AI-Generated Content (AIGC 2025), Hangzhou</li>    
     <li>2024.12:&thinsp; 1 paper is accepted by ACM Transactions on Multim. Comput. Commun. Appl. (JCR Q1)</li>
     <li>2024.11:&thinsp; 2 papers are accepted by IEEE Transactions on Multimedia (中科院一区TOP，JCR Q1)</li>
     <li>2024.08:&thinsp; 1 paper is accepted by Computer Vision and Image Understanding(JCR Q1)</li>
