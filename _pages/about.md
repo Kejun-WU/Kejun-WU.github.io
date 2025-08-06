@@ -65,7 +65,8 @@ He was a visiting Phd student at Nanyang Technological University, Singapore fro
 - Editorial Board, Applied Soft Computing
 - Associate Editor, IEEE Open Journal of Signal Processing
 - Lead Guest Editor, Journal of Real-Time Image Processing
-- Lead Guest Editor, Journal of Visual Communication and Image Representation 
+- Lead Guest Editor, Journal of Visual Communication and Image Representation
+- Program Committee, AAAI 2026, Singapore
 - Program Committee, AIGC 2025, Hangzhou, China
 - Area Chair, IJCNN 2025, Italy
 - Session Chair, IEEE ISCAS 2024, Singapore
