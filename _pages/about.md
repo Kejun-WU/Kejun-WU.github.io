@@ -62,6 +62,26 @@ He was a visiting Phd student at Nanyang Technological University, Singapore fro
 # 📢 Professional Services
 --> 
 
+<div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
+  <ul>
+    <li>Editorial Board, Applied Soft Computing </li>  
+    <li>Associate Editor, IEEE Open Journal of Signal Processing </li>  
+    <li>Lead Guest Editor, Journal of Real-Time Image Processing </li>  
+    <li>Lead Guest Editor, Journal of Visual Communication and Image Representation </li>  
+    <li>Program Committee, AAAI 2026, Singapore </li>  
+    <li>Program Committee, AIGC 2025, Hangzhou, China </li>
+    <li>Area Chair, IJCNN 2025, Italy </li>  
+    <li>Session Chair, IEEE ISCAS 2024, Singapore </li>  
+    <li>Session Chair, IEEE ICASSP 2024, Korea </li>
+    <li>Session Chair, IEEE MMSP 2023, France </li>  
+    <li>Member, 应急态势感知与应急通信技术决策咨询专家团队, 中国科协 </li>
+    <li>Experts, UWA Technical Planning Expert Group, UHD World Association (UWA, 世界超高清视频产业联盟) </li>  
+    <li>Technical Committee Affiliate, Image, Video, and Multidimensional Signal Processing (IVMSP), IEEE Signal Processing Society (SPS) </li>
+    <li>Technical Committee Affiliate, Multimedia Signal Processing (MMSP), IEEE SPS </li>  
+    <li>Reviewer of IEEE TMM, IEEE TCSVT, IEEE TBc, Pattern Recognition, Information Fusion, NeurIPS, AAAI, ICASSP, etc. </li>    
+  </ul>
+</div>
+
 - Editorial Board, Applied Soft Computing
 - Associate Editor, IEEE Open Journal of Signal Processing
 - Lead Guest Editor, Journal of Real-Time Image Processing
@@ -76,8 +96,7 @@ He was a visiting Phd student at Nanyang Technological University, Singapore fro
 - Experts, UWA Technical Planning Expert Group, UHD World Association (UWA, 世界超高清视频产业联盟)
 - Technical Committee Affiliate, Image, Video, and Multidimensional Signal Processing (IVMSP), IEEE Signal Processing Society (SPS)
 - Technical Committee Affiliate, Multimedia Signal Processing (MMSP), IEEE SPS
-
-<!-- - Reviewer of IEEE TMM, IEEE TCSVT, IEEE TBc, Pattern Recognition, Information Fusion, NeurIPS, ICASSP, etc  -->
+- Reviewer of IEEE TMM, IEEE TCSVT, IEEE TBc, Pattern Recognition, Information Fusion, NeurIPS, AAAI, ICASSP, etc.
 
 
 <span class='anchor' id='news'></span>
