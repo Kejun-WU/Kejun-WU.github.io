@@ -82,6 +82,7 @@ He was a visiting Phd student at Nanyang Technological University, Singapore fro
   </ul>
 </div>
 
+<!-- 
 - Editorial Board, Applied Soft Computing
 - Associate Editor, IEEE Open Journal of Signal Processing
 - Lead Guest Editor, Journal of Real-Time Image Processing
@@ -97,7 +98,7 @@ He was a visiting Phd student at Nanyang Technological University, Singapore fro
 - Technical Committee Affiliate, Image, Video, and Multidimensional Signal Processing (IVMSP), IEEE Signal Processing Society (SPS)
 - Technical Committee Affiliate, Multimedia Signal Processing (MMSP), IEEE SPS
 - Reviewer of IEEE TMM, IEEE TCSVT, IEEE TBc, Pattern Recognition, Information Fusion, NeurIPS, AAAI, ICASSP, etc.
-
+-->
 
 <span class='anchor' id='news'></span>
 # <span style="color:rgb(17,85,160)">News</span>
