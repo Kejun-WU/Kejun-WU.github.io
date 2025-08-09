@@ -34,14 +34,12 @@ He serves as an Associate Editor / Editorial Board Member / Executive Guest Edit
 -->
 
 <details> <summary>
-  <font size=5 color=red face="黑体">简体中文</font>
+  <font size=4 color=red face="黑体">个人简介</font>
 </summary>
 
-# <span style="color:rgb(17,85,160)">个人简介</span>
 吴博士(IEEE高级会员)现任华中科技大学电子信息与通信学院讲师/助理教授。在此之前，他在新加坡南洋理工大学电气与电子工程学院从事博士后研究（与Yap Kim-Hui和周立培教授）。他获得了华中科技大学博士学位（导师 杨铀 教授）、哈尔滨工程大学硕士学位（导师 蔡成涛 教授）和上海大学学士学位。他的研究兴趣包括多模态大模型、生成式人工智能、高维视觉和视频压缩与理解等，并在过去的5年里发表了40余篇高水平期刊、会议论文。他担任ASOC、OJSP、JVCI和JRTIP等的副主编/编委/客座编辑等，并在国际会议AAAI 2026、AIGC 2025、IJCNN 2025、IEEE ICASSP2024、ISCAS2024和MMSP2023中担任程序委员会/领域主席/专题主席等。
  
 🚀 &nbsp; 招收兴趣从事多模态大模型、生成式AI、高维视觉研究的实习生/ 访问学生/ 研究生, 欢迎线下或远程学习.
-
 
 </details>
 
@@ -258,17 +256,4 @@ I'm honored to have participated in the supervision of these excellent students:
 - T. Liu, Ph.D Student, Nanyang Technological University (Gen-AI on image restoration)
 - C. Cai, Ph.D, National University of Singapore (Scientist, NUS, LLMs on remote sensing)
 
-
-<span class='anchor' id='zh-cn'></span>
-<details> <summary>
-  <font size=5 color=red face="黑体">简体中文</font>
-</summary>
-
-# <span style="color:rgb(17,85,160)">个人简介</span>
-吴博士现任华中科技大学电子信息与通信学院讲师/助理教授。在此之前，他曾在南洋理工大学电气与电子工程学院担任研究员（与叶金辉教授和周立培教授合作）。他获得了华中科技大学博士学位（由游阳指导）、哈尔滨工程大学硕士学位（由蔡承涛指导）和上海大学学士学位。他的研究兴趣包括多模态大型语言模型、生成式人工智能、高维视觉和学习视频压缩。在过去的5年里，他发表了40多篇论文。他是IEEE SPS IVMSP和IEEE SPS MMSP的技术委员会成员。他担任ASOC、OJSP、JVCI和JRTIP等的副主编/编辑委员会成员/执行客座编辑，担任IJCNN 2025、AIGC 2025、IEEE ICASSP2024、ISCAS2024和MMSP2023的地区主席/会议主席/项目委员会。他是IEEE高级会员。
-
-🚀 &nbsp; 招收兴趣从事多模态大模型、生成式AI、高维视觉研究的实习生/ 访问学生/ 研究生, 欢迎线下或远程学习.
-
-
-</details>
  
