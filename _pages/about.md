@@ -249,7 +249,7 @@ I'm honored to have participated in the supervision of these excellent students:
 <span class='anchor' id='zh-cn'></span>
 <details> <summary>
   
-  # <span style="color:rgb(17,85,160)"><font size="4">简体中文</font></span>
+  <span style="color:rgb(17,85,160)"><font size="5">**简体中文**</font></span>
 </summary>
 
 contents ...简体中文
