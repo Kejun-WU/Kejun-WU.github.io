@@ -186,6 +186,7 @@ He was a visiting Phd student at Nanyang Technological University, Singapore fro
 
   <li>&thinsp;T. Liu, <b>K. Wu</b>, C. Cai, Y. Wang, K. Yap, L. Chau, "Towards Blind Bitstream-corrupted Video Recovery: A Visual Foundation Model-driven Framework," in <b>ACM MM 2025</b> (CCF-A)</li>
   <li>&thinsp;C. Cai, T. Liu, J. Gao, W. Liu, <b>K. Wu</b><font color=Blue>*</font>, R. Wang, Y. Wang, S. Liew, "From Semantics, Scene to Instance-awareness: Distilling Foundation Model for Open-vocabulary Grounded Situation Recognition," in <b>ACM MM 2025</b> (Corresponding Author, CCF-A) </li>    
+  <li>&thinsp;T. Liu, <b>K. Wu</b><font color=Blue>*</font>, Y. Wang, W. Liu, K. Yap, and L. Chau, “Bitstream corrupted Video Recovery: A Novel Benchmark Dataset and Method,” NeurIPS 2023. (Equal Contribution, CCF-A)</li>
   <li>&thinsp;<b>K. Wu</b>, Z. Li, Y. Yang, Q. Liu, and X. Zhang, “End-to-end Deep Video Compression Based on Hierarchical Temporal Context Learning,” in <b>IEEE Transactions on Multimedia</b>, 2025. (中科院1区TOP)</li>
   <li>&thinsp;W. Liu, C. Cai, J. Gao, <b>K. Wu</b><font color=Blue>*</font>, Y. Wang, K. Yap, and L. Chau, “PromptSR: Cascade Prompting for Lightweight Image Super-Resolution,” in <b>IEEE Transactions on Multimedia</b>, 2025. (Corresponding Author, 中科院1区TOP)</li>
   <li>&thinsp;<b>K. Wu</b>, Y. Yang, G. Jiang, and X. Zhang, “Hierarchical Independent Coding Scheme for Varifocal Multiview Images based on Angular-focal Joint Prediction,” <b>IEEE Transactions on Multimedia</b>, 26:2993-3006, 2024. (中科院1区TOP) $\color{Tomato} {ESI &thinsp;Highly &thinsp;Cited &thinsp;Papers}$</li>
@@ -197,7 +198,6 @@ He was a visiting Phd student at Nanyang Technological University, Singapore fro
   <li>&thinsp;<b>K. Wu</b>, Q. Liu, K. Yap, and Y. Yang, “Multifocal Multiview Imaging and Data Compression based on Angular-Focal-Spatial Representation,” in Optics Letters, 2024.</li>
   <li>&thinsp;<b>K. Wu</b>, Q. Liu, K. Yap, and Y. Yang, “High Dimensional Optical Data Varifocal Multiview Imaging, Compression and Evaluation,” in Optics Express, 2023.</li>
   <li>&thinsp;<b>K. Wu</b>, Q. Liu, Y. Wang, and Y. Yang, “End-to-end Varifocal Multiview Images Coding Framework from Data Acquisition End to Vision Application End,” in Optics Express, 31(7): 11659-11679, 2023.</li>
-  <li>&thinsp;T. Liu, <b>K. Wu</b><font color=Blue>*</font>, Y. Wang, W. Liu, K. Yap, and L. Chau, “Bitstream corrupted Video Recovery: A Novel Benchmark Dataset and Method,” NeurIPS 2023. (Equal Contribution)</li>
   <li>&thinsp;J. Gao, K. Yap, K. Wu, D. Phan, and K. Garg, "Contextual Human Object Interaction Understanding from Pre-Trained Large Language Model," ICASSP 2024, Seoul, Korea</li>
   <li>&thinsp;C. Cai, R. Zhang, J. Gao, K. Wu, K. Yap, Y. Wang, "Temporal Sentence Grounding with Temporally Global Textual Knowledge," ICME 2024, Niagra Falls, Canada</li>
   </ul>
