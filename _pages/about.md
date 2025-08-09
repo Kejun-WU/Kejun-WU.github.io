@@ -116,8 +116,7 @@ He was a visiting Phd student at Nanyang Technological University, Singapore fro
   </ul>
 </div>
 
-
-</details>
+</details><br> 
 
 
 
