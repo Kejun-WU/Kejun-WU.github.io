@@ -248,21 +248,35 @@ I'm honored to have participated in the supervision of these excellent students:
 
 <span class='anchor' id='zh-cn'></span>
 <details> <summary>
-  
-  <span style="color:rgb(17,85,160)"><font size="5">简体中文</font></span>
+  <font size=5 color=red face="黑体">简体中文</font>
 </summary>
 
-<font size=5 color=red face="黑体">简体中文</font>
- 
-contents ...简体中文
+# <span style="color:rgb(17,85,160)">个人简介</span>
+吴博士现任华中科技大学电子信息与通信学院讲师/助理教授。在此之前，他曾在南洋理工大学电气与电子工程学院担任研究员（与叶金辉教授和周立培教授合作）。他获得了华中科技大学博士学位（由游阳指导）、哈尔滨工程大学硕士学位（由蔡承涛指导）和上海大学学士学位。他的研究兴趣包括多模态大型语言模型、生成式人工智能、高维视觉和学习视频压缩。在过去的5年里，他发表了40多篇论文。他是IEEE SPS IVMSP和IEEE SPS MMSP的技术委员会成员。他担任ASOC、OJSP、JVCI和JRTIP等的副主编/编辑委员会成员/执行客座编辑，担任IJCNN 2025、AIGC 2025、IEEE ICASSP2024、ISCAS2024和MMSP2023的地区主席/会议主席/项目委员会。他是IEEE高级会员。
 
-# <font size="4">简体中文</font>
+🚀 &nbsp; 招收兴趣从事多模态大模型、生成式AI、高维视觉研究的实习生/ 访问学生/ 研究生, 欢迎线下或远程学习.
+
+# <span style="color:rgb(17,85,160)">专业活动</span>
+<div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
+  <ul>
+    <li>Editorial Board, Applied Soft Computing </li>  
+    <li>Associate Editor, IEEE Open Journal of Signal Processing </li>  
+    <li>Lead Guest Editor, Journal of Real-Time Image Processing </li>  
+    <li>Lead Guest Editor, Journal of Visual Communication and Image Representation </li>  
+    <li>Program Committee, AAAI 2026, Singapore </li>  
+    <li>Program Committee, AIGC 2025, Hangzhou, China </li>
+    <li>Area Chair, IJCNN 2025, Italy </li>  
+    <li>Session Chair, IEEE ISCAS 2024, Singapore </li>  
+    <li>Session Chair, IEEE ICASSP 2024, Korea </li>
+    <li>Session Chair, IEEE MMSP 2023, France </li>  
+    <li>Member, 应急态势感知与应急通信技术决策咨询专家团队, 中国科协 </li>
+    <li>Experts, UWA Technical Planning Expert Group, UHD World Association (UWA, 世界超高清视频产业联盟) </li>  
+    <li>Technical Committee Affiliate, Image, Video, and Multidimensional Signal Processing (IVMSP), IEEE Signal Processing Society (SPS) </li>
+    <li>Technical Committee Affiliate, Multimedia Signal Processing (MMSP), IEEE SPS </li>  
+    <li>Reviewer of IEEE TMM, IEEE TCSVT, IEEE TBc, Pattern Recognition, Information Fusion, NeurIPS, AAAI, ICASSP, etc. </li>    
+  </ul>
+</div>
 
 
-
-
-简体中文
-
-简体中文
 </details>
  
