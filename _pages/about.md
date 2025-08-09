@@ -30,7 +30,7 @@ He serves as an Associate Editor / Editorial Board Member / Executive Guest Edit
 
 
 🚀 &nbsp; Recruiting intern/ visiting/ Master students interested in MLLM and Gen-AI. Flexible remote learning is welcome. 
-<!--  Contact via <kjwu@hust.edu.cn> 
+<!--  Contact via <kjwu@hust.edu.cn>  <span style="color:rgb(17,85,160)">专业活动</span> 
 -->
 
 <details> 
@@ -42,7 +42,7 @@ He serves as an Associate Editor / Editorial Board Member / Executive Guest Edit
 🚀 &nbsp; 招收兴趣从事多模态大模型、生成式AI、高维视觉研究的实习生/ 访问学生/ 研究生, 欢迎线下或远程学习。<br>
 <br>
 
-<span style="color:rgb(17,85,160)">专业活动</span> 
+<font size=4 color=RoyalBlue>专业活动</font>
 <br>
 <div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
   <ul>
