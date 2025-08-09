@@ -181,17 +181,17 @@ He was a visiting Phd student at Nanyang Technological University, Singapore fro
     
 <!-- 段落注释  
     <li>&thinsp;Tianyi Liu, <b>Kejun Wu</b>, Yi Wang, Wenyang Liu, Kim-Hui Yap, Lap-Pui Chau, "BitsCV: Restoration of Artifacts Decoded in Bitstream-Corrupted Videos," in <b>IEEE Transactions on Pattern Analysis and Machine Intelligence</b></li>
-    <li>&thinsp;Wenyang Liu, Tianyi Liu, Chen Cai, Jianjun Gao, Kejun Wu, Kim-Hui Yap, "AsTaSR: Adaptive Superpixel Token Aggregation for Lightweight Image Super-Resolution,"
+    <li>&thinsp;Wenyang Liu, Tianyi Liu, Chen Cai, Jianjun Gao, Kejun Wu, Kim-Hui Yap, "AsTaSR: Adaptive Superpixel Token Aggregation for Lightweight Image Super-Resolution," AAAI 2026
 -->
 
-  <li>&thinsp;T. Liu, <b>K. Wu</b>, C. Cai, Y. Wang, K. Yap, L. Chau, "Towards Blind Bitstream-corrupted Video Recovery: A Visual Foundation Model-driven Framework," in <b>ACM MM 2025</b></li>
-  <li>&thinsp;C. Cai, T. Liu, J. Gao, W. Liu, <b>K. Wu</b><font color=Blue>*</font>, R. Wang, Y. Wang, S. Liew, "From Semantics, Scene to Instance-awareness: Distilling Foundation Model for Open-vocabulary Grounded Situation Recognition," in <b>ACM MM 2025</b> (Corresponding Author) </li>    
-  <li>&thinsp;<b>K. Wu</b>, Z. Li, Y. Yang, Q. Liu, and X. Zhang, “End-to-end Deep Video Compression Based on Hierarchical Temporal Context Learning,” in <b>IEEE Transactions on Multimedia</b>, 2025.</li>
-  <li>&thinsp;W. Liu, C. Cai, J. Gao, <b>K. Wu</b><font color=Blue>*</font>, Y. Wang, K. Yap, and L. Chau, “PromptSR: Cascade Prompting for Lightweight Image Super-Resolution,” in <b>IEEE Transactions on Multimedia</b>, 2025. (Corresponding Author)</li>
-  <li>&thinsp;<b>K. Wu</b>, Y. Yang, G. Jiang, and X. Zhang, “Hierarchical Independent Coding Scheme for Varifocal Multiview Images based on Angular-focal Joint Prediction,” <b>IEEE Transactions on Multimedia</b>, 26:2993-3006, 2024. $\color{Tomato} {ESI &thinsp;Highly &thinsp;Cited &thinsp;Papers}$</li>
-  <li>&thinsp;W. Liu, <b>K. Wu</b><font color=Blue>*</font>, T. Liu, Y. Wang, K. Yap, and L. Chau, “ByteNet: Rethinking Multimedia File Fragment Classification through Visual Perspectives,” in <b>IEEE Transactions on Multimedia</b>, 2024. (Corresponding Author)</li>
-  <li>&thinsp;<b>K. Wu</b>, Q. Liu, and X. Zhang, “Focal Stack Image Compression Based on Basis-Quadtree Representation,” in <b>IEEE Transactions on Multimedia</b>, 25:3975-3988, 2023.</li>
-  <li>&thinsp;<b>K. Wu</b>, Q. Liu, Y. Yang, and X. Zhang, “Gaussian-Wiener Representation and Hierarchical Coding Scheme for Focal Stack Images,” in <b>IEEE Transactions on Circuits and Systems for Video Technology</b>, 32(2):523-537, 2022.</li>
+  <li>&thinsp;T. Liu, <b>K. Wu</b>, C. Cai, Y. Wang, K. Yap, L. Chau, "Towards Blind Bitstream-corrupted Video Recovery: A Visual Foundation Model-driven Framework," in <b>ACM MM 2025</b> (CCF-A)</li>
+  <li>&thinsp;C. Cai, T. Liu, J. Gao, W. Liu, <b>K. Wu</b><font color=Blue>*</font>, R. Wang, Y. Wang, S. Liew, "From Semantics, Scene to Instance-awareness: Distilling Foundation Model for Open-vocabulary Grounded Situation Recognition," in <b>ACM MM 2025</b> (Corresponding Author, CCF-A) </li>    
+  <li>&thinsp;<b>K. Wu</b>, Z. Li, Y. Yang, Q. Liu, and X. Zhang, “End-to-end Deep Video Compression Based on Hierarchical Temporal Context Learning,” in <b>IEEE Transactions on Multimedia</b>, 2025. (中科院1区TOP)</li>
+  <li>&thinsp;W. Liu, C. Cai, J. Gao, <b>K. Wu</b><font color=Blue>*</font>, Y. Wang, K. Yap, and L. Chau, “PromptSR: Cascade Prompting for Lightweight Image Super-Resolution,” in <b>IEEE Transactions on Multimedia</b>, 2025. (Corresponding Author, 中科院1区TOP)</li>
+  <li>&thinsp;<b>K. Wu</b>, Y. Yang, G. Jiang, and X. Zhang, “Hierarchical Independent Coding Scheme for Varifocal Multiview Images based on Angular-focal Joint Prediction,” <b>IEEE Transactions on Multimedia</b>, 26:2993-3006, 2024. (中科院1区TOP) $\color{Tomato} {ESI &thinsp;Highly &thinsp;Cited &thinsp;Papers}$</li>
+  <li>&thinsp;W. Liu, <b>K. Wu</b><font color=Blue>*</font>, T. Liu, Y. Wang, K. Yap, and L. Chau, “ByteNet: Rethinking Multimedia File Fragment Classification through Visual Perspectives,” in <b>IEEE Transactions on Multimedia</b>, 2024. (Corresponding Author, 中科院1区TOP)</li>
+  <li>&thinsp;<b>K. Wu</b>, Q. Liu, and X. Zhang, “Focal Stack Image Compression Based on Basis-Quadtree Representation,” in <b>IEEE Transactions on Multimedia</b>, 25:3975-3988, 2023. (中科院1区TOP)</li>
+  <li>&thinsp;<b>K. Wu</b>, Q. Liu, Y. Yang, and X. Zhang, “Gaussian-Wiener Representation and Hierarchical Coding Scheme for Focal Stack Images,” in <b>IEEE Transactions on Circuits and Systems for Video Technology</b>, 32(2):523-537, 2022. (中科院1区TOP)</li>
   <li>&thinsp;<b>K. Wu</b>, Z. Li, Y. Yang, and Q. Liu, “Deep Video Compression based on Long-range Temporal Context Learning,” in Computer Vision and Image Understanding, 248(2024): 104127.</li>  
   <li>&thinsp;X. Yu, <b>K. Wu</b><font color=Blue>*</font>, Y. Yang, and Q. Liu, “WaRENet: A Novel Urban Waterlogging Risk Evaluation Network,” in ACM Transactions on Multimedia Computing, Communications, and Applications, 2024, 20(7):1–28. (Equal Contribution)</li>
   <li>&thinsp;<b>K. Wu</b>, Q. Liu, K. Yap, and Y. Yang, “Multifocal Multiview Imaging and Data Compression based on Angular-Focal-Spatial Representation,” in Optics Letters, 2024.</li>
