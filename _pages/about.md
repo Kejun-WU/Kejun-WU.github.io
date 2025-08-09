@@ -98,21 +98,21 @@ He was a visiting Phd student at Nanyang Technological University, Singapore fro
 
 <div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
   <ul>
-    <li>编委, Applied Soft Computing (JCR Q1区) </li>  
-    <li>副主编, IEEE Open Journal of Signal Processing </li>  
-    <li>Lead Guest Editor, Journal of Real-Time Image Processing </li>  
-    <li>Lead Guest Editor, Journal of Visual Communication and Image Representation </li>  
-    <li>Program Committee, AAAI 2026, Singapore </li>  
-    <li>Program Committee, AIGC 2025, Hangzhou, China </li>
-    <li>Area Chair, IJCNN 2025, Italy </li>  
-    <li>Session Chair, IEEE ISCAS 2024, Singapore </li>  
-    <li>Session Chair, IEEE ICASSP 2024, Korea </li>
-    <li>Session Chair, IEEE MMSP 2023, France </li>  
-    <li>Member, 应急态势感知与应急通信技术决策咨询专家团队, 中国科协 </li>
-    <li>Experts, UWA Technical Planning Expert Group, UHD World Association (UWA, 世界超高清视频产业联盟) </li>  
-    <li>Technical Committee Affiliate, Image, Video, and Multidimensional Signal Processing (IVMSP), IEEE Signal Processing Society (SPS) </li>
-    <li>Technical Committee Affiliate, Multimedia Signal Processing (MMSP), IEEE SPS </li>  
-    <li>Reviewer of IEEE TMM, IEEE TCSVT, IEEE TBc, Pattern Recognition, Information Fusion, NeurIPS, AAAI, ICASSP, etc. </li>    
+    <li>编委, 国际期刊Applied Soft Computing (JCR Q1区) </li>  
+    <li>副主编, 国际期刊IEEE Open Journal of Signal Processing </li>  
+    <li>客座编辑, 国际期刊Journal of Real-Time Image Processing (JCR Q2区) </li>  
+    <li>客座编辑, 国际期刊Journal of Visual Communication and Image Representation (JCR Q2区) </li>  
+    <li>程序委员会, 国际会议AAAI 2026, 新加坡 </li>  
+    <li>程序委员会, 国际会议AIGC 2025, 杭州 </li>
+    <li>领域主席, 国际会议IJCNN 2025, 意大利 </li>  
+    <li>专题主席, 国际会议ISCAS 2024, 新加坡 </li>  
+    <li>专题主席, 国际会议ICASSP 2024, 韩国 </li>
+    <li>专题主席, 国际会议MMSP2023, 法国 </li>  
+    <li>应急态势感知与应急通信技术决策咨询专家团队成员, 中国科协 </li>
+    <li>UWA技术规划组专家, 世界超高清视频产业联盟UWA </li>  
+    <li>Technical Committee Affiliate, Image, Video, and Multidimensional Signal Processing (IVMSP), IEEE 信号处理学会 </li>
+    <li>Technical Committee Affiliate, Multimedia Signal Processing (MMSP), IEEE 信号处理学会 </li>  
+    <li>审稿人：IEEE TMM, IEEE TCSVT, IEEE TBc, Pattern Recognition, Information Fusion, NeurIPS, AAAI, ICASSP, etc. </li>    
   </ul>
 </div>
 
