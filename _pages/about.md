@@ -29,7 +29,7 @@ He serves as an Associate Editor / Editorial Board Member / Executive Guest Edit
 
 
 
-🚀 &nbsp; Recruiting intern/ visiting/ Master students interested in the aforementioned research areas. On-site, remote, or hybrid interning/learning are welcome. Computing resources and allowance are provided.
+🚀 &nbsp; Recruiting intern/ visiting/ Master students interested in the aforementioned research areas. On-site, remote, or hybrid interning/learning are welcome, Computing resources and allowance provided.
 <!--  Contact via <kjwu@hust.edu.cn>  -->
 
 <details> 
