@@ -245,3 +245,12 @@ I'm honored to have participated in the supervision of these excellent students:
 - T. Liu, Ph.D Student, Nanyang Technological University (Gen-AI on image restoration)
 - C. Cai, Ph.D, National University of Singapore (Scientist, NUS, LLMs on remote sensing)
   
+
+<span class='anchor' id='zh-cn'></span>
+# <span style="color:rgb(17,85,160)">简体中文</span>
+简体中文
+
+简体中文
+
+简体中文
+
