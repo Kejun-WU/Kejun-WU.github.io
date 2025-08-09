@@ -247,21 +247,15 @@ I'm honored to have participated in the supervision of these excellent students:
 
 
 <span class='anchor' id='zh-cn'></span>
-<details> <summary># <span style="color:rgb(17,85,160)">简体中文</span></summary>
+<details> <summary>
+  
+  # <span style="color:rgb(17,85,160)">简体中文</span>
+</summary>
+
 contents ...简体中文
 
 简体中文
 
 简体中文
 </details>
-
-
  
-<span class='anchor' id='zh-cn'></span>
-# <span style="color:rgb(17,85,160)">简体中文</span>
-简体中文
-
-简体中文
-
-简体中文
-
