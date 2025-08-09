@@ -33,12 +33,34 @@ He serves as an Associate Editor / Editorial Board Member / Executive Guest Edit
 <!--  Contact via <kjwu@hust.edu.cn> 
 -->
 
-<details> <summary>
-  <font size=4 color=red>简体中文</font>
-</summary>
+<details> 
+  <summary>
+    <font size=4 color=red>简体中文</font>
+  </summary>
   
 吴科君博士(IEEE高级会员)现任华中科技大学电子信息与通信学院讲师/助理教授。在此之前，他在新加坡南洋理工大学电气与电子工程学院从事博士后研究（与Yap Kim-Hui和周立培(IEEE Fellow)教授）。他获得了华中科技大学博士学位（导师 杨铀 教授）、哈尔滨工程大学硕士学位（导师 蔡成涛 教授）和上海大学学士学位。他的研究兴趣包括多模态大模型、生成式人工智能、高维视觉和视频压缩与理解等，并在IEEE T-MM、IEEE T-CSVT、NeurIPS、ACM Multimedia等高水平期刊、会议发表了40余篇论文（近5年）。他担任IEEE OJSP、ASOC、JRTIP、JVCI等权威期刊的副主编/编委/客座编辑等，并在国际会议AAAI 2026、AIGC 2025、IJCNN 2025、IEEE ICASSP2024、ISCAS2024和MMSP2023中担任程序委员会/领域主席/专题主席等。<br>
-🚀 &nbsp; 招收兴趣从事多模态大模型、生成式AI、高维视觉研究的实习生/ 访问学生/ 研究生, 欢迎线下或远程学习。
+🚀 &nbsp; 招收兴趣从事多模态大模型、生成式AI、高维视觉研究的实习生/ 访问学生/ 研究生, 欢迎线下或远程学习。<br>
+
+<div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
+  <ul>
+    <li>Editorial Board, Applied Soft Computing </li>  
+    <li>Associate Editor, IEEE Open Journal of Signal Processing </li>  
+    <li>Lead Guest Editor, Journal of Real-Time Image Processing </li>  
+    <li>Lead Guest Editor, Journal of Visual Communication and Image Representation </li>  
+    <li>Program Committee, AAAI 2026, Singapore </li>  
+    <li>Program Committee, AIGC 2025, Hangzhou, China </li>
+    <li>Area Chair, IJCNN 2025, Italy </li>  
+    <li>Session Chair, IEEE ISCAS 2024, Singapore </li>  
+    <li>Session Chair, IEEE ICASSP 2024, Korea </li>
+    <li>Session Chair, IEEE MMSP 2023, France </li>  
+    <li>Member, 应急态势感知与应急通信技术决策咨询专家团队, 中国科协 </li>
+    <li>Experts, UWA Technical Planning Expert Group, UHD World Association (UWA, 世界超高清视频产业联盟) </li>  
+    <li>Technical Committee Affiliate, Image, Video, and Multidimensional Signal Processing (IVMSP), IEEE Signal Processing Society (SPS) </li>
+    <li>Technical Committee Affiliate, Multimedia Signal Processing (MMSP), IEEE SPS </li>  
+    <li>Reviewer of IEEE TMM, IEEE TCSVT, IEEE TBc, Pattern Recognition, Information Fusion, NeurIPS, AAAI, ICASSP, etc. </li>    
+  </ul>
+</div>
+
 
 </details>
 
