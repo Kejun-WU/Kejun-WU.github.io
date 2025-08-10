@@ -85,9 +85,8 @@ He was a visiting Phd student at Nanyang Technological University, Singapore fro
     <li>Technical Committee Affiliate, Image, Video, and Multidimensional Signal Processing (IVMSP), IEEE Signal Processing Society (SPS) </li>
     <li>Technical Committee Affiliate, Multimedia Signal Processing (MMSP), IEEE SPS </li>  
     <li>Reviewer of IEEE TMM, IEEE TCSVT, IEEE TBc, Pattern Recognition, Information Fusion, NeurIPS, AAAI, ICASSP, etc. </li>  
-    <br>
   </ul>
-</div>
+</div>  
 
 
 <details> 
