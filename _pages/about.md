@@ -194,10 +194,12 @@ He was a visiting Phd student at Nanyang Technological University, Singapore fro
   <li>&thinsp;<b>K. Wu</b>, Z. Li, Y. Yang, and Q. Liu, “Deep Video Compression based on Long-range Temporal Context Learning,” in Computer Vision and Image Understanding, 248(2024): 104127.</li>  
   <li>&thinsp;X. Yu, <b>K. Wu</b><font color=Blue>*</font>, Y. Yang, and Q. Liu, “WaRENet: A Novel Urban Waterlogging Risk Evaluation Network,” in ACM Transactions on Multimedia Computing, Communications, and Applications, 2024, 20(7):1–28. (Equal Contribution)</li>
   <li>&thinsp;<b>K. Wu</b>, Q. Liu, K. Yap, and Y. Yang, “Multifocal Multiview Imaging and Data Compression based on Angular-Focal-Spatial Representation,” in Optics Letters, 2024.</li>
-  <li>&thinsp;<b>K. Wu</b>, Q. Liu, K. Yap, and Y. Yang, “High Dimensional Optical Data Varifocal Multiview Imaging, Compression and Evaluation,” in Optics Express, 2023.</li>
-  <li>&thinsp;<b>K. Wu</b>, Q. Liu, Y. Wang, and Y. Yang, “End-to-end Varifocal Multiview Images Coding Framework from Data Acquisition End to Vision Application End,” in Optics Express, 31(7): 11659-11679, 2023.</li>
   <li>&thinsp;J. Gao, K. Yap, K. Wu, D. Phan, and K. Garg, "Contextual Human Object Interaction Understanding from Pre-Trained Large Language Model," ICASSP 2024, Seoul, Korea</li>
   <li>&thinsp;C. Cai, R. Zhang, J. Gao, K. Wu, K. Yap, Y. Wang, "Temporal Sentence Grounding with Temporally Global Textual Knowledge," ICME 2024, Niagra Falls, Canada</li>
+<!-- 段落注释    
+  <li>&thinsp;<b>K. Wu</b>, Q. Liu, K. Yap, and Y. Yang, “High Dimensional Optical Data Varifocal Multiview Imaging, Compression and Evaluation,” in Optics Express, 2023.</li>
+  <li>&thinsp;<b>K. Wu</b>, Q. Liu, Y. Wang, and Y. Yang, “End-to-end Varifocal Multiview Images Coding Framework from Data Acquisition End to Vision Application End,” in Optics Express, 31(7): 11659-11679, 2023.</li>  
+-->
   </ul>
 </div>
 
