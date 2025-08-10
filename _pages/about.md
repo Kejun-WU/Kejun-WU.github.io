@@ -254,8 +254,8 @@ He was a visiting Phd student at Nanyang Technological University, Singapore fro
 -->
 
 I'm honored to have participated in the supervision of these excellent students: 
-- J. Liang, Intern Student, Huazhong University of Science and Technology (LLMs on multimedia understanding)
 - Q. Zhang, Intern Student, KTH Royal Institute of Technology, Sweden (LLMs on multimedia understanding)
+- J. Liang, Intern Student, Huazhong University of Science and Technology (LLMs on multimedia understanding)
 - F. Li, Master Student, Huazhong University of Science and Technology (LLMs on Byte-domain understanding)
 - C. Zhang, Ph.D Student, Huazhong University of Science and Technology (LLMs on signal processing)
 - R. Wang, Ph.D Student, Harbin Engineering University (LLMs on fine-grained recognition)
