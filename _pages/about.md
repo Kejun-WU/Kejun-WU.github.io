@@ -22,7 +22,7 @@ redirect_from:
 # 👦 Biography
 -->
 
-🔊 &nbsp; 招收2026年入学研究生，欢迎联系。
+🔊📢📣招收2026年入学研究生，欢迎联系。
 
 Dr. Kejun Wu ([Faculty HomePage](http://faculty.hust.edu.cn/WuKejun/en/index.htm)) is currently a Lecturer/Assistant Professor at School of Electronic Information and Communications, Huazhong University of Science and Technology, Wuhan, China. Before that, he worked as a Research Fellow researcher at School of Electrical and Electronic Engineering, Nanyang Technological University (work with Prof. Yap Kim-Hui and [Chau Lap-Pui](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-chau-lap-pui/?sc_lang=en)). 
 He obtained his Ph.D. degree from Huazhong University of Science and Technology (supervised by You Yang), Master degree from Harbin Engineering University (supervised by [Chengtao Cai](http://cisse.hrbeu.edu.cn/info/1088/3385.htm)), and Bachelor degree from Shanghai University.
