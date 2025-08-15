@@ -5,13 +5,12 @@
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
           <!-- 原 Homepage 按钮替换为中英文切换按钮 -->
-          <li class="masthead__menu-item masthead__menu-item--lg">
+          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
             <button id="btn-zh" class="nav-link" type="button" onclick="setLang('zh')">中文</button>
           </li>
-          <li class="masthead__menu-item masthead__menu-item--lg">
+          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
             <button id="btn-en" class="nav-link" type="button" onclick="setLang('en')">English</button>
           </li>
-
           {% for link in site.data.navigation.main %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
@@ -21,4 +20,3 @@
     </div>
   </div>
 </div>
-
