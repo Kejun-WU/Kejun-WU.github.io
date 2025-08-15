@@ -319,13 +319,13 @@ My research interest includes neural machine translation and computer vision. I 
 <span class='anchor' id='honors-awards'></span>
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">荣誉奖项</h1>
 
-- 春晖杯中国留学人员创新创业大赛优胜奖（排一，教育部）<br>
-- 全国博士后创新创业大赛铜奖（排一，人力资源和社会保障部）<br>
-- 中国国际大学生创新创业大赛湖北省金奖（排二，湖北省教育厅）<br>
-- 中国国际大学生创新创业大赛全国金奖（原互联网+，教育部）<br>
-- IET Excellence and Innovation Awards International Awards (Silver Award)<br>
-- IET Impact in Society Awards (Shortlist)<br>
-- Letter of Appreciation from University of Oxford<br>
+<li>春晖杯中国留学人员创新创业大赛优胜奖（排一，教育部）</li>
+<li>全国博士后创新创业大赛铜奖（排一，人力资源和社会保障部）</li>
+<li>中国国际大学生创新创业大赛湖北省金奖（排二，湖北省教育厅）</li>
+<li>中国国际大学生创新创业大赛全国金奖（原互联网+，教育部）</li>
+<li>IET Excellence and Innovation Awards International Awards (Silver Award)</li>
+<li>IET Impact in Society Awards (Shortlist)</li>
+<li>Letter of Appreciation from University of Oxford</li>
 
 </div>
 
@@ -335,12 +335,12 @@ My research interest includes neural machine translation and computer vision. I 
 <span class='anchor' id='honors-awards'></span>
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">Honors & Awards</h1>
 
-- China International College Students' Innovation Competition (formerly Internet +, Gold Award)<br>
-- IET Excellence and Innovation Awards International Awards (Silver Award)<br>
-- National Postdoctoral Innovation and Entrepreneurship Competition (Bronze Award, ranked first)<br>
-- Chunhui Cup Innovation and Entrepreneurship Competition for Chinese Overseas Students (ranked first)<br>
-- IET Impact in Society Awards (Shortlist)<br>
-- Letter of Appreciation from University of Oxford<br>
+<li>China International College Students' Innovation Competition (formerly Internet +, Gold Award)</li>
+<li>IET Excellence and Innovation Awards International Awards (Silver Award)</li>
+<li>National Postdoctoral Innovation and Entrepreneurship Competition (Bronze Award, ranked first)</li>
+<li>Chunhui Cup Innovation and Entrepreneurship Competition for Chinese Overseas Students (ranked first)</li>
+<li>IET Impact in Society Awards (Shortlist)</li>
+<li>Letter of Appreciation from University of Oxford</li>
 
 </div>
 
@@ -356,10 +356,10 @@ My research interest includes neural machine translation and computer vision. I 
 <span class='anchor' id='educations'></span>
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">教育经历</h1>
 
-- 联合培养博士研究生，新加坡南洋理工大学电气与电子工程学院<br>
-- 博士学位，华中科技大学电子信息与通信学院<br>
-- 硕士学位，哈尔滨工程大学智能科学与工程学院<br>
-- 学士学位，上海大学机电工程与自动化学院<br>
+<li>联合培养博士研究生，新加坡南洋理工大学电气与电子工程学院</li>
+<li>博士学位，华中科技大学电子信息与通信学院</li>
+<li>硕士学位，哈尔滨工程大学智能科学与工程学院</li>
+<li>学士学位，上海大学机电工程与自动化学院</li>
 
 </div>
 
@@ -369,10 +369,10 @@ My research interest includes neural machine translation and computer vision. I 
 <span class='anchor' id='educations'></span>
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">Educations</h1>
 
-- Exchange Ph.D Student, School of Electrical and Electronic Engineering, Nanyang Technological University<br>
-- Ph.D Student, School of Electronic Information and Communications, Huazhong University of Science and Technology<br>
-- Master Student, College of Intelligent Science and Engineering, Harbin Engineering University<br>
-- Undergraduate Student, School of Mechatronic Engineering and Automation, Shanghai University<br>
+<li>Exchange Ph.D Student, School of Electrical and Electronic Engineering, Nanyang Technological University</li>
+<li>Ph.D Student, School of Electronic Information and Communications, Huazhong University of Science and Technology</li>
+<li>Master Student, College of Intelligent Science and Engineering, Harbin Engineering University</li>
+<li>Undergraduate Student, School of Mechatronic Engineering and Automation, Shanghai University</li>
  
 </div>
 
@@ -388,18 +388,18 @@ My research interest includes neural machine translation and computer vision. I 
 <span class='anchor' id='students'></span>
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">学生培养</h1>
 
-我很荣幸能参与到这些优秀学生的培养过程: <br>
-- Q. Zhang, Intern Student, KTH Royal Institute of Technology, Sweden (LLMs on multimedia understanding)<br>
-- J. Liang, Intern Student, Huazhong University of Science and Technology (LLMs on multimedia understanding)<br>
-- F. Li, Master Student, Huazhong University of Science and Technology (LLMs on Byte-domain understanding)<br>
-- C. Zhang, Ph.D Student, Huazhong University of Science and Technology (LLMs on signal processing)<br>
-- R. Wang, Ph.D Student, Harbin Engineering University (LLMs on fine-grained recognition)<br>
-- S. Wang, Ph.D Student, Harbin Engineering University (LLMs on anomaly detection)<br>
-<!-- 段落注释 - R. Yan, Undergraduate Student, Xiamen University (LLMs on signal analytics)<br>  -->
-- J. Gao, Ph.D Student, Nanyang Technological University (LLMs on HOI)<br>
-- W. Liu, Ph.D Student, Nanyang Technological University (Gen-AI on image restoration)<br>
-- T. Liu, Ph.D Student, Nanyang Technological University (Gen-AI on image restoration)<br>
-- C. Cai, Ph.D, Shopee, Singapore (LLMs on Open-vocabulary Grounding)<br>
+我很荣幸能参与到这些优秀学生的培养过程: </li>
+<li>Q. Zhang, Intern Student, KTH Royal Institute of Technology, Sweden (LLMs on multimedia understanding)</li>
+<li>J. Liang, Intern Student, Huazhong University of Science and Technology (LLMs on multimedia understanding)</li>
+<li>F. Li, Master Student, Huazhong University of Science and Technology (LLMs on Byte-domain understanding)</li>
+<li>C. Zhang, Ph.D Student, Huazhong University of Science and Technology (LLMs on signal processing)</li>
+<li>R. Wang, Ph.D Student, Harbin Engineering University (LLMs on fine-grained recognition)</li>
+<li>S. Wang, Ph.D Student, Harbin Engineering University (LLMs on anomaly detection)</li>
+<!-- 段落注释 - R. Yan, Undergraduate Student, Xiamen University (LLMs on signal analytics)</li>  -->
+<li>J. Gao, Ph.D Student, Nanyang Technological University (LLMs on HOI)</li>
+<li>W. Liu, Ph.D Student, Nanyang Technological University (Gen-AI on image restoration)</li>
+<li>T. Liu, Ph.D Student, Nanyang Technological University (Gen-AI on image restoration)</li>
+<li>C. Cai, Ph.D, Shopee, Singapore (LLMs on Open-vocabulary Grounding)</li>
 
 </div>
 
@@ -409,18 +409,18 @@ My research interest includes neural machine translation and computer vision. I 
 <span class='anchor' id='students'></span>
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">Students</h1>
 
-I'm honored to have participated in the supervision of these excellent students: <br>
-- Q. Zhang, Intern Student, KTH Royal Institute of Technology, Sweden (LLMs on multimedia understanding)<br>
-- J. Liang, Intern Student, Huazhong University of Science and Technology (LLMs on multimedia understanding)<br>
-- F. Li, Master Student, Huazhong University of Science and Technology (LLMs on Byte-domain understanding)<br>
-- C. Zhang, Ph.D Student, Huazhong University of Science and Technology (LLMs on signal processing)<br>
-- R. Wang, Ph.D Student, Harbin Engineering University (LLMs on fine-grained recognition)<br>
-- S. Wang, Ph.D Student, Harbin Engineering University (LLMs on anomaly detection)<br>
-<!-- 段落注释 - R. Yan, Undergraduate Student, Xiamen University (LLMs on signal analytics)<br>  -->
-- J. Gao, Ph.D Student, Nanyang Technological University (LLMs on HOI)<br>
-- W. Liu, Ph.D Student, Nanyang Technological University (Gen-AI on image restoration)<br>
-- T. Liu, Ph.D Student, Nanyang Technological University (Gen-AI on image restoration)<br>
-- C. Cai, Ph.D, Shopee, Singapore (LLMs on Open-vocabulary Grounding)<br>
+I'm honored to have participated in the supervision of these excellent students: </li>
+<li>Q. Zhang, Intern Student, KTH Royal Institute of Technology, Sweden (LLMs on multimedia understanding)</li>
+<li>J. Liang, Intern Student, Huazhong University of Science and Technology (LLMs on multimedia understanding)</li>
+<li>F. Li, Master Student, Huazhong University of Science and Technology (LLMs on Byte-domain understanding)</li>
+<li>C. Zhang, Ph.D Student, Huazhong University of Science and Technology (LLMs on signal processing)</li>
+<li>R. Wang, Ph.D Student, Harbin Engineering University (LLMs on fine-grained recognition)</li>
+<li>S. Wang, Ph.D Student, Harbin Engineering University (LLMs on anomaly detection)</li>
+<!-- 段落注释 - R. Yan, Undergraduate Student, Xiamen University (LLMs on signal analytics)</li>  -->
+<li>J. Gao, Ph.D Student, Nanyang Technological University (LLMs on HOI)</li>
+<li>W. Liu, Ph.D Student, Nanyang Technological University (Gen-AI on image restoration)</li>
+<li>T. Liu, Ph.D Student, Nanyang Technological University (Gen-AI on image restoration)</li>
+<li>C. Cai, Ph.D, Shopee, Singapore (LLMs on Open-vocabulary Grounding)</li>
 
  
 </div>
