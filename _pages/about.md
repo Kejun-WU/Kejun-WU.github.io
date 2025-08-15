@@ -23,10 +23,16 @@ redirect_from:
 <!-- 中文块 -->
 <div class="i18n zh">
 
-<span class='anchor' id='about-me'></span>
-<font size=6 color=#1155A0>**个人简介**</font>
+<h1 style="color:#1155A0; font-size:36px; font-weight:bold;">
+你好，我是张三
+</h1>
 
-<font size=6 color=#1155A0>**个人简介**</font>
+<span class='anchor' id='about-me'></span>
+<font size=6 color=#1155A0>个人简介</font>
+
+#个人简介
+
+<font size=6 color=#1155A0>****</font>
 
 吴科君，博士，IEEE高级会员，现任华中科技大学电子信息与通信学院讲师/助理教授。在此之前，他在新加坡南洋理工大学电气电子工程学院从事博士后研究（与Yap Kim-Hui、周立培(IEEE Fellow)教授）。他获得了华中科技大学博士学位（导师 杨铀 教授）、哈尔滨工程大学硕士学位（导师 蔡成涛 教授）和上海大学学士学位。他的研究兴趣包括多模态大模型、生成式人工智能、高维视觉和视频压缩与理解等，近5年在IEEE T-MM、IEEE T-CSVT、NeurIPS、ACM Multimedia等高水平期刊、会议发表论文50余篇。他担任IEEE OJSP、ASOC、JRTIP、JVCI等权威期刊的副主编/编委/客座编辑等，并在国际会议AAAI 2026、AIGC 2025、IJCNN 2025、IEEE ICASSP2024、ISCAS2024和MMSP2023中担任程序委员会/领域主席/专题主席等。<br>
 🚀 &nbsp; 招收兴趣从事以上研究领域的实习生/访问学生/研究生, 欢迎线下或远程实习/学习，提供计算资源和津贴。
