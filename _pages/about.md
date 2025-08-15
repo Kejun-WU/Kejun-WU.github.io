@@ -15,6 +15,13 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+
+<!-- 段落注释 -->
+[//]: 段落注释
+<!-- 文字颜色$\color{RoyalBlue} {Editorial Board}$  RoyalBlue, DarkBlue, Navy-->
+<!-- 文字颜色<font color=lightgrey>Editorial Board</font> -->
+<!--  文字颜色 <font color=Blue>Editorial Board</font>  <font color=Tomato>accepted</font> -->
+<!--  <span style="color:rgb(17,85,160)">Professional Activities</span> -->
 <!--  
 <span style="color:rgb(17,85,160)">Biography</span>
 # 👦🔊📢📣
@@ -41,9 +48,6 @@ redirect_from:
 <div class="i18n en">
 <span class='anchor' id='about-me'></span>
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">Biography</h1>
-
-
-
 
 Dr. Kejun Wu ([Faculty HomePage](http://faculty.hust.edu.cn/WuKejun/en/index.htm)) is currently a Lecturer/Assistant Professor at School of Electronic Information and Communications, Huazhong University of Science and Technology, Wuhan, China. Before that, he worked as a Research Fellow researcher at School of Electrical and Electronic Engineering, Nanyang Technological University (work with Prof. Yap Kim-Hui and [Chau Lap-Pui](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-chau-lap-pui/?sc_lang=en)). 
 He obtained his Ph.D. degree from Huazhong University of Science and Technology (supervised by You Yang), Master degree from Harbin Engineering University (supervised by [Chengtao Cai](http://cisse.hrbeu.edu.cn/info/1088/3385.htm)), and Bachelor degree from Shanghai University.
@@ -72,12 +76,6 @@ He was a visiting Phd student at Nanyang Technological University, Singapore fro
 
 [//]: My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
-<!-- 段落注释 -->
-[//]: 段落注释
-<!-- 文字颜色$\color{RoyalBlue} {Editorial Board}$  RoyalBlue, DarkBlue, Navy-->
-<!-- 文字颜色<font color=lightgrey>Editorial Board</font> -->
-<!--  文字颜色 <font color=Blue>Editorial Board</font>  <font color=Tomato>accepted</font> -->
-<!--  <span style="color:rgb(17,85,160)">Professional Activities</span> -->
 
 
 
