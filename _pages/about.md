@@ -15,20 +15,21 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+<!--  
+<span style="color:rgb(17,85,160)">Biography</span>
+# 👦🔊📢📣
+-->
 
 
+
+<!-- 中英全局有效 -->
 📢招收2026年入学研究生，欢迎联系。<br>
 
 
 <!-- 中文块 -->
 <div class="i18n zh">
-
-
-<h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">
-个人简介
-</h1>
-
-# <span style="color:#1155A0; font-size:1.5em; font-weight:bold;">个人简介</span>
+<span class='anchor' id='about-me'></span>
+<h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">个人简介</h1>
 
 吴科君，博士，IEEE高级会员，现任华中科技大学电子信息与通信学院讲师/助理教授。在此之前，他在新加坡南洋理工大学电气电子工程学院从事博士后研究（与Yap Kim-Hui、周立培(IEEE Fellow)教授）。他获得了华中科技大学博士学位（导师 杨铀 教授）、哈尔滨工程大学硕士学位（导师 蔡成涛 教授）和上海大学学士学位。他的研究兴趣包括多模态大模型、生成式人工智能、高维视觉和视频压缩与理解等，近5年在IEEE T-MM、IEEE T-CSVT、NeurIPS、ACM Multimedia等高水平期刊、会议发表论文50余篇。他担任IEEE OJSP、ASOC、JRTIP、JVCI等权威期刊的副主编/编委/客座编辑等，并在国际会议AAAI 2026、AIGC 2025、IJCNN 2025、IEEE ICASSP2024、ISCAS2024和MMSP2023中担任程序委员会/领域主席/专题主席等。<br>
 🚀 &nbsp; 招收兴趣从事以上研究领域的实习生/访问学生/研究生, 欢迎线下或远程实习/学习，提供计算资源和津贴。
@@ -36,23 +37,13 @@ redirect_from:
 </div>
 
 
-
-
-
-
 <!-- 英文块 -->
 <div class="i18n en">
-
 <span class='anchor' id='about-me'></span>
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">Biography</h1>
 
-# <span style="color:#1155A0; font-size:1.5em; font-weight:bold;">Biography</span>
 
-<!--  
-<span style="color:rgb(17,85,160)">**Biography**</span>
-# Biography
-# 👦 Biography 🔊📢📣
--->
+
 
 Dr. Kejun Wu ([Faculty HomePage](http://faculty.hust.edu.cn/WuKejun/en/index.htm)) is currently a Lecturer/Assistant Professor at School of Electronic Information and Communications, Huazhong University of Science and Technology, Wuhan, China. Before that, he worked as a Research Fellow researcher at School of Electrical and Electronic Engineering, Nanyang Technological University (work with Prof. Yap Kim-Hui and [Chau Lap-Pui](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-chau-lap-pui/?sc_lang=en)). 
 He obtained his Ph.D. degree from Huazhong University of Science and Technology (supervised by You Yang), Master degree from Harbin Engineering University (supervised by [Chengtao Cai](http://cisse.hrbeu.edu.cn/info/1088/3385.htm)), and Bachelor degree from Shanghai University.
