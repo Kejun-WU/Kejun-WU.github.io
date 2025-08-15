@@ -5,12 +5,19 @@
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
         <!-- <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me">Homepage</a></li> -->
+        <!-- 
         <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
           <nav class="lang-switch" aria-label="Language switch">
             <a href="#" class="lang-link" data-set-lang="zh" aria-label="切换为中文">中文</a>
             <span class="lang-sep">/</span>
             <a href="#" class="lang-link" data-set-lang="en" aria-label="Switch to English">English</a>
           </nav>
+        </li>
+       -->
+        <li class="masthead__menu-item masthead__menu-home-item">
+          <a href="#" class="lang-link" data-set-lang="zh" aria-label="切换为中文">中文</a>
+          <span class="lang-sep">/</span>
+          <a href="#" class="lang-link" data-set-lang="en" aria-label="Switch to English">English</a>
         </li>
           {% for link in site.data.navigation.main %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
