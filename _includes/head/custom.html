@@ -20,16 +20,4 @@
 </script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
 
-{% comment %} Language toggle assets {% endcomment %}
-<link rel="preload" href="{{ '/assets/js/lang-toggle.js' | relative_url }}" as="script">
-<link rel="preload" href="{{ '/assets/css/lang-toggle.css' | relative_url }}" as="style">
-{% include_cached head/custom-scripts.html %}
-
-<!-- 直接内联或以 <script>/<style> 链接形式引入，二选一 -->
-{% capture lang_css %}{% include_relative ../assets/css/lang-toggle.css %}{% endcapture %}
-{{ lang_css | strip }}
-
-{% capture lang_js %}{% include_relative ../assets/js/lang-toggle.js %}{% endcapture %}
-{{ lang_js | strip }}
-
 <!-- end custom head snippets -->
