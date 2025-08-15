@@ -4,17 +4,18 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-         <!-- 放在 _includes/header.html 导航栏 <ul> ... </ul> 内，替换原 Homepage -->
+      <!--<li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me">Homepage</a></li>
+          {% for link in site.data.navigation.main %}
+            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+          {% endfor %}
+           -->
+          <!-- 放在 _includes/header.html 导航栏 <ul> ... </ul> 内，替换原 Homepage -->
           <li class="nav-item">
             <button id="btn-zh" class="nav-link" type="button" onclick="setLang('zh')">中文</button>
           </li>
           <li class="nav-item">
             <button id="btn-en" class="nav-link" type="button" onclick="setLang('en')">English</button>
           </li>
-      <!--<li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me">Homepage</a></li> -->
-          {% for link in site.data.navigation.main %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
-          {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
