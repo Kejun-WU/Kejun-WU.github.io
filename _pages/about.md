@@ -30,14 +30,14 @@ redirect_from:
 -->
 
 <!-- 页面开头可以放个只在中文显示的提示条 -->
-<div data-lang="zh">
+<div data-lang="zh" markdown="1">
 > 当前为 **中文** 版本。点击右上角 **English** 查看英文版。
 </div>
-<div data-lang="en">
+<div data-lang="en" markdown="1">
 > You are viewing the **English** version. Click **中文** in the top bar for Chinese.
 </div>
 
-<div data-lang="zh">
+<div data-lang="zh" markdown="1">
  
 - 2019–2023 本科，某某大学，计算机科学  
 - 2023–至今 博士，某某大学，人工智能
@@ -47,7 +47,7 @@ redirect_from:
 
 </div>
 
-<div data-lang="en">
+<div data-lang="en" markdown="1">
  
 - 2019–2023 B.Sc., University X, Computer Science  
 - 2023–Present Ph.D., University Y, Artificial Intelligence
