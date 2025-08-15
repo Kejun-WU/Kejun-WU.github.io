@@ -18,38 +18,6 @@ redirect_from:
 
 
 
-<!-- 页面开头可以放个只在中文显示的提示条 -->
-<div data-lang="zh">
-> 当前为 **中文** 版本。点击右上角 **English** 查看英文版。
-</div>
-<div data-lang="en">
-> You are viewing the **English** version. Click **中文** in the top bar for Chinese.
-</div>
-
-<div data-lang="zh">
-
-## 教育背景
-- 2019–2023 本科，某某大学，计算机科学  
-- 2023–至今 博士，某某大学，人工智能
-
-## 发表论文
-- 中文论文 A …
-- 中文论文 B …
-
-</div>
-
-<div data-lang="en">
-
-## Education
-- 2019–2023 B.Sc., University X, Computer Science  
-- 2023–Present Ph.D., University Y, Artificial Intelligence
-
-## Publications
-- Paper A …
-- Paper B …
-
-</div>
-
 
 
 
@@ -60,6 +28,36 @@ redirect_from:
 # Biography
 # 👦 Biography 🔊📢📣
 -->
+
+<!-- 页面开头可以放个只在中文显示的提示条 -->
+<div data-lang="zh">
+> 当前为 **中文** 版本。点击右上角 **English** 查看英文版。
+</div>
+<div data-lang="en">
+> You are viewing the **English** version. Click **中文** in the top bar for Chinese.
+</div>
+
+<div data-lang="zh">
+ 
+- 2019–2023 本科，某某大学，计算机科学  
+- 2023–至今 博士，某某大学，人工智能
+ 
+- 中文论文 A …
+- 中文论文 B …
+
+</div>
+
+<div data-lang="en">
+ 
+- 2019–2023 B.Sc., University X, Computer Science  
+- 2023–Present Ph.D., University Y, Artificial Intelligence
+ 
+- Paper A …
+- Paper B …
+
+</div>
+
+
 
 📢招收2026年入学研究生，欢迎联系。<br>
 
