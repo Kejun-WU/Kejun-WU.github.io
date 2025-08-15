@@ -12,7 +12,7 @@
   white-space: nowrap;      /* 不换行 */
   display: flex;            /* 水平排列 */
   align-items: center;      /* 垂直居中 */
-  gap: 0.25rem;              /* 中文/英文之间间距 */
+  gap: 0.5rem;              /* 中文/英文之间间距 */
 }
 
 .masthead__menu-item--lang a {
