@@ -58,7 +58,6 @@ He serves as an Associate Editor / Editorial Board Member / Executive Guest Edit
 <!--  Contact via <kjwu@hust.edu.cn>  -->
 
 
-
 </div>
 
 
@@ -76,6 +75,63 @@ He was a visiting Phd student at Nanyang Technological University, Singapore fro
 
 [//]: My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
+
+
+
+<!-- 中文块 -->
+<div class="i18n zh">
+<span class='anchor' id='about-me'></span>
+<h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">学术服务</h1>
+
+<div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
+  <ul>
+    <li>编委, 国际期刊Applied Soft Computing (JCR Q1区) </li>  
+    <li>副主编, 国际期刊IEEE Open Journal of Signal Processing </li>  
+    <li>客座编辑, 国际期刊Journal of Real-Time Image Processing (JCR Q2区) </li>  
+    <li>客座编辑, 国际期刊Journal of Visual Communication and Image Representation (JCR Q2区) </li>  
+    <li>程序委员会, 国际会议AAAI 2026, 新加坡 </li>  
+    <li>程序委员会, 国际会议AIGC 2025, 杭州 </li>
+    <li>领域主席, 国际会议IJCNN 2025, 意大利 </li>  
+    <li>专题主席, 国际会议ISCAS 2024, 新加坡 </li>  
+    <li>专题主席, 国际会议ICASSP 2024, 韩国 </li>
+    <li>专题主席, 国际会议MMSP2023, 法国 </li>  
+    <li>应急态势感知与应急通信技术决策咨询专家团队成员, 中国科协 </li>
+    <li>UWA技术规划组专家, 世界超高清视频产业联盟UWA </li>  
+    <li>Technical Committee Affiliate, Image, Video, and Multidimensional Signal Processing (IVMSP), IEEE 信号处理学会 </li>
+    <li>Technical Committee Affiliate, Multimedia Signal Processing (MMSP), IEEE 信号处理学会 </li>  
+    <li>审稿人：IEEE TMM, IEEE TCSVT, IEEE TBc, Pattern Recognition, Information Fusion, NeurIPS, AAAI, ICASSP, etc. </li>    
+  </ul>
+</div>
+
+</div>
+
+
+<!-- 英文块 -->
+<div class="i18n en">
+<span class='anchor' id='about-me'></span>
+<h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">Biography</h1>
+
+<div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
+  <ul>
+    <li>Editorial Board, Applied Soft Computing </li>  
+    <li>Associate Editor, IEEE Open Journal of Signal Processing </li>  
+    <li>Lead Guest Editor, Journal of Real-Time Image Processing </li>  
+    <li>Lead Guest Editor, Journal of Visual Communication and Image Representation </li>  
+    <li>Program Committee, AAAI 2026, Singapore </li>  
+    <li>Program Committee, AIGC 2025, Hangzhou, China </li>
+    <li>Area Chair, IJCNN 2025, Italy </li>  
+    <li>Session Chair, IEEE ISCAS 2024, Singapore </li>  
+    <li>Session Chair, IEEE ICASSP 2024, Korea </li>
+    <li>Session Chair, IEEE MMSP 2023, France </li>  
+    <li>Member, 应急态势感知与应急通信技术决策咨询专家团队, 中国科协 </li>
+    <li>Experts, UWA Technical Planning Expert Group, UHD World Association (UWA, 世界超高清视频产业联盟) </li>  
+    <li>Technical Committee Affiliate, Image, Video, and Multidimensional Signal Processing (IVMSP), IEEE Signal Processing Society (SPS) </li>
+    <li>Technical Committee Affiliate, Multimedia Signal Processing (MMSP), IEEE SPS </li>  
+    <li>Reviewer of IEEE TMM, IEEE TCSVT, IEEE TBc, Pattern Recognition, Information Fusion, NeurIPS, AAAI, ICASSP, etc. </li>  
+  </ul>
+</div>  
+
+</div>
 
 
 
@@ -133,6 +189,31 @@ He was a visiting Phd student at Nanyang Technological University, Singapore fro
 </div>
 
 </details><br> 
+
+
+
+
+
+
+
+
+<!-- 中文块 -->
+<div class="i18n zh">
+<span class='anchor' id='about-me'></span>
+<h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">个人简介</h1>
+
+
+</div>
+
+
+<!-- 英文块 -->
+<div class="i18n en">
+<span class='anchor' id='about-me'></span>
+<h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">Biography</h1>
+
+
+</div>
+
 
 
 
@@ -224,6 +305,28 @@ He was a visiting Phd student at Nanyang Technological University, Singapore fro
 
 
 
+
+<!-- 中文块 -->
+<div class="i18n zh">
+<span class='anchor' id='about-me'></span>
+<h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">个人简介</h1>
+
+
+</div>
+
+
+<!-- 英文块 -->
+<div class="i18n en">
+<span class='anchor' id='about-me'></span>
+<h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">Biography</h1>
+
+
+</div>
+
+
+
+
+
 <span class='anchor' id='honors-awards'></span>
 # <span style="color:rgb(17,85,160)">Honors & Awards</span>
 <!-- 
@@ -237,6 +340,29 @@ He was a visiting Phd student at Nanyang Technological University, Singapore fro
 - Chunhui Cup Innovation and Entrepreneurship Competition for Chinese Overseas Students (ranked first)
 - IET Impact in Society Awards (Shortlist)
 - Letter of Appreciation from University of Oxford
+
+
+
+
+
+<!-- 中文块 -->
+<div class="i18n zh">
+<span class='anchor' id='about-me'></span>
+<h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">个人简介</h1>
+
+
+</div>
+
+
+<!-- 英文块 -->
+<div class="i18n en">
+<span class='anchor' id='about-me'></span>
+<h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">Biography</h1>
+
+
+</div>
+
+
 
 
 <span class='anchor' id='educations'></span>
