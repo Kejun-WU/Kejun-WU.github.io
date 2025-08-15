@@ -16,12 +16,6 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 
-<span class='anchor' id='about-me'></span>
-# <span style="color:rgb(17,85,160)">Biography</span>
-<!--  
-# Biography
-# 👦 Biography 🔊📢📣
--->
 
 
 <!-- 页面开头可以放个只在中文显示的提示条 -->
@@ -58,6 +52,14 @@ redirect_from:
 
 
 
+
+
+<span class='anchor' id='about-me'></span>
+# <span style="color:rgb(17,85,160)">Biography</span>
+<!--  
+# Biography
+# 👦 Biography 🔊📢📣
+-->
 
 📢招收2026年入学研究生，欢迎联系。<br>
 
