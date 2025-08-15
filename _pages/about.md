@@ -388,7 +388,8 @@ My research interest includes neural machine translation and computer vision. I 
 <span class='anchor' id='students'></span>
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">学生培养</h1>
 
-我很荣幸能参与到这些优秀学生的培养过程: </li>
+我很荣幸能参与到这些优秀学生的培养过程: 
+
 <li>Q. Zhang, Intern Student, KTH Royal Institute of Technology, Sweden (LLMs on multimedia understanding)</li>
 <li>J. Liang, Intern Student, Huazhong University of Science and Technology (LLMs on multimedia understanding)</li>
 <li>F. Li, Master Student, Huazhong University of Science and Technology (LLMs on Byte-domain understanding)</li>
@@ -409,7 +410,8 @@ My research interest includes neural machine translation and computer vision. I 
 <span class='anchor' id='students'></span>
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">Students</h1>
 
-I'm honored to have participated in the supervision of these excellent students: </li>
+I'm honored to have participated in the supervision of these excellent students: 
+
 <li>Q. Zhang, Intern Student, KTH Royal Institute of Technology, Sweden (LLMs on multimedia understanding)</li>
 <li>J. Liang, Intern Student, Huazhong University of Science and Technology (LLMs on multimedia understanding)</li>
 <li>F. Li, Master Student, Huazhong University of Science and Technology (LLMs on Byte-domain understanding)</li>
