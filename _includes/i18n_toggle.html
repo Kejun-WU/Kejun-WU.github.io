@@ -1,0 +1,52 @@
+<!-- _includes/i18n_toggle.html -->
+<div id="i18n-app" style="margin: 1rem 0;">
+  <button type="button" data-lang="zh" class="lang-btn">中文</button>
+  <button type="button" data-lang="en" class="lang-btn">English</button>
+</div>
+
+<style>
+  .lang-btn {
+    padding: .5rem .9rem; margin-right: .5rem; border: 1px solid #ddd; border-radius: .6rem;
+    background: #fff; cursor: pointer; font: inherit;
+  }
+  .lang-btn.active { border-color: #333; box-shadow: 0 0 0 2px rgba(0,0,0,.05) inset; }
+  .i18n-block[lang]{ display: none; }
+  .i18n-block[lang].show { display: block; }
+  .i18n-block.show { animation: fadeIn .18s ease-in; }
+  @keyframes fadeIn { from {opacity:.4; transform: translateY(2px);} to {opacity:1; transform:none;} }
+
+  /* 可选：让页面里所有列表在隐藏/显示时更顺滑，不影响主题 */
+  .i18n-block ul, .i18n-block p, .i18n-block h1, .i18n-block h2, .i18n-block h3 { margin-top: .6rem; }
+</style>
+
+<script>
+(function(){
+  const KEY = 'pref-lang';
+  const $ = (q,root=document)=>root.querySelector(q);
+  const $$ = (q,root=document)=>Array.from(root.querySelectorAll(q));
+  const blocks = $$('.i18n-block[lang]');
+  const btns = $$('#i18n-app .lang-btn');
+
+  function apply(lang){
+    blocks.forEach(b => b.classList.toggle('show', b.getAttribute('lang') === lang));
+    btns.forEach(b => b.classList.toggle('active', b.dataset.lang === lang));
+    try{ localStorage.setItem(KEY, lang); }catch(e){}
+    // 可选：同步 <html lang="...">，利于无障碍与 SEO
+    try{ document.documentElement.setAttribute('lang', lang === 'zh' ? 'zh' : 'en'); }catch(e){}
+  }
+
+  // 初始语言：localStorage > 浏览器语言 > 默认中文
+  const navLang = (navigator.language||'').toLowerCase().startsWith('zh') ? 'zh' : 'en';
+  let saved = null;
+  try{ saved = localStorage.getItem(KEY); }catch(e){}
+  apply(saved || navLang || 'zh');
+
+  btns.forEach(b => b.addEventListener('click', () => apply(b.dataset.lang)));
+})();
+</script>
+
+<noscript>
+  <div style="margin:.5rem 0; padding:.5rem .75rem; border:1px dashed #bbb; border-radius:.5rem;">
+    JavaScript 被禁用时将显示默认语言（中文）。启用 JS 可切换中英。
+  </div>
+</noscript>
