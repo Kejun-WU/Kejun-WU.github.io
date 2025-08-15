@@ -42,7 +42,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">个人简介</h1>
 
-吴科君，博士，IEEE高级会员，现任华中科技大学电子信息与通信学院讲师/助理教授。在此之前，他在新加坡南洋理工大学电气电子工程学院从事博士后研究（与Yap Kim-Hui、<a href="http://faculty.hust.edu.cn/WuKejun/en/index.htm" target="_blank">周立培</a>教授 (IEEE Fellow)）。他获得了华中科技大学博士学位（导师 杨铀 教授）、哈尔滨工程大学硕士学位（导师 <a href="http://cisse.hrbeu.edu.cn/info/1088/3385.htm" target="_blank">蔡成涛</a> 教授）和上海大学学士学位。他的研究兴趣包括多模态大模型、生成式人工智能、高维视觉和视频压缩与理解等，近5年在IEEE T-MM、IEEE T-CSVT、NeurIPS、ACM Multimedia等高水平期刊、会议发表论文50余篇。他担任IEEE OJSP、ASOC、JRTIP、JVCI等权威期刊的副主编/编委/客座编辑等，并在国际会议AAAI 2026、AIGC 2025、IJCNN 2025、IEEE ICASSP2024、ISCAS2024和MMSP2023中担任程序委员会/领域主席/专题主席等。<br>
+吴科君(<a href="http://faculty.hust.edu.cn/WuKejun/en/index.htm" target="_blank">教师主页</a>) ，博士，IEEE高级会员，现任华中科技大学电子信息与通信学院讲师/助理教授。在此之前，他在新加坡南洋理工大学电气电子工程学院从事博士后研究（与Yap Kim-Hui、<a href="http://faculty.hust.edu.cn/WuKejun/en/index.htm" target="_blank">周立培</a>教授 (IEEE Fellow)）。他获得了华中科技大学博士学位（导师 杨铀 教授）、哈尔滨工程大学硕士学位（导师 <a href="http://cisse.hrbeu.edu.cn/info/1088/3385.htm" target="_blank">蔡成涛</a> 教授）和上海大学学士学位。他的研究兴趣包括多模态大模型、生成式人工智能、高维视觉和视频压缩与理解等，近5年在IEEE T-MM、IEEE T-CSVT、NeurIPS、ACM Multimedia等高水平期刊、会议发表论文50余篇。他担任IEEE OJSP、ASOC、JRTIP、JVCI等权威期刊的副主编/编委/客座编辑等，并在国际会议AAAI 2026、AIGC 2025、IJCNN 2025、IEEE ICASSP2024、ISCAS2024和MMSP2023中担任程序委员会/领域主席/专题主席等。<br>
 🚀 &nbsp; 招收兴趣从事以上研究领域的实习生/访问学生/研究生, 欢迎线下或远程实习/学习，提供计算资源和津贴。
 
 </div>
@@ -319,13 +319,13 @@ My research interest includes neural machine translation and computer vision. I 
 <span class='anchor' id='honors-awards'></span>
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">荣誉奖项</h1>
 
-- 春晖杯中国留学人员创新创业大赛优胜奖（排一，教育部）
-- 全国博士后创新创业大赛铜奖（排一，人力资源和社会保障部）
-- 中国国际大学生创新创业大赛湖北省金奖（排二，湖北省教育厅）
-- 中国国际大学生创新创业大赛全国金奖（原互联网+，教育部）
-- IET Excellence and Innovation Awards International Awards (Silver Award)
-- IET Impact in Society Awards (Shortlist)
-- Letter of Appreciation from University of Oxford
+- 春晖杯中国留学人员创新创业大赛优胜奖（排一，教育部）<br>
+- 全国博士后创新创业大赛铜奖（排一，人力资源和社会保障部）<br>
+- 中国国际大学生创新创业大赛湖北省金奖（排二，湖北省教育厅）<br>
+- 中国国际大学生创新创业大赛全国金奖（原互联网+，教育部）<br>
+- IET Excellence and Innovation Awards International Awards (Silver Award)<br>
+- IET Impact in Society Awards (Shortlist)<br>
+- Letter of Appreciation from University of Oxford<br>
 
 </div>
 
@@ -335,12 +335,12 @@ My research interest includes neural machine translation and computer vision. I 
 <span class='anchor' id='honors-awards'></span>
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">Honors & Awards</h1>
 
-- China International College Students' Innovation Competition (formerly Internet +, Gold Award)
-- IET Excellence and Innovation Awards International Awards (Silver Award)
-- National Postdoctoral Innovation and Entrepreneurship Competition (Bronze Award, ranked first)
-- Chunhui Cup Innovation and Entrepreneurship Competition for Chinese Overseas Students (ranked first)
-- IET Impact in Society Awards (Shortlist)
-- Letter of Appreciation from University of Oxford
+- China International College Students' Innovation Competition (formerly Internet +, Gold Award)<br>
+- IET Excellence and Innovation Awards International Awards (Silver Award)<br>
+- National Postdoctoral Innovation and Entrepreneurship Competition (Bronze Award, ranked first)<br>
+- Chunhui Cup Innovation and Entrepreneurship Competition for Chinese Overseas Students (ranked first)<br>
+- IET Impact in Society Awards (Shortlist)<br>
+- Letter of Appreciation from University of Oxford<br>
 
 </div>
 
@@ -356,10 +356,10 @@ My research interest includes neural machine translation and computer vision. I 
 <span class='anchor' id='educations'></span>
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">教育经历</h1>
 
-- 联合培养博士研究生，新加坡南洋理工大学电气与电子工程学院
-- 博士学位，华中科技大学电子信息与通信学院
-- 硕士学位，哈尔滨工程大学智能科学与工程学院
-- 学士学位，上海大学机电工程与自动化学院
+- 联合培养博士研究生，新加坡南洋理工大学电气与电子工程学院<br>
+- 博士学位，华中科技大学电子信息与通信学院<br>
+- 硕士学位，哈尔滨工程大学智能科学与工程学院<br>
+- 学士学位，上海大学机电工程与自动化学院<br>
 
 </div>
 
@@ -369,10 +369,10 @@ My research interest includes neural machine translation and computer vision. I 
 <span class='anchor' id='educations'></span>
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">Educations</h1>
 
-- Exchange Ph.D Student, School of Electrical and Electronic Engineering, Nanyang Technological University
-- Ph.D Student, School of Electronic Information and Communications, Huazhong University of Science and Technology
-- Master Student, College of Intelligent Science and Engineering, Harbin Engineering University
-- Undergraduate Student, School of Mechatronic Engineering and Automation, Shanghai University
+- Exchange Ph.D Student, School of Electrical and Electronic Engineering, Nanyang Technological University<br>
+- Ph.D Student, School of Electronic Information and Communications, Huazhong University of Science and Technology<br>
+- Master Student, College of Intelligent Science and Engineering, Harbin Engineering University<br>
+- Undergraduate Student, School of Mechatronic Engineering and Automation, Shanghai University<br>
  
 </div>
 
@@ -388,7 +388,7 @@ My research interest includes neural machine translation and computer vision. I 
 <span class='anchor' id='students'></span>
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">学生培养</h1>
 
-我很荣幸能参与到这些优秀学生的培养过程: 
+我很荣幸能参与到这些优秀学生的培养过程: <br>
 - Q. Zhang, Intern Student, KTH Royal Institute of Technology, Sweden (LLMs on multimedia understanding)<br>
 - J. Liang, Intern Student, Huazhong University of Science and Technology (LLMs on multimedia understanding)<br>
 - F. Li, Master Student, Huazhong University of Science and Technology (LLMs on Byte-domain understanding)<br>
@@ -409,7 +409,7 @@ My research interest includes neural machine translation and computer vision. I 
 <span class='anchor' id='students'></span>
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">Students</h1>
 
-I'm honored to have participated in the supervision of these excellent students: 
+I'm honored to have participated in the supervision of these excellent students: <br>
 - Q. Zhang, Intern Student, KTH Royal Institute of Technology, Sweden (LLMs on multimedia understanding)<br>
 - J. Liang, Intern Student, Huazhong University of Science and Technology (LLMs on multimedia understanding)<br>
 - F. Li, Master Student, Huazhong University of Science and Technology (LLMs on Byte-domain understanding)<br>
