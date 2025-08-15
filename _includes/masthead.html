@@ -8,9 +8,6 @@
           <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
             <button id="btn-zh" class="nav-link" type="button" onclick="setLang('zh')">中文</button>
           </li>
-          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
-            <button id="btn-en" class="nav-link" type="button" onclick="setLang('en')">English</button>
-          </li>
           {% for link in site.data.navigation.main %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
