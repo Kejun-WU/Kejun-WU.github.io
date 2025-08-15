@@ -1,4 +1,3 @@
-{% include i18n_toggle.html %}
 
 
 ---
@@ -25,18 +24,6 @@ redirect_from:
 # Biography
 # 👦 Biography 🔊📢📣
 -->
-
-<div class="i18n-block" lang="zh">
-## 欢迎来到我的网站
-这里是中文内容示例。
-</div>
-
-<div class="i18n-block" lang="en">
-## Welcome to my website
-This is the English content.
-</div>
-
-
 
 📢招收2026年入学研究生，欢迎联系。<br>
 
