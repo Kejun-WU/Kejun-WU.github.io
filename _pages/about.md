@@ -53,8 +53,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">Biography</h1>
 
-Dr. Kejun Wu ([Faculty HomePage](http://faculty.hust.edu.cn/WuKejun/en/index.htm)) is currently a Lecturer/Assistant Professor at School of Electronic Information and Communications, Huazhong University of Science and Technology, Wuhan, China. Before that, he worked as a Research Fellow researcher at School of Electrical and Electronic Engineering, Nanyang Technological University (work with Prof. Yap Kim-Hui and [Chau Lap-Pui](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-chau-lap-pui/?sc_lang=en)). 
-He obtained his Ph.D. degree from Huazhong University of Science and Technology (supervised by You Yang), Master degree from Harbin Engineering University (supervised by [Chengtao Cai](http://cisse.hrbeu.edu.cn/info/1088/3385.htm)), and Bachelor degree from Shanghai University.
+Dr. Kejun Wu <a href="http://faculty.hust.edu.cn/WuKejun/en/index.htm" target="_blank">Faculty HomePage</a> is currently a Lecturer/Assistant Professor at School of Electronic Information and Communications, Huazhong University of Science and Technology, Wuhan, China. Before that, he worked as a Research Fellow researcher at School of Electrical and Electronic Engineering, Nanyang Technological University (work with Prof. Yap Kim-Hui and <a href="http://faculty.hust.edu.cn/WuKejun/en/index.htm" target="_blank">Chau Lap-Pui</a>. 
+He obtained his Ph.D. degree from Huazhong University of Science and Technology (supervised by You Yang), Master degree from Harbin Engineering University (supervised by <a href="[http://faculty.hust.edu.cn/WuKejun/en/index.htm](http://cisse.hrbeu.edu.cn/info/1088/3385.htm)" target="_blank">Chengtao Cai</a>, and Bachelor degree from Shanghai University.
 His research interest includes Multimodal Large Language Models, Generative AI, High-dimensional Vision, and Learned Video Compression. He has over 50 publications in top-tier venues in the past 5 years. He is a Technical Committee Affiliate of IEEE SPS IVMSP and IEEE SPS MMSP.
 He serves as an Associate Editor / Editorial Board Member / Executive Guest Editor of IEEE OJSP, ASOC, JVCI, and JRTIP, etc., an Area Chair / Session Chair / Program Committee in AAAI 2026, AIGC 2025, IJCNN 2025, IEEE ICASSP 2024,ISCAS 2024, and MMSP2023. He is an IEEE Senior Member.<br>
 🚀 &nbsp; Recruiting intern/ visiting/ Master students interested in the aforementioned research areas. On-site, remote, or hybrid interning/learning are welcome, Computing resources and allowance provided.
@@ -389,17 +389,17 @@ My research interest includes neural machine translation and computer vision. I 
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">学生培养</h1>
 
 我很荣幸能参与到这些优秀学生的培养过程: 
-- Q. Zhang, Intern Student, KTH Royal Institute of Technology, Sweden (LLMs on multimedia understanding)
-- J. Liang, Intern Student, Huazhong University of Science and Technology (LLMs on multimedia understanding)
-- F. Li, Master Student, Huazhong University of Science and Technology (LLMs on Byte-domain understanding)
-- C. Zhang, Ph.D Student, Huazhong University of Science and Technology (LLMs on signal processing)
-- R. Wang, Ph.D Student, Harbin Engineering University (LLMs on fine-grained recognition)
-- S. Wang, Ph.D Student, Harbin Engineering University (LLMs on anomaly detection)
-<!-- 段落注释 - R. Yan, Undergraduate Student, Xiamen University (LLMs on signal analytics)  -->
-- J. Gao, Ph.D Student, Nanyang Technological University (LLMs on HOI)
-- W. Liu, Ph.D Student, Nanyang Technological University (Gen-AI on image restoration)
-- T. Liu, Ph.D Student, Nanyang Technological University (Gen-AI on image restoration)
-- C. Cai, Ph.D, Shopee, Singapore (LLMs on Open-vocabulary Grounding)
+- Q. Zhang, Intern Student, KTH Royal Institute of Technology, Sweden (LLMs on multimedia understanding)<br>
+- J. Liang, Intern Student, Huazhong University of Science and Technology (LLMs on multimedia understanding)<br>
+- F. Li, Master Student, Huazhong University of Science and Technology (LLMs on Byte-domain understanding)<br>
+- C. Zhang, Ph.D Student, Huazhong University of Science and Technology (LLMs on signal processing)<br>
+- R. Wang, Ph.D Student, Harbin Engineering University (LLMs on fine-grained recognition)<br>
+- S. Wang, Ph.D Student, Harbin Engineering University (LLMs on anomaly detection)<br>
+<!-- 段落注释 - R. Yan, Undergraduate Student, Xiamen University (LLMs on signal analytics)<br>  -->
+- J. Gao, Ph.D Student, Nanyang Technological University (LLMs on HOI)<br>
+- W. Liu, Ph.D Student, Nanyang Technological University (Gen-AI on image restoration)<br>
+- T. Liu, Ph.D Student, Nanyang Technological University (Gen-AI on image restoration)<br>
+- C. Cai, Ph.D, Shopee, Singapore (LLMs on Open-vocabulary Grounding)<br>
 
 </div>
 
@@ -410,17 +410,17 @@ My research interest includes neural machine translation and computer vision. I 
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">Students</h1>
 
 I'm honored to have participated in the supervision of these excellent students: 
-- Q. Zhang, Intern Student, KTH Royal Institute of Technology, Sweden (LLMs on multimedia understanding)
-- J. Liang, Intern Student, Huazhong University of Science and Technology (LLMs on multimedia understanding)
-- F. Li, Master Student, Huazhong University of Science and Technology (LLMs on Byte-domain understanding)
-- C. Zhang, Ph.D Student, Huazhong University of Science and Technology (LLMs on signal processing)
-- R. Wang, Ph.D Student, Harbin Engineering University (LLMs on fine-grained recognition)
-- S. Wang, Ph.D Student, Harbin Engineering University (LLMs on anomaly detection)
-<!-- 段落注释 - R. Yan, Undergraduate Student, Xiamen University (LLMs on signal analytics)  -->
-- J. Gao, Ph.D Student, Nanyang Technological University (LLMs on HOI)
-- W. Liu, Ph.D Student, Nanyang Technological University (Gen-AI on image restoration)
-- T. Liu, Ph.D Student, Nanyang Technological University (Gen-AI on image restoration)
-- C. Cai, Ph.D, Shopee, Singapore (LLMs on Open-vocabulary Grounding)
+- Q. Zhang, Intern Student, KTH Royal Institute of Technology, Sweden (LLMs on multimedia understanding)<br>
+- J. Liang, Intern Student, Huazhong University of Science and Technology (LLMs on multimedia understanding)<br>
+- F. Li, Master Student, Huazhong University of Science and Technology (LLMs on Byte-domain understanding)<br>
+- C. Zhang, Ph.D Student, Huazhong University of Science and Technology (LLMs on signal processing)<br>
+- R. Wang, Ph.D Student, Harbin Engineering University (LLMs on fine-grained recognition)<br>
+- S. Wang, Ph.D Student, Harbin Engineering University (LLMs on anomaly detection)<br>
+<!-- 段落注释 - R. Yan, Undergraduate Student, Xiamen University (LLMs on signal analytics)<br>  -->
+- J. Gao, Ph.D Student, Nanyang Technological University (LLMs on HOI)<br>
+- W. Liu, Ph.D Student, Nanyang Technological University (Gen-AI on image restoration)<br>
+- T. Liu, Ph.D Student, Nanyang Technological University (Gen-AI on image restoration)<br>
+- C. Cai, Ph.D, Shopee, Singapore (LLMs on Open-vocabulary Grounding)<br>
 
  
 </div>
