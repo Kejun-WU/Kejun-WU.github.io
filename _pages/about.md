@@ -109,7 +109,7 @@ He was a visiting Phd student at Nanyang Technological University, Singapore fro
 <!-- 英文块 -->
 <div class="i18n en">
 <span class='anchor' id='about-me'></span>
-<h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">Biography</h1>
+<h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">>Professional Activities</h1>
 
 <div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
   <ul>
