@@ -1,22 +1,29 @@
 # main links links
 main:
-  - title: "Biography"
+  - title_en: "Biography"
+    title_zh: "个人简介"
     url: "/#about-me"
 
-  - title: "Professional Activities"
+  - title_en: "Professional Activities"
+    title_zh: "学术服务"
     url: "/#-professional-activities"
 
-  - title: "News"
+  - title_en: "News"
+    title_zh: "新闻动态"
     url: "/#news"
 
-  - title: "Selected Publications"
+  - title_en: "Selected Publications"
+    title_zh: "精选发表"
     url: "/#publications"
 
-  - title: "Honors Awards"
+  - title_en: "Honors Awards"
+    title_zh: "荣誉奖项"
     url: "/#honors-awards"
 
-  - title: "Educations"
+  - title_en: "Educations"
+    title_zh: "教育经历"
     url: "/#educations"
 
-  - title: "Students"
+  - title_en: "Students"
+    title_zh: "学生培养"
     url: "/#students"
