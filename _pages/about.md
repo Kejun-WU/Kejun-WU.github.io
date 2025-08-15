@@ -19,27 +19,6 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 
-<div class="i18n-block" lang="zh">
-
-## 欢迎来到我的网站
-这里是中文内容示例。  
-- 功能 A：一键切换  
-- 功能 B：记住选择（本地存储）  
-- 使用方式：点击上方“中文 / English”按钮切换
-
-</div>
-
-<div class="i18n-block" lang="en">
-
-## Welcome to my website
-This is the English content.  
-- Feature A: One-click toggle  
-- Feature B: Remembers your choice (local storage)  
-- Use the “中文 / English” buttons above to switch.
-
-</div>
-
-
 
 <span class='anchor' id='about-me'></span>
 # <span style="color:rgb(17,85,160)">Biography</span>
@@ -47,6 +26,18 @@ This is the English content.
 # Biography
 # 👦 Biography 🔊📢📣
 -->
+
+<div class="i18n-block" lang="zh">
+## 欢迎来到我的网站
+这里是中文内容示例。
+</div>
+
+<div class="i18n-block" lang="en">
+## Welcome to my website
+This is the English content.
+</div>
+
+
 
 📢招收2026年入学研究生，欢迎联系。<br>
 
