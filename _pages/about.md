@@ -49,32 +49,6 @@ English bio goes here, experience, publications, etc.
 # 👦 Biography 🔊📢📣
 -->
 
-
-
-<!-- 中文块 -->
-<div class="i18n zh">
-
-# 你好，我是 
-这里放中文简介、经历、论文列表说明等等。
-
-- 研究方向：XXXX
-- 代表论文：XXXX
-
-</div>
-
-<!-- 英文块 -->
-<div class="i18n en">
-
-# Hi, I'm  
-English bio goes here, experience, publications, etc.
-
-- Research interests: XXXX
-- Selected papers: XXXX
-
-</div>
-
-
-
 📢招收2026年入学研究生，欢迎联系。<br>
 
 Dr. Kejun Wu ([Faculty HomePage](http://faculty.hust.edu.cn/WuKejun/en/index.htm)) is currently a Lecturer/Assistant Professor at School of Electronic Information and Communications, Huazhong University of Science and Technology, Wuhan, China. Before that, he worked as a Research Fellow researcher at School of Electrical and Electronic Engineering, Nanyang Technological University (work with Prof. Yap Kim-Hui and [Chau Lap-Pui](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-chau-lap-pui/?sc_lang=en)). 
