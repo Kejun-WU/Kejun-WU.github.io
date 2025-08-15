@@ -31,15 +31,6 @@ redirect_from:
 
 <span class='anchor' id='-professional-activities'></span>
 # <span style="color:rgb(17,85,160)">专业活动</span>
-<!-- 
-# Professional Activities 
-# 📢 Professional Services
---> 
-
-<details> 
-  <summary>
-    <font size=3 color=red>简体中文</font>
-  </summary>
 
 <div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
   <ul>
@@ -60,8 +51,6 @@ redirect_from:
     <li>审稿人：IEEE TMM, IEEE TCSVT, IEEE TBc, Pattern Recognition, Information Fusion, NeurIPS, AAAI, ICASSP, etc. </li>    
   </ul>
 </div>
-
-</details><br> 
 
  
 
