@@ -5,3 +5,22 @@
 /* 可选：高亮当前语言（如果需要）*/
 .lang-zh #lang-zh-link { text-decoration: underline; }
 .lang-en #lang-en-link { text-decoration: underline; }
+
+
+/* 保证导航栏语言切换链接内联显示在一行 */
+.masthead__menu-item--lang {
+  white-space: nowrap;      /* 不换行 */
+  display: flex;            /* 水平排列 */
+  align-items: center;      /* 垂直居中 */
+  gap: 0.25rem;              /* 中文/英文之间间距 */
+}
+
+.masthead__menu-item--lang a {
+  display: inline-block;
+  padding: 0;                /* 去掉多余内边距 */
+}
+
+.masthead__menu-item--lang .masthead__sep {
+  display: inline-block;
+  padding: 0;
+}
