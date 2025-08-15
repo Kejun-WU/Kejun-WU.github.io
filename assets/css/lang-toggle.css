@@ -1,0 +1,7 @@
+/* assets/css/lang-toggle.css */
+.lang-zh .i18n.en { display: none !important; }
+.lang-en .i18n.zh { display: none !important; }
+
+/* 可选：高亮当前语言（如果需要）*/
+.lang-zh #lang-zh-link { text-decoration: underline; }
+.lang-en #lang-en-link { text-decoration: underline; }
