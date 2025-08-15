@@ -18,7 +18,27 @@ redirect_from:
 
 
 
+<!-- 中文块 -->
+<div class="i18n zh">
 
+# 你好，我是 
+这里放中文简介、经历、论文列表说明等等。
+
+- 研究方向：XXXX
+- 代表论文：XXXX
+
+</div>
+
+<!-- 英文块 -->
+<div class="i18n en">
+
+# Hi, I'm 
+English bio goes here, experience, publications, etc.
+
+- Research interests: XXXX
+- Selected papers: XXXX
+
+</div>
 
 
 
@@ -28,6 +48,31 @@ redirect_from:
 # Biography
 # 👦 Biography 🔊📢📣
 -->
+
+
+
+<!-- 中文块 -->
+<div class="i18n zh">
+
+# 你好，我是 
+这里放中文简介、经历、论文列表说明等等。
+
+- 研究方向：XXXX
+- 代表论文：XXXX
+
+</div>
+
+<!-- 英文块 -->
+<div class="i18n en">
+
+# Hi, I'm  
+English bio goes here, experience, publications, etc.
+
+- Research interests: XXXX
+- Selected papers: XXXX
+
+</div>
+
 
 
 📢招收2026年入学研究生，欢迎联系。<br>
