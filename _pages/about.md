@@ -138,10 +138,39 @@ My research interest includes neural machine translation and computer vision. I 
  
 
 
+
+
+
+
+<!--       🔥 News      -->
+
+
 <!-- 中文块 -->
 <div class="i18n zh">
 <span class='anchor' id='news'></span>
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">新闻动态</h1>
+
+<div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
+  <ul>
+    <li>2025.08:&thinsp; 担任 AAAI 2026 大会（新加坡）程序委员会委员</li>  
+    <li>2025.07:&thinsp; 受邀以英语授课于 2025 华中科技大学“Metavers”国际暑期学校 Discover At HUST</li>    
+    <li>2025.07:&thinsp; 2 篇论文被第 33 届 ACM 国际多媒体会议（ACM Multimedia 2025，爱尔兰都柏林）录用</li>
+    <li>2024.06:&thinsp; 基于生成式 AI 的图像修复研究正在 IEEE TPAMI 审稿修改中</li>
+    <li>2025.06:&thinsp; 1 篇论文被 IEEE Transactions on Multimedia 录用（通讯作者）</li>
+    <li>2025.06:&thinsp; 担任国际 AI 生成内容大会（AIGC 2025，杭州）程序委员会委员</li>    
+    <li>2024.12:&thinsp; 1 篇论文被 ACM Transactions on Multimedia Computing, Communications, and Applications 录用（JCR Q1）</li>
+    <li>2024.11:&thinsp; 2 篇论文被 IEEE Transactions on Multimedia 录用（中科院一区 TOP，JCR Q1）</li>
+    <li>2024.08:&thinsp; 1 篇论文被 Computer Vision and Image Understanding 录用（JCR Q1）</li>
+    <li>2024.05:&thinsp; 受聘为 IEEE ISCAS 2024（新加坡）特邀专题主席</li>
+    <li>2024.04:&thinsp; 受聘为 IEEE ICASSP 2024（韩国）特邀专题主席</li>
+    <li>2024.01:&thinsp; 2 篇论文被 Optics Express 和 Optics Letters 录用</li>
+    <li>2023.12:&thinsp; 获中国国际大学生创新大赛全国金奖</li>
+    <li>2023.11:&thinsp; 获中国博士后创新创业大赛全国铜奖</li>
+    <li>2023.10:&thinsp; 获春晖杯中国留学人员创新创业大赛优胜奖</li>
+    <li>2023.09:&thinsp; 受聘为 IEEE MMSP 2023（法国）特邀专题主席</li>
+    <li>2023.09:&thinsp; 1 篇论文被 NeurIPS 2023（美国新奥尔良）录用</li>
+  </ul>
+</div>
 
 
 </div>
@@ -177,37 +206,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 
-
-
-<span class='anchor' id='news'></span>
-# <span style="color:rgb(17,85,160)">News</span>
-<!-- 
-# News 
-[//]: # 🔥 News   
--->
-
-<div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
-  <ul>
-    <li>2025.08:&thinsp; Serve as Program Committee in AAAI 2026 conference, Singapore </li>  
-    <li>2025.07:&thinsp; Invited to lecture (in English) the 2025 Discover At HUST--"Metavers" International Summer School </li>    
-    <li>2025.07:&thinsp; 2 papers are accepted by 33rd ACM International Conference on Multimedia (ACM Multimedia 2025), Dublin, Ireland </li>
-    <li>2024.06:&thinsp; Research on Gen-AI based image restoration is Under Revision at IEEE TPAMI</li>
-    <li>2025.06:&thinsp; 1 paper is accepted by IEEE Transactions on Multimedia (Corresponding Author)</li>
-    <li>2025.06:&thinsp; Serve as Program Committee for International Conference on AI-Generated Content (AIGC 2025), Hangzhou</li>    
-    <li>2024.12:&thinsp; 1 paper is accepted by ACM Transactions on Multim. Comput. Commun. Appl. (JCR Q1)</li>
-    <li>2024.11:&thinsp; 2 papers are accepted by IEEE Transactions on Multimedia (中科院一区TOP，JCR Q1)</li>
-    <li>2024.08:&thinsp; 1 paper is accepted by Computer Vision and Image Understanding(JCR Q1)</li>
-    <li>2024.05:&thinsp; I am appointed as Special Session Chair by IEEE ISCAS 2024, Singapore</li>
-    <li>2024.04:&thinsp; I am appointed as Special Session Chair by IEEE ICASSP 2024, Korea</li>
-    <li>2024.01:&thinsp; 2 papers are accepted by Optics Express and Optics Letters</li>
-    <li>2023.12:&thinsp; I am awarded the 全国金奖 in 中国国际大学生创新大赛</li>
-    <li>2023.11:&thinsp; I am awarded the 全国铜奖 in 中国博士后创新创业大赛</li>
-    <li>2023.10:&thinsp; I am awarded the 优胜奖 in 春晖杯中国留学人员创新创业大赛</li>
-    <li>2023.09:&thinsp; I am appointed as Special Session Chair by IEEE MMSP 2023, France</li>
-    <li>2023.09:&thinsp; 1 paper has been accepted by NeurIPS 2023, New Orleans, USA</li>
-  </ul>
-</div>
-
+ 
 
 
 <span class='anchor' id='publications'></span>
