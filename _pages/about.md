@@ -15,6 +15,77 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+
+
+
+<!-- Language Switcher (Markdown-friendly embed) -->
+<div id="i18n-app" style="margin: 1rem 0;">
+  <button type="button" data-lang="zh" class="lang-btn">中文</button>
+  <button type="button" data-lang="en" class="lang-btn">English</button>
+</div>
+
+<style>
+  .lang-btn {
+    padding: .5rem .9rem; margin-right: .5rem; border: 1px solid #ddd; border-radius: .6rem;
+    background: #fff; cursor: pointer; font: inherit;
+  }
+  .lang-btn.active { border-color: #333; box-shadow: 0 0 0 2px rgba(0,0,0,.05) inset; }
+  .i18n-block[lang]{ display: none; }
+  .i18n-block[lang].show { display: block; }
+  /* 让标题和段落在隐藏/显示时更柔和（可选） */
+  .i18n-block.show { animation: fadeIn .18s ease-in; }
+  @keyframes fadeIn { from {opacity:.4; transform: translateY(2px);} to {opacity:1; transform:none;} }
+</style>
+
+<script>
+(function(){
+  const KEY = 'pref-lang';
+  const $ = (q,root=document)=>root.querySelector(q);
+  const $$ = (q,root=document)=>Array.from(root.querySelectorAll(q));
+  const blocks = $$('.i18n-block[lang]');
+  const btns = $$('#i18n-app .lang-btn');
+  function apply(lang){
+    blocks.forEach(b => b.classList.toggle('show', b.getAttribute('lang') === lang));
+    btns.forEach(b => b.classList.toggle('active', b.dataset.lang === lang));
+    try{ localStorage.setItem(KEY, lang); }catch(e){}
+  }
+  // 初始语言：localStorage > 浏览器语言 > 默认中文
+  const navLang = (navigator.language||'').toLowerCase().startsWith('zh') ? 'zh' : 'en';
+  const saved = (()=>{
+    try{ return localStorage.getItem(KEY); }catch(e){ return null; }
+  })();
+  apply(saved || navLang || 'zh');
+  btns.forEach(b => b.addEventListener('click', () => apply(b.dataset.lang)));
+})();
+</script>
+
+<!-- 下面开始你的正文：同一块内容写两份，分别套上 lang="zh" 与 lang="en" -->
+<div class="i18n-block" lang="zh">
+
+## 欢迎来到我的网站
+这里是中文内容示例。  
+- 功能 A：支持中英切换  
+- 功能 B：记住你的选择（本地存储）  
+- 使用方式：点击上方“中文 / English”按钮切换
+
+</div>
+
+<div class="i18n-block" lang="en">
+
+## Welcome to my website
+This is the English version.  
+- Feature A: bilingual toggle  
+- Feature B: remembers your choice (local storage)  
+- How to use: click the “中文 / English” buttons above
+
+</div>
+
+
+
+
+
+
+
 <span class='anchor' id='about-me'></span>
 # <span style="color:rgb(17,85,160)">Biography</span>
 <!--  
