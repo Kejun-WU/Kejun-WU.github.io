@@ -50,7 +50,7 @@ redirect_from:
 
 <!-- 英文块 -->
 <div class="i18n en">
-<span class='anchor' id='about-me'></span>
+<!-- <span class='anchor' id='about-me'></span> -->
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">Biography</h1>
 
 Dr. Kejun Wu (<a href="http://faculty.hust.edu.cn/WuKejun/en/index.htm" target="_blank">Faculty HomePage</a>) is currently a Lecturer/Assistant Professor at School of Electronic Information and Communications, Huazhong University of Science and Technology, Wuhan, China. Before that, he worked as a Research Fellow researcher at School of Electrical and Electronic Engineering, Nanyang Technological University (work with Prof. Yap Kim-Hui and <a href="http://faculty.hust.edu.cn/WuKejun/en/index.htm" target="_blank">Chau Lap-Pui</a> (IEEE Fellow)). 
@@ -111,7 +111,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 <!-- 英文块 -->
 <div class="i18n en">
-<span class='anchor' id='professional-activities'></span>
+<!-- <span class='anchor' id='professional-activities'></span> -->
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">Professional Activities</h1>
 
 <div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
@@ -178,7 +178,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 <!-- 英文块 -->
 <div class="i18n en">
-<span class='anchor' id='news'></span>
+<!-- <span class='anchor' id='news'></span> -->
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">News</h1>
   
 <div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
@@ -215,7 +215,7 @@ My research interest includes neural machine translation and computer vision. I 
 <!-- 中文块 -->
 <div class="i18n zh">
 <span class='anchor' id='publications'></span>
-<h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">精选发表</h1>
+<h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">论文发表</h1>
 
 <div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
   <ul>
@@ -252,7 +252,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 <!-- 英文块 -->
 <div class="i18n en">
-<span class='anchor' id='publications'></span>
+<!-- <span class='anchor' id='publications'></span> -->
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">Selected Publications</h1>
 
 <div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
@@ -332,7 +332,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 <!-- 英文块 -->
 <div class="i18n en">
-<span class='anchor' id='honors-awards'></span>
+<!-- <span class='anchor' id='honors-awards'></span> -->
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">Honors & Awards</h1>
 
 <li>China International College Students' Innovation Competition (formerly Internet +, Gold Award)</li>
@@ -366,7 +366,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 <!-- 英文块 -->
 <div class="i18n en">
-<span class='anchor' id='educations'></span>
+<!-- <span class='anchor' id='educations'></span> -->
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">Educations</h1>
 
 <li>Exchange Ph.D Student, School of Electrical and Electronic Engineering, Nanyang Technological University</li>
@@ -407,7 +407,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 <!-- 英文块 -->
 <div class="i18n en">
-<span class='anchor' id='students'></span>
+<!-- <span class='anchor' id='students'></span> -->
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">Students</h1>
 
 I'm honored to have participated in the supervision of these excellent students: 
