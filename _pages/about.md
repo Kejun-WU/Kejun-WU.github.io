@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "11111"
+title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
