@@ -28,7 +28,7 @@
 
 /* 统一头部与正文容器的宽度与左右内边距 */
 .masthead__inner-wrap {
-  max-width: 1200px;      /* 按正文最大宽度设置（1100/1200/1280 可调） */
+  max-width: 1400px;      /* 按正文最大宽度设置（1100/1200/1280 可调） */
   margin: 0 auto;         /* 居中 */
   padding-left: 2rem;     /* 与正文相同的左右内边距 */
   padding-right: 2rem;
