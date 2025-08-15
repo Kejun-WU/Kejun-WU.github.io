@@ -18,6 +18,14 @@ redirect_from:
 
 
 
+<span class='anchor' id='about-me'></span>
+# <span style="color:rgb(17,85,160)">Biography</span>
+<!--  
+# Biography
+# 👦 Biography 🔊📢📣
+-->
+
+
 <!-- 中文块 -->
 <div class="i18n zh">
 
@@ -40,14 +48,6 @@ English bio goes here, experience, publications, etc.
 
 </div>
 
-
-
-<span class='anchor' id='about-me'></span>
-# <span style="color:rgb(17,85,160)">Biography</span>
-<!--  
-# Biography
-# 👦 Biography 🔊📢📣
--->
 
 📢招收2026年入学研究生，欢迎联系。<br>
 
