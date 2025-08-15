@@ -24,3 +24,16 @@
   display: inline-block;
   padding: 0;
 }
+
+/* 放宽导航容器的最大宽度 */
+.masthead__inner-wrap {
+  max-width: 1280px;   /* 或 1400px/1600px，按你菜单长度调 */
+}
+
+/* 让菜单更“省位”一些 */
+.greedy-nav .visible-links > li > a {
+  padding-left: .6rem;
+  padding-right: .6rem;
+  white-space: nowrap;  /* 禁止断行，避免两行占高 */
+  font-size: 0.95rem;   /* 如需再紧凑可降到 0.9rem */
+}
