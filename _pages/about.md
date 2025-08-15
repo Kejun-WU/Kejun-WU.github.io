@@ -33,6 +33,10 @@ redirect_from:
 📢招收2026年入学研究生，欢迎联系。<br>
 
 
+
+
+
+<!-- 👦🔊📢📣 Biography --> 
 <!-- 中文块 -->
 <div class="i18n zh">
 <span class='anchor' id='about-me'></span>
@@ -52,11 +56,9 @@ redirect_from:
 Dr. Kejun Wu ([Faculty HomePage](http://faculty.hust.edu.cn/WuKejun/en/index.htm)) is currently a Lecturer/Assistant Professor at School of Electronic Information and Communications, Huazhong University of Science and Technology, Wuhan, China. Before that, he worked as a Research Fellow researcher at School of Electrical and Electronic Engineering, Nanyang Technological University (work with Prof. Yap Kim-Hui and [Chau Lap-Pui](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-chau-lap-pui/?sc_lang=en)). 
 He obtained his Ph.D. degree from Huazhong University of Science and Technology (supervised by You Yang), Master degree from Harbin Engineering University (supervised by [Chengtao Cai](http://cisse.hrbeu.edu.cn/info/1088/3385.htm)), and Bachelor degree from Shanghai University.
 His research interest includes Multimodal Large Language Models, Generative AI, High-dimensional Vision, and Learned Video Compression. He has over 50 publications in top-tier venues in the past 5 years. He is a Technical Committee Affiliate of IEEE SPS IVMSP and IEEE SPS MMSP.
-He serves as an Associate Editor / Editorial Board Member / Executive Guest Editor of IEEE OJSP, ASOC, JVCI, and JRTIP, etc., an Area Chair / Session Chair / Program Committee in AAAI 2026, AIGC 2025, IJCNN 2025, IEEE ICASSP 2024,ISCAS 2024, and MMSP2023. He is an IEEE Senior Member.
-
+He serves as an Associate Editor / Editorial Board Member / Executive Guest Editor of IEEE OJSP, ASOC, JVCI, and JRTIP, etc., an Area Chair / Session Chair / Program Committee in AAAI 2026, AIGC 2025, IJCNN 2025, IEEE ICASSP 2024,ISCAS 2024, and MMSP2023. He is an IEEE Senior Member.<br>
 🚀 &nbsp; Recruiting intern/ visiting/ Master students interested in the aforementioned research areas. On-site, remote, or hybrid interning/learning are welcome, Computing resources and allowance provided.
 <!--  Contact via <kjwu@hust.edu.cn>  -->
-
 
 </div>
 
@@ -71,16 +73,17 @@ His research interest includes Multimodal Large Language Models, Generative Sign
 
 Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communications, Huazhong University of Science and Technology, Wuhan, China. He obtained his Ph.D. degree from Huazhong University of Science and Technology supervised by You Yang (杨铀), and Master degree from Harbin Engineering University supervised by Chengtao Cai (蔡成涛).
 He was a visiting Phd student at Nanyang Technological University, Singapore from 2021 to 2022 supervised by Prof. Chau Lap-Pui (周立培). From 2022 to 2024, Dr. Wu worked as a Research Fellow researcher at the School of Electrical and Electronic Engineering, Nanyang Technological University (work with Prof. Yap Kim-Hui and Chau Lap-Pui). His research interests include Generative AI, Large Language Models and their applications. He has published over 40 papers at top venues including IEEE TPAMI / TMM / TCSVT, NeurIPS, ACM MM, etc. His research achievements have significant academic impact and was rewarded the National Postdoctoral Innovation and Entrepreneurship Competition (ranked first), “Chunhui Cup” Innovation and Entrepreneurship Competition for Chinese Overseas Students (ranked first), China International College Students’ Innovation Competition and other awards. He has taught the undergraduate students of Oxford University computational photography internship course in 2022 and received Letter of Appreciation from Oxford University; He was granted the Silver Award in the IET Excellence and Innovation Awards and IET Impact in Society Awards Shortlist by IET (Institute of Engineering and Technology); He has served as Young Researcher of the Decision-making Consulting Expert Team of the China Association for Science and Technology. He has served as Session Chairs/Organizers in international conferences IEEE ICASSP 2024, IEEE ISCAS 2024, IEEE MMSP 2023, Associate Editor in MTAP journal, and Lead Guest Editor in JVCI (Journal of Visual Communication and Image Representation). He is an IEEE Senior Member.
+
+My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
 
-[//]: My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 
-
+<!-- # 📢 Professional Services --> 
 <!-- 中文块 -->
 <div class="i18n zh">
-<span class='anchor' id='about-me'></span>
+<span class='anchor' id='professional-activities'></span>
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">学术服务</h1>
 
 <div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
@@ -108,8 +111,8 @@ He was a visiting Phd student at Nanyang Technological University, Singapore fro
 
 <!-- 英文块 -->
 <div class="i18n en">
-<span class='anchor' id='about-me'></span>
-<h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">>Professional Activities</h1>
+<span class='anchor' id='professional-activities'></span>
+<h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">Professional Activities</h1>
 
 <div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
   <ul>
@@ -132,75 +135,13 @@ He was a visiting Phd student at Nanyang Technological University, Singapore fro
 </div>  
 
 </div>
-
-
-
-<span class='anchor' id='-professional-activities'></span>
-# <span style="color:rgb(17,85,160)">Professional Activities</span>
-<!-- 
-# Professional Activities 
-# 📢 Professional Services
---> 
-
-<div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
-  <ul>
-    <li>Editorial Board, Applied Soft Computing </li>  
-    <li>Associate Editor, IEEE Open Journal of Signal Processing </li>  
-    <li>Lead Guest Editor, Journal of Real-Time Image Processing </li>  
-    <li>Lead Guest Editor, Journal of Visual Communication and Image Representation </li>  
-    <li>Program Committee, AAAI 2026, Singapore </li>  
-    <li>Program Committee, AIGC 2025, Hangzhou, China </li>
-    <li>Area Chair, IJCNN 2025, Italy </li>  
-    <li>Session Chair, IEEE ISCAS 2024, Singapore </li>  
-    <li>Session Chair, IEEE ICASSP 2024, Korea </li>
-    <li>Session Chair, IEEE MMSP 2023, France </li>  
-    <li>Member, 应急态势感知与应急通信技术决策咨询专家团队, 中国科协 </li>
-    <li>Experts, UWA Technical Planning Expert Group, UHD World Association (UWA, 世界超高清视频产业联盟) </li>  
-    <li>Technical Committee Affiliate, Image, Video, and Multidimensional Signal Processing (IVMSP), IEEE Signal Processing Society (SPS) </li>
-    <li>Technical Committee Affiliate, Multimedia Signal Processing (MMSP), IEEE SPS </li>  
-    <li>Reviewer of IEEE TMM, IEEE TCSVT, IEEE TBc, Pattern Recognition, Information Fusion, NeurIPS, AAAI, ICASSP, etc. </li>  
-  </ul>
-</div>  
-
-
-<details> 
-  <summary>
-    <font size=3 color=red>简体中文</font>
-  </summary>
-
-<div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
-  <ul>
-    <li>编委, 国际期刊Applied Soft Computing (JCR Q1区) </li>  
-    <li>副主编, 国际期刊IEEE Open Journal of Signal Processing </li>  
-    <li>客座编辑, 国际期刊Journal of Real-Time Image Processing (JCR Q2区) </li>  
-    <li>客座编辑, 国际期刊Journal of Visual Communication and Image Representation (JCR Q2区) </li>  
-    <li>程序委员会, 国际会议AAAI 2026, 新加坡 </li>  
-    <li>程序委员会, 国际会议AIGC 2025, 杭州 </li>
-    <li>领域主席, 国际会议IJCNN 2025, 意大利 </li>  
-    <li>专题主席, 国际会议ISCAS 2024, 新加坡 </li>  
-    <li>专题主席, 国际会议ICASSP 2024, 韩国 </li>
-    <li>专题主席, 国际会议MMSP2023, 法国 </li>  
-    <li>应急态势感知与应急通信技术决策咨询专家团队成员, 中国科协 </li>
-    <li>UWA技术规划组专家, 世界超高清视频产业联盟UWA </li>  
-    <li>Technical Committee Affiliate, Image, Video, and Multidimensional Signal Processing (IVMSP), IEEE 信号处理学会 </li>
-    <li>Technical Committee Affiliate, Multimedia Signal Processing (MMSP), IEEE 信号处理学会 </li>  
-    <li>审稿人：IEEE TMM, IEEE TCSVT, IEEE TBc, Pattern Recognition, Information Fusion, NeurIPS, AAAI, ICASSP, etc. </li>    
-  </ul>
-</div>
-
-</details><br> 
-
-
-
-
-
-
+ 
 
 
 <!-- 中文块 -->
 <div class="i18n zh">
-<span class='anchor' id='about-me'></span>
-<h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">个人简介</h1>
+<span class='anchor' id='news'></span>
+<h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">新闻动态</h1>
 
 
 </div>
@@ -208,9 +149,30 @@ He was a visiting Phd student at Nanyang Technological University, Singapore fro
 
 <!-- 英文块 -->
 <div class="i18n en">
-<span class='anchor' id='about-me'></span>
-<h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">Biography</h1>
-
+<span class='anchor' id='news'></span>
+<h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">News</h1>
+  
+<div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
+  <ul>
+    <li>2025.08:&thinsp; Serve as Program Committee in AAAI 2026 conference, Singapore </li>  
+    <li>2025.07:&thinsp; Invited to lecture (in English) the 2025 Discover At HUST--"Metavers" International Summer School </li>    
+    <li>2025.07:&thinsp; 2 papers are accepted by 33rd ACM International Conference on Multimedia (ACM Multimedia 2025), Dublin, Ireland </li>
+    <li>2024.06:&thinsp; Research on Gen-AI based image restoration is Under Revision at IEEE TPAMI</li>
+    <li>2025.06:&thinsp; 1 paper is accepted by IEEE Transactions on Multimedia (Corresponding Author)</li>
+    <li>2025.06:&thinsp; Serve as Program Committee for International Conference on AI-Generated Content (AIGC 2025), Hangzhou</li>    
+    <li>2024.12:&thinsp; 1 paper is accepted by ACM Transactions on Multim. Comput. Commun. Appl. (JCR Q1)</li>
+    <li>2024.11:&thinsp; 2 papers are accepted by IEEE Transactions on Multimedia (中科院一区TOP，JCR Q1)</li>
+    <li>2024.08:&thinsp; 1 paper is accepted by Computer Vision and Image Understanding(JCR Q1)</li>
+    <li>2024.05:&thinsp; I am appointed as Special Session Chair by IEEE ISCAS 2024, Singapore</li>
+    <li>2024.04:&thinsp; I am appointed as Special Session Chair by IEEE ICASSP 2024, Korea</li>
+    <li>2024.01:&thinsp; 2 papers are accepted by Optics Express and Optics Letters</li>
+    <li>2023.12:&thinsp; I am awarded the 全国金奖 in 中国国际大学生创新大赛</li>
+    <li>2023.11:&thinsp; I am awarded the 全国铜奖 in 中国博士后创新创业大赛</li>
+    <li>2023.10:&thinsp; I am awarded the 优胜奖 in 春晖杯中国留学人员创新创业大赛</li>
+    <li>2023.09:&thinsp; I am appointed as Special Session Chair by IEEE MMSP 2023, France</li>
+    <li>2023.09:&thinsp; 1 paper has been accepted by NeurIPS 2023, New Orleans, USA</li>
+  </ul>
+</div>
 
 </div>
 
