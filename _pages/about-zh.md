@@ -23,34 +23,11 @@ redirect_from:
 -->
 
 吴科君，博士，IEEE高级会员，现任华中科技大学电子信息与通信学院讲师/助理教授。在此之前，他在新加坡南洋理工大学电气电子工程学院从事博士后研究（与Yap Kim-Hui、周立培(IEEE Fellow)教授）。他获得了华中科技大学博士学位（导师 杨铀 教授）、哈尔滨工程大学硕士学位（导师 蔡成涛 教授）和上海大学学士学位。他的研究兴趣包括多模态大模型、生成式人工智能、高维视觉和视频压缩与理解等，近5年在IEEE T-MM、IEEE T-CSVT、NeurIPS、ACM Multimedia等高水平期刊、会议发表论文50余篇。他担任IEEE OJSP、ASOC、JRTIP、JVCI等权威期刊的副主编/编委/客座编辑等，并在国际会议AAAI 2026、AIGC 2025、IJCNN 2025、IEEE ICASSP2024、ISCAS2024和MMSP2023中担任程序委员会/领域主席/专题主席等。<br>
+ 
 
+🚀 &nbsp; 招收兴趣从事以上研究领域的实习生/访问学生/研究生, 欢迎线下或远程实习/学习，提供计算资源和津贴。
 
-
-🚀 &nbsp; Recruiting intern/ visiting/ Master students interested in MLLM and Gen-AI. Flexible remote learning is welcome. 
-<!--  Contact via <kjwu@hust.edu.cn> 
--->
-
-🚀 &nbsp; 招收兴趣从事多模态大模型、生成式AI、高维视觉研究的实习生/ 访问学生/ 研究生, 欢迎线下或远程学习.
-
-<!-- 普通版
-Dr. Kejun Wu ([Faculty HomePage](http://faculty.hust.edu.cn/WuKejun/en/index.htm)) is currently a Lecturer/Assistant Professor at School of Electronic Information and Communications, Huazhong University of Science and Technology, Wuhan, China. Before that, he worked as a Research Fellow researcher from 2022 to 2024 at School of Electrical and Electronic Engineering, Nanyang Technological University (work with Prof. Yap Kim-Hui and Chau Lap-Pui周立培). 
-He obtained his Ph.D. degree from Huazhong University of Science and Technology supervised by You Yang (杨铀), Master degree from Harbin Engineering University supervised by Chengtao Cai (蔡成涛), and Bachelor degree from Shanghai University.
-His research interest includes Multimodal Large Language Models, Generative Signal/Image Processing, and High-dimensional Vision, Learned Video Compression. He has published more than 40 papers in the past 3 years. He serves as an Associate Editor / Editorial Board Member / Executive Guest Editor of ASOC, OJSP, JVCI, and JRTIP, etc., an Area Chair / Session Chair / Program Committee Member in IJCNN 2025, AIGC 2025, IEEE ICASSP2024, ISCAS2024, and MMSP2023. He is an IEEE Senior Member.
--->
-
-<!-- 详细版
-Dr. Kejun Wu is a Lecturer at the School of Electronic Information and Communications, Huazhong University of Science and Technology, Wuhan, China. He obtained his Ph.D. degree from Huazhong University of Science and Technology supervised by You Yang (杨铀), and Master degree from Harbin Engineering University supervised by Chengtao Cai (蔡成涛).
-He was a visiting Phd student at Nanyang Technological University, Singapore from 2021 to 2022 supervised by Prof. Chau Lap-Pui (周立培). From 2022 to 2024, Dr. Wu worked as a Research Fellow researcher at the School of Electrical and Electronic Engineering, Nanyang Technological University (work with Prof. Yap Kim-Hui and Chau Lap-Pui). His research interests include Generative AI, Large Language Models and their applications. He has published over 40 papers at top venues including IEEE TPAMI / TMM / TCSVT, NeurIPS, ACM MM, etc. His research achievements have significant academic impact and was rewarded the National Postdoctoral Innovation and Entrepreneurship Competition (ranked first), “Chunhui Cup” Innovation and Entrepreneurship Competition for Chinese Overseas Students (ranked first), China International College Students’ Innovation Competition and other awards. He has taught the undergraduate students of Oxford University computational photography internship course in 2022 and received Letter of Appreciation from Oxford University; He was granted the Silver Award in the IET Excellence and Innovation Awards and IET Impact in Society Awards Shortlist by IET (Institute of Engineering and Technology); He has served as Young Researcher of the Decision-making Consulting Expert Team of the China Association for Science and Technology. He has served as Session Chairs/Organizers in international conferences IEEE ICASSP 2024, IEEE ISCAS 2024, IEEE MMSP 2023, Associate Editor in MTAP journal, and Lead Guest Editor in JVCI (Journal of Visual Communication and Image Representation). He is an IEEE Senior Member.
--->
-
-[//]: My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
-<!-- 段落注释 -->
-[//]: 段落注释
-<!-- 文字颜色$\color{RoyalBlue} {Editorial Board}$  RoyalBlue, DarkBlue, Navy-->
-<!-- 文字颜色<font color=lightgrey>Editorial Board</font> -->
-<!--  文字颜色 <font color=Blue>Editorial Board</font>  <font color=Tomato>accepted</font> -->
-<!--  <span style="color:rgb(17,85,160)">Professional Activities</span> -->
+ 
 
 <span class='anchor' id='-professional-activities'></span>
 # <span style="color:rgb(17,85,160)">专业活动</span>
@@ -59,43 +36,34 @@ He was a visiting Phd student at Nanyang Technological University, Singapore fro
 # 📢 Professional Services
 --> 
 
+<details> 
+  <summary>
+    <font size=3 color=red>简体中文</font>
+  </summary>
+
 <div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
   <ul>
-    <li>Editorial Board, Applied Soft Computing </li>  
-    <li>Associate Editor, IEEE Open Journal of Signal Processing </li>  
-    <li>Lead Guest Editor, Journal of Real-Time Image Processing </li>  
-    <li>Lead Guest Editor, Journal of Visual Communication and Image Representation </li>  
-    <li>Program Committee, AAAI 2026, Singapore </li>  
-    <li>Program Committee, AIGC 2025, Hangzhou, China </li>
-    <li>Area Chair, IJCNN 2025, Italy </li>  
-    <li>Session Chair, IEEE ISCAS 2024, Singapore </li>  
-    <li>Session Chair, IEEE ICASSP 2024, Korea </li>
-    <li>Session Chair, IEEE MMSP 2023, France </li>  
-    <li>Member, 应急态势感知与应急通信技术决策咨询专家团队, 中国科协 </li>
-    <li>Experts, UWA Technical Planning Expert Group, UHD World Association (UWA, 世界超高清视频产业联盟) </li>  
-    <li>Technical Committee Affiliate, Image, Video, and Multidimensional Signal Processing (IVMSP), IEEE Signal Processing Society (SPS) </li>
-    <li>Technical Committee Affiliate, Multimedia Signal Processing (MMSP), IEEE SPS </li>  
-    <li>Reviewer of IEEE TMM, IEEE TCSVT, IEEE TBc, Pattern Recognition, Information Fusion, NeurIPS, AAAI, ICASSP, etc. </li>    
+    <li>编委, 国际期刊Applied Soft Computing (JCR Q1区) </li>  
+    <li>副主编, 国际期刊IEEE Open Journal of Signal Processing </li>  
+    <li>客座编辑, 国际期刊Journal of Real-Time Image Processing (JCR Q2区) </li>  
+    <li>客座编辑, 国际期刊Journal of Visual Communication and Image Representation (JCR Q2区) </li>  
+    <li>程序委员会, 国际会议AAAI 2026, 新加坡 </li>  
+    <li>程序委员会, 国际会议AIGC 2025, 杭州 </li>
+    <li>领域主席, 国际会议IJCNN 2025, 意大利 </li>  
+    <li>专题主席, 国际会议ISCAS 2024, 新加坡 </li>  
+    <li>专题主席, 国际会议ICASSP 2024, 韩国 </li>
+    <li>专题主席, 国际会议MMSP2023, 法国 </li>  
+    <li>应急态势感知与应急通信技术决策咨询专家团队成员, 中国科协 </li>
+    <li>UWA技术规划组专家, 世界超高清视频产业联盟UWA </li>  
+    <li>Technical Committee Affiliate, Image, Video, and Multidimensional Signal Processing (IVMSP), IEEE 信号处理学会 </li>
+    <li>Technical Committee Affiliate, Multimedia Signal Processing (MMSP), IEEE 信号处理学会 </li>  
+    <li>审稿人：IEEE TMM, IEEE TCSVT, IEEE TBc, Pattern Recognition, Information Fusion, NeurIPS, AAAI, ICASSP, etc. </li>    
   </ul>
 </div>
 
-<!-- 
-- Editorial Board, Applied Soft Computing
-- Associate Editor, IEEE Open Journal of Signal Processing
-- Lead Guest Editor, Journal of Real-Time Image Processing
-- Lead Guest Editor, Journal of Visual Communication and Image Representation
-- Program Committee, AAAI 2026, Singapore
-- Program Committee, AIGC 2025, Hangzhou, China
-- Area Chair, IJCNN 2025, Italy
-- Session Chair, IEEE ISCAS 2024, Singapore
-- Session Chair, IEEE ICASSP 2024, Korea
-- Session Chair, IEEE MMSP 2023, France
-- Member, 应急态势感知与应急通信技术决策咨询专家团队, 中国科协
-- Experts, UWA Technical Planning Expert Group, UHD World Association (UWA, 世界超高清视频产业联盟)
-- Technical Committee Affiliate, Image, Video, and Multidimensional Signal Processing (IVMSP), IEEE Signal Processing Society (SPS)
-- Technical Committee Affiliate, Multimedia Signal Processing (MMSP), IEEE SPS
-- Reviewer of IEEE TMM, IEEE TCSVT, IEEE TBc, Pattern Recognition, Information Fusion, NeurIPS, AAAI, ICASSP, etc.
--->
+</details><br> 
+
+ 
 
 <span class='anchor' id='news'></span>
 # <span style="color:rgb(17,85,160)">News</span>
