@@ -23,6 +23,42 @@ redirect_from:
 # 👦 Biography 🔊📢📣
 -->
 
+
+<!-- 页面开头可以放个只在中文显示的提示条 -->
+<div data-lang="zh">
+> 当前为 **中文** 版本。点击右上角 **English** 查看英文版。
+</div>
+<div data-lang="en">
+> You are viewing the **English** version. Click **中文** in the top bar for Chinese.
+</div>
+
+<div data-lang="zh">
+
+## 教育背景
+- 2019–2023 本科，某某大学，计算机科学  
+- 2023–至今 博士，某某大学，人工智能
+
+## 发表论文
+- 中文论文 A …
+- 中文论文 B …
+
+</div>
+
+<div data-lang="en">
+
+## Education
+- 2019–2023 B.Sc., University X, Computer Science  
+- 2023–Present Ph.D., University Y, Artificial Intelligence
+
+## Publications
+- Paper A …
+- Paper B …
+
+</div>
+
+
+
+
 📢招收2026年入学研究生，欢迎联系。<br>
 
 Dr. Kejun Wu ([Faculty HomePage](http://faculty.hust.edu.cn/WuKejun/en/index.htm)) is currently a Lecturer/Assistant Professor at School of Electronic Information and Communications, Huazhong University of Science and Technology, Wuhan, China. Before that, he worked as a Research Fellow researcher at School of Electrical and Electronic Engineering, Nanyang Technological University (work with Prof. Yap Kim-Hui and [Chau Lap-Pui](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-chau-lap-pui/?sc_lang=en)). 
