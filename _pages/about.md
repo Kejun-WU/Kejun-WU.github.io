@@ -38,12 +38,13 @@ redirect_from:
 
 
 <!--    👦🔊📢📣 Biography      --> 
+
+<span class='anchor' id='about-me'></span>
 <!-- 中文块 -->
 <div class="i18n zh">
-<span class='anchor' id='about-me'></span>
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">个人简介</h1>
 
-吴科君(<a href="http://faculty.hust.edu.cn/WuKejun/en/index.htm" target="_blank">教师主页</a>) ，博士，IEEE高级会员，于2024年加入华中科技大学电子信息与通信学院任讲师/助理教授。在此之前，他于新加坡南洋理工大学电气电子工程学院从事博士后研究（与Yap Kim-Hui、<a href="http://faculty.hust.edu.cn/WuKejun/en/index.htm" target="_blank">周立培</a>教授 (IEEE Fellow)）。他获得了华中科技大学博士学位（导师 杨铀 教授）、哈尔滨工程大学硕士学位（导师 <a href="http://cisse.hrbeu.edu.cn/info/1088/3385.htm" target="_blank">蔡成涛</a> 教授）以及上海大学学士学位。他的研究兴趣主要包括多模态大模型、生成式人工智能、高维视觉和视频压缩与理解等领域，近5年在IEEE T-MM、IEEE T-CSVT、NeurIPS、ACM Multimedia等高水平期刊、会议发表论文50余篇。担任IEEE OJSP、ASOC、JRTIP、JVCI等权威期刊的副主编/编委/客座编辑等，并在国际会议AAAI 2026、AIGC 2025、IJCNN 2025、IEEE ICASSP2024、ISCAS2024和MMSP2023中担任程序委员会/领域主席/专题主席等。<br>
+吴科君 (<a href="http://faculty.hust.edu.cn/WuKejun/en/index.htm" target="_blank">教师主页</a>) ，博士，IEEE高级会员，于2024年加入华中科技大学电子信息与通信学院任讲师/助理教授。在此之前，他于新加坡南洋理工大学电气电子工程学院从事博士后研究（与Yap Kim-Hui、<a href="http://faculty.hust.edu.cn/WuKejun/en/index.htm" target="_blank">周立培</a>教授 (IEEE Fellow)）。他获得了华中科技大学博士学位（导师 杨铀 教授）、哈尔滨工程大学硕士学位（导师 <a href="http://cisse.hrbeu.edu.cn/info/1088/3385.htm" target="_blank">蔡成涛</a> 教授）以及上海大学学士学位。他的研究兴趣主要包括多模态大模型、生成式人工智能、高维视觉及视频压缩与理解等领域，近5年在IEEE T-MM、IEEE T-CSVT、NeurIPS、ACM Multimedia等高水平期刊、会议发表论文50余篇。担任IEEE OJSP、ASOC、JRTIP、JVCI等权威期刊的副主编/编委/客座编辑等，并在国际会议AAAI 2026、AIGC 2025、IJCNN 2025、IEEE ICASSP2024、ISCAS2024及MMSP2023中担任程序委员会/领域主席/专题主席等。<br>
 🚀 &nbsp; 招收兴趣从事以上研究领域的实习生/访问学生/研究生, 欢迎线下或远程实习/学习，提供计算资源和津贴。
 
 </div>
@@ -81,10 +82,12 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 
+
 <!--        📢 Professional Services     --> 
+
+<span class='anchor' id='professional-activities'></span>
 <!-- 中文块 -->
 <div class="i18n zh">
-<span class='anchor' id='professional-activities'></span>
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">学术服务</h1>
 
 <div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
@@ -146,9 +149,9 @@ My research interest includes neural machine translation and computer vision. I 
 <!--       🔥 News      -->
 
 
+<span class='anchor' id='news'></span>
 <!-- 中文块 -->
 <div class="i18n zh">
-<span class='anchor' id='news'></span>
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">新闻动态</h1>
 
 <div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
@@ -179,7 +182,6 @@ My research interest includes neural machine translation and computer vision. I 
 
 <!-- 英文块 -->
 <div class="i18n en">
-<!-- <span class='anchor' id='news'></span> -->
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">News</h1>
   
 <div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
@@ -213,9 +215,9 @@ My research interest includes neural machine translation and computer vision. I 
 
 <!--     # Selected Publications 📝     -->
 
+<span class='anchor' id='publications'></span>
 <!-- 中文块 -->
 <div class="i18n zh">
-<span class='anchor' id='publications'></span>
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">论文发表</h1>
 
 <div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
@@ -253,9 +255,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 <!-- 英文块 -->
 <div class="i18n en">
-<!-- <span class='anchor' id='publications'></span> -->
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">Selected Publications</h1>
-
 <div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
   <ul>
     
@@ -315,9 +315,9 @@ My research interest includes neural machine translation and computer vision. I 
 
 <!--    # 🏆 Honors & Awards   -->
 
+<span class='anchor' id='honors-awards'></span>
 <!-- 中文块 -->
 <div class="i18n zh">
-<span class='anchor' id='honors-awards'></span>
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">荣誉奖项</h1>
 
 <li>春晖杯中国留学人员创新创业大赛优胜奖（排一，教育部）</li>
@@ -333,7 +333,6 @@ My research interest includes neural machine translation and computer vision. I 
 
 <!-- 英文块 -->
 <div class="i18n en">
-<!-- <span class='anchor' id='honors-awards'></span> -->
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">Honors & Awards</h1>
 
 <li>China International College Students' Innovation Competition (formerly Internet +, Gold Award)</li>
@@ -352,9 +351,9 @@ My research interest includes neural machine translation and computer vision. I 
 
 <!--     # Educations 📖     -->
 
+<span class='anchor' id='educations'></span>
 <!-- 中文块 -->
 <div class="i18n zh">
-<span class='anchor' id='educations'></span>
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">教育经历</h1>
 
 <li>联合培养博士研究生，新加坡南洋理工大学电气与电子工程学院</li>
@@ -367,7 +366,6 @@ My research interest includes neural machine translation and computer vision. I 
 
 <!-- 英文块 -->
 <div class="i18n en">
-<!-- <span class='anchor' id='educations'></span> -->
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">Educations</h1>
 
 <li>Exchange Ph.D Student, School of Electrical and Electronic Engineering, Nanyang Technological University</li>
@@ -384,9 +382,9 @@ My research interest includes neural machine translation and computer vision. I 
 
 <!--    # Students   -->
 
+<span class='anchor' id='students'></span>
 <!-- 中文块 -->
 <div class="i18n zh">
-<span class='anchor' id='students'></span>
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">学生培养</h1>
 
 我很荣幸能参与到这些优秀学生的培养过程: 
@@ -408,7 +406,6 @@ My research interest includes neural machine translation and computer vision. I 
 
 <!-- 英文块 -->
 <div class="i18n en">
-<!-- <span class='anchor' id='students'></span> -->
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">Students</h1>
 
 I'm honored to have participated in the supervision of these excellent students: 
