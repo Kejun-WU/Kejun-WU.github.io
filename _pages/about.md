@@ -161,7 +161,7 @@ My research interest includes neural machine translation and computer vision. I 
     <li>2025.08:&thinsp; 担任 AAAI 2026 大会程序委员会委员（CCF-A），新加坡</li>  
     <li>2025.07:&thinsp; 受邀在2025 Discover At HUST Metavers国际暑期学校英语授课</li>    
     <li>2025.07:&thinsp; 2 篇论文被ACM Multimedia 2025录用（CCF-A），爱尔兰</li>
-    <li>2024.06:&thinsp; 基于生成式 AI 的图像修复研究正在 IEEE TPAMI （CCF-A） 返修中</li>
+    <li>2025.06:&thinsp; 基于生成式 AI 的图像修复研究正在 IEEE TPAMI （CCF-A） 返修中</li>
     <li>2025.06:&thinsp; 1 篇论文被 IEEE Transactions on Multimedia 录用</li>
     <li>2025.06:&thinsp; 担任AIGC 2025国际会议程序委员会委员，杭州</li>    
     <li>2024.12:&thinsp; 1 篇论文被 ACM Transactions on Multimedia Computing, Communications, and Applications 录用（JCR Q1）</li>
