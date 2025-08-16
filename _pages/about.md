@@ -421,8 +421,7 @@ I'm honored to have participated in the supervision of these excellent students:
 <li>J. Gao, Ph.D Student, Nanyang Technological University (LLMs on HOI)</li>
 <li>W. Liu, Ph.D Student, Nanyang Technological University (Gen-AI on image restoration)</li>
 <li>T. Liu, Ph.D Student, Nanyang Technological University (Gen-AI on image restoration)</li>
-<!-- 段落注释 <li>C. Cai, Ph.D, Shopee, Singapore (LLMs on Open-vocabulary Grounding)</li>
-R. Yan, Undergraduate Student, Xiamen University (LLMs on signal analytics)</li>  -->
+<!-- 段落注释 <li>C. Cai, Ph.D, Shopee, Singapore (LLMs on Open-vocabulary Grounding)</li> R. Yan, Undergraduate Student, Xiamen University (LLMs on signal analytics)</li>  -->
  
 </div>
 
