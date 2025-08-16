@@ -39,6 +39,6 @@
   padding-left: .5rem;        /* 原 .6rem -> .45rem */
   padding-right: .5rem;
   white-space: nowrap;
-  font-size: 0.8rem;          /* 原 0.95rem -> 0.94rem，必要时可降到 0.92rem */
+  font-size: 1.2rem;          /* 原 0.95rem -> 0.94rem，必要时可降到 0.92rem */
 }
 
