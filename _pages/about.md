@@ -30,7 +30,7 @@ redirect_from:
 
 
 <!-- 中英全局有效 
-📢招收2026年入学研究生，欢迎联系。<br>  -->
+📢 &nbsp; 招收2026年入学研究生，欢迎联系。<br>  -->
 
 <h1 style="color:#1155A0; font-size:1.2em; font-weight:bold;">📢招收2026年入学研究生，欢迎联系。</h1>
 
@@ -156,23 +156,23 @@ My research interest includes neural machine translation and computer vision. I 
 
 <div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
   <ul>
-    <li>2025.08:&thinsp; 担任 AAAI 2026 大会（新加坡）程序委员会委员</li>  
-    <li>2025.07:&thinsp; 受邀以英语授课于 2025 华中科技大学“Metavers”国际暑期学校 Discover At HUST</li>    
-    <li>2025.07:&thinsp; 2 篇论文被第 33 届 ACM 国际多媒体会议（ACM Multimedia 2025，爱尔兰都柏林）录用</li>
-    <li>2024.06:&thinsp; 基于生成式 AI 的图像修复研究正在 IEEE TPAMI 审稿修改中</li>
-    <li>2025.06:&thinsp; 1 篇论文被 IEEE Transactions on Multimedia 录用（通讯作者）</li>
-    <li>2025.06:&thinsp; 担任国际 AI 生成内容大会（AIGC 2025，杭州）程序委员会委员</li>    
+    <li>2025.08:&thinsp; 担任 AAAI 2026 大会程序委员会委员（CCF-A），新加坡</li>  
+    <li>2025.07:&thinsp; 受邀在2025 Discover At HUST Metavers国际暑期学校英语授课</li>    
+    <li>2025.07:&thinsp; 2 篇论文被ACM Multimedia 2025录用（CCF-A），爱尔兰</li>
+    <li>2024.06:&thinsp; 基于生成式 AI 的图像修复研究正在 IEEE TPAMI （CCF-A） 返修中</li>
+    <li>2025.06:&thinsp; 1 篇论文被 IEEE Transactions on Multimedia 录用</li>
+    <li>2025.06:&thinsp; 担任AIGC 2025国际会议程序委员会委员，杭州</li>    
     <li>2024.12:&thinsp; 1 篇论文被 ACM Transactions on Multimedia Computing, Communications, and Applications 录用（JCR Q1）</li>
     <li>2024.11:&thinsp; 2 篇论文被 IEEE Transactions on Multimedia 录用（中科院一区 TOP，JCR Q1）</li>
     <li>2024.08:&thinsp; 1 篇论文被 Computer Vision and Image Understanding 录用（JCR Q1）</li>
-    <li>2024.05:&thinsp; 受聘为 IEEE ISCAS 2024（新加坡）特邀专题主席</li>
-    <li>2024.04:&thinsp; 受聘为 IEEE ICASSP 2024（韩国）特邀专题主席</li>
+    <li>2024.05:&thinsp; 受邀担任 IEEE ISCAS 2024国际会议专题主席，新加坡</li>
+    <li>2024.04:&thinsp; 受邀担任 IEEE ICASSP 2024国际会议专题主席（CCF-B），韩国</li>
     <li>2024.01:&thinsp; 2 篇论文被 Optics Express 和 Optics Letters 录用</li>
     <li>2023.12:&thinsp; 获中国国际大学生创新大赛全国金奖</li>
-    <li>2023.11:&thinsp; 获中国博士后创新创业大赛全国铜奖</li>
+    <li>2023.11:&thinsp; 获中国博士后创新创业大赛海外赛全国铜奖</li>
     <li>2023.10:&thinsp; 获春晖杯中国留学人员创新创业大赛优胜奖</li>
-    <li>2023.09:&thinsp; 受聘为 IEEE MMSP 2023（法国）特邀专题主席</li>
-    <li>2023.09:&thinsp; 1 篇论文被 NeurIPS 2023（美国新奥尔良）录用</li>
+    <li>2023.09:&thinsp; 受邀担任 IEEE MMSP 2023国际会议专题主席，法国</li>
+    <li>2023.09:&thinsp; 1 篇论文被 NeurIPS 2023录用（CCF-A），美国</li>
   </ul>
 </div>
 
