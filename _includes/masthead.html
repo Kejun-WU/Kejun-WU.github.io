@@ -5,9 +5,9 @@
       <ul class="visible-links">
         <!-- 语言切换入口：与其他菜单并列；ID 要与 lang-toggle.js 一致 -->
         <li class="masthead__menu-item masthead__menu-item--lang">
-          <!-- <a href="javascript:void(0)" id="lang-zh-link">中</a> / -->
-          <a href="javascript:void(0)" id="lang-zh-link">中</a>
-          <span class="masthead__sep">/</span>           
+          <a href="javascript:void(0)" id="lang-zh-link">中</a>/  
+          <!--  <a href="javascript:void(0)" id="lang-zh-link">中</a>
+          <span class="masthead__sep">/</span>            -->
           <a href="javascript:void(0)" id="lang-en-link">En</a>
         </li>
 
@@ -22,12 +22,12 @@
         {% endfor %}
       </ul>
 
-      <!-- 响应式折叠菜单按钮（保留原有 greedy-nav 行为）
+      <!-- 响应式折叠菜单按钮（保留原有 greedy-nav 行为） -->
       <button class="greedy-nav__toggle" type="button" aria-label="Toggle menu">
         <span class="visually-hidden">Toggle menu</span>
         <div class="navicon"></div>
       </button>
- -->
+
       <ul class="hidden-links hidden"></ul>
     </nav>
   </div>
