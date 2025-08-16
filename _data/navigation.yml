@@ -13,7 +13,7 @@ main:
     url: "/#news"
 
   - title_en: "Selected Publications"
-    title_zh: "精选发表"
+    title_zh: "论文发表"
     url: "/#publications"
 
   - title_en: "Honors Awards"
