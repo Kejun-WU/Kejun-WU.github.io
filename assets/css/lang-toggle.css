@@ -24,7 +24,7 @@
   .masthead__inner-wrap {
     max-width: none;                 /* 铺满 */
     margin: 0;                       /* 取消居中 */
-    padding-left: calc(280px + 2rem);/* 300px=侧边栏宽度；2rem=正文左右内边距 */
+    padding-left: calc(400px + 2rem);/* 300px=侧边栏宽度；2rem=正文左右内边距 */
     padding-right: 2rem;             /* 与正文右侧内边距一致 */
     box-sizing: border-box;
   }
