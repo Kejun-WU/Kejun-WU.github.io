@@ -36,8 +36,8 @@
 /* 让菜单更“省位”一些（减少触发折叠） */
 .greedy-nav .visible-links > li { margin: 0; }
 .greedy-nav .visible-links > li > a {
-  padding-left: .15rem;        /* 原 .6rem -> .45rem */
-  padding-right: .15rem;
+  padding-left: .0rem;        /* 原 .6rem -> .45rem */
+  padding-right: .0rem;
   white-space: nowrap;
   font-size: 1.2rem;          /* 原 0.95rem -> 0.94rem，必要时可降到 0.92rem */
 }
