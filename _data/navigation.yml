@@ -4,7 +4,7 @@ main:
     title_zh: "个人简介"
     url: "/#about-me"
 
-  - title_en: "Professional Activities"
+  - title_en: "Services"
     title_zh: "学术服务"
     url: "/#professional-activities"
 
@@ -12,11 +12,11 @@ main:
     title_zh: "新闻动态"
     url: "/#news"
 
-  - title_en: "Selected Publications"
+  - title_en: "Publications"
     title_zh: "论文发表"
     url: "/#publications"
 
-  - title_en: "Honors Awards"
+  - title_en: "Honors"
     title_zh: "荣誉奖项"
     url: "/#honors-awards"
 
