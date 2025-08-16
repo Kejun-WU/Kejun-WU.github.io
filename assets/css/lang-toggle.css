@@ -20,18 +20,18 @@
 
 /* ====== 导航与左侧内容对齐：桌面端（≥1024px）====== */
 /* 让导航容器全宽，并在左侧空出侧边栏宽度，使其与正文列左边线对齐 */
-@media (min-width: 1024px) {
+@media (min-width: 1400px) {
   .masthead__inner-wrap {
     max-width: none;                 /* 铺满 */
     margin: 0;                       /* 取消居中 */
-    padding-left: calc(300px + 2rem);/* 300px=侧边栏宽度；2rem=正文左右内边距 */
+    padding-left: calc(280px + 2rem);/* 300px=侧边栏宽度；2rem=正文左右内边距 */
     padding-right: 2rem;             /* 与正文右侧内边距一致 */
     box-sizing: border-box;
   }
 }
 
 /* ====== 移动端/小屏（<1024px）保持居中布局 ====== */
-@media (max-width: 1023.98px) {
+@media (max-width: 1399.98px) {
   .masthead__inner-wrap {
     max-width: 1200px;   /* 与正文最大宽度一致，按需调整 1100/1200/1280 */
     margin: 0 auto;
