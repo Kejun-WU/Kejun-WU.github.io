@@ -1,5 +1,11 @@
 /* assets/css/lang-toggle.css */
 
+/* 可调参数：与正文容器保持一致即可 */
+:root{
+  --container-max: 1200px;   /* 正文/导航共同的最大宽度（按你的站点改 1100/1200/1280 等） */
+  --content-gutter: 2rem;    /* 正文/导航共同的左右内边距 */
+}
+
 /* 语言显示控制 */
 .lang-zh .i18n.en { display: none !important; }
 .lang-en .i18n.zh { display: none !important; }
@@ -10,43 +16,27 @@
 
 /* 导航栏语言切换链接一行显示 */
 .masthead__menu-item--lang {
-  white-space: nowrap;      /* 不换行 */
-  display: flex;            /* 水平排列 */
-  align-items: center;      /* 垂直居中 */
-  gap: 0rem;                /* 中文/英文之间间距 */
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  gap: 0rem;
 }
 .masthead__menu-item--lang a { display: inline-block; padding: 0; }
 .masthead__menu-item--lang .masthead__sep { display: inline-block; padding: 0; }
 
-/* ====== 导航与左侧内容对齐：桌面端（≥1024px）====== */
-/* 让导航容器全宽，并在左侧空出侧边栏宽度，使其与正文列左边线对齐 */
-@media (min-width: 1400px) {
-  .masthead__inner-wrap {
-    max-width: none;                 /* 铺满 */
-    margin: 0;                       /* 取消居中 */
-    padding-left: calc(400px + 2rem);/* 300px=侧边栏宽度；2rem=正文左右内边距 */
-    padding-right: 2rem;             /* 与正文右侧内边距一致 */
-    box-sizing: border-box;
-  }
-}
-
-/* ====== 移动端/小屏（<1024px）保持居中布局 ====== */
-@media (max-width: 1399.98px) {
-  .masthead__inner-wrap {
-    max-width: 1200px;   /* 与正文最大宽度一致，按需调整 1100/1200/1280 */
-    margin: 0 auto;
-    padding-left: 1rem;  /* 小屏内边距可略小 */
-    padding-right: 1rem;
-    box-sizing: border-box;
-  }
+/* —— 关键：导航容器与正文容器“完全一致”，任何屏幕宽度都一起居中缩放 —— */
+.masthead__inner-wrap {
+  max-width: var(--container-max);
+  margin: 0 auto;
+  padding-left: var(--content-gutter);
+  padding-right: var(--content-gutter);
+  box-sizing: border-box;
 }
 
 /* 让菜单更“省位”一些 */
 .greedy-nav .visible-links > li > a {
   padding-left: .6rem;
   padding-right: .6rem;
-  white-space: nowrap;    /* 禁止断行，避免两行占高 */
-  font-size: 0.95rem;     /* 如需再紧凑可降到 0.9rem */
+  white-space: nowrap;
+  font-size: 0.95rem;
 }
-
- 
