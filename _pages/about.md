@@ -32,7 +32,7 @@ redirect_from:
 <!-- 中英全局有效 
 📢 &nbsp; 招收2026年入学研究生，欢迎联系。<br>  -->
 
-<h1 style="color:#1155A0; font-size:1.2em; font-weight:bold;">📢招收2026年入学研究生，欢迎联系。</h1>
+<h1 style="color:#1155A0; font-size:1.1em; font-weight:bold;">📢招收2026年入学研究生，欢迎联系。</h1>
 
 
 
