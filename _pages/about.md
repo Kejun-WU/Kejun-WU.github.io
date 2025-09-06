@@ -317,6 +317,7 @@ My research interest includes neural machine translation and computer vision. I 
 <li>全国博士后创新创业大赛铜奖（排一，人力资源和社会保障部）</li>
 <li>中国国际大学生创新创业大赛湖北省金奖（排二，湖北省教育厅）</li>
 <li>中国国际大学生创新创业大赛全国金奖（原互联网+，教育部）</li>
+<li>湖北省科学技术进步奖三等奖</li>
 <li>IET Excellence and Innovation Awards International Awards (Silver Award)</li>
 <li>IET Impact in Society Awards (Shortlist)</li>
 <li>Letter of Appreciation from University of Oxford</li>
