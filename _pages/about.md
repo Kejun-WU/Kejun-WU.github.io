@@ -244,7 +244,7 @@ My research interest includes neural machine translation and computer vision. I 
   <li>&thinsp;<b>K. Wu</b>, Q. Liu, Y. Yang, and X. Zhang, “Gaussian-Wiener Representation and Hierarchical Coding Scheme for Focal Stack Images,” in <b>IEEE Transactions on Circuits and Systems for Video Technology</b>, 32(2):523-537, 2022. (中科院1区TOP)</li>
   <li>&thinsp;<b>K. Wu</b>, Z. Li, Y. Yang, and Q. Liu, “Deep Video Compression based on Long-range Temporal Context Learning,” in Computer Vision and Image Understanding, 248(2024): 104127.</li>  
   <li>&thinsp;X. Yu, <b>K. Wu</b><font color=Blue>*</font>, Y. Yang, and Q. Liu, “WaRENet: A Novel Urban Waterlogging Risk Evaluation Network,” in ACM Transactions on Multimedia Computing, Communications, and Applications, 2024, 20(7):1–28. (Equal Contribution)</li>
-  <li>&thinsp;R. Wang, <b>K. Wu</b>, R. Qiao, C. Yangc, C. Cai, “Prompted Complex Context Generation Guided Fine-Grained Ship Recognition,” in Applied Soft Computing, 2025.</li>
+  <li>&thinsp;R. Wang, <b>K. Wu</b>, R. Qiao, C. Yang, C. Cai, “Prompted Complex Context Generation Guided Fine-Grained Ship Recognition,” in Applied Soft Computing, 2025.</li>
   <li>&thinsp;J. Gao, K. Yap, K. Wu, D. Phan, and K. Garg, "Contextual Human Object Interaction Understanding from Pre-Trained Large Language Model," ICASSP 2024, Seoul, Korea</li>
   <li>&thinsp;C. Cai, R. Zhang, J. Gao, K. Wu, K. Yap, Y. Wang, "Temporal Sentence Grounding with Temporally Global Textual Knowledge," ICME 2024, Niagra Falls, Canada</li>
 
