@@ -160,7 +160,6 @@ My research interest includes neural machine translation and computer vision. I 
     <li>2025.08:&thinsp; 担任 AAAI 2026 大会程序委员会委员（CCF-A），新加坡</li>  
     <li>2025.07:&thinsp; 受邀在2025 Discover At HUST Metavers国际暑期学校英语授课</li>    
     <li>2025.07:&thinsp; 2 篇论文被ACM Multimedia 2025录用（CCF-A），爱尔兰</li>
-    <li>2025.06:&thinsp; 基于生成式 AI 的图像修复研究正在 IEEE TPAMI （CCF-A） 返修中</li>
     <li>2025.06:&thinsp; 1 篇论文被 IEEE Transactions on Multimedia 录用</li>
     <li>2025.06:&thinsp; 担任AIGC 2025国际会议程序委员会委员，杭州</li>    
     <li>2024.12:&thinsp; 1 篇论文被 ACM Transactions on Multimedia Computing, Communications, and Applications 录用（JCR Q1）</li>
@@ -190,7 +189,6 @@ My research interest includes neural machine translation and computer vision. I 
     <li>2025.08:&thinsp; Serve as Program Committee in AAAI 2026 conference, Singapore </li>  
     <li>2025.07:&thinsp; Invited to lecture (in English) the 2025 Discover At HUST--"Metavers" International Summer School </li>    
     <li>2025.07:&thinsp; 2 papers are accepted by 33rd ACM International Conference on Multimedia (ACM Multimedia 2025), Dublin, Ireland </li>
-    <li>2024.06:&thinsp; Research on Gen-AI based image restoration is Under Revision at IEEE TPAMI</li>
     <li>2025.06:&thinsp; 1 paper is accepted by IEEE Transactions on Multimedia (Corresponding Author)</li>
     <li>2025.06:&thinsp; Serve as Program Committee for International Conference on AI-Generated Content (AIGC 2025), Hangzhou</li>    
     <li>2024.12:&thinsp; 1 paper is accepted by ACM Transactions on Multim. Comput. Commun. Appl. (JCR Q1)</li>
