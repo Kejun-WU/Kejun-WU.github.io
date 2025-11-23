@@ -389,12 +389,14 @@ My research interest includes neural machine translation and computer vision. I 
 <li>J. Liang, Intern Student, Huazhong University of Science and Technology (LLMs on multimedia understanding)</li>
 <li>F. Li, Master Student, Huazhong University of Science and Technology (LLMs on Byte-domain understanding)</li>
 <li>C. Zhang, Ph.D Student, Huazhong University of Science and Technology (LLMs on signal processing)</li>
-<li>R. Wang, Ph.D Student, Harbin Engineering University (LLMs on fine-grained recognition)</li>
-<li>S. Wang, Ph.D Student, Harbin Engineering University (LLMs on anomaly detection)</li>
 <li>J. Gao, Ph.D Student, Nanyang Technological University (LLMs on HOI)</li>
 <li>W. Liu, Ph.D Student, Nanyang Technological University (Gen-AI on image restoration)</li>
 <li>T. Liu, Ph.D Student, Nanyang Technological University (Gen-AI on image restoration)</li>
-<!-- 段落注释 <li>C. Cai, Ph.D, Shopee, Singapore (LLMs on Open-vocabulary Grounding)</li> R. Yan, Undergraduate Student, Xiamen University (LLMs on signal analytics)</li>  -->
+<!-- 段落注释 <li>R. Wang, Ph.D Student, Harbin Engineering University (LLMs on fine-grained recognition)</li>
+<li>S. Wang, Ph.D Student, Harbin Engineering University (LLMs on anomaly detection)</li>
+<li>C. Cai, Ph.D, Shopee, Singapore (LLMs on Open-vocabulary Grounding)</li> 
+<li>R. Yan, Undergraduate Student, Xiamen University (LLMs on signal analytics)</li>  
+-->
 
 </div>
 
@@ -409,12 +411,10 @@ I'm honored to have participated in the supervision of these excellent students:
 <li>J. Liang, Intern Student, Huazhong University of Science and Technology (LLMs on multimedia understanding)</li>
 <li>F. Li, Master Student, Huazhong University of Science and Technology (LLMs on Byte-domain understanding)</li>
 <li>C. Zhang, Ph.D Student, Huazhong University of Science and Technology (LLMs on signal processing)</li>
-<li>R. Wang, Ph.D Student, Harbin Engineering University (LLMs on fine-grained recognition)</li>
-<li>S. Wang, Ph.D Student, Harbin Engineering University (LLMs on anomaly detection)</li>
 <li>J. Gao, Ph.D Student, Nanyang Technological University (LLMs on HOI)</li>
 <li>W. Liu, Ph.D Student, Nanyang Technological University (Gen-AI on image restoration)</li>
 <li>T. Liu, Ph.D Student, Nanyang Technological University (Gen-AI on image restoration)</li>
-<!-- 段落注释 <li>C. Cai, Ph.D, Shopee, Singapore (LLMs on Open-vocabulary Grounding)</li> R. Yan, Undergraduate Student, Xiamen University (LLMs on signal analytics)</li>  -->
+ 
  
 </div>
 
