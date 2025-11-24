@@ -312,8 +312,8 @@ My research interest includes neural machine translation and computer vision. I 
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">荣誉奖项</h1>
 
 
-<li>亚太人工智能教育优秀青年学者奖</li>
-<li>亚太人工智能教育优秀教学案例奖</li>  
+<li>亚太人工智能教育优秀青年学者</li>
+<li>亚太人工智能教育优秀案例奖</li>  
 <li>春晖杯中国留学人员创新创业大赛优胜奖（排一，教育部）</li>
 <li>全国博士后创新创业大赛铜奖（排一，人力资源和社会保障部）</li>
 <li>中国国际大学生创新创业大赛湖北省金奖（排二，湖北省教育厅）</li>
