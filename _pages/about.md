@@ -45,7 +45,8 @@ redirect_from:
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">个人简介</h1>
 
 吴科君 (<a href="http://faculty.hust.edu.cn/WuKejun/en/index.htm" target="_blank">教师主页</a>) ，博士，IEEE高级会员，研究生导师，亚太人工智能教育优秀青年学者，现任华中科技大学电子信息与通信学院讲师/助理教授。在此之前，他于新加坡南洋理工大学电气电子工程学院从事博士后研究（与Yap Kim-Hui、<a href="https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-chau-lap-pui/?sc_lang=en">周立培</a>教授，IEEE Fellow）。他获得了华中科技大学博士学位（导师 杨铀 教授，IET Fellow）、哈尔滨工程大学硕士学位（导师 <a href="http://cisse.hrbeu.edu.cn/info/1088/3385.htm" target="_blank">蔡成涛</a> 教授，CJ学者）以及上海大学学士学位。
-他的研究兴趣主要包括多模态大模型、生成式人工智能、高维视觉、压缩域语义理解等领域，近5年在IEEE T-MM、IEEE T-CSVT、NeurIPS、ACM Multimedia等高水平期刊、会议发表论文50余篇。担任IEEE OJSP、ASOC、JRTIP、JVCI等权威期刊的副主编/编委/客座编辑等，并在国际会议AAAI 2026、AIGC 2025、IJCNN 2025、IEEE ICASSP2024、ISCAS2024及MMSP2023中担任程序委员会/领域主席/专题主席等。主持或参与国家自然科学基金等项目多项。<br>
+他的研究兴趣主要包括多模态大模型、生成式人工智能、高维视觉、码流域多媒体理解等领域，近5年在IEEE T-MM、IEEE T-CSVT、NeurIPS、ACM Multimedia等高水平期刊、会议发表论文50余篇。担任IEEE OJSP、ASOC、JRTIP、JVCI等权威期刊的副主编/编委/客座编辑等，并在国际会议AAAI 2026、AIGC 2025、IJCNN 2025、IEEE ICASSP2024、ISCAS2024及MMSP2023中担任程序委员会/领域主席/专题主席等。主持或参与国家自然科学基金等项目多项。<br>
+
 🚀 &nbsp; 招收兴趣从事以上研究领域的研究生、研究助理、实习生、访问学生等, 欢迎线下或远程学习。
 
 </div>
@@ -58,8 +59,9 @@ redirect_from:
 
 Dr. Kejun Wu (<a href="http://faculty.hust.edu.cn/WuKejun/en/index.htm" target="_blank">Faculty HomePage</a>) is currently a Lecturer/Assistant Professor at School of Electronic Information and Communications, Huazhong University of Science and Technology, Wuhan, China. Before that, he worked as a Research Fellow researcher at School of Electrical and Electronic Engineering, Nanyang Technological University (work with Prof. Yap Kim-Hui and <a href="https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-chau-lap-pui/?sc_lang=en">Chau Lap-Pui</a> (IEEE Fellow)). 
 <!-- He obtained his Ph.D. degree from Huazhong University of Science and Technology (supervised by You Yang), Master degree from Harbin Engineering University (supervised by <a href="http://cisse.hrbeu.edu.cn/info/1088/3385.htm" target="_blank">Chengtao Cai</a>) Bachelor degree from Shanghai University. -->
-His research interest includes Multimodal Large Language Models, Generative AI, High-dimensional Vision, and Learned Video Compression. He has over 50 publications in top-tier venues in the past 5 years. He is a Technical Committee Affiliate of IEEE SPS IVMSP and IEEE SPS MMSP.
-He serves as an Associate Editor / Editorial Board Member / Executive Guest Editor of IEEE OJSP, ASOC, JVCI, and JRTIP, etc., an Area Chair / Session Chair / Program Committee in AAAI 2026, AIGC 2025, IJCNN 2025, IEEE ICASSP 2024,ISCAS 2024, and MMSP2023. He is an IEEE Senior Member.<br>
+His research interest includes Multimodal Large Language Models, Generative AI, High-dimensional Vision, and Learned Video Compression. He has over 50 publications in top-tier venues in the past 5 years. 
+He serves as an Associate Editor / Editorial Board Member / Executive Guest Editor of IEEE OJSP, ASOC, JVCI, and JRTIP, etc., an Area Chair / Session Chair / Program Committee in AAAI 2026, PRCV 2026, AIGC 2025, IJCNN 2025, IEEE ICASSP 2024,ISCAS 2024, and MMSP2023. He is an IEEE Senior Member.<br>
+
 🚀 &nbsp; Recruiting intern/ visiting/ Master students interested in the aforementioned research areas. On-site, remote, or hybrid interning/learning are welcome.
 <!--  Contact via <kjwu@hust.edu.cn>  -->
 
@@ -157,6 +159,10 @@ My research interest includes neural machine translation and computer vision. I 
 
 <div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
   <ul>
+
+    <li>2025.11:&thinsp; 获亚太人工智能教育优秀青年学者奖</li>  
+    <li>2025.11:&thinsp; 获亚太人工智能教育优秀案例奖</li>  
+    <li>2025.10:&thinsp; 获全国电子信息类专业高校教师智慧教学案例竞赛(浩埔杯)中南赛区二等奖</li>
     <li>2025.08:&thinsp; 担任 AAAI 2026 大会程序委员会委员（CCF-A），新加坡</li>  
     <li>2025.07:&thinsp; 受邀在2025 Discover At HUST Metavers国际暑期学校英语授课</li>    
     <li>2025.07:&thinsp; 2 篇论文被ACM Multimedia 2025录用（CCF-A），爱尔兰</li>
@@ -186,6 +192,9 @@ My research interest includes neural machine translation and computer vision. I 
   
 <div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
   <ul>
+
+    <li>2025.11:&thinsp; I am awarded the Outstanding Young Scholar of Asia-Pacific Artificial Intelligence Education </li> 
+    <li>2025.11:&thinsp; I am awarded the Excellent Case Award of Asia-Pacific Artificial Intelligence Education </li> 
     <li>2025.08:&thinsp; Serve as Program Committee in AAAI 2026 conference, Singapore </li>  
     <li>2025.07:&thinsp; Invited to lecture (in English) the 2025 Discover At HUST--"Metavers" International Summer School </li>    
     <li>2025.07:&thinsp; 2 papers are accepted by 33rd ACM International Conference on Multimedia (ACM Multimedia 2025), Dublin, Ireland </li>
@@ -225,10 +234,6 @@ My research interest includes neural machine translation and computer vision. I 
 <!-- 段落注释  
     <li>&thinsp;Tianyi Liu, <b>Kejun Wu</b>, Yi Wang, Wenyang Liu, Kim-Hui Yap, Lap-Pui Chau, "BitsCV: Restoration of Artifacts Decoded in Bitstream-Corrupted Videos," in <b>IEEE Transactions on Pattern Analysis and Machine Intelligence</b></li>
     <li>&thinsp;Wenyang Liu, Tianyi Liu, Chen Cai, Jianjun Gao, Kejun Wu, Kim-Hui Yap, "AsTaSR: Adaptive Superpixel Token Aggregation for Lightweight Image Super-Resolution," AAAI 2026
-  <li>&thinsp;<b>K. Wu</b>, Q. Liu, K. Yap, and Y. Yang, “Multifocal Multiview Imaging and Data Compression based on Angular-Focal-Spatial Representation,” in Optics Letters, 2024.</li>
-  <li>&thinsp;<b>K. Wu</b>, Q. Liu, K. Yap, and Y. Yang, “High Dimensional Optical Data Varifocal Multiview Imaging, Compression and Evaluation,” in Optics Express, 2023.</li>
-  <li>&thinsp;<b>K. Wu</b>, Q. Liu, Y. Wang, and Y. Yang, “End-to-end Varifocal Multiview Images Coding Framework from Data Acquisition End to Vision Application End,” in Optics Express, 31(7): 11659-11679, 2023.</li>  
- 
 -->
 
   <li>&thinsp;T. Liu, <b>K. Wu</b>, C. Cai, Y. Wang, K. Yap, L. Chau, “Towards Blind Bitstream-corrupted Video Recovery: A Visual Foundation Model-driven Framework,” in <b>ACM MM 2025</b> (CCF-A)</li>
@@ -262,12 +267,12 @@ My research interest includes neural machine translation and computer vision. I 
   <li>&thinsp;T. Liu, <b>K. Wu</b>, C. Cai, Y. Wang, K. Yap, L. Chau, “Towards Blind Bitstream-corrupted Video Recovery: A Visual Foundation Model-driven Framework,” in <b>ACM MM 2025</b> (CCF-A)</li>
   <li>&thinsp;C. Cai, T. Liu, J. Gao, W. Liu, <b>K. Wu</b><font color=Blue>*</font>, R. Wang, Y. Wang, S. Liew, “From Semantics, Scene to Instance-awareness: Distilling Foundation Model for Open-vocabulary Grounded Situation Recognition,” in <b>ACM MM 2025</b> (Corresponding Author, CCF-A) </li>    
   <li>&thinsp;T. Liu, <b>K. Wu</b><font color=Blue>*</font>, Y. Wang, W. Liu, K. Yap, and L. Chau, “Bitstream corrupted Video Recovery: A Novel Benchmark Dataset and Method,” <b>NeurIPS 2023</b>. (Equal Contribution, CCF-A)</li>
-  <li>&thinsp;<b>K. Wu</b>, Z. Li, Y. Yang, Q. Liu, and X. Zhang, “End-to-end Deep Video Compression Based on Hierarchical Temporal Context Learning,” in <b>IEEE Transactions on Multimedia</b>, 2025. (中科院1区TOP)</li>
-  <li>&thinsp;W. Liu, C. Cai, J. Gao, <b>K. Wu</b><font color=Blue>*</font>, Y. Wang, K. Yap, and L. Chau, “PromptSR: Cascade Prompting for Lightweight Image Super-Resolution,” in <b>IEEE Transactions on Multimedia</b>, 2025. (Corresponding Author, 中科院1区TOP)</li>
-  <li>&thinsp;<b>K. Wu</b>, Y. Yang, G. Jiang, and X. Zhang, “Hierarchical Independent Coding Scheme for Varifocal Multiview Images based on Angular-focal Joint Prediction,” <b>IEEE Transactions on Multimedia</b>, 26:2993-3006, 2024. (中科院1区TOP) $\color{Tomato} {ESI &thinsp;Highly &thinsp;Cited &thinsp;Papers}$</li>
-  <li>&thinsp;W. Liu, <b>K. Wu</b><font color=Blue>*</font>, T. Liu, Y. Wang, K. Yap, and L. Chau, “ByteNet: Rethinking Multimedia File Fragment Classification through Visual Perspectives,” in <b>IEEE Transactions on Multimedia</b>, 2024. (Corresponding Author, 中科院1区TOP)</li>
-  <li>&thinsp;<b>K. Wu</b>, Q. Liu, and X. Zhang, “Focal Stack Image Compression Based on Basis-Quadtree Representation,” in <b>IEEE Transactions on Multimedia</b>, 25:3975-3988, 2023. (中科院1区TOP)</li>
-  <li>&thinsp;<b>K. Wu</b>, Q. Liu, Y. Yang, and X. Zhang, “Gaussian-Wiener Representation and Hierarchical Coding Scheme for Focal Stack Images,” in <b>IEEE Transactions on Circuits and Systems for Video Technology</b>, 32(2):523-537, 2022. (中科院1区TOP)</li>
+  <li>&thinsp;<b>K. Wu</b>, Z. Li, Y. Yang, Q. Liu, and X. Zhang, “End-to-end Deep Video Compression Based on Hierarchical Temporal Context Learning,” in <b>IEEE Transactions on Multimedia</b>, 2025. </li>
+  <li>&thinsp;W. Liu, C. Cai, J. Gao, <b>K. Wu</b><font color=Blue>*</font>, Y. Wang, K. Yap, and L. Chau, “PromptSR: Cascade Prompting for Lightweight Image Super-Resolution,” in <b>IEEE Transactions on Multimedia</b>, 2025. (Corresponding Author)</li>
+  <li>&thinsp;<b>K. Wu</b>, Y. Yang, G. Jiang, and X. Zhang, “Hierarchical Independent Coding Scheme for Varifocal Multiview Images based on Angular-focal Joint Prediction,” <b>IEEE Transactions on Multimedia</b>, 26:2993-3006, 2024. $\color{Tomato} {ESI &thinsp;Highly &thinsp;Cited &thinsp;Papers}$</li>
+  <li>&thinsp;W. Liu, <b>K. Wu</b><font color=Blue>*</font>, T. Liu, Y. Wang, K. Yap, and L. Chau, “ByteNet: Rethinking Multimedia File Fragment Classification through Visual Perspectives,” in <b>IEEE Transactions on Multimedia</b>, 2024. (Corresponding Author)</li>
+  <li>&thinsp;<b>K. Wu</b>, Q. Liu, and X. Zhang, “Focal Stack Image Compression Based on Basis-Quadtree Representation,” in <b>IEEE Transactions on Multimedia</b>, 25:3975-3988, 2023. </li>
+  <li>&thinsp;<b>K. Wu</b>, Q. Liu, Y. Yang, and X. Zhang, “Gaussian-Wiener Representation and Hierarchical Coding Scheme for Focal Stack Images,” in <b>IEEE Transactions on Circuits and Systems for Video Technology</b>, 32(2):523-537, 2022. </li>
   <li>&thinsp;<b>K. Wu</b>, Z. Li, Y. Yang, and Q. Liu, “Deep Video Compression based on Long-range Temporal Context Learning,” in Computer Vision and Image Understanding, 248(2024): 104127.</li>  
   <li>&thinsp;X. Yu, <b>K. Wu</b><font color=Blue>*</font>, Y. Yang, and Q. Liu, “WaRENet: A Novel Urban Waterlogging Risk Evaluation Network,” in ACM Transactions on Multimedia Computing, Communications, and Applications, 2024, 20(7):1–28. (Equal Contribution)</li>
   <li>&thinsp;R. Wang, <b>K. Wu</b>, R. Qiao, C. Yangc, C. Cai, “Prompted Complex Context Generation Guided Fine-Grained Ship Recognition,” in Applied Soft Computing, 2025.</li>
@@ -319,7 +324,7 @@ My research interest includes neural machine translation and computer vision. I 
 <li>中国国际大学生创新创业大赛全国金奖（原互联网+，教育部）</li>
 <li>湖北省科学技术进步奖三等奖</li>
 <li>亚太人工智能教育优秀案例奖</li>  
-<li>全国电子信息类专业高校教师智慧教学案例竞赛中南赛区二等奖</li>
+<li>全国电子信息类专业高校教师智慧教学案例竞赛(浩埔杯)中南赛区二等奖</li>
 <li>IET Excellence and Innovation Awards International Awards (Silver Award)</li>
 <li>IET Impact in Society Awards (Shortlist)</li>
 <li>Letter of Appreciation from University of Oxford</li>
@@ -331,6 +336,8 @@ My research interest includes neural machine translation and computer vision. I 
 <div class="i18n en">
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">Honors & Awards</h1>
 
+<li>Outstanding Young Scholar in Asia-Pacific Artificial Intelligence Education</li>
+<li>Excellent Case Award in Asia-Pacific Artificial Intelligence Education</li>
 <li>China International College Students' Innovation Competition (formerly Internet +, Gold Award)</li>
 <li>IET Excellence and Innovation Awards International Awards (Silver Award)</li>
 <li>National Postdoctoral Innovation and Entrepreneurship Competition (Bronze Award, ranked first)</li>
@@ -339,7 +346,6 @@ My research interest includes neural machine translation and computer vision. I 
 <li>Letter of Appreciation from University of Oxford</li>
 
 </div>
-
 
 
 
@@ -385,6 +391,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 我很荣幸能参与到这些优秀学生的培养过程: 
 
+<li>H. Dong, Intern Student, Columbia University, New York, USA (Trustworthy MLLM)</li>
 <li>Q. Zhang, Intern Student, KTH Royal Institute of Technology, Sweden (LLMs on multimedia understanding)</li>
 <li>J. Liang, Intern Student, Huazhong University of Science and Technology (LLMs on multimedia understanding)</li>
 <li>F. Li, Master Student, Huazhong University of Science and Technology (LLMs on Byte-domain understanding)</li>
@@ -392,11 +399,9 @@ My research interest includes neural machine translation and computer vision. I 
 <li>J. Gao, Ph.D Student, Nanyang Technological University (LLMs on HOI)</li>
 <li>W. Liu, Ph.D Student, Nanyang Technological University (Gen-AI on image restoration)</li>
 <li>T. Liu, Ph.D Student, Nanyang Technological University (Gen-AI on image restoration)</li>
-<!-- 段落注释 <li>R. Wang, Ph.D Student, Harbin Engineering University (LLMs on fine-grained recognition)</li>
-<li>S. Wang, Ph.D Student, Harbin Engineering University (LLMs on anomaly detection)</li>
 <li>C. Cai, Ph.D, Shopee, Singapore (LLMs on Open-vocabulary Grounding)</li> 
 <li>R. Yan, Undergraduate Student, Xiamen University (LLMs on signal analytics)</li>  
--->
+
 
 </div>
 
@@ -407,6 +412,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 I'm honored to have participated in the supervision of these excellent students: 
 
+<li>H. Dong, Intern Student, Columbia University, New York, USA (Trustworthy MLLM)</li>
 <li>Q. Zhang, Intern Student, KTH Royal Institute of Technology, Sweden (LLMs on multimedia understanding)</li>
 <li>J. Liang, Intern Student, Huazhong University of Science and Technology (LLMs on multimedia understanding)</li>
 <li>F. Li, Master Student, Huazhong University of Science and Technology (LLMs on Byte-domain understanding)</li>
@@ -414,7 +420,8 @@ I'm honored to have participated in the supervision of these excellent students:
 <li>J. Gao, Ph.D Student, Nanyang Technological University (LLMs on HOI)</li>
 <li>W. Liu, Ph.D Student, Nanyang Technological University (Gen-AI on image restoration)</li>
 <li>T. Liu, Ph.D Student, Nanyang Technological University (Gen-AI on image restoration)</li>
- 
+<li>C. Cai, Ph.D, Shopee, Singapore (LLMs on Open-vocabulary Grounding)</li> 
+<li>R. Yan, Undergraduate Student, Xiamen University (LLMs on signal analytics)</li>  
  
 </div>
 
