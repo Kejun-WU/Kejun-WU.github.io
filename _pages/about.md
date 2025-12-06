@@ -325,9 +325,9 @@ My research interest includes neural machine translation and computer vision. I 
 <li>湖北省科学技术进步奖三等奖</li>
 <li>亚太人工智能教育优秀案例奖</li>  
 <li>全国电子信息类专业高校教师智慧教学案例竞赛(浩埔杯)中南赛区二等奖</li>
-<li>IET Excellence and Innovation Awards International Awards (Silver Award)</li>
-<li>IET Impact in Society Awards (Shortlist)</li>
 <li>Letter of Appreciation from University of Oxford</li>
+
+<!-- <li>IET Excellence and Innovation Awards International Awards (Silver Award)</li> <li>IET Impact in Society Awards (Shortlist)</li> -->
 
 </div>
 
@@ -339,11 +339,11 @@ My research interest includes neural machine translation and computer vision. I 
 <li>Outstanding Young Scholar in Asia-Pacific Artificial Intelligence Education</li>
 <li>Excellent Case Award in Asia-Pacific Artificial Intelligence Education</li>
 <li>China International College Students' Innovation Competition (formerly Internet +, Gold Award)</li>
-<li>IET Excellence and Innovation Awards International Awards (Silver Award)</li>
 <li>National Postdoctoral Innovation and Entrepreneurship Competition (Bronze Award, ranked first)</li>
 <li>Chunhui Cup Innovation and Entrepreneurship Competition for Chinese Overseas Students (ranked first)</li>
-<li>IET Impact in Society Awards (Shortlist)</li>
 <li>Letter of Appreciation from University of Oxford</li>
+
+<!-- <li>IET Excellence and Innovation Awards International Awards (Silver Award)</li> <li>IET Impact in Society Awards (Shortlist)</li> -->
 
 </div>
 
