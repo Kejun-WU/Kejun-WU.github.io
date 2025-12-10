@@ -63,7 +63,11 @@ He obtained his Ph.D. degree from Huazhong University of Science and Technology 
 His research interest includes Multimodal Large Language Models, Generative AI, Byte-based LLMs, and Learned Video Compression. He has over 50 publications in top-tier venues in the past 5 years. 
 He serves as an Associate Editor / Editorial Board Member / Executive Guest Editor of IEEE OJSP, ASOC, JVCI, and JRTIP, etc., an Area Chair / Session Chair / Program Committee in AAAI 2026, PRCV 2026, AIGC 2025, IJCNN 2025, IEEE ICASSP 2024,ISCAS 2024, and MMSP2023. He is an IEEE Senior Member.<br>
 
-🚀 &nbsp; Recruiting intern/ visiting/ Master students interested in the aforementioned research areas. On-site, remote, or hybrid interning/learning are welcome.
+🚀 &nbsp; Recruiting intern/ visiting/ Master students. On-site, remote, or hybrid learning are welcome.
+
+🚀 &nbsp; We are building a Universal Modality Learning Framework by Byte-based-LLMs for breaking the Modality Barrier, serving as a digital world simulators by performing perception and understanding on byte domain.
+
+
 <!--  Contact via <kjwu@hust.edu.cn>  -->
 
 </div>
