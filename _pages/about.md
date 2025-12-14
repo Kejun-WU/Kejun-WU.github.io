@@ -103,7 +103,7 @@ My research interest includes neural machine translation and computer vision. I 
     <li>客座编辑, 国际期刊Journal of Real-Time Image Processing (JCR Q2区) </li>  
     <li>客座编辑, 国际期刊Journal of Visual Communication and Image Representation (JCR Q2区) </li>  
     <li>程序委员会, 国际会议AAAI 2026, 新加坡 </li>  
-    <li>程序委员会, 国际会议AIGC 2025, 杭州 </li>
+    <li>程序委员会, 专题主席, 国际会议AIGC 2025, 杭州 </li>
     <li>领域主席, 国际会议IJCNN 2025, 意大利 </li>  
     <li>专题主席, 国际会议ISCAS 2024, 新加坡 </li>  
     <li>专题主席, 国际会议ICASSP 2024, 韩国 </li>
@@ -131,7 +131,7 @@ My research interest includes neural machine translation and computer vision. I 
     <li>Lead Guest Editor, Journal of Real-Time Image Processing </li>  
     <li>Lead Guest Editor, Journal of Visual Communication and Image Representation </li>  
     <li>Program Committee, AAAI 2026, Singapore </li>  
-    <li>Program Committee, AIGC 2025, Hangzhou, China </li>
+    <li>Program Committee, Session Chair, AIGC 2025, Hangzhou, China </li>
     <li>Area Chair, IJCNN 2025, Italy </li>  
     <li>Session Chair, IEEE ISCAS 2024, Singapore </li>  
     <li>Session Chair, IEEE ICASSP 2024, Korea </li>
@@ -172,10 +172,10 @@ My research interest includes neural machine translation and computer vision. I 
     <li>2025.06:&thinsp; 1 篇论文被 IEEE Transactions on Multimedia 录用</li>
     <li>2025.06:&thinsp; 担任AIGC 2025国际会议程序委员会委员，杭州</li>    
     <li>2024.12:&thinsp; 1 篇论文被 ACM Transactions on Multimedia Computing, Communications, and Applications 录用（JCR Q1）</li>
-    <li>2024.11:&thinsp; 2 篇论文被 IEEE Transactions on Multimedia 录用（中科院一区 TOP，JCR Q1）</li>
+    <li>2024.11:&thinsp; 2 篇论文被 IEEE Transactions on Multimedia 录用（中科院一区 TOP）</li>
     <li>2024.08:&thinsp; 1 篇论文被 Computer Vision and Image Understanding 录用（JCR Q1）</li>
     <li>2024.05:&thinsp; 受邀担任 IEEE ISCAS 2024国际会议专题主席，新加坡</li>
-    <li>2024.04:&thinsp; 受邀担任 IEEE ICASSP 2024国际会议专题主席（CCF-B），韩国</li>
+    <li>2024.04:&thinsp; 受邀担任 IEEE ICASSP 2024国际会议专题主席，韩国</li>
     <li>2024.01:&thinsp; 2 篇论文被 Optics Express 和 Optics Letters 录用</li>
     <li>2023.12:&thinsp; 获中国国际大学生创新大赛全国金奖</li>
     <li>2023.11:&thinsp; 获中国博士后创新创业大赛海外赛全国铜奖</li>
@@ -207,13 +207,13 @@ My research interest includes neural machine translation and computer vision. I 
     <li>2024.12:&thinsp; 1 paper is accepted by ACM Transactions on Multim. Comput. Commun. Appl. (JCR Q1)</li>
     <li>2024.11:&thinsp; 2 papers are accepted by IEEE Transactions on Multimedia (中科院一区TOP，JCR Q1)</li>
     <li>2024.08:&thinsp; 1 paper is accepted by Computer Vision and Image Understanding(JCR Q1)</li>
-    <li>2024.05:&thinsp; I am appointed as Special Session Chair by IEEE ISCAS 2024, Singapore</li>
-    <li>2024.04:&thinsp; I am appointed as Special Session Chair by IEEE ICASSP 2024, Korea</li>
+    <li>2024.05:&thinsp; I am appointed as Session Chair by IEEE ISCAS 2024, Singapore</li>
+    <li>2024.04:&thinsp; I am appointed as Session Chair by IEEE ICASSP 2024, Korea</li>
     <li>2024.01:&thinsp; 2 papers are accepted by Optics Express and Optics Letters</li>
     <li>2023.12:&thinsp; I am awarded the 全国金奖 in 中国国际大学生创新大赛</li>
     <li>2023.11:&thinsp; I am awarded the 全国铜奖 in 中国博士后创新创业大赛</li>
     <li>2023.10:&thinsp; I am awarded the 优胜奖 in 春晖杯中国留学人员创新创业大赛</li>
-    <li>2023.09:&thinsp; I am appointed as Special Session Chair by IEEE MMSP 2023, France</li>
+    <li>2023.09:&thinsp; I am appointed as Session Chair by IEEE MMSP 2023, France</li>
     <li>2023.09:&thinsp; 1 paper has been accepted by NeurIPS 2023, New Orleans, USA</li>
   </ul>
 </div>
