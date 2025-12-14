@@ -154,7 +154,6 @@ My research interest includes neural machine translation and computer vision. I 
 
 <!--       🔥 News      -->
 
-
 <span class='anchor' id='news'></span>
 <!-- 中文块 -->
 <div class="i18n zh">
@@ -197,7 +196,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
   <ul>
 
-    <li>2025.12:&thinsp; Invited to serve as Session Chair and Keynote Speaker in AIGC2025, Hangzhou</li> 
+    <li>2025.12:&thinsp; Invited to serve as Keynote Speaker and Session Chair in AIGC2025, Hangzhou</li> 
     <li>2025.11:&thinsp; I am awarded the Outstanding Young Scholar of Asia-Pacific Artificial Intelligence Education </li> 
     <li>2025.11:&thinsp; I am awarded the Excellent Case Award of Asia-Pacific Artificial Intelligence Education </li> 
     <li>2025.08:&thinsp; Serve as Program Committee in AAAI 2026 conference, Singapore </li>  
