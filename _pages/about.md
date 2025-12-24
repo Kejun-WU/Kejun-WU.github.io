@@ -100,7 +100,7 @@ My research interest includes neural machine translation and computer vision. I 
   <ul>
     <li>编委, 国际期刊Applied Soft Computing (JCR Q1区) </li>  
     <li>副主编, 国际期刊IEEE Open Journal of Signal Processing (JCR Q2区) </li>  
-    <li>客座编辑, 国际期刊Journal of Real-Time Image Processing (JCR Q2区) </li>  
+    <li>副主编, 国际期刊Journal of Real-Time Image Processing (JCR Q2区) </li>  
     <li>客座编辑, 国际期刊Journal of Visual Communication and Image Representation (JCR Q2区) </li>  
     <li>程序委员会, 国际会议AAAI 2026, 新加坡 </li>  
     <li>程序委员会, 专题主席, 国际会议AIGC 2025, 杭州 </li>
@@ -128,7 +128,7 @@ My research interest includes neural machine translation and computer vision. I 
   <ul>
     <li>Editorial Board, Applied Soft Computing </li>  
     <li>Associate Editor, IEEE Open Journal of Signal Processing </li>  
-    <li>Lead Guest Editor, Journal of Real-Time Image Processing </li>  
+    <li>Associate Editor, Journal of Real-Time Image Processing </li> 
     <li>Lead Guest Editor, Journal of Visual Communication and Image Representation </li>  
     <li>Program Committee, AAAI 2026, Singapore </li>  
     <li>Program Committee, Session Chair, AIGC 2025, Hangzhou, China </li>
