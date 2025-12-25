@@ -162,7 +162,6 @@ My research interest includes neural machine translation and computer vision. I 
 <div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
   <ul>
 
-    <li>2025.12:&thinsp; 担任AIGC2025会议专题主持、报告嘉宾</li> 
     <li>2025.11:&thinsp; 获亚太人工智能教育优秀青年学者奖</li>  
     <li>2025.11:&thinsp; 获亚太人工智能教育优秀案例奖</li>  
     <li>2025.10:&thinsp; 获全国电子信息类专业高校教师智慧教学案例竞赛(浩埔杯)中南赛区二等奖</li>
@@ -196,7 +195,6 @@ My research interest includes neural machine translation and computer vision. I 
 <div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
   <ul>
 
-    <li>2025.12:&thinsp; Invited to serve as Keynote Speaker and Session Chair in AIGC2025, Hangzhou</li> 
     <li>2025.11:&thinsp; I am awarded the Outstanding Young Scholar of Asia-Pacific Artificial Intelligence Education </li> 
     <li>2025.11:&thinsp; I am awarded the Excellent Case Award of Asia-Pacific Artificial Intelligence Education </li> 
     <li>2025.08:&thinsp; Serve as Program Committee in AAAI 2026 conference, Singapore </li>  
