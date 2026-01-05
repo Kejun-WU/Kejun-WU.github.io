@@ -253,7 +253,8 @@ My research interest includes neural machine translation and computer vision. I 
   <li>&thinsp;R. Wang, <b>K. Wu</b>, R. Qiao, C. Yang, C. Cai, “Prompted Complex Context Generation Guided Fine-Grained Ship Recognition,” in Applied Soft Computing, 2025.</li>
   <li>&thinsp;J. Gao, K. Yap, K. Wu, D. Phan, and K. Garg, "Contextual Human Object Interaction Understanding from Pre-Trained Large Language Model," ICASSP 2024, Seoul, Korea</li>
   <li>&thinsp;C. Cai, R. Zhang, J. Gao, K. Wu, K. Yap, Y. Wang, "Temporal Sentence Grounding with Temporally Global Textual Knowledge," ICME 2024, Niagra Falls, Canada</li>
-
+  <li>&thinsp;F. Li, K. Wu, "IBFC-LLM: Image Bitstream Fragment Classification by Large Language Models," CAC 2025, Harbin, China</li>
+  
   </ul>
 </div>
 
@@ -281,6 +282,10 @@ My research interest includes neural machine translation and computer vision. I 
   <li>&thinsp;R. Wang, <b>K. Wu</b>, R. Qiao, C. Yangc, C. Cai, “Prompted Complex Context Generation Guided Fine-Grained Ship Recognition,” in Applied Soft Computing, 2025.</li>
   <li>&thinsp;J. Gao, K. Yap, K. Wu, D. Phan, and K. Garg, "Contextual Human Object Interaction Understanding from Pre-Trained Large Language Model," ICASSP 2024, Seoul, Korea</li>
   <li>&thinsp;C. Cai, R. Zhang, J. Gao, K. Wu, K. Yap, Y. Wang, "Temporal Sentence Grounding with Temporally Global Textual Knowledge," ICME 2024, Niagra Falls, Canada</li>
+  <li>&thinsp;F. Li, K. Wu, "IBFC-LLM: Image Bitstream Fragment Classification by Large Language Models," CAC 2025, Harbin, China</li>
+  
+
+
   </ul>
 </div>
 
@@ -395,16 +400,15 @@ My research interest includes neural machine translation and computer vision. I 
 
 我很荣幸能参与到这些优秀学生的培养过程: 
 
+<li>F. Li, Master Student, HUST (Byte-domain LLMs)</li>
+<li>C. Zhang, Ph.D Student, HUST (LLMs on anomaly detection)</li>
+<li>J. Gao, Ph.D Student, NTU, Singapore (LLMs on HOI)</li>
+<li>W. Liu, Ph.D Student, NTU, Singapore (Gen-AI on super resolution)</li>
+<li>T. Liu, Ph.D Student, NTU, Singapore (Gen-AI on image restoration)</li>
+<li>C. Cai, Ph.D, Shopee, Singapore (LLMs on Open-vocabulary Grounding)</li> 
 <li>H. Dong, Intern Student, Columbia University, New York, USA (Trustworthy MLLM)</li>
 <li>Q. Zhang, Intern Student, KTH Royal Institute of Technology, Sweden (LLMs on multimedia understanding)</li>
-<li>J. Liang, Intern Student, Huazhong University of Science and Technology (LLMs on multimedia understanding)</li>
-<li>F. Li, Master Student, Huazhong University of Science and Technology (LLMs on Byte-domain understanding)</li>
-<li>C. Zhang, Ph.D Student, Huazhong University of Science and Technology (LLMs on signal processing)</li>
-<li>J. Gao, Ph.D Student, Nanyang Technological University (LLMs on HOI)</li>
-<li>W. Liu, Ph.D Student, Nanyang Technological University (Gen-AI on image restoration)</li>
-<li>T. Liu, Ph.D Student, Nanyang Technological University (Gen-AI on image restoration)</li>
-<li>C. Cai, Ph.D, Shopee, Singapore (LLMs on Open-vocabulary Grounding)</li> 
-
+<li>J. Liang, Q. An, Z. Liu, X. Hu, Z. Liao, H. Shi, H. Xie, J. Wan, S. Li, J. Jiang, P. Lv. R. Zhao, et.al. Intern Student, HUST (LLMs, MLLMs, Agent)</li>
 
 </div>
 
@@ -415,15 +419,15 @@ My research interest includes neural machine translation and computer vision. I 
 
 I'm honored to have participated in the supervision of these excellent students: 
 
+<li>F. Li, Master Student, HUST (Byte-domain LLMs)</li>
+<li>C. Zhang, Ph.D Student, HUST (LLMs on anomaly detection)</li>
+<li>J. Gao, Ph.D Student, NTU, Singapore (LLMs on HOI)</li>
+<li>W. Liu, Ph.D Student, NTU, Singapore (Gen-AI on super resolution)</li>
+<li>T. Liu, Ph.D Student, NTU, Singapore (Gen-AI on image restoration)</li>
+<li>C. Cai, Ph.D, Shopee, Singapore (LLMs on Open-vocabulary Grounding)</li> 
 <li>H. Dong, Intern Student, Columbia University, New York, USA (Trustworthy MLLM)</li>
 <li>Q. Zhang, Intern Student, KTH Royal Institute of Technology, Sweden (LLMs on multimedia understanding)</li>
-<li>J. Liang, Intern Student, Huazhong University of Science and Technology (LLMs on multimedia understanding)</li>
-<li>F. Li, Master Student, Huazhong University of Science and Technology (LLMs on Byte-domain understanding)</li>
-<li>C. Zhang, Ph.D Student, Huazhong University of Science and Technology (LLMs on signal processing)</li>
-<li>J. Gao, Ph.D Student, Nanyang Technological University (LLMs on HOI)</li>
-<li>W. Liu, Ph.D Student, Nanyang Technological University (Gen-AI on image restoration)</li>
-<li>T. Liu, Ph.D Student, Nanyang Technological University (Gen-AI on image restoration)</li>
-<li>C. Cai, Ph.D, Shopee, Singapore (LLMs on Open-vocabulary Grounding)</li> 
+<li>J. Liang, Q. An, Z. Liu, X. Hu, Z. Liao, H. Shi, H. Xie, J. Wan, S. Li, J. Jiang, P. Lv. R. Zhao, et.al. Intern Student, HUST (LLMs, MLLMs, Agent)</li>
  
 </div>
 
