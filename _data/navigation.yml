@@ -27,3 +27,7 @@ main:
   - title_en: "Students"
     title_zh: "学生培养"
     url: "/#students"
+
+  - title_en: "Teaching"
+    title_zh: "教学信息"
+    url: "/#teaching"
