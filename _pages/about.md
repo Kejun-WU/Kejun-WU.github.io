@@ -359,10 +359,6 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 
-<!--     # Teaching 📖  2026 Spring Deep Learning, Digital Speech Processing, Data Mining  -->
-
-
-
 <!--     # Educations 📖     -->
 
 <span class='anchor' id='educations'></span>
@@ -436,6 +432,26 @@ I'm honored to have participated in the supervision of these excellent students:
 
 
  
+
+<!--     # Teaching 📖    -->
+
+<span class='anchor' id='teaching'></span>
+<div class="i18n zh">
+<h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">教学信息</h1>
+<li>2026春, 深度学习</li>
+<li>2026春, 数字语音处理</li>
+<li>2026春, 数据挖掘</li>
+</div>
+
+<div class="i18n en">
+<h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">Teaching</h1>
+<li>2026 Spring, Deep Learning</li>
+<li>2026 Spring, Digital Speech Processing</li>
+<li>2026 Spring, Data Mining</li>
+
+</div>
+
+
 
 
  
