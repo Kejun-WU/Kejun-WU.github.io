@@ -63,8 +63,9 @@ His research interest includes Multimodal Large Language Models, Byte-based LLMs
 He serves as an Associate Editor / Editorial Board Member of IEEE OJSP, ASOC, and JRTIP, etc., an Area Chair / Session Chair / Program Committee in AAAI 2026, PRCV 2026, AIGC 2025, IJCNN 2025, IEEE ICASSP 2024,ISCAS 2024, and MMSP2023. He is an IEEE Senior Member.<br>
 
 🚀 &nbsp; Recruiting intern/ visiting/ Master students. On-site, remote, or hybrid learning are welcome.<br>
-🚀 &nbsp; We are building a Universal Modality Learning Framework by Byte-based-LLMs for breaking the Modality Barrier, serving as a digital world simulators.<br>
-<!--   by performing perception and understanding on byte domain  -->
+
+<!--   🚀 &nbsp; We are building a Universal Modality Learning Framework by Byte-based-LLMs for breaking the Modality Barrier, serving as a digital world simulators.<br>
+by performing perception and understanding on byte domain  -->
 
 <!--  Contact via <kjwu@hust.edu.cn>  -->
 
