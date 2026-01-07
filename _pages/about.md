@@ -397,11 +397,11 @@ My research interest includes neural machine translation and computer vision. I 
 
 我很荣幸能参与到这些优秀学生的培养过程: 
 
-<li>F. Li, Master Student, HUST (Byte-domain LLMs)</li>
-<li>C. Zhang, Ph.D Student, HUST (LLMs on anomaly detection)</li>
 <li>J. Gao, Ph.D Student, NTU, Singapore (LLMs on HOI)</li>
 <li>W. Liu, Ph.D Student, NTU, Singapore (Gen-AI on super resolution)</li>
 <li>T. Liu, Ph.D Student, NTU, Singapore (Gen-AI on image restoration)</li>
+<li>F. Li, Master Student, HUST (Byte-domain LLMs)</li>
+<li>C. Zhang, Ph.D Student, HUST (LLMs on anomaly detection)</li>
 <li>H. Dong, Intern Student, Columbia University, New York, USA (Trustworthy MLLM)</li>
 <li>Q. Zhang, Intern Student, KTH Royal Institute of Technology, Sweden (LLMs on multimedia understanding)</li>
 <li>J. Chen, X. Xia, J. Zhang, Z. Yu, C. Huang, et.al. Intern Student, HUST (Perception-enhanced LLMs)</li>
@@ -416,11 +416,11 @@ My research interest includes neural machine translation and computer vision. I 
 
 I'm honored to have participated in the supervision of these excellent students: 
 
-<li>F. Li, Master Student, HUST (Byte-domain LLMs)</li>
-<li>C. Zhang, Ph.D Student, HUST (LLMs on anomaly detection)</li>
 <li>J. Gao, Ph.D Student, NTU, Singapore (LLMs on HOI)</li>
 <li>W. Liu, Ph.D Student, NTU, Singapore (Gen-AI on super resolution)</li>
 <li>T. Liu, Ph.D Student, NTU, Singapore (Gen-AI on image restoration)</li>
+<li>F. Li, Master Student, HUST (Byte-domain LLMs)</li>
+<li>C. Zhang, Ph.D Student, HUST (LLMs on anomaly detection)</li>
 <li>H. Dong, Intern Student, Columbia University, New York, USA (Trustworthy MLLM)</li>
 <li>Q. Zhang, Intern Student, KTH Royal Institute of Technology, Sweden (LLMs on multimedia understanding)</li>
 <li>J. Chen, X. Xia, J. Zhang, Z. Yu, C. Huang, et.al. Intern Student, HUST (Perception-enhanced LLMs)</li>
