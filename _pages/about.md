@@ -328,14 +328,14 @@ My research interest includes neural machine translation and computer vision. I 
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">荣誉奖项</h1>
 
 
-<li>&thinsp;亚太人工智能教育优秀青年学者</li>
-<li>&thinsp;亚太人工智能教育优秀案例奖</li>  
-<li>&thinsp;春晖杯中国留学人员创新创业大赛优胜奖（排一，教育部）</li>
-<li>&thinsp;全国博士后创新创业大赛铜奖（排一，人力资源和社会保障部）</li>
-<li>&thinsp;中国国际大学生创新创业大赛湖北省金奖（排二，湖北省教育厅）</li>
-<li>&thinsp;中国国际大学生创新创业大赛全国金奖（原互联网+，教育部）</li>
-<li>&thinsp;全国高校电子信息实践教育大会教学案例二等奖</li>
-<li>&thinsp;全国电子信息类专业高校教师智慧教学案例竞赛(浩埔杯)中南赛区二等奖</li>
+&thinsp;<li>亚太人工智能教育优秀青年学者</li>
+&thinsp;<li>亚太人工智能教育优秀案例奖</li>  
+&thinsp;<li>春晖杯中国留学人员创新创业大赛优胜奖（排一，教育部）</li>
+&thinsp;<li>全国博士后创新创业大赛铜奖（排一，人力资源和社会保障部）</li>
+&thinsp;<li>中国国际大学生创新创业大赛湖北省金奖（排二，湖北省教育厅）</li>
+&thinsp;<li>中国国际大学生创新创业大赛全国金奖（原互联网+，教育部）</li>
+&thinsp;<li>全国高校电子信息实践教育大会教学案例二等奖</li>
+&thinsp;<li>全国电子信息类专业高校教师智慧教学案例竞赛(浩埔杯)中南赛区二等奖</li>
 
 <!-- <li>&thinsp;湖北省科学技术进步奖三等奖</li> -->
 </div>
