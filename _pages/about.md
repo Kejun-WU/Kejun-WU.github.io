@@ -287,8 +287,6 @@ My research interest includes neural machine translation and computer vision. I 
   <li>&thinsp;C. Cai, R. Zhang, J. Gao, K. Wu, K. Yap, Y. Wang, "Temporal Sentence Grounding with Temporally Global Textual Knowledge," ICME 2024, Niagra Falls, Canada</li>
   <li>&thinsp;F. Li, K. Wu, "IBFC-LLM: Image Bitstream Fragment Classification by Large Language Models," CAC 2025, Harbin, China</li>
   
-
-
   </ul>
 </div>
 
@@ -327,17 +325,17 @@ My research interest includes neural machine translation and computer vision. I 
 <div class="i18n zh">
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">荣誉奖项</h1>
 
-
-&thinsp;<li>亚太人工智能教育优秀青年学者</li>
-&thinsp;<li>亚太人工智能教育优秀案例奖</li>  
-&thinsp;<li>春晖杯中国留学人员创新创业大赛优胜奖（排一，教育部）</li>
-&thinsp;<li>全国博士后创新创业大赛铜奖（排一，人力资源和社会保障部）</li>
-&thinsp;<li>中国国际大学生创新创业大赛湖北省金奖（排二，湖北省教育厅）</li>
-&thinsp;<li>中国国际大学生创新创业大赛全国金奖（原互联网+，教育部）</li>
-&thinsp;<li>全国高校电子信息实践教育大会教学案例二等奖</li>
-&thinsp;<li>全国电子信息类专业高校教师智慧教学案例竞赛(浩埔杯)中南赛区二等奖</li>
-
-<!-- <li>&thinsp;湖北省科学技术进步奖三等奖</li> -->
+<ul>
+  <li>亚太人工智能教育优秀青年学者</li>
+  <li>亚太人工智能教育优秀案例奖</li>  
+  <li>春晖杯中国留学人员创新创业大赛优胜奖（排一，教育部）</li>
+  <li>全国博士后创新创业大赛铜奖（排一，人力资源和社会保障部）</li>
+  <li>中国国际大学生创新创业大赛湖北省金奖（排二，湖北省教育厅）</li>
+  <li>中国国际大学生创新创业大赛全国金奖（原互联网+，教育部）</li>
+  <li>全国高校电子信息实践教育大会教学案例二等奖</li>
+  <li>全国电子信息类专业高校教师智慧教学案例竞赛(浩埔杯)中南赛区二等奖</li>
+  <!-- <li>湖北省科学技术进步奖三等奖</li> -->
+</ul>
 </div>
 
 
@@ -345,15 +343,16 @@ My research interest includes neural machine translation and computer vision. I 
 <div class="i18n en">
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">Honors & Awards</h1>
 
-<li>&thinsp;Outstanding Young Scholar in Asia-Pacific Artificial Intelligence Education</li>
-<li>&thinsp;Excellent Case Award in Asia-Pacific Artificial Intelligence Education</li>
-<li>&thinsp;China International College Students' Innovation Competition (formerly Internet +, Gold Award)</li>
-<li>&thinsp;National Postdoctoral Innovation and Entrepreneurship Competition (Bronze Award, ranked first)</li>
-<li>&thinsp;Chunhui Cup Innovation and Entrepreneurship Competition for Chinese Overseas Students (ranked first)</li>
-<li>&thinsp;Letter of Appreciation from University of Oxford</li>
-
-<!-- <li>&thinsp;IET Excellence and Innovation Awards International Awards (Silver Award)</li> <li>IET Impact in Society Awards (Shortlist)</li> -->
-
+<ul>
+    
+  <li>Outstanding Young Scholar in Asia-Pacific Artificial Intelligence Education</li>
+  <li>Excellent Case Award in Asia-Pacific Artificial Intelligence Education</li>
+  <li>China International College Students' Innovation Competition (formerly Internet +, Gold Award)</li>
+  <li>National Postdoctoral Innovation and Entrepreneurship Competition (Bronze Award, ranked first)</li>
+  <li>Chunhui Cup Innovation and Entrepreneurship Competition for Chinese Overseas Students (ranked first)</li>
+  <li>Letter of Appreciation from University of Oxford</li>
+  <!-- <li>IET Excellence and Innovation Awards International Awards (Silver Award)</li> <li>IET Impact in Society Awards (Shortlist)</li> -->
+</ul>
 </div>
 
 
@@ -366,23 +365,24 @@ My research interest includes neural machine translation and computer vision. I 
 <div class="i18n zh">
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">教育经历</h1>
 
-<li>&thinsp;联合培养博士研究生，新加坡南洋理工大学电气与电子工程学院</li>
-<li>&thinsp;博士学位，华中科技大学电子信息与通信学院</li>
-<li>&thinsp;硕士学位，哈尔滨工程大学智能科学与工程学院</li>
-<li>&thinsp;学士学位，上海大学机电工程与自动化学院</li>
-
+<ul>
+  <li>联合培养博士研究生，新加坡南洋理工大学电气与电子工程学院</li>
+  <li>博士学位，华中科技大学电子信息与通信学院</li>
+  <li>硕士学位，哈尔滨工程大学智能科学与工程学院</li>
+  <li>学士学位，上海大学机电工程与自动化学院</li>
+</ul>
 </div>
 
 
 <!-- 英文块 -->
 <div class="i18n en">
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">Educations</h1>
-
-<li>&thinsp;Exchange Ph.D Student, School of Electrical and Electronic Engineering, Nanyang Technological University</li>
-<li>&thinsp;Ph.D Student, School of Electronic Information and Communications, Huazhong University of Science and Technology</li>
-<li>&thinsp;Master Student, College of Intelligent Science and Engineering, Harbin Engineering University</li>
-<li>&thinsp;Undergraduate Student, School of Mechatronic Engineering and Automation, Shanghai University</li>
- 
+<ul>
+  <li>Exchange Ph.D Student, School of Electrical and Electronic Engineering, Nanyang Technological University</li>
+  <li>Ph.D Student, School of Electronic Information and Communications, Huazhong University of Science and Technology</li>
+  <li>Master Student, College of Intelligent Science and Engineering, Harbin Engineering University</li>
+  <li>Undergraduate Student, School of Mechatronic Engineering and Automation, Shanghai University</li>
+</ul> 
 </div>
 
 
@@ -398,17 +398,17 @@ My research interest includes neural machine translation and computer vision. I 
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">学生培养</h1>
 
 我很荣幸能参与到这些优秀学生的培养过程: 
-
-<li>&thinsp;J. Gao, Ph.D Student, NTU, Singapore (LLMs on HOI)</li>
-<li>&thinsp;W. Liu, Ph.D Student, NTU, Singapore (Gen-AI on super resolution)</li>
-<li>&thinsp;T. Liu, Ph.D Student, NTU, Singapore (Gen-AI on image restoration)</li>
-<li>&thinsp;F. Li, Master Student, HUST (Byte-domain LLMs)</li>
-<li>&thinsp;C. Zhang, Ph.D Student, HUST (LLMs on anomaly detection)</li>
-<li>&thinsp;H. Dong, Intern Student, Columbia University, New York, USA (Trustworthy MLLM)</li>
-<li>&thinsp;Q. Zhang, Intern Student, KTH Royal Institute of Technology, Sweden (LLMs on multimedia understanding)</li>
-<li>&thinsp;J. Chen, X. Xia, J. Zhang, Z. Yu, C. Huang, et.al. Intern Student, HUST (Perception-enhanced LLMs)</li>
-<li>&thinsp;J. Liang, Q. An, Q. Zeng, Z. Liu, X. Hu, Z. Liao, H. Shi, H. Xie, J. Wan, S. Li, J. Jiang, P. Lv, et.al. Intern Student, HUST (MLLMs, Agent)</li>
-
+<ul>
+  <li>&thinsp;J. Gao, Ph.D Student, NTU, Singapore (LLMs on HOI)</li>
+  <li>&thinsp;W. Liu, Ph.D Student, NTU, Singapore (Gen-AI on super resolution)</li>
+  <li>&thinsp;T. Liu, Ph.D Student, NTU, Singapore (Gen-AI on image restoration)</li>
+  <li>&thinsp;F. Li, Master Student, HUST (Byte-domain LLMs)</li>
+  <li>&thinsp;C. Zhang, Ph.D Student, HUST (LLMs on anomaly detection)</li>
+  <li>&thinsp;H. Dong, Intern Student, Columbia University, New York, USA (Trustworthy MLLM)</li>
+  <li>&thinsp;Q. Zhang, Intern Student, KTH Royal Institute of Technology, Sweden (LLMs on multimedia understanding)</li>
+  <li>&thinsp;J. Chen, X. Xia, J. Zhang, Z. Yu, C. Huang, et.al. Intern Student, HUST (Perception-enhanced LLMs)</li>
+  <li>&thinsp;J. Liang, Q. An, Q. Zeng, Z. Liu, X. Hu, Z. Liao, H. Shi, H. Xie, J. Wan, S. Li, J. Jiang, P. Lv, et.al. Intern Student, HUST (MLLMs, Agent)</li>
+</ul>
 </div>
 
 
@@ -417,17 +417,17 @@ My research interest includes neural machine translation and computer vision. I 
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">Students</h1>
 
 I'm honored to have participated in the supervision of these excellent students: 
-
-<li>&thinsp;J. Gao, Ph.D Student, NTU, Singapore (LLMs on HOI)</li>
-<li>&thinsp;W. Liu, Ph.D Student, NTU, Singapore (Gen-AI on super resolution)</li>
-<li>&thinsp;T. Liu, Ph.D Student, NTU, Singapore (Gen-AI on image restoration)</li>
-<li>&thinsp;F. Li, Master Student, HUST (Byte-domain LLMs)</li>
-<li>&thinsp;C. Zhang, Ph.D Student, HUST (LLMs on anomaly detection)</li>
-<li>&thinsp;H. Dong, Intern Student, Columbia University, New York, USA (Trustworthy MLLM)</li>
-<li>&thinsp;Q. Zhang, Intern Student, KTH Royal Institute of Technology, Sweden (LLMs on multimedia understanding)</li>
-<li>&thinsp;J. Chen, X. Xia, J. Zhang, Z. Yu, C. Huang, et.al. Intern Student, HUST (Perception-enhanced LLMs)</li>
-<li>&thinsp;J. Liang, Q. An, Q. Zeng, Z. Liu, X. Hu, Z. Liao, H. Shi, H. Xie, J. Wan, S. Li, J. Jiang, P. Lv, et.al. Intern Student, HUST (MLLMs, Agent)</li>
- 
+<ul>
+  <li>&thinsp;J. Gao, Ph.D Student, NTU, Singapore (LLMs on HOI)</li>
+  <li>&thinsp;W. Liu, Ph.D Student, NTU, Singapore (Gen-AI on super resolution)</li>
+  <li>&thinsp;T. Liu, Ph.D Student, NTU, Singapore (Gen-AI on image restoration)</li>
+  <li>&thinsp;F. Li, Master Student, HUST (Byte-domain LLMs)</li>
+  <li>&thinsp;C. Zhang, Ph.D Student, HUST (LLMs on anomaly detection)</li>
+  <li>&thinsp;H. Dong, Intern Student, Columbia University, New York, USA (Trustworthy MLLM)</li>
+  <li>&thinsp;Q. Zhang, Intern Student, KTH Royal Institute of Technology, Sweden (LLMs on multimedia understanding)</li>
+  <li>&thinsp;J. Chen, X. Xia, J. Zhang, Z. Yu, C. Huang, et.al. Intern Student, HUST (Perception-enhanced LLMs)</li>
+  <li>&thinsp;J. Liang, Q. An, Q. Zeng, Z. Liu, X. Hu, Z. Liao, H. Shi, H. Xie, J. Wan, S. Li, J. Jiang, P. Lv, et.al. Intern Student, HUST (MLLMs, Agent)</li>
+</ul> 
 </div>
 
 
@@ -438,17 +438,20 @@ I'm honored to have participated in the supervision of these excellent students:
 <span class='anchor' id='teaching'></span>
 <div class="i18n zh">
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">教学信息</h1>
-<li>&thinsp;2026春, 深度学习</li>
-<li>&thinsp;2026春, 数据挖掘</li>
-<li>&thinsp;2026春, 数字语音处理</li>
+<ul>
+  <li>2026春, 深度学习</li>
+  <li>2026春, 数据挖掘</li>
+  <li>2026春, 数字语音处理</li>
+</ul>
 </div>
 
 <div class="i18n en">
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">Teaching</h1>
-<li>&thinsp;2026 Spring, Deep Learning</li>
-<li>&thinsp;2026 Spring, Data Mining</li>
-<li>&thinsp;2026 Spring, Digital Speech Processing</li>
-
+<ul>
+  <li>2026 Spring, Deep Learning</li>
+  <li>2026 Spring, Data Mining</li>
+  <li>2026 Spring, Digital Speech Processing</li>
+</ul>
 </div>
 
 
