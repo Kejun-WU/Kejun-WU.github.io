@@ -1,26 +1,31 @@
-<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>页面标题</title>
-  
-  <style>
-    .lang-btn {
-      padding: 4px 12px;
-      border: 1px solid #ccc;
-      border-radius: 4px;
-      background-color: #f5f5f5;
-      text-decoration: none;
-      cursor: pointer;
-    }
+<style>
+.lang-toggle {
+  display: inline-flex;
+  background: #e5e5e5;
+  border-radius: 8px;
+  padding: 2px;
+  gap: 2px;
+}
 
-    .lang-btn:hover {
-      background-color: #e0e0e0;
-    }
-  </style>
-</head>
-<body>
+.lang-option {
+  padding: 4px 12px;
+  border-radius: 6px;
+  text-decoration: none;
+  color: #000;
+  font-size: 13px;
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.lang-option.active {
+  background: #fff;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.lang-option:hover {
+  opacity: 0.8;
+}
+</style>
 
 <div class="masthead">
   <div class="masthead__inner-wrap">
@@ -28,7 +33,10 @@
 
       <ul class="visible-links">
         <li class="masthead__menu-item masthead__menu-item--lang">
-          <a href="javascript:void(0)" id="lang-zh-link" class="lang-btn">中文</a> <a href="javascript:void(0)" id="lang-en-link" class="lang-btn">EN</a>
+          <div class="lang-toggle">
+            <a href="javascript:void(0)" id="lang-zh-link" class="lang-option active">中文</a>
+            <a href="javascript:void(0)" id="lang-en-link" class="lang-option">EN</a>
+          </div>
         </li>
 
         {% for link in site.data.navigation.main %}
@@ -51,5 +59,14 @@
   </div>
 </div>
 
-</body>
-</html>
+<script>
+document.getElementById('lang-zh-link').addEventListener('click', function() {
+  document.querySelectorAll('.lang-option').forEach(el => el.classList.remove('active'));
+  this.classList.add('active');
+});
+
+document.getElementById('lang-en-link').addEventListener('click', function() {
+  document.querySelectorAll('.lang-option').forEach(el => el.classList.remove('active'));
+  this.classList.add('active');
+});
+</script>
