@@ -51,6 +51,12 @@
         {% endfor %}
       </ul>
 
+      <button class="greedy-nav__toggle" type="button" aria-label="Toggle menu">
+        <span class="visually-hidden">Toggle menu</span>
+        <div class="navicon"></div>
+      </button>
+
+
 <script>
 document.getElementById('lang-zh-link').addEventListener('click', function() {
   document.querySelectorAll('.lang-option').forEach(el => el.classList.remove('active'));
@@ -63,13 +69,7 @@ document.getElementById('lang-en-link').addEventListener('click', function() {
 });
 </script>
 
-
       
-      <button class="greedy-nav__toggle" type="button" aria-label="Toggle menu">
-        <span class="visually-hidden">Toggle menu</span>
-        <div class="navicon"></div>
-      </button>
-
       <ul class="hidden-links hidden"></ul>
     </nav>
   </div>
