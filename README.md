@@ -3,7 +3,7 @@
 <!-- AcadHomepage -->
 Personal Homepage of Kejun Wu, Huazhong University of Science and Technology.
 
-adapted from RayeRen/acad-homepage.github.io
+adapted from [RayeRen/acad-homepage.github.io](https://github.com/RayeRen/acad-homepage.github.io)
 </h1>
 
 <!--  注释
