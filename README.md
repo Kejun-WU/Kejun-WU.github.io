@@ -1,7 +1,9 @@
 
 <h1 align="center">
 <!-- AcadHomepage -->
-Personal Homepage of Kejun Wu, Huazhong University of Science and Technology
+Personal Homepage of Kejun Wu, Huazhong University of Science and Technology.
+
+adapted from RayeRen/acad-homepage.github.io
 </h1>
 
 <!--  注释
