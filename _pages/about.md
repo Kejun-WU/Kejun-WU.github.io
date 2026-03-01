@@ -47,7 +47,7 @@ redirect_from:
 吴科君 (<a href="http://faculty.hust.edu.cn/WuKejun/zh_CN/index.htm" target="_blank">教师主页</a>) ，博士，IEEE高级会员，研究生导师，亚太人工智能教育优秀青年学者，现任华中科技大学电子信息与通信学院讲师/助理教授。在此之前，他于新加坡南洋理工大学电气电子工程学院从事博士后研究（与Yap Kim-Hui、<a href="https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-chau-lap-pui/?sc_lang=en">周立培</a>教授，IEEE Fellow）。他获得了华中科技大学博士学位（导师 杨铀 教授，IET/Optica Fellow）、哈尔滨工程大学硕士学位（导师 <a href="http://cisse.hrbeu.edu.cn/info/1088/3385.htm" target="_blank">蔡成涛</a> 教授，CJ学者）以及上海大学学士学位。
 他的研究兴趣主要包括多模态大模型、多媒体理解、生成式压缩等领域，近5年在IEEE T-MM、IEEE T-CSVT、NeurIPS、ACM Multimedia等高水平期刊、会议发表论文50余篇。担任IEEE OJSP、ASOC、JRTIP等权威期刊的副主编/编委等，并在国际会议AAAI 2026、AIGC 2025、IJCNN 2025、ICASSP2024、ISCAS2024及MMSP2023中担任程序委员会/领域主席/专题主席等。主持或参与国家自然科学基金等项目多项。<br>
 
-🚀 &nbsp; 招收兴趣从事以上研究领域的研究生、研究助理、实习生、访问学生等, 欢迎线下或远程学习。
+<!--   🚀 &nbsp; 招收兴趣从事以上研究领域的研究生、研究助理、实习生、访问学生等, 欢迎线下或远程学习。  --> 
 
 </div>
 
@@ -62,7 +62,7 @@ He obtained his Ph.D. degree from Huazhong University of Science and Technology 
 His research interest includes Multimodal Large Language Models, and Generative Compression. He has over 50 publications in top-tier venues in the past 5 years. 
 He serves as an Associate Editor / Editorial Board Member of IEEE OJSP, ASOC, and JRTIP, etc., an Area Chair / Session Chair / Program Committee in AAAI 2026, PRCV 2026, IJCNN 2026, AIGC 2025, IJCNN 2025, IEEE ICASSP 2024,ISCAS 2024, and MMSP2023. He is an IEEE Senior Member.<br>
 
-🚀 &nbsp; Recruiting intern/ visiting/ Master students. On-site, remote, or hybrid learning are welcome.<br>
+<!--  🚀 &nbsp; Recruiting intern/ visiting/ Master students. On-site, remote, or hybrid learning are welcome.<br>  --> 
 
 <!--   🚀 &nbsp; We are building a Universal Modality Learning Framework by Byte-based-LLMs for breaking the Modality Barrier, serving as a digital world simulators.<br>
 by performing perception and understanding on byte domain  -->
