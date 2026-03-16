@@ -132,7 +132,7 @@ My research interest includes neural machine translation and computer vision. I 
     <li>Associate Editor, IEEE Open Journal of Signal Processing </li>  
     <li>Associate Editor, Journal of Real-Time Image Processing </li> 
     <li>Lead Guest Editor, Journal of Visual Communication and Image Representation </li>  
-    <li>Guest Editor, Journal of Electronics /& Information Technology </li>  
+    <li>Guest Editor, Journal of Electronics & Information Technology </li>  
     <li>Program Committee, AAAI 2026, Singapore </li>  
     <li>Area Chair, IJCNN 2026, Netherlands </li>  
     <li>Program Committee, Session Chair, AIGC 2025, Hangzhou, China </li>
