@@ -166,6 +166,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
   <ul>
 
+    <li>2026.01:&thinsp; 共同在CVPR2026组织NTIRE Bitstream-corrupted Video Restoration挑战赛</li> 
     <li>2025.12:&thinsp; 担任AIGC 2025国际会议专题主席，杭州</li>
     <li>2025.11:&thinsp; 获亚太人工智能教育优秀青年学者奖</li>  
     <li>2025.11:&thinsp; 获亚太人工智能教育优秀案例奖</li>  
@@ -200,9 +201,10 @@ My research interest includes neural machine translation and computer vision. I 
 <div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
   <ul>
 
+    <li>2026.01:&thinsp; We organized NTIRE Bitstream-corrupted Video Restoration Challenge @ CVPR 2026</li> 
     <li>2025.12:&thinsp; Serve as Session Chair in AIGC 2025, Hangzhou</li> 
-    <li>2025.11:&thinsp; I am awarded the Outstanding Young Scholar of Asia-Pacific Artificial Intelligence Education </li> 
-    <li>2025.11:&thinsp; I am awarded the Excellent Case Award of Asia-Pacific Artificial Intelligence Education </li> 
+    <li>2025.11:&thinsp; Awarded the Outstanding Young Scholar of Asia-Pacific Artificial Intelligence Education </li> 
+    <li>2025.11:&thinsp; Awarded the Excellent Case Award of Asia-Pacific Artificial Intelligence Education </li> 
     <li>2025.08:&thinsp; Serve as Program Committee in AAAI 2026 conference, Singapore </li>  
     <li>2025.07:&thinsp; Invited to lecture (in English) the 2025 Discover At HUST--"Metavers" International Summer School </li>    
     <li>2025.07:&thinsp; 2 papers are accepted by 33rd ACM International Conference on Multimedia (ACM Multimedia 2025), Dublin, Ireland </li>
