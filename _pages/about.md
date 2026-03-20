@@ -45,9 +45,9 @@ redirect_from:
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">个人简介</h1>
 
 吴科君 (<a href="http://faculty.hust.edu.cn/WuKejun/zh_CN/index.htm" target="_blank">教师主页</a>) ，博士，IEEE高级会员，研究生导师，亚太人工智能教育优秀青年学者，现任华中科技大学电子信息与通信学院讲师/助理教授。在此之前，他于新加坡南洋理工大学电气电子工程学院从事博士后研究（与Yap Kim-Hui、<a href="https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-chau-lap-pui/?sc_lang=en">周立培</a>教授，IEEE Fellow）。他获得了华中科技大学博士学位（导师 杨铀 教授，IET/Optica Fellow）、哈尔滨工程大学硕士学位（导师 <a href="http://cisse.hrbeu.edu.cn/info/1088/3385.htm" target="_blank">蔡成涛</a> 教授，CJ学者）以及上海大学学士学位。
-他的研究兴趣主要包括多模态大模型、多媒体理解、生成式压缩等领域，近5年在IEEE T-MM、IEEE T-CSVT、NeurIPS、ACM Multimedia等高水平期刊、会议发表论文50余篇。担任IEEE OJSP、ASOC、JRTIP等权威期刊的副主编/编委等，并在国际会议AAAI 2026、AIGC 2025、IJCNN 2025、ICASSP2024、ISCAS2024及MMSP2023中担任程序委员会/领域主席/专题主席等。主持或参与国家自然科学基金等项目多项。<br>
+他的研究兴趣主要包括多模态大模型、多媒体理解、生成式压缩等领域，近5年在IEEE T-MM、IEEE T-CSVT、NeurIPS、ACM Multimedia等高水平期刊、会议发表论文50余篇。担任IEEE OJSP、ASOC、JRTIP等权威期刊的副主编/编委等，并在国际会议AAAI 2026、AIGC 2025、IJCNN 2025、ICASSP2024、ISCAS2024及MMSP2023中担任程序委员会/领域主席/专题主席等。主持及参与国家自然科学基金等项目多项。<br>
 
-<!--   🚀 &nbsp; 招收兴趣从事以上研究领域的研究生、研究助理、实习生、访问学生等, 欢迎线下或远程学习。  --> 
+🚀 &nbsp; 招收兴趣从事以上研究领域的研究生、研究助理、实习生、访问学生等。  <!--   --> 
 
 </div>
 
@@ -62,7 +62,7 @@ He obtained his Ph.D. degree from Huazhong University of Science and Technology 
 His research interest includes Multimodal Large Language Models, and Generative Compression. He has over 50 publications in top-tier venues in the past 5 years. 
 He serves as an Associate Editor / Editorial Board Member of IEEE OJSP, ASOC, and JRTIP, etc., an Area Chair / Session Chair / Program Committee in AAAI 2026, PRCV 2026, IJCNN 2026, AIGC 2025, IJCNN 2025, IEEE ICASSP 2024,ISCAS 2024, and MMSP2023. He is an IEEE Senior Member.<br>
 
-<!--  🚀 &nbsp; Recruiting intern/ visiting/ Master students. On-site, remote, or hybrid learning are welcome.<br>  --> 
+🚀 &nbsp; Recruiting intern/ visiting/ Master students. On-site, remote, or hybrid learning are welcome.<br>  <!-- --> 
 
 <!--   🚀 &nbsp; We are building a Universal Modality Learning Framework by Byte-based-LLMs for breaking the Modality Barrier, serving as a digital world simulators.<br>
 by performing perception and understanding on byte domain  -->
@@ -103,6 +103,7 @@ My research interest includes neural machine translation and computer vision. I 
     <li>副主编, 国际期刊Journal of Real-Time Image Processing</li>  
     <li>客座编辑, 国际期刊Journal of Visual Communication and Image Representation</li>  
     <li>客座编辑,《电子与信息学报》中国卓越行动计划中文领军期刊、CCF-T1类</li>
+    <li>讲习班主席, 国际会议PRCV 2026, 哈尔滨 </li> 
     <li>程序委员会, 国际会议AAAI 2026, 新加坡 </li>  
     <li>领域主席, 国际会议IJCNN 2026, 荷兰 </li>  
     <li>程序委员会, 专题主席, 国际会议AIGC 2025, 杭州 </li>
@@ -133,6 +134,7 @@ My research interest includes neural machine translation and computer vision. I 
     <li>Associate Editor, Journal of Real-Time Image Processing </li> 
     <li>Lead Guest Editor, Journal of Visual Communication and Image Representation </li>  
     <li>Guest Editor, Journal of Electronics & Information Technology </li>  
+    <li>Tutorial Chairs, PRCV 2026, Harbin </li>  
     <li>Program Committee, AAAI 2026, Singapore </li>  
     <li>Area Chair, IJCNN 2026, Netherlands </li>  
     <li>Program Committee, Session Chair, AIGC 2025, Hangzhou, China </li>
@@ -166,6 +168,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
   <ul>
 
+    <li>2026.03:&thinsp; 共同在《电子与信息学报》组织专题</li> 
     <li>2026.01:&thinsp; 共同在CVPR2026组织NTIRE Bitstream-corrupted Video Restoration挑战赛</li> 
     <li>2025.12:&thinsp; 担任AIGC 2025国际会议专题主席，杭州</li>
     <li>2025.11:&thinsp; 获亚太人工智能教育优秀青年学者奖</li>  
@@ -176,9 +179,7 @@ My research interest includes neural machine translation and computer vision. I 
     <li>2025.07:&thinsp; 2 篇论文被ACM Multimedia 2025录用（CCF-A），爱尔兰</li>
     <li>2025.06:&thinsp; 1 篇论文被 IEEE Transactions on Multimedia 录用</li>
     <li>2025.06:&thinsp; 担任AIGC 2025国际会议程序委员会委员，杭州</li>    
-    <li>2024.12:&thinsp; 1 篇论文被 ACM Transactions on Multimedia Computing, Communications, and Applications 录用（JCR Q1）</li>
-    <li>2024.11:&thinsp; 2 篇论文被 IEEE Transactions on Multimedia 录用（中科院一区 TOP）</li>
-    <li>2024.08:&thinsp; 1 篇论文被 Computer Vision and Image Understanding 录用（JCR Q1）</li>
+    <li>2024.11:&thinsp; 2 篇论文被 IEEE Transactions on Multimedia 录用</li>
     <li>2024.05:&thinsp; 受邀担任 IEEE ISCAS 2024国际会议专题主席，新加坡</li>
     <li>2024.04:&thinsp; 受邀担任 IEEE ICASSP 2024国际会议专题主席，韩国</li>
     <li>2024.01:&thinsp; 2 篇论文被 Optics Express 和 Optics Letters 录用</li>
@@ -201,7 +202,8 @@ My research interest includes neural machine translation and computer vision. I 
 <div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
   <ul>
 
-    <li>2026.01:&thinsp; We organized NTIRE Bitstream-corrupted Video Restoration Challenge @ CVPR 2026</li> 
+    <li>2026.03:&thinsp; Serve as Guest Editor in Journal of Electronics & Information Technology</li> 
+    <li>2026.01:&thinsp; Serve as Organizer in NTIRE Bitstream-corrupted Video Restoration Challenge @ CVPR 2026</li> 
     <li>2025.12:&thinsp; Serve as Session Chair in AIGC 2025, Hangzhou</li> 
     <li>2025.11:&thinsp; Awarded the Outstanding Young Scholar of Asia-Pacific Artificial Intelligence Education </li> 
     <li>2025.11:&thinsp; Awarded the Excellent Case Award of Asia-Pacific Artificial Intelligence Education </li> 
@@ -210,9 +212,7 @@ My research interest includes neural machine translation and computer vision. I 
     <li>2025.07:&thinsp; 2 papers are accepted by 33rd ACM International Conference on Multimedia (ACM Multimedia 2025), Dublin, Ireland </li>
     <li>2025.06:&thinsp; 1 paper is accepted by IEEE Transactions on Multimedia (Corresponding Author)</li>
     <li>2025.06:&thinsp; Serve as Program Committee for International Conference on AI-Generated Content (AIGC 2025), Hangzhou</li>    
-    <li>2024.12:&thinsp; 1 paper is accepted by ACM Transactions on Multim. Comput. Commun. Appl. (JCR Q1)</li>
     <li>2024.11:&thinsp; 2 papers are accepted by IEEE Transactions on Multimedia (中科院一区TOP，JCR Q1)</li>
-    <li>2024.08:&thinsp; 1 paper is accepted by Computer Vision and Image Understanding(JCR Q1)</li>
     <li>2024.05:&thinsp; I am appointed as Session Chair by IEEE ISCAS 2024, Singapore</li>
     <li>2024.04:&thinsp; I am appointed as Session Chair by IEEE ICASSP 2024, Korea</li>
     <li>2024.01:&thinsp; 2 papers are accepted by Optics Express and Optics Letters</li>
