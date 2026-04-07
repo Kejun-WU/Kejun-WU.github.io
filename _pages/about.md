@@ -45,7 +45,7 @@ redirect_from:
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">个人简介</h1>
 
 吴科君 (<a href="http://faculty.hust.edu.cn/WuKejun/zh_CN/index.htm" target="_blank">教师主页</a>) ，博士，IEEE高级会员，研究生导师，亚太人工智能教育优秀青年学者，现任华中科技大学电子信息与通信学院讲师/助理教授。在此之前，他于新加坡南洋理工大学电气电子工程学院从事博士后研究（与Yap Kim-Hui、<a href="https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-chau-lap-pui/?sc_lang=en">周立培</a>教授，IEEE Fellow）。他获得了华中科技大学博士学位（导师 杨铀 教授，IET/Optica Fellow）、哈尔滨工程大学硕士学位（导师 <a href="http://cisse.hrbeu.edu.cn/info/1088/3385.htm" target="_blank">蔡成涛</a> 教授，CJ学者）以及上海大学学士学位。
-他的研究兴趣主要包括多模态大模型、多媒体理解、生成式压缩等领域，近5年在IEEE T-MM、IEEE T-CSVT、NeurIPS、ACM Multimedia等高水平期刊、会议发表论文50余篇。担任IEEE OJSP、ASOC、JRTIP等权威期刊的副编辑/编委等，并在国际会议AAAI 2026、AIGC 2025、IJCNN 2025、ICASSP2024、ISCAS2024及MMSP2023中担任程序委员会/领域主席/专题主席等。主持及参与国家自然科学基金等项目多项。<br>
+他的研究兴趣主要包括多模态大模型、多媒体理解、生成式压缩等领域，近5年在IEEE T-MM、IEEE T-CSVT、NeurIPS、ACM Multimedia等高水平期刊、会议发表论文50余篇。担任IEEE OJSP、ASOC、JRTIP等权威期刊的副编辑/编委等，并在国际会议AAAI 2026、PRCV 2026、AIGC 2025、IJCNN 2025、ICASSP2024、ISCAS2024及MMSP2023中担任程序委员会/讲习班主席/领域主席/专题主席等。主持及参与国家自然科学基金等项目多项。<br>
 
 🚀 &nbsp; 招收兴趣从事以上研究领域的研究生、研究助理、实习生、访问学生等。  <!--   --> 
 
@@ -60,7 +60,7 @@ redirect_from:
 Dr. Kejun Wu (<a href="http://faculty.hust.edu.cn/WuKejun/en/index.htm" target="_blank">Faculty HomePage</a>) is currently a Lecturer/Assistant Professor at School of Electronic Information and Communications, Huazhong University of Science and Technology, Wuhan, China. Before that, he worked as a Research Fellow researcher at School of Electrical and Electronic Engineering, Nanyang Technological University (work with Prof. <a href="https://dr.ntu.edu.sg/entities/person/Yap-Kim-Hui" target="_blank">Yap Kim-Hui</a> and <a href="https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-chau-lap-pui/?sc_lang=en">Chau Lap-Pui</a>, IEEE Fellow). 
 He obtained his Ph.D. degree from Huazhong University of Science and Technology (supervised by Prof. You Yang, IET/Optica Fellow), Master degree from Harbin Engineering University (supervised by Prof. <a href="http://cisse.hrbeu.edu.cn/info/1088/3385.htm" target="_blank">Chengtao Cai</a>), and Bachelor degree from Shanghai University.
 His research interest includes Multimodal Large Language Models, and Generative Compression. He has over 50 publications in top-tier venues in the past 5 years. 
-He serves as an Associate Editor / Editorial Board Member of IEEE OJSP, ASOC, and JRTIP, etc., an Area Chair / Session Chair / Program Committee in AAAI 2026, PRCV 2026, IJCNN 2026, AIGC 2025, IJCNN 2025, IEEE ICASSP 2024,ISCAS 2024, and MMSP2023. He is an IEEE Senior Member.<br>
+He serves as an Associate Editor / Editorial Board Member of IEEE OJSP, ASOC, and JRTIP, etc., an Area /Tutorial /Session Chair / Program Committee in AAAI 2026, PRCV 2026, IJCNN 2026, AIGC 2025, IJCNN 2025, IEEE ICASSP 2024,ISCAS 2024, and MMSP2023. He is an IEEE Senior Member.<br>
 
 🚀 &nbsp; Recruiting intern/ visiting/ Master students. On-site, remote, or hybrid learning are welcome.<br>  <!-- --> 
 
@@ -99,8 +99,8 @@ My research interest includes neural machine translation and computer vision. I 
 <div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
   <ul>
     <li>编委, 国际期刊Applied Soft Computing</li>  
-    <li>副主编, 国际期刊IEEE Open Journal of Signal Processing</li>  
-    <li>副主编, 国际期刊Journal of Real-Time Image Processing</li>  
+    <li>副编辑, 国际期刊IEEE Open Journal of Signal Processing</li>  
+    <li>副编辑, 国际期刊Journal of Real-Time Image Processing</li>  
     <li>客座编辑, 国际期刊Journal of Visual Communication and Image Representation</li>  
     <li>客座编辑,《电子与信息学报》中国卓越行动计划中文领军期刊、CCF-T1类</li>
     <li>讲习班主席, 国际会议PRCV 2026, 哈尔滨 </li> 
