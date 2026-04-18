@@ -259,7 +259,6 @@ My research interest includes neural machine translation and computer vision. I 
   <li>&thinsp;<b>K. Wu</b>, Z. Li, Y. Yang, and Q. Liu, “Deep Video Compression based on Long-range Temporal Context Learning,” in Computer Vision and Image Understanding, 248(2024): 104127.</li>  
   <li>&thinsp;R. Wang, <b>K. Wu</b>, R. Qiao, C. Yang, C. Cai, “Prompted Complex Context Generation Guided Fine-Grained Ship Recognition,” in Applied Soft Computing, 2025.</li>
   <li>&thinsp;J. Gao, K. Yap, K. Wu, D. Phan, and K. Garg, "Contextual Human Object Interaction Understanding from Pre-Trained Large Language Model," ICASSP 2024, Seoul, Korea</li>
-  <li>&thinsp;C. Cai, R. Zhang, J. Gao, K. Wu, K. Yap, Y. Wang, "Temporal Sentence Grounding with Temporally Global Textual Knowledge," ICME 2024, Niagra Falls, Canada</li>
   <li>&thinsp;F. Li, K. Wu, "IBFC-LLM: Image Bitstream Fragment Classification by Large Language Models," CAC 2025, Harbin, China</li>
   
   </ul>
@@ -287,7 +286,6 @@ My research interest includes neural machine translation and computer vision. I 
   <li>&thinsp;<b>K. Wu</b>, Z. Li, Y. Yang, and Q. Liu, “Deep Video Compression based on Long-range Temporal Context Learning,” in Computer Vision and Image Understanding, 248(2024): 104127.</li>  
   <li>&thinsp;R. Wang, <b>K. Wu</b>, R. Qiao, C. Yangc, C. Cai, “Prompted Complex Context Generation Guided Fine-Grained Ship Recognition,” in Applied Soft Computing, 2025.</li>
   <li>&thinsp;J. Gao, K. Yap, K. Wu, D. Phan, and K. Garg, "Contextual Human Object Interaction Understanding from Pre-Trained Large Language Model," ICASSP 2024, Seoul, Korea</li>
-  <li>&thinsp;C. Cai, R. Zhang, J. Gao, K. Wu, K. Yap, Y. Wang, "Temporal Sentence Grounding with Temporally Global Textual Knowledge," ICME 2024, Niagra Falls, Canada</li>
   <li>&thinsp;F. Li, K. Wu, "IBFC-LLM: Image Bitstream Fragment Classification by Large Language Models," CAC 2025, Harbin, China</li>
   
   </ul>
