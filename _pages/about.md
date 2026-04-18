@@ -103,7 +103,7 @@ My research interest includes neural machine translation and computer vision. I 
     <li>副编辑, 国际期刊Journal of Real-Time Image Processing</li>  
     <li>客座编辑, 国际期刊Journal of Visual Communication and Image Representation</li>  
     <li>客座编辑,《电子与信息学报》中国卓越行动计划中文领军期刊、CCF-T1类</li>
-    <li>讲习班主席, 国际会议PRCV 2026, 哈尔滨 </li> 
+    <li>讲习班主席, 领域主席, 国际会议PRCV 2026, 哈尔滨 </li> 
     <li>程序委员会, 国际会议AAAI 2026, 新加坡 </li>  
     <li>领域主席, 国际会议IJCNN 2026, 荷兰 </li>  
     <li>程序委员会, 专题主席, 国际会议AIGC 2025, 杭州 </li>
@@ -134,7 +134,7 @@ My research interest includes neural machine translation and computer vision. I 
     <li>Associate Editor, Journal of Real-Time Image Processing </li> 
     <li>Lead Guest Editor, Journal of Visual Communication and Image Representation </li>  
     <li>Guest Editor, Journal of Electronics & Information Technology </li>  
-    <li>Tutorial Chairs, PRCV 2026, Harbin </li>  
+    <li>Tutorial Chair, Area Chair, PRCV 2026, Harbin </li>  
     <li>Program Committee, AAAI 2026, Singapore </li>  
     <li>Area Chair, IJCNN 2026, Netherlands </li>  
     <li>Program Committee, Session Chair, AIGC 2025, Hangzhou, China </li>
