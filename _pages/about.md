@@ -110,7 +110,7 @@ My research interest includes neural machine translation and computer vision. I 
     <li>领域主席, 国际会议IJCNN 2025, 意大利 </li>  
     <li>专题主席, 国际会议ISCAS 2024, 新加坡 </li>  
     <li>专题主席, 国际会议ICASSP 2024, 韩国 </li>
-    <li>专题主席, 国际会议MMSP2023, 法国 </li>  
+    <li>专题主席, 国际会议MMSP 2023, 法国 </li>  
     <li>应急态势感知与应急通信技术决策咨询专家团队成员, 中国科协 </li>
     <li>UWA技术规划组专家, 世界超高清视频产业联盟UWA </li>  
     <li>Technical Committee Affiliate, Image, Video, and Multidimensional Signal Processing (IVMSP), IEEE 信号处理学会 </li>
@@ -168,6 +168,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
   <ul>
 
+    <li>2026.04:&thinsp; 受邀在中国图象图形大会(CCIG 2026)作学术报告(5月，广州)</li> 
     <li>2026.03:&thinsp; 共同在《电子与信息学报》组织专题</li> 
     <li>2026.01:&thinsp; 共同在CVPR2026组织NTIRE Bitstream-corrupted Video Restoration挑战赛</li> 
     <li>2025.12:&thinsp; 担任AIGC 2025国际会议专题主席，杭州</li>
@@ -202,6 +203,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
   <ul>
 
+    <li>2026.04:&thinsp; Invited to give a Talk in Chinese Congress on Image and Graphics (CCIG 2026, May, Guangzhou) </li> 
     <li>2026.03:&thinsp; Serve as Guest Editor in Journal of Electronics & Information Technology</li> 
     <li>2026.01:&thinsp; Serve as Organizer in NTIRE Bitstream-corrupted Video Restoration Challenge @ CVPR 2026</li> 
     <li>2025.12:&thinsp; Serve as Session Chair in AIGC 2025, Hangzhou</li> 
