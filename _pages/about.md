@@ -248,7 +248,8 @@ My research interest includes neural machine translation and computer vision. I 
     <li>&thinsp;Wenyang Liu, Tianyi Liu, Chen Cai, Jianjun Gao, Kejun Wu, Kim-Hui Yap, "AsTaSR: Adaptive Superpixel Token Aggregation for Lightweight Image Super-Resolution," AAAI 2026
     <li>&thinsp;X. Yu, <b>K. Wu</b><font color=Blue>*</font>, Y. Yang, and Q. Liu, “WaRENet: A Novel Urban Waterlogging Risk Evaluation Network,” in ACM Transactions on Multimedia Computing, Communications, and Applications, 2024, 20(7):1–28. (Equal Contribution)</li>
 -->
-
+   
+  <li>&thinsp;<b>K. Wu</b>, S. Wang, J. Gao, W. Liu, Q. Liu, C. Cai, and Y. Yang, “LLMArk: Instance-aware Foundation Model for Flood Risk Assessment,” in <b>Information Fusion, 2026.</b> (IF 15.5)</li>
   <li>&thinsp;T. Liu, <b>K. Wu</b>, C. Cai, Y. Wang, K. Yap, L. Chau, “Towards Blind Bitstream-corrupted Video Recovery: A Visual Foundation Model-driven Framework,” in <b>ACM MM 2025</b> (CCF-A)</li>
   <li>&thinsp;C. Cai, T. Liu, J. Gao, W. Liu, <b>K. Wu</b><font color=Blue>*</font>, R. Wang, Y. Wang, S. Liew, “From Semantics, Scene to Instance-awareness: Distilling Foundation Model for Open-vocabulary Grounded Situation Recognition,” in <b>ACM MM 2025</b> (Corresponding Author, CCF-A) </li>    
   <li>&thinsp;T. Liu, <b>K. Wu</b><font color=Blue>*</font>, Y. Wang, W. Liu, K. Yap, and L. Chau, “Bitstream corrupted Video Recovery: A Novel Benchmark Dataset and Method,” <b>NeurIPS 2023</b>. (Equal Contribution, CCF-A)</li>
@@ -275,7 +276,8 @@ My research interest includes neural machine translation and computer vision. I 
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">Selected Publications</h1>
 <div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
   <ul>
-    
+  
+  <li>&thinsp;<b>K. Wu</b>, S. Wang, J. Gao, W. Liu, Q. Liu, C. Cai, and Y. Yang, “LLMArk: Instance-aware Foundation Model for Flood Risk Assessment,” in <b>Information Fusion, 2026.</b> (IF 15.5)</li>   
   <li>&thinsp;T. Liu, <b>K. Wu</b>, C. Cai, Y. Wang, K. Yap, L. Chau, “Towards Blind Bitstream-corrupted Video Recovery: A Visual Foundation Model-driven Framework,” in <b>ACM MM 2025</b> </li>
   <li>&thinsp;C. Cai, T. Liu, J. Gao, W. Liu, <b>K. Wu</b><font color=Blue>*</font>, R. Wang, Y. Wang, S. Liew, “From Semantics, Scene to Instance-awareness: Distilling Foundation Model for Open-vocabulary Grounded Situation Recognition,” in <b>ACM MM 2025</b> (Corresponding Author) </li>    
   <li>&thinsp;T. Liu, <b>K. Wu</b><font color=Blue>*</font>, Y. Wang, W. Liu, K. Yap, and L. Chau, “Bitstream corrupted Video Recovery: A Novel Benchmark Dataset and Method,” <b>NeurIPS 2023</b>. (Equal Contribution)</li>
