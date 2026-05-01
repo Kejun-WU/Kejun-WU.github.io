@@ -94,7 +94,7 @@ My research interest includes neural machine translation and computer vision. I 
 <span class='anchor' id='professional-activities'></span>
 <!-- 中文块 -->
 <div class="i18n zh">
-<h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">学术服务</h1>
+<h1 style="color:#1155A0; font-size:1.5em; font-weight:bolder;">学术服务</h1>
 
 <div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
   <ul>
