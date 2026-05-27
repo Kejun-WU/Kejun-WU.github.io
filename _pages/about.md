@@ -331,7 +331,7 @@ My research interest includes neural machine translation and computer vision. I 
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">荣誉奖项</h1>
 
 <ul>
-  <li>2026施普林格自然杰出编辑奖(编辑贡献奖, 作者服务奖)</li>  
+  <li>施普林格自然杰出编辑奖(编辑贡献奖, 作者服务奖)</li>  
   <li>亚太人工智能教育优秀青年学者</li>
   <li>亚太人工智能教育优秀案例奖</li>  
   <li>春晖杯中国留学人员创新创业大赛优胜奖（排一，教育部）</li>
@@ -350,7 +350,7 @@ My research interest includes neural machine translation and computer vision. I 
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">Honors & Awards</h1>
 
 <ul>
-  <li>2026 Springer Nature Editor of Distinction Awards (Editorial Contribution Award, Author Service Award)</li>  
+  <li>Springer Nature Editor of Distinction Awards (Editorial Contribution Award, Author Service Award)</li>  
   <li>Outstanding Young Scholar in Asia-Pacific Artificial Intelligence Education</li>
   <li>Excellent Case Award in Asia-Pacific Artificial Intelligence Education</li>
   <li>China International College Students' Innovation Competition (formerly Internet +, Gold Award)</li>
