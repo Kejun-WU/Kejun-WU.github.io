@@ -356,8 +356,8 @@ My research interest includes neural machine translation and computer vision. I 
   <li>China International College Students' Innovation Competition (formerly Internet +, Gold Award)</li>
   <li>National Postdoctoral Innovation and Entrepreneurship Competition (Bronze Award, ranked first)</li>
   <li>Chunhui Cup Innovation and Entrepreneurship Competition for Chinese Overseas Students (ranked first)</li>
-  <li>Letter of Appreciation from University of Oxford</li>
-  <!-- <li>IET Excellence and Innovation Awards International Awards (Silver Award)</li> <li>IET Impact in Society Awards (Shortlist)</li> -->
+  
+  <!-- <li>Letter of Appreciation from University of Oxford</li> <li>IET Excellence and Innovation Awards International Awards (Silver Award)</li> <li>IET Impact in Society Awards (Shortlist)</li> -->
 </ul>
 </div>
 
