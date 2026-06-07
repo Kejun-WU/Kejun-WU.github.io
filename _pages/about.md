@@ -247,6 +247,7 @@ My research interest includes neural machine translation and computer vision. I 
     <li>&thinsp;Tianyi Liu, <b>Kejun Wu</b>, Yi Wang, Wenyang Liu, Kim-Hui Yap, Lap-Pui Chau, "BitsCV: Restoration of Artifacts Decoded in Bitstream-Corrupted Videos," in <b>IJCV</b></li>
     <li>&thinsp;Wenyang Liu, Tianyi Liu, Chen Cai, Jianjun Gao, Kejun Wu, Kim-Hui Yap, "AsTaSR: Adaptive Superpixel Token Aggregation for Lightweight Image Super-Resolution," AAAI 2026
     <li>&thinsp;X. Yu, <b>K. Wu</b><font color=Blue>*</font>, Y. Yang, and Q. Liu, “WaRENet: A Novel Urban Waterlogging Risk Evaluation Network,” in ACM Transactions on Multimedia Computing, Communications, and Applications, 2024, 20(7):1–28. (Equal Contribution)</li>
+      <li>&thinsp;J. Gao, K. Yap, K. Wu, D. Phan, and K. Garg, "Contextual Human Object Interaction Understanding from Pre-Trained Large Language Model," ICASSP 2024, Seoul, Korea.</li>
 -->
    
   <li>&thinsp;<b>K. Wu</b>, S. Wang, J. Gao, W. Liu, Q. Liu, C. Cai, and Y. Yang, “LLMArk: Instance-aware Foundation Model for Flood Risk Assessment,” in <b>Information Fusion, 2026</b>. (IF 15.5)</li>
@@ -261,7 +262,7 @@ My research interest includes neural machine translation and computer vision. I 
   <li>&thinsp;<b>K. Wu</b>, Q. Liu, Y. Yang, and X. Zhang, “Gaussian-Wiener Representation and Hierarchical Coding Scheme for Focal Stack Images,” in <b>IEEE Transactions on Circuits and Systems for Video Technology</b>, 32(2):523-537, 2022. (中科院1区TOP)</li>
   <li>&thinsp;<b>K. Wu</b>, Z. Li, Y. Yang, and Q. Liu, “Deep Video Compression based on Long-range Temporal Context Learning,” in Computer Vision and Image Understanding, 248(2024): 104127.</li>  
   <li>&thinsp;R. Wang, <b>K. Wu</b>, R. Qiao, C. Yang, C. Cai, “Prompted Complex Context Generation Guided Fine-Grained Ship Recognition,” in Applied Soft Computing, 2025.</li>
-  <li>&thinsp;J. Gao, K. Yap, K. Wu, D. Phan, and K. Garg, "Contextual Human Object Interaction Understanding from Pre-Trained Large Language Model," ICASSP 2024, Seoul, Korea.</li>
+
   <li>&thinsp;F. Li, K. Wu, "IBFC-LLM: Image Bitstream Fragment Classification by Large Language Models," CAC 2025, Harbin, China.</li>
   
   </ul>
@@ -289,7 +290,6 @@ My research interest includes neural machine translation and computer vision. I 
   <li>&thinsp;<b>K. Wu</b>, Q. Liu, Y. Yang, and X. Zhang, “Gaussian-Wiener Representation and Hierarchical Coding Scheme for Focal Stack Images,” in <b>IEEE Transactions on Circuits and Systems for Video Technology</b>, 32(2):523-537, 2022. </li>
   <li>&thinsp;<b>K. Wu</b>, Z. Li, Y. Yang, and Q. Liu, “Deep Video Compression based on Long-range Temporal Context Learning,” in Computer Vision and Image Understanding, 248(2024): 104127.</li>  
   <li>&thinsp;R. Wang, <b>K. Wu</b>, R. Qiao, C. Yangc, C. Cai, “Prompted Complex Context Generation Guided Fine-Grained Ship Recognition,” in Applied Soft Computing, 2025.</li>
-  <li>&thinsp;J. Gao, K. Yap, K. Wu, D. Phan, and K. Garg, "Contextual Human Object Interaction Understanding from Pre-Trained Large Language Model," ICASSP 2024, Seoul, Korea.</li>
   <li>&thinsp;F. Li, K. Wu, "IBFC-LLM: Image Bitstream Fragment Classification by Large Language Models," CAC 2025, Harbin, China.</li>
   
   </ul>
