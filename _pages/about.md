@@ -166,7 +166,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
   <ul>
 
-    <li>2026.05:&thinsp; 受邀在中国图象图形大会(CCIG 2026，广州)作学术报告</li> 
+    <li>2026.05:&thinsp; 受邀在中国图像图形大会(CCIG 2026，广州)作学术报告</li> 
     <li>2026.03:&thinsp; 共同在《电子与信息学报》组织专题</li> 
     <li>2026.01:&thinsp; 共同在CVPR2026组织NTIRE Bitstream-corrupted Video Restoration挑战赛</li> 
     <li>2025.12:&thinsp; 担任AIGC 2025国际会议专题主席，杭州</li>
