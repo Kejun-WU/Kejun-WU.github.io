@@ -166,7 +166,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
   <ul>
 
-    <li>2026.04:&thinsp; 受邀在中国图象图形大会(CCIG 2026)作学术报告(5月，广州)</li> 
+    <li>2026.05:&thinsp; 受邀在中国图象图形大会(CCIG 2026，广州)作学术报告</li> 
     <li>2026.03:&thinsp; 共同在《电子与信息学报》组织专题</li> 
     <li>2026.01:&thinsp; 共同在CVPR2026组织NTIRE Bitstream-corrupted Video Restoration挑战赛</li> 
     <li>2025.12:&thinsp; 担任AIGC 2025国际会议专题主席，杭州</li>
@@ -201,7 +201,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
   <ul>
 
-    <li>2026.04:&thinsp; Invited to give a Talk in Chinese Congress on Image and Graphics (CCIG 2026, May, Guangzhou) </li> 
+    <li>2026.05:&thinsp; Invited to give a Talk in Chinese Congress on Image and Graphics (CCIG 2026, Guangzhou) </li> 
     <li>2026.03:&thinsp; Serve as Guest Editor in Journal of Electronics & Information Technology</li> 
     <li>2026.01:&thinsp; Serve as Organizer in NTIRE Bitstream-corrupted Video Restoration Challenge @ CVPR 2026</li> 
     <li>2025.12:&thinsp; Serve as Session Chair in AIGC 2025, Hangzhou</li> 
