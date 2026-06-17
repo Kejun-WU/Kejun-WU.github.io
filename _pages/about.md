@@ -64,8 +64,6 @@ He serves as an Associate Editor / Editorial Board Member of IEEE OJSP, ASOC, an
 
 🚀 &nbsp; Recruiting intern/ visiting/ Master students. On-site, remote, or hybrid learning are welcome.<br>  <!-- --> 
 
-<!--   🚀 &nbsp; We are building a Universal Modality Learning Framework by Byte-based-LLMs for breaking the Modality Barrier, serving as a digital world simulators.<br>
-by performing perception and understanding on byte domain  -->
 
 <!--  Contact via <kjwu@hust.edu.cn>  -->
 
