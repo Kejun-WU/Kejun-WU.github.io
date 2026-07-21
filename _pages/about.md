@@ -249,11 +249,11 @@ My research interest includes neural machine translation and computer vision. I 
   <li>&thinsp;F. Li, K. Wu, "IBFC-LLM: Image Bitstream Fragment Classification by Large Language Models," CAC 2025, Harbin, China.</li>
 -->
    
-  <li>&thinsp;<b>K. Wu</b>, S. Wang, J. Gao, W. Liu, Q. Liu, C. Cai, and Y. Yang, “LLMArk: Instance-aware Foundation Model for Flood Risk Assessment,” in <b>Information Fusion, 2026</b>. (IF 17.4)</li>
   <li>&thinsp;T. Liu, <b>K. Wu</b>, C. Cai, Y. Wang, K. Yap, L. Chau, “Towards Blind Bitstream-corrupted Video Recovery: A Visual Foundation Model-driven Framework,” in <b>ACM MM 2025</b>. (CCF-A)</li>
   <li>&thinsp;C. Cai, T. Liu, J. Gao, W. Liu, <b>K. Wu</b><font color=Blue>*</font>, R. Wang, Y. Wang, S. Liew, “From Semantics, Scene to Instance-awareness: Distilling Foundation Model for Open-vocabulary Grounded Situation Recognition,” in <b>ACM MM 2025</b>. (Corresponding Author, CCF-A) </li>    
   <li>&thinsp;T. Liu, <b>K. Wu</b><font color=Blue>*</font>, Y. Wang, W. Liu, K. Yap, and L. Chau, “Bitstream corrupted Video Recovery: A Novel Benchmark Dataset and Method,” <b>NeurIPS 2023</b>. (Equal Contribution, CCF-A)</li>
   <li>&thinsp;W. Liu, C. Cai, J. Gao, <b>K. Wu</b><font color=Blue>*</font>, Y. Wang, K. Yap, and L. Chau, “PromptSR: Cascade Prompting for Lightweight Image Super-Resolution,” in <b>IEEE Transactions on Multimedia</b>, 2026. (Corresponding Author, 中科院1区TOP, CCF-A)</li>
+  <li>&thinsp;<b>K. Wu</b>, S. Wang, J. Gao, W. Liu, Q. Liu, C. Cai, and Y. Yang, “LLMArk: Instance-aware Foundation Model for Flood Risk Assessment,” in <b>Information Fusion, 2026</b>. (IF 17.4)</li>
   <li>&thinsp;<b>K. Wu</b>, Z. Li, Y. Yang, Q. Liu, and X. Zhang, “End-to-end Deep Video Compression Based on Hierarchical Temporal Context Learning,” in <b>IEEE Transactions on Multimedia</b>, 27:4386-4399, 2025. (中科院1区TOP)</li>
   <li>&thinsp;W. Liu, <b>K. Wu</b><font color=Blue>*</font>, T. Liu, Y. Wang, K. Yap, and L. Chau, “ByteNet: Rethinking Multimedia File Fragment Classification through Visual Perspectives,” in <b>IEEE Transactions on Multimedia</b>, 27:1305-1319, 2025. (Corresponding Author)</li>
   <li>&thinsp;<b>K. Wu</b>, Y. Yang, Q. Liu, G. Jiang, and X. Zhang, “Hierarchical Independent Coding Scheme for Varifocal Multiview Images based on Angular-focal Joint Prediction,” <b>IEEE Transactions on Multimedia</b>, 26:2993-3006, 2024. (中科院1区TOP) $\color{Tomato} {ESI &thinsp;Highly &thinsp;Cited &thinsp;Papers}$</li>
@@ -273,11 +273,12 @@ My research interest includes neural machine translation and computer vision. I 
 <div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
   <ul>
   
-  <li>&thinsp;<b>K. Wu</b>, S. Wang, J. Gao, W. Liu, Q. Liu, C. Cai, and Y. Yang, “LLMArk: Instance-aware Foundation Model for Flood Risk Assessment,” in <b>Information Fusion, 2026</b>. (IF 17.4)</li>   
+  
   <li>&thinsp;T. Liu, <b>K. Wu</b>, C. Cai, Y. Wang, K. Yap, L. Chau, “Towards Blind Bitstream-corrupted Video Recovery: A Visual Foundation Model-driven Framework,” in <b>ACM MM 2025</b>. </li>
   <li>&thinsp;C. Cai, T. Liu, J. Gao, W. Liu, <b>K. Wu</b><font color=Blue>*</font>, R. Wang, Y. Wang, S. Liew, “From Semantics, Scene to Instance-awareness: Distilling Foundation Model for Open-vocabulary Grounded Situation Recognition,” in <b>ACM MM 2025</b>. (Corresponding Author) </li>    
   <li>&thinsp;T. Liu, <b>K. Wu</b><font color=Blue>*</font>, Y. Wang, W. Liu, K. Yap, and L. Chau, “Bitstream corrupted Video Recovery: A Novel Benchmark Dataset and Method,” <b>NeurIPS 2023</b>. (Equal Contribution)</li>
   <li>&thinsp;W. Liu, C. Cai, J. Gao, <b>K. Wu</b><font color=Blue>*</font>, Y. Wang, K. Yap, and L. Chau, “PromptSR: Cascade Prompting for Lightweight Image Super-Resolution,” in <b>IEEE Transactions on Multimedia</b>, 2026. (Corresponding Author)</li>
+  <li>&thinsp;<b>K. Wu</b>, S. Wang, J. Gao, W. Liu, Q. Liu, C. Cai, and Y. Yang, “LLMArk: Instance-aware Foundation Model for Flood Risk Assessment,” in <b>Information Fusion, 2026</b>. (IF 17.4)</li>   
   <li>&thinsp;<b>K. Wu</b>, Z. Li, Y. Yang, Q. Liu, and X. Zhang, “End-to-end Deep Video Compression Based on Hierarchical Temporal Context Learning,” in <b>IEEE Transactions on Multimedia</b>, 27:4386-4399, 2025 </li>
   <li>&thinsp;W. Liu, <b>K. Wu</b><font color=Blue>*</font>, T. Liu, Y. Wang, K. Yap, and L. Chau, “ByteNet: Rethinking Multimedia File Fragment Classification through Visual Perspectives,” in <b>IEEE Transactions on Multimedia</b>, 27:1305-1319, 2025. (Corresponding Author)</li>
   <li>&thinsp;<b>K. Wu</b>, Y. Yang, Q. Liu, G. Jiang, and X. Zhang, “Hierarchical Independent Coding Scheme for Varifocal Multiview Images based on Angular-focal Joint Prediction,” <b>IEEE Transactions on Multimedia</b>, 26:2993-3006, 2024. (中科院1区TOP) $\color{Tomato} {ESI &thinsp;Highly &thinsp;Cited &thinsp;Papers}$</li>
