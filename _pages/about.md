@@ -87,7 +87,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 
-<!--        📢 Professional Services     --> 
+<!--        📢 Professional Services       <li>程序委员会, 国际会议AAAI 2026, 新加坡 </li>    --> 
 
 <span class='anchor' id='professional-activities'></span>
 <!-- 中文块 -->
@@ -102,9 +102,10 @@ My research interest includes neural machine translation and computer vision. I 
     <li>客座编辑, 国际期刊Journal of Visual Communication and Image Representation</li>  
     <li>客座编辑,《电子与信息学报》中国卓越行动计划中文领军期刊、CCF-T1类</li>
     <li>讲习班主席, 领域主席, 国际会议PRCV 2026, 哈尔滨 </li> 
-    <li>程序委员会, 国际会议AAAI 2026, 新加坡 </li>  
+    <li>Program Committee, 世界人工智能大会·学术 (WAICA 2026), 上海 </li>
+    <li>Program Committee, AAAI 2027(加拿大), AAAI 2026(新加坡) </li>  
     <li>领域主席, 国际会议IJCNN 2026, 荷兰 </li>  
-    <li>程序委员会, 专题主席, 国际会议AIGC 2025, 杭州 </li>
+    <li>程序委员会, 国际会议AIGC 2026, AIGC 2025 </li>
     <li>领域主席, 国际会议IJCNN 2025, 意大利 </li>  
     <li>专题主席, 国际会议ISCAS 2024, 新加坡 </li>  
     <li>专题主席, 国际会议ICASSP 2024, 韩国 </li>
@@ -133,7 +134,8 @@ My research interest includes neural machine translation and computer vision. I 
     <li>Lead Guest Editor, Journal of Visual Communication and Image Representation </li>  
     <li>Guest Editor, Journal of Electronics & Information Technology </li>  
     <li>Tutorial Chair, Area Chair, PRCV 2026, Harbin </li>  
-    <li>Program Committee, AAAI 2026, Singapore </li>  
+    <li>Program Committee, WAIC Academic 2026 (WAICA2026), Shanghai, China </li>
+    <li>Program Committee, AAAI 2027, AAAI 2026 </li>  
     <li>Area Chair, IJCNN 2026, Netherlands </li>  
     <li>Program Committee, Session Chair, AIGC 2025, Hangzhou, China </li>
     <li>Area Chair, IJCNN 2025, Italy </li>  
