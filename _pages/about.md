@@ -87,7 +87,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 
-<!--        📢 Professional Services       <li>程序委员会, 国际会议AAAI 2026, 新加坡 </li>    --> 
+<!--        📢 Professional Services    --> 
 
 <span class='anchor' id='professional-activities'></span>
 <!-- 中文块 -->
@@ -168,18 +168,16 @@ My research interest includes neural machine translation and computer vision. I 
 <div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
   <ul>
 
+    <li>2026.07:&thinsp; 1 篇论文被ACM Multimedia 2026录用（CCF-A），巴西</li>
     <li>2026.05:&thinsp; 受邀在中国图像图形大会(CCIG 2026，广州)作学术报告</li> 
     <li>2026.03:&thinsp; 共同在《电子与信息学报》组织专题</li> 
     <li>2026.01:&thinsp; 共同在CVPR2026组织NTIRE Bitstream-corrupted Video Restoration挑战赛</li> 
-    <li>2025.12:&thinsp; 担任AIGC 2025国际会议专题主席，杭州</li>
     <li>2025.11:&thinsp; 获亚太人工智能教育优秀青年学者奖</li>  
     <li>2025.11:&thinsp; 获亚太人工智能教育优秀案例奖</li>  
     <li>2025.10:&thinsp; 获全国电子信息类专业高校教师智慧教学案例竞赛(浩埔杯)中南赛区二等奖</li>
-    <li>2025.08:&thinsp; 担任 AAAI 2026 大会程序委员会委员（CCF-A），新加坡</li>  
     <li>2025.07:&thinsp; 受邀在2025 Discover At HUST Metavers国际暑期学校英语授课</li>    
     <li>2025.07:&thinsp; 2 篇论文被ACM Multimedia 2025录用（CCF-A），爱尔兰</li>
     <li>2025.06:&thinsp; 1 篇论文被 IEEE Transactions on Multimedia 录用</li>
-    <li>2025.06:&thinsp; 担任AIGC 2025国际会议程序委员会委员，杭州</li>    
     <li>2024.11:&thinsp; 2 篇论文被 IEEE Transactions on Multimedia 录用</li>
     <li>2024.05:&thinsp; 受邀担任 IEEE ISCAS 2024国际会议专题主席，新加坡</li>
     <li>2024.04:&thinsp; 受邀担任 IEEE ICASSP 2024国际会议专题主席，韩国</li>
@@ -202,14 +200,13 @@ My research interest includes neural machine translation and computer vision. I 
   
 <div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
   <ul>
-
+    
+    <li>2026.07:&thinsp; 1 paper is accepted by ACM Multimedia 2026, Brazil </li>
     <li>2026.05:&thinsp; Invited to give a Talk in Chinese Congress on Image and Graphics (CCIG 2026, Guangzhou) </li> 
     <li>2026.03:&thinsp; Serve as Guest Editor in Journal of Electronics & Information Technology</li> 
     <li>2026.01:&thinsp; Serve as Organizer in NTIRE Bitstream-corrupted Video Restoration Challenge @ CVPR 2026</li> 
-    <li>2025.12:&thinsp; Serve as Session Chair in AIGC 2025, Hangzhou</li> 
     <li>2025.11:&thinsp; Awarded the Outstanding Young Scholar of Asia-Pacific Artificial Intelligence Education </li> 
     <li>2025.11:&thinsp; Awarded the Excellent Case Award of Asia-Pacific Artificial Intelligence Education </li> 
-    <li>2025.08:&thinsp; Serve as Program Committee in AAAI 2026 conference, Singapore </li>  
     <li>2025.07:&thinsp; Invited to lecture (in English) the 2025 Discover At HUST--"Metavers" International Summer School </li>    
     <li>2025.07:&thinsp; 2 papers are accepted by 33rd ACM International Conference on Multimedia (ACM Multimedia 2025), Dublin, Ireland </li>
     <li>2025.06:&thinsp; 1 paper is accepted by IEEE Transactions on Multimedia (Corresponding Author)</li>
