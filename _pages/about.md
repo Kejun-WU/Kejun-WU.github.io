@@ -261,6 +261,10 @@ My research interest includes neural machine translation and computer vision. I 
   <li>&thinsp;<b>K. Wu</b>, Y. Yang, Q. Liu, and X. Zhang, “Focal Stack Image Compression Based on Basis-Quadtree Representation,” in <b>IEEE Transactions on Multimedia</b>, 25:3975-3988, 2023. (中科院1区TOP)</li>
   <li>&thinsp;<b>K. Wu</b>, Q. Liu, Y. Yang, and X. Zhang, “Gaussian-Wiener Representation and Hierarchical Coding Scheme for Focal Stack Images,” in <b>IEEE Transactions on Circuits and Systems for Video Technology</b>, 32(2):523-537, 2022. (中科院1区TOP)</li>
   <li>&thinsp;<b>K. Wu</b>, S. Wang, J. Gao, W. Liu, Q. Liu, C. Cai, and Y. Yang, “LLMArk: Instance-aware Foundation Model for Flood Risk Assessment,” in <b>Information Fusion, 2026</b>. (中科院1区TOP, IF 17.4)</li>
+ <!-- 预印本 -->
+  <li>&thinsp;F. Li, et al. "Bitstream Action Recognition is Byte Modeling." arXiv preprint arXiv:2608.15695 (2026).</li>
+  <li>&thinsp;X. Hu, et al. "AesCanvas: A Large-Scale Dataset and Benchmark for Aesthetic Critique and Contextual Suitability." arXiv preprint arXiv:2608.26713v1 (2026).</li>
+  <li>&thinsp;C. Huang, et al. "Towards Bitstream-corrupted Harsh Visual Understanding: Through Bitstream Language Modeling as Robust Semantic Priors." arXiv preprint arXiv:2608.21837 (2026).</li>
     
   </ul>
 </div>
@@ -287,6 +291,10 @@ My research interest includes neural machine translation and computer vision. I 
   <li>&thinsp;<b>K. Wu</b>, Y. Yang, Q. Liu, and X. Zhang, “Focal Stack Image Compression Based on Basis-Quadtree Representation,” in <b>IEEE Transactions on Multimedia</b>, 25:3975-3988, 2023. </li>
   <li>&thinsp;<b>K. Wu</b>, Q. Liu, Y. Yang, and X. Zhang, “Gaussian-Wiener Representation and Hierarchical Coding Scheme for Focal Stack Images,” in <b>IEEE Transactions on Circuits and Systems for Video Technology</b>, 32(2):523-537, 2022. </li>
   <li>&thinsp;<b>K. Wu</b>, S. Wang, J. Gao, W. Liu, Q. Liu, C. Cai, and Y. Yang, “LLMArk: Instance-aware Foundation Model for Flood Risk Assessment,” in <b>Information Fusion, 2026</b>. (IF 17.4)</li>     
+  <!-- arXiv preprint -->
+  <li>&thinsp;F. Li, et al. "Bitstream Action Recognition is Byte Modeling." arXiv preprint arXiv:2608.15695 (2026).</li>
+  <li>&thinsp;X. Hu, et al. "AesCanvas: A Large-Scale Dataset and Benchmark for Aesthetic Critique and Contextual Suitability." arXiv preprint arXiv:2608.26713v1 (2026).</li>
+  <li>&thinsp;C. Huang, et al. "Towards Bitstream-corrupted Harsh Visual Understanding: Through Bitstream Language Modeling as Robust Semantic Priors." arXiv preprint arXiv:2608.21837 (2026).</li>
   
   </ul>
 </div>
