@@ -20,6 +20,10 @@ main:
     title_zh: "荣誉奖项"
     url: "/#honors-awards"
 
+  - title_en: "Talks"
+    title_zh: "受邀报告"
+    url: "/#talks"
+    
   - title_en: "Educations"
     title_zh: "教育经历"
     url: "/#educations"
