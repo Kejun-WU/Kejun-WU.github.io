@@ -380,9 +380,9 @@ My research interest includes neural machine translation and computer vision. I 
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">受邀报告</h1>
 
 <ul>
-  <li>第九届中国模式识别与计算机视觉大会(PRCV 2026，哈尔滨)，</li>
-  <li>中国图像图形大会(CCIG 2026，广州)，</li>
-  <li>AIGC</li>
+  <li>第九届中国模式识别与计算机视觉大会(PRCV 2026, 哈尔滨), 面向多模态理解的图像-码流基础模型</li>
+  <li>中国图像图形大会(CCIG 2026, 广州), 真实世界图像码流损坏下语义内容理解</li>
+  <li>第三届人工智能生成内容国际会议暨大模型应用创新大会(AIGC 2025, 杭州), 重新思考大模型对数据损坏的脆弱性——一个字节域视角的尝试</li>
 </ul>
 </div>
 
@@ -391,9 +391,9 @@ My research interest includes neural machine translation and computer vision. I 
 <div class="i18n en">
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">Talks</h1>
 <ul>
-  <li>PRCV 2026</li>
-  <li>CCIG 2026</li>
-  <li>AIGC</li>
+  <li>The 9th Chinese Conference on Pattern Recognition and Computer Vision (PRCV2026, Harbin)</li>
+  <li>China Society of Image and Graphics (CSIG 2026, Guangzhou)</li>
+  <li>The 3rd International Conference on AI-Generated Content (AIGC 2025, Hangzhou)</li>
 </ul> 
 </div>
 
