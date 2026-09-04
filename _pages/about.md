@@ -477,7 +477,7 @@ I'm honored to have participated in the supervision of these excellent students:
 
  
 
-<!--     # Teaching 📖    -->
+<!--     # Teaching 📖    机器智能课程设计，多媒体通信， 人工智能2  -->
 
 <span class='anchor' id='teaching'></span>
 <div class="i18n zh">
@@ -486,6 +486,7 @@ I'm honored to have participated in the supervision of these excellent students:
   <li>2026春, 深度学习</li>
   <li>2026春, 数据挖掘</li>
   <li>2026春, 数字语音处理</li>
+
 </ul>
 </div>
 
