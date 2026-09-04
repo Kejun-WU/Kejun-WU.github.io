@@ -371,6 +371,36 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 
+    
+<!--     # Invited Talks 💬     -->
+
+<span class='anchor' id='talks'></span>
+<!-- 中文块 -->
+<div class="i18n zh">
+<h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">受邀报告</h1>
+
+<ul>
+  <li>第九届中国模式识别与计算机视觉大会(PRCV 2026，哈尔滨)，</li>
+  <li>中国图像图形大会(CCIG 2026，广州)，</li>
+  <li>AIGC</li>
+</ul>
+</div>
+
+
+<!-- 英文块 -->
+<div class="i18n en">
+<h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">Talks</h1>
+<ul>
+  <li>PRCV 2026</li>
+  <li>CCIG 2026</li>
+  <li>AIGC</li>
+</ul> 
+</div>
+
+
+
+
+
 
 <!--     # Educations 📖     -->
 
