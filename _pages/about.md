@@ -446,12 +446,12 @@ My research interest includes neural machine translation and computer vision. I 
   <li>&thinsp;J. Gao, Ph.D Student, NTU, Singapore (LLMs on HOI)</li>
   <li>&thinsp;W. Liu, Ph.D Student, NTU, Singapore (Gen-AI on super resolution)</li>
   <li>&thinsp;T. Liu, Ph.D Student, NTU, Singapore (Gen-AI on image restoration)</li>
-  <li>&thinsp;F. Li, Master Student, HUST (Byte-domain LLMs)</li>
+  <li>&thinsp;F. Li, Master Student, HUST (Byte Language Models, BLM)</li>
   <li>&thinsp;C. Zhang, Ph.D Student, HUST (LLMs on anomaly detection)</li>
   <li>&thinsp;H. Dong, Intern Student, Columbia University, New York, USA (Trustworthy MLLM)</li>
-  <li>&thinsp;Q. Zhang, Intern Student, KTH Royal Institute of Technology, Sweden (LLMs on multimedia understanding)</li>
+  <li>&thinsp;Q. Zhang, J. Liang, Master Student, KTH Royal Institute of Technology, Sweden (Genomic language models, gLM)</li>
   <li>&thinsp;J. Chen, X. Xia, J. Zhang, Z. Yu, C. Huang, et.al. Intern Student, HUST (Perception-enhanced LLMs)</li>
-  <li>&thinsp;J. Liang, Q. An, Q. Zeng, Z. Liu, X. Hu, Z. Liao, H. Shi, H. Xie, J. Wan, S. Li, J. Jiang, P. Lv, et.al. Intern Student, HUST (MLLMs, Agent)</li>
+  <li>&thinsp;Q. An, Q. Zeng, Z. Liu, X. Hu, Z. Liao, H. Shi, H. Xie, J. Wan, S. Li, J. Jiang, P. Lv, et.al. Intern Student, HUST (MLLMs, Agent)</li>
 </ul>
 </div>
 
@@ -465,12 +465,12 @@ I'm honored to have participated in the supervision of these excellent students:
   <li>&thinsp;J. Gao, Ph.D Student, NTU, Singapore (LLMs on HOI)</li>
   <li>&thinsp;W. Liu, Ph.D Student, NTU, Singapore (Gen-AI on super resolution)</li>
   <li>&thinsp;T. Liu, Ph.D Student, NTU, Singapore (Gen-AI on image restoration)</li>
-  <li>&thinsp;F. Li, Master Student, HUST (Byte-domain LLMs)</li>
+  <li>&thinsp;F. Li, Master Student, HUST (Byte Language Models, BLM)</li>
   <li>&thinsp;C. Zhang, Ph.D Student, HUST (LLMs on anomaly detection)</li>
   <li>&thinsp;H. Dong, Intern Student, Columbia University, New York, USA (Trustworthy MLLM)</li>
-  <li>&thinsp;Q. Zhang, Intern Student, KTH Royal Institute of Technology, Sweden (LLMs on multimedia understanding)</li>
+  <li>&thinsp;Q. Zhang, J. Liang, Master Student, KTH Royal Institute of Technology, Sweden (Genomic language models, gLM)</li>
   <li>&thinsp;J. Chen, X. Xia, J. Zhang, Z. Yu, C. Huang, et.al. Intern Student, HUST (Perception-enhanced LLMs)</li>
-  <li>&thinsp;J. Liang, Q. An, Q. Zeng, Z. Liu, X. Hu, Z. Liao, H. Shi, H. Xie, J. Wan, S. Li, J. Jiang, P. Lv, et.al. Intern Student, HUST (MLLMs, Agent)</li>
+  <li>&thinsp;Q. An, Q. Zeng, Z. Liu, X. Hu, Z. Liao, H. Shi, H. Xie, J. Wan, S. Li, J. Jiang, P. Lv, et.al. Intern Student, HUST (MLLMs, Agent)</li>
 </ul> 
 </div>
 
