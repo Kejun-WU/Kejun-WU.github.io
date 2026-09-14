@@ -102,7 +102,7 @@ My research interest includes neural machine translation and computer vision. I 
     <li>副编辑, 国际期刊IEEE Open Journal of Signal Processing</li>  
     <li>副编辑, 国际期刊Journal of Real-Time Image Processing</li>  
     <li>副编辑, 国际期刊Journal of Visual Communication and Image Representation</li>  
-    <li>客座编辑,《电子与信息学报》中国卓越行动计划中文领军期刊、CCF-T1类</li>
+    <li>客座编辑,《电子与信息学报》中国科技期刊卓越行动计划中文领军期刊、CCF-T1类</li>
     <li>讲习班主席, 领域主席, 国际会议PRCV 2026, 哈尔滨 </li> 
     <li>Program Committee, 世界人工智能大会·学术 (WAICA 2026), 上海 </li>
     <li>Program Committee, AAAI 2027(加拿大), AAAI 2026(新加坡) </li>  
