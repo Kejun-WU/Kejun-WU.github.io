@@ -1,4 +1,4 @@
----
+<img width="828" height="329" alt="image" src="https://github.com/user-attachments/assets/5677937b-e809-4787-a3ef-701027106026" />---
 permalink: /
 title: ""
 excerpt: ""
@@ -475,6 +475,7 @@ I'm honored to have participated in the supervision of these excellent students:
 <div class="i18n zh">
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">教学信息</h1>
 <ul>
+  <li>2026秋, 机器智能课程设计</li>
   <li>2026春, 深度学习</li>
   <li>2026春, 数据挖掘</li>
   <li>2026春, 数字语音处理</li>
@@ -485,6 +486,7 @@ I'm honored to have participated in the supervision of these excellent students:
 <div class="i18n en">
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bold;">Teaching</h1>
 <ul>
+  <li>2026 Spring, Machine Intelligence Course Design</li>
   <li>2026 Spring, Deep Learning</li>
   <li>2026 Spring, Data Mining</li>
   <li>2026 Spring, Digital Speech Processing</li>
