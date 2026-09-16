@@ -50,7 +50,7 @@ redirect_from:
 
 🚀 &nbsp; 招收兴趣从事以上研究领域的研究生、研究助理、实习生等。
 
-<h1 style="color:#1155A0; font-size:1.1em; font-weight:bold;">📢招收2027年入学专业学位硕士研究生、工程硕博专项研究生。</h1>
+<h1 style="color:#1155A0; font-size:0.8em; font-weight:bold;">📢招收2027年入学专业学位硕士研究生、工程硕博专项研究生。</h1>
 
 
 </div>
