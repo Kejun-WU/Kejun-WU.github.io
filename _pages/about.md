@@ -171,7 +171,10 @@ My research interest includes neural machine translation and computer vision. I 
 <div style="height: 400px; overflow-y: auto; border: 1px solid #ccc;">
   <ul>
 
-    <li>2026.08:&thinsp; 2025级硕士研究生获2026年研究生国家奖学金，祝贺Fangcheng</li> 
+    
+    <li>2026.08:&thinsp; 🏆2025级硕士研究生获2026年<b>研究生国家奖学金</b><font color=Blue>*</font>，祝贺Fangcheng</li> 
+    <li>2026.08:&thinsp; <h1 style="color:#1155A0; font-size:1.1em; font-weight:bold;">🏆2025级硕士研究生获2026年研究生国家奖学金，祝贺Fangcheng。</h1></li> 
+    <li>2026.08:&thinsp; 🏆2025级硕士研究生获2026年研究生国家奖学金，祝贺Fangcheng</li> 
     <li>2026.08:&thinsp; 受邀在第九届中国模式识别与计算机视觉大会(PRCV 2026，哈尔滨)作学术报告</li> 
     <li>2026.07:&thinsp; 1 篇论文被ACM Multimedia 2026录用（CCF-A），巴西</li>
     <li>2026.05:&thinsp; 受邀在中国图像图形大会(CCIG 2026，广州)作学术报告</li> 
@@ -207,7 +210,7 @@ My research interest includes neural machine translation and computer vision. I 
   <ul>
     
 
-    <li>2026.08:&thinsp; My student was awarded the 2026 National Scholarship for Graduate Students. Congratulations to Fangcheng</li> 
+    <li>2026.08:&thinsp; 🏆My student was awarded the 2026 National Scholarship for Graduate Students. Congratulations to Fangcheng</li> 
     <li>2026.08:&thinsp; Invited to give a Talk in The 9th Chinese Conference on Pattern Recognition and Computer Vision (PRCV2026, Harbin) </li> 
     <li>2026.07:&thinsp; 1 paper is accepted by ACM Multimedia 2026, Brazil </li>
     <li>2026.05:&thinsp; Invited to give a Talk in Chinese Congress on Image and Graphics (CCIG 2026, Guangzhou) </li> 
