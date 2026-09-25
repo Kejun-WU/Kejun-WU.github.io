@@ -7,7 +7,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <script>
-  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+<!--   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';   -->
+  var siteLang = localStorage.getItem('site_lang') === 'en' ? 'en' : 'zh';
+  localStorage.setItem('site_lang', siteLang);
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js lang-' + siteLang;
 </script>
 
 <!-- For all browsers -->
