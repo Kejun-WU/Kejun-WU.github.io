@@ -1,10 +1,15 @@
 <style>
-.lang-toggle {
+.masthead {
+  --lang-toggle-width: 86px;
+}
+
+  .lang-toggle {
   display: inline-flex;
-  background: #e5e5e5;
+  background: #1155A0;
   border-radius: 8px;
   padding: 2px;
   gap: 2px;
+  width: var(--lang-toggle-width);
 }
 
 .lang-option {
@@ -15,13 +20,21 @@
   font-size: 13px;
   transition: all 0.3s ease;
   cursor: pointer;
-  min-width: 40px;
+  min-width: 0;
   text-align: center;
+  flex: 1;
+}
+
+.greedy-nav .lang-toggle .lang-option {
+margin: 0;
+padding: 3px 0;
+color: #fff;
 }
 
 .lang-zh #lang-zh-link,
 .lang-en #lang-en-link {
   background: #fff;
+  color: #1155A0;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
 }
 
@@ -46,7 +59,7 @@
 
 @media (min-width: 925px) {
   .greedy-nav .visible-links {
-    margin-left: calc(21.2% - 131px);
+    margin-left: calc(21.2% - var(--lang-toggle-width) - 15px);
   }
 }  
 </style>
