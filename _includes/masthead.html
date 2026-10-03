@@ -57,6 +57,28 @@ color: #fff;
   color: #1155A0;
 }
 
+/* 修改：用灰色下划线替代导航栏目选中时的黄色焦点框。 */
+.greedy-nav .visible-links > li > a:focus {
+  outline: none;
+}
+
+.greedy-nav .visible-links > li > a::before {
+  background: #bfc2c5;
+}
+
+.greedy-nav .visible-links > li > a:focus::before {
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.greedy-nav .hidden-links > li > a:focus {
+  outline: none;
+  text-decoration: underline;
+  text-decoration-color: #bfc2c5;
+  text-underline-offset: 0.3em;
+}
+  
 @media (min-width: 925px) {
   .greedy-nav .visible-links {
     margin-left: calc(21.2% - var(--lang-toggle-width) - 15px);
