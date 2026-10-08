@@ -46,7 +46,7 @@ redirect_from:
 
 吴科君 (<a href="http://faculty.hust.edu.cn/WuKejun/zh_CN/index.htm" target="_blank">教师主页</a>) ，博士，IEEE高级会员，研究生导师，现任华中科技大学电子信息与通信学院讲师/助理教授。
 在此之前，他于新加坡南洋理工大学电气电子工程学院从事博士后研究（与Yap Kim-Hui、<a href="https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-chau-lap-pui/?sc_lang=en">周立培</a>教授，IEEE Fellow）。他获得了华中科技大学博士学位（导师杨铀教授，IET/Optica Fellow）、哈尔滨工程大学硕士学位（导师 <a href="https://faculty.hrbeu.edu.cn/caichengtao/zh_CN/index/42745/list/index.htm">蔡成涛</a> 教授，教育部高层次人才特聘教授）以及上海大学学士学位。
-他的研究兴趣主要包括多模态大模型、字节模型、生成式人工智能等领域，近5年在IEEE T-MM、IEEE T-CSVT、NeurIPS、ACM Multimedia等高水平期刊、会议发表论文50余篇。担任IEEE OJSP、ASOC、JRTIP、JVCI等权威期刊副编辑，并在国际会议AAAI 2026、PRCV 2026、AIGC 2025、IJCNN 2025、ICASSP2024、ISCAS2024及MMSP2023中担任PC Member/讲习班主席/领域主席/专题主席等。主持及参与国家自然科学基金等项目多项。<br>
+他的研究兴趣主要包括多模态大模型、字节语言模型、生成模型等领域，近5年在IEEE T-MM、IEEE T-CSVT、NeurIPS、ACM Multimedia等高水平期刊、会议发表论文50余篇。担任IEEE OJSP、ASOC、JRTIP、JVCI等权威期刊副编辑，并在国际会议AAAI 2026、PRCV 2026、AIGC 2025、IJCNN 2025、ICASSP2024、ISCAS2024及MMSP2023中担任PC Member/讲习班主席/领域主席/专题主席等。入选中国电子学会青年科技人才培育工程，主持及参与国家自然科学基金等项目多项。<br>
 
 <!-- <h1 style="color:#1155A0; font-size:1.1em; font-weight:bold;">📢 &nbsp; 招收2027年入学专业学位硕士研究生、工程硕博等专项研究生。</h1>  -->  
 🚀 &nbsp; 招收兴趣从事以上研究领域的研究生、研究助理、实习生等 (长期有效)。
@@ -65,7 +65,7 @@ redirect_from:
 Dr. Kejun Wu (<a href="http://faculty.hust.edu.cn/WuKejun/en/index.htm" target="_blank">Faculty HomePage</a>) is currently a Lecturer/Assistant Professor at School of Electronic Information and Communications, Huazhong University of Science and Technology, Wuhan, China. 
 <!-- Before that, he worked as a Research Fellow researcher at School of Electrical and Electronic Engineering, Nanyang Technological University (work with Prof. <a href="https://dr.ntu.edu.sg/entities/person/Yap-Kim-Hui" target="_blank">Yap Kim-Hui</a> and <a href="https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-chau-lap-pui/?sc_lang=en">Chau Lap-Pui</a>, IEEE Fellow). 
 He obtained his Ph.D. degree from Huazhong University of Science and Technology (supervised by Prof. You Yang, IET/Optica Fellow), Master degree from Harbin Engineering University (supervised by Prof. <a href="[http://cisse.hrbeu.edu.cn/info/1088/3385.htm" target="_blank](https://faculty.hrbeu.edu.cn/caichengtao/zh_CN/index/42745/list/index.htm)">Chengtao Cai</a>), and Bachelor degree from Shanghai University.    --> 
-His research interest includes Multimodal Large Language Models, and Generative Compression. He has over 50 publications in top-tier venues in the past 5 years. 
+His research interest includes Multimodal Large Language Models, Byte Language Models, and Generative Models. He has over 50 publications in top-tier venues in the past 5 years. 
 He serves as an Associate Editor / Editorial Board Member of IEEE OJSP, ASOC, JRTIP, and JVCI, etc., an Area /Tutorial /Session Chair / Program Committee in AAAI 2026, PRCV 2026, IJCNN 2026, AIGC 2025, IJCNN 2025, IEEE ICASSP 2024,ISCAS 2024, and MMSP2023. He is an IEEE Senior Member.<br>
 
 🚀 &nbsp; Recruiting intern/ visiting/ Master students. On-site, remote, or hybrid learning are welcome.<br>  <!-- --> 
@@ -278,6 +278,8 @@ My research interest includes neural machine translation and computer vision. I 
   <li>&thinsp;X. Hu, et al. “AesCanvas: A Large-Scale Dataset and Benchmark for Aesthetic Critique and Contextual Suitability.” arXiv preprint arXiv:2608.26713v1 (2026).</li>
   <li>&thinsp;C. Huang, et al. “Towards Bitstream-corrupted Harsh Visual Understanding: Through Bitstream Language Modeling as Robust Semantic Priors.” arXiv preprint arXiv:2608.21837 (2026).</li>
   <li>&thinsp;J. Chen, et al. “FLM: Frequency-Aware Language Models for Generative Image Compression.” arXiv preprint arXiv:2608.28687 (2026).</li>
+  <li>&thinsp;J. Zhang, et al. “M3SunAgent: Monocular 3D Spatial Understanding Agent for Metric Depth Estimation and 3D Visual Grounding.” arXiv preprint arXiv:2610.07982 (2026).</li>
+  <li>&thinsp;Z. Yu, et al. “Image Bitstream Fine-grained Understanding for Privacy-Friendly AIoT.” arXiv preprint arXiv:2610.08414 (2026).</li>
 
   </ul>
 </div>
@@ -312,7 +314,9 @@ My research interest includes neural machine translation and computer vision. I 
   <li>&thinsp;X. Hu, et al. “AesCanvas: A Large-Scale Dataset and Benchmark for Aesthetic Critique and Contextual Suitability.” arXiv preprint arXiv:2608.26713v1 (2026).</li>
   <li>&thinsp;C. Huang, et al. “Towards Bitstream-corrupted Harsh Visual Understanding: Through Bitstream Language Modeling as Robust Semantic Priors.” arXiv preprint arXiv:2608.21837 (2026).</li>
   <li>&thinsp;J. Chen, et al. “FLM: Frequency-Aware Language Models for Generative Image Compression.” arXiv preprint arXiv:2608.28687 (2026).</li>
-    
+  <li>&thinsp;J. Zhang, et al. “M3SunAgent: Monocular 3D Spatial Understanding Agent for Metric Depth Estimation and 3D Visual Grounding.” arXiv preprint arXiv:2610.07982 (2026).</li>
+  <li>&thinsp;Z. Yu, et al. “Image Bitstream Fine-grained Understanding for Privacy-Friendly AIoT.” arXiv preprint arXiv:2610.08414 (2026).</li>
+  
   </ul>
 </div>
 
