@@ -45,7 +45,10 @@ redirect_from:
 <h1 style="color:#1155A0; font-size:1.5em; font-weight:bolder;">个人简介</h1>
 
 吴科君 (<a href="http://faculty.hust.edu.cn/WuKejun/zh_CN/index.htm" target="_blank">教师主页</a>) ，博士，IEEE高级会员，研究生导师，现任华中科技大学电子信息与通信学院讲师/助理教授。
-在此之前，他于新加坡南洋理工大学电气电子工程学院从事博士后研究（与Yap Kim-Hui、<a href="https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-chau-lap-pui/?sc_lang=en">周立培</a>教授，IEEE Fellow）。他获得了华中科技大学博士学位（导师杨铀教授，IET/Optica Fellow）、哈尔滨工程大学硕士学位（导师 <a href="https://faculty.hrbeu.edu.cn/caichengtao/zh_CN/index/42745/list/index.htm">蔡成涛</a> 教授，教育部高层次人才特聘教授）以及上海大学学士学位。
+在此之前，他于新加坡南洋理工大学电气电子工程学院从事博士后研究（与Yap Kim-Hui、<a href="https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-chau-lap-pui/?sc_lang=en">周立培</a>教授，IEEE Fellow）。
+<!-- 
+他获得了华中科技大学博士学位（导师杨铀教授，IET/Optica Fellow）、哈尔滨工程大学硕士学位（导师 <a href="https://faculty.hrbeu.edu.cn/caichengtao/zh_CN/index/42745/list/index.htm">蔡成涛</a> 教授，教育部高层次人才特聘教授）以及上海大学学士学位。
+ -->
 他的研究兴趣主要包括多模态大模型、字节语言模型、生成模型等领域，近5年在IEEE T-MM、IEEE T-CSVT、NeurIPS、ACM Multimedia等高水平期刊、会议发表论文50余篇。担任IEEE OJSP、ASOC、JRTIP、JVCI等权威期刊副编辑，并在国际会议AAAI 2026、PRCV 2026、AIGC 2025、IJCNN 2025、ICASSP2024、ISCAS2024及MMSP2023中担任PC Member/讲习班主席/领域主席/专题主席等。入选中国电子学会青年科技人才培育工程，主持及参与国家自然科学基金等项目多项。<br>
 
 <!-- <h1 style="color:#1155A0; font-size:1.1em; font-weight:bold;">📢 &nbsp; 招收2027年入学专业学位硕士研究生、工程硕博等专项研究生。</h1>  -->  
