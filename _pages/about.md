@@ -273,7 +273,6 @@ My research interest includes neural machine translation and computer vision. I 
  <!-- 预印本 -->
   <li>&thinsp;J. Liang, et al. “Cibic: Pixel-free Foundation Model for Robust Corrupted Image Bitstream Captioning,” Pattern Recognition, 2026 (中科院1区TOP).</li>
   <li>&thinsp;K. Wu, et al. “Corrupted Bitstream Semantic Understanding by Adaptive-modal Large Manguage Models,” Pattern Recognition, 2026 (中科院1区TOP).</li>
-  <li>&thinsp;Z. Yu, et al. “Image Bitstream Fine-grained Understanding Foundation Model for Privacy-preserving AIoT,” Under revision, (2026).</li>
   <li>&thinsp;F. Li, et al. “Bitstream Action Recognition is Byte Modeling.” arXiv preprint arXiv:2608.15695 (2026).</li>
   <li>&thinsp;X. Hu, et al. “AesCanvas: A Large-Scale Dataset and Benchmark for Aesthetic Critique and Contextual Suitability.” arXiv preprint arXiv:2608.26713v1 (2026).</li>
   <li>&thinsp;C. Huang, et al. “Towards Bitstream-corrupted Harsh Visual Understanding: Through Bitstream Language Modeling as Robust Semantic Priors.” arXiv preprint arXiv:2608.21837 (2026).</li>
@@ -309,7 +308,6 @@ My research interest includes neural machine translation and computer vision. I 
   <!-- arXiv preprint -->
   <li>&thinsp;J. Liang, et al. “Cibic: Pixel-free Foundation Model for Robust Corrupted Image Bitstream Captioning,” Pattern Recognition, (2026).</li>
   <li>&thinsp;K. Wu, et al. “Corrupted Bitstream Semantic Understanding by Adaptive-modal Large Manguage Models“,” Pattern Recognition, (2026).</li>
-  <li>&thinsp;Z. Yu, et al. “Image Bitstream Fine-grained Understanding Foundation Model for Privacy-preserving AIoT,” Under revision, (2026).</li>
   <li>&thinsp;F. Li, et al. “Bitstream Action Recognition is Byte Modeling.” arXiv preprint arXiv:2608.15695 (2026).</li>
   <li>&thinsp;X. Hu, et al. “AesCanvas: A Large-Scale Dataset and Benchmark for Aesthetic Critique and Contextual Suitability.” arXiv preprint arXiv:2608.26713v1 (2026).</li>
   <li>&thinsp;C. Huang, et al. “Towards Bitstream-corrupted Harsh Visual Understanding: Through Bitstream Language Modeling as Robust Semantic Priors.” arXiv preprint arXiv:2608.21837 (2026).</li>
