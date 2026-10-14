@@ -284,6 +284,7 @@ My research interest includes neural machine translation and computer vision. I 
   <li>&thinsp;J. Chen, et al. “FLM: Frequency-Aware Language Models for Generative Image Compression.” arXiv preprint arXiv:2608.28687 (2026).</li>
   <li>&thinsp;J. Zhang, et al. “M3SunAgent: Monocular 3D Spatial Understanding Agent for Metric Depth Estimation and 3D Visual Grounding.” arXiv preprint arXiv:2610.07982 (2026).</li>
   <li>&thinsp;Z. Yu, et al. “Image Bitstream Fine-grained Understanding for Privacy-Friendly AIoT.” arXiv preprint arXiv:2610.08414 (2026).</li>
+  <li>&thinsp;T. Liu, et al. “Reference-Efficient Multimodal Bitstream-Corrupted Video Recovery via Depth-Conditioned Adaptation.” arXiv preprint	arXiv:2610.15806 (2026).</li>
 
   </ul>
 </div>
@@ -319,6 +320,7 @@ My research interest includes neural machine translation and computer vision. I 
   <li>&thinsp;J. Chen, et al. “FLM: Frequency-Aware Language Models for Generative Image Compression.” arXiv preprint arXiv:2608.28687 (2026).</li>
   <li>&thinsp;J. Zhang, et al. “M3SunAgent: Monocular 3D Spatial Understanding Agent for Metric Depth Estimation and 3D Visual Grounding.” arXiv preprint arXiv:2610.07982 (2026).</li>
   <li>&thinsp;Z. Yu, et al. “Image Bitstream Fine-grained Understanding for Privacy-Friendly AIoT.” arXiv preprint arXiv:2610.08414 (2026).</li>
+  <li>&thinsp;T. Liu, et al. “Reference-Efficient Multimodal Bitstream-Corrupted Video Recovery via Depth-Conditioned Adaptation.” arXiv preprint	arXiv:2610.15806 (2026).</li>
   
   </ul>
 </div>
