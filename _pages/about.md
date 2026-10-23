@@ -280,6 +280,7 @@ My research interest includes neural machine translation and computer vision. I 
   <li>&thinsp;K. Wu, et al. “Corrupted Bitstream Semantic Understanding by Adaptive-modal Large Manguage Models,” Pattern Recognition, 2026 (中科院1区TOP).</li>
   <li>&thinsp;F. Li, et al. “ByteAction: Learning from Corrupted Image Bitstreams for Action Recognition”, in Applied Soft Computing, 2026.</li>
   <li>&thinsp;F. Li, et al. “Bitstream Action Recognition is Byte Modeling.” arXiv preprint arXiv:2608.15695 (2026).</li>
+  <li>&thinsp;F. Li, et al. “BiNar: Bitstream Native Restorer for Bitstream-corrupted Image Restoration.” arXiv preprint arXiv:2610.24094 (2026).</li>
   <li>&thinsp;X. Hu, et al. “AesCanvas: A Large-Scale Dataset and Benchmark for Aesthetic Critique and Contextual Suitability.” arXiv preprint arXiv:2608.26713v1 (2026).</li>
   <li>&thinsp;C. Huang, et al. “Towards Bitstream-corrupted Harsh Visual Understanding: Through Bitstream Language Modeling as Robust Semantic Priors.” arXiv preprint arXiv:2608.21837 (2026).</li>
   <li>&thinsp;J. Chen, et al. “FLM: Frequency-Aware Language Models for Generative Image Compression.” arXiv preprint arXiv:2608.28687 (2026).</li>
@@ -317,6 +318,7 @@ My research interest includes neural machine translation and computer vision. I 
   <li>&thinsp;K. Wu, et al. “Corrupted Bitstream Semantic Understanding by Adaptive-modal Large Manguage Models“,” Pattern Recognition, (2026).</li>
   <li>&thinsp;F. Li, et al. “ByteAction: Learning from Corrupted Image Bitstreams for Action Recognition”, in Applied Soft Computing, 2026.</li>
   <li>&thinsp;F. Li, et al. “Bitstream Action Recognition is Byte Modeling.” arXiv preprint arXiv:2608.15695 (2026).</li>
+  <li>&thinsp;F. Li, et al. “BiNar: Bitstream Native Restorer for Bitstream-corrupted Image Restoration.” arXiv preprint arXiv:2610.24094 (2026).</li>  
   <li>&thinsp;X. Hu, et al. “AesCanvas: A Large-Scale Dataset and Benchmark for Aesthetic Critique and Contextual Suitability.” arXiv preprint arXiv:2608.26713v1 (2026).</li>
   <li>&thinsp;C. Huang, et al. “Towards Bitstream-corrupted Harsh Visual Understanding: Through Bitstream Language Modeling as Robust Semantic Priors.” arXiv preprint arXiv:2608.21837 (2026).</li>
   <li>&thinsp;J. Chen, et al. “FLM: Frequency-Aware Language Models for Generative Image Compression.” arXiv preprint arXiv:2608.28687 (2026).</li>
